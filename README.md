@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+If you're here to check out my work, please bare with me.  I'll have everything set up by the end of the week!
+
+
+
 <!--
 **jdcbautista/jdcbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
