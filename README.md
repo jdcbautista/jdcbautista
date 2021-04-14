@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you're looking for more info on my Spotify or Truth of Dare projects, I'll have everything up soon in a bit.  In the mean time, feel free to check out the repo for either project below.
+If you're looking for more info on my Spotify or Truth of Dare projects, I'll have some video clips uploaded on my github page soon.  In the mean time, feel free to check out the repo for either project below.
 
 
 
