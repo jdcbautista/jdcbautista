@@ -1,9 +1,4 @@
-### Hi there 👋
-
-If you're looking for more info on my Spotify or Truth of Dare projects, I have some video clips uploaded on my github portfolio: https://jdcbautista.github.io/ .  In the mean time, feel free to check out the repo for either project below.
-
-May 19th, 2021:
-My portfolio @ https://juliusbautista.com will be down for up to 72 hours while I switch hosting providers.  You can view my web portfolio (in progress) @ "https://devfolio-75dda.web.app/" in the meantime.  Cheers!
+### Sup 👋
 
 <!--
 **jdcbautista/jdcbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
