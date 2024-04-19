@@ -6,15 +6,15 @@
 
 ---
 
-<p align="center">The story of my journey as a programmer is somewhat off the beaten path. After serving in the USMC as an electrical engineer, I pivoted into studying studio arts and art history as an undergrad.  Joining an artist collective immediately afterwards, I learned to promote other artists through web design and marketing campaigns, before venturing off on my own to become an artist full time.</p>
+<p align="left">The story of my journey as a programmer is somewhat off the beaten path. After serving in the USMC as an electrical engineer, I pivoted into studying studio arts and art history as an undergrad.  Joining an artist collective immediately afterwards, I learned to promote other artists through web design and marketing campaigns, before venturing off on my own to become an artist full time.</p>
 
-<p align="center">After building up several bodies of work throughout multiple solo and group exhibitions, my art began to draw the attention of larger organizations like the National Institute of Health and Economic Club of Chicago.  My expanding network eventually came to include tech companies and startups like Packback Inc., Acquirent, Regimen Inc, and StruxCo.</p>
+<p align="left">After building up several bodies of work throughout multiple solo and group exhibitions, my art began to draw the attention of larger organizations like the National Institute of Health and Economic Club of Chicago.  My expanding network eventually came to include tech companies and startups like Packback Inc., Acquirent, Regimen Inc, and StruxCo.</p>
 
-<p align="center">Experiencing tech culture reignited my interests in web design and motivated my desire to further my education.  This led me to studying Full Stack Applications at Code Platoon, and to the role of Site Reliability Engineer at Enova International.</p>
+<p align="left">Experiencing tech culture reignited my interests in web design and motivated my desire to further my education.  This led me to studying Full Stack Applications at Code Platoon, and to the role of Site Reliability Engineer at Enova International.</p>
 
-<p align="center">In my spare time, I like to prototype web applications using Typescript and React, as well as prototyping console games in Unity & C#.  I dream to one day run my own development studio specializing in visual storytelling.</p>
+<p align="left">In my spare time, I like to prototype web applications using Typescript and React, as well as prototyping console games in Unity & C#.  I dream to one day run my own development studio specializing in visual storytelling.</p>
 
-<p align="center">The best is yet to come, and I'm working quietly and diligently towards that greater future. </p>
+<p align="left">The best is yet to come, and I'm working quietly and diligently towards that greater future. </p>
 
 ---
 
