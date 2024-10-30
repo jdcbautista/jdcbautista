@@ -1,8 +1,27 @@
 # <h1 align="center">Sup 👋.  I'm [Julius](https://juliusbautista.com/)...</h1>
 
-### <h3 align="center">...Filipino-American USMC veteran, programmer, visual artist, and educator...</h3>
+### <p align="center">...Filipino-American USMC veteran,<br>programmer, visual artist, and educator...</p>
 
-## <h2 align="center">...and I'm passionate about storytelling, education and examining how our experiences impact our lives.</h2>
+### <p align="center">...and I'm passionate about storytelling, education<br>and examining how our experiences impact our lives.</p>
+
+---
+
+<p align="center">
+<img src="./image.png" height="50%" style="width: 50%; height: 50%;">
+</p>
+
+
+---
+
+### <h3 align="center">Currently, I am a:</h3>
+
+### <p align="center"> Site Reliability Engineer @ Enova International <br> Lead Dev Ops Instructor @ Code Platoon</p>
+
+## <h2 align="center" >...and doing what I can to advocate for and promote<br>DevOps culture & practices despite the uphill battle :)  </h2>
+
+<p align="center">
+<img src="./image.png" height="50%" style="width: 50%; height: 50%;">
+</p>
 
 ---
 
@@ -10,7 +29,7 @@
 ### <h3 align="center">Let's connect on [LinkedIn](https://www.linkedin.com/in/juliusdcbautista/).</h3>
 
 ---
-### <h3 align="center">Currently...</h3>
+### <h3 align="center">Also Currently...</h3>
 
 ---
 <!--
@@ -37,7 +56,7 @@ Here are some ideas to get you started:
 | <sub>Blonde Redhead</sub> | <sub>Akira</sub> | <sub>Law and Order</sub> | <sub>Becoming Nobody</sub> |
 |                       |                        |                        |                        |
 | 📖 **Favorite Fiction Books** 📖 | 🍹 **Favorite Drinks** 🍹 | 🍕 **Favorite Foods** 🍕 | 🏃‍♂️ **Favorite Activities** 🏃‍♂️ |
-| <sub>The Unconsoled</sub> | <sub>Whiskey on the rocks</sub> | <sub>Deep dish pizza</sub> | <sub>Long runs</sub> |
-| <sub>Never Let Me Go</sub> | <sub>Gin & club soda</sub> | <sub>Sticky white rice</sub> | <sub>Dive bars</sub> |
-| <sub>1984</sub> | <sub>Guinness Draught</sub> | <sub>Steak tacos</sub> | <sub>Art galleries & museums</sub> |
+| <sub>The Unconsoled</sub> | <sub>Whiskey on the rocks</sub> | <sub>Tamarind Stew with sticky white rice</sub> | <sub>Long runs</sub> |
+| <sub>Never Let Me Go</sub> | <sub>Gin & club soda</sub> | <sub>Deep dish pizza</sub> | <sub>Dive bars</sub> |
+| <sub>1984</sub> | <sub>Guinness Draught</sub> | <sub>Steak tacos</sub> | <sub>Art shows, galleries & museums</sub> |
 
