@@ -6,13 +6,6 @@
 
 ---
 
-<p align="center">
-<img src="./image.png" height="50%" style="width: 50%; height: 50%;">
-</p>
-
-
----
-
 ### <h3 align="center">Currently, I am a:</h3>
 
 ### <p align="center"> Site Reliability Engineer @ Enova International <br> Lead Dev Ops Instructor @ Code Platoon</p>
@@ -20,7 +13,7 @@
 ## <h2 align="center" >...and doing what I can to advocate for and promote<br>DevOps culture & practices despite the uphill battle :)  </h2>
 
 <p align="center">
-<img src="./image.png" height="50%" style="width: 50%; height: 50%;">
+<img src="./public/image.png" height="50%" style="width: 50%; height: 50%;">
 </p>
 
 ---
@@ -29,23 +22,17 @@
 ### <h3 align="center">Let's connect on [LinkedIn](https://www.linkedin.com/in/juliusdcbautista/).</h3>
 
 ---
-### <h3 align="center">Also Currently...</h3>
+### <h3 align="center">Random selection of work:</h3>
 
 ---
-<!--
-**jdcbautista/jdcbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="./public/blender.png" height="200px">
+<img src="./public/1713_FromInfinityToInnovation.jpg" height="200px">
+<img src="./public/OpsAutoRunner.png" height="200px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 ### <h3 align="center">A Little More About Me, Recreationally</h3>
 
