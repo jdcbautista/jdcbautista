@@ -5,6 +5,7 @@
 ### <p align="center">...and I'm passionate about storytelling, education<br>and examining how our experiences impact our lives.</p>
 
 ---
+<!-- your comment
 
 ### <h3 align="center">Currently, I am a:</h3>
 
@@ -17,11 +18,13 @@
 </p>
 
 ---
-
+ -->
+ 
 ### <h3 align="center">Need a developer, instructor or designer?</h3>
 ### <h3 align="center">Let's connect on [LinkedIn](https://www.linkedin.com/in/juliusdcbautista/).</h3>
 
 ---
+<!-- your comment
 ### <h3 align="center">Random selection of work:</h3>
 
 ---
@@ -33,7 +36,7 @@
 </p>
 
 ---
-
+-->
 ### <h3 align="center">A Little More About Me, Recreationally</h3>
 
 | 🎵 **Favorite Music** 🎵| 🎬 **Favorite Films** 🎬 | 📺 **Favorite TV Shows** 📺 | 📚 **Favorite Non-fiction Books** 📚 |
