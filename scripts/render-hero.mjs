@@ -8,7 +8,7 @@ import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { loadJSON, theme, esc, wrap, ROOT } from "./lib/svg.mjs";
 
-const W = 900, H = 380;
+const W = 900, H = 415;
 const t = theme();
 const profile = loadJSON("config/profile.json");
 const { frames } = loadJSON("config/hero.json");

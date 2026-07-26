@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.svg?v=3" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.svg?v=dev" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
@@ -28,18 +28,18 @@
 <!-- MODULE:signal -->
 <h3 align="center">◢ Signal</h3>
 <p align="center">
-  <img src="generated/feed.svg?v=3" alt="Recent signal" width="100%" />
+  <img src="generated/feed.svg?v=dev" alt="Recent signal" width="100%" />
 </p>
 
 <!-- MODULE:toolwall -->
 <h3 align="center">◢ Tool wall</h3>
 <p align="center">
-  <img src="generated/tool-wall.svg?v=3" alt="Tool wall" width="100%" />
+  <img src="generated/tool-wall.svg?v=dev" alt="Tool wall" width="100%" />
 </p>
 
 <!-- MODULE:stats -->
 <p align="center">
-  <img src="generated/stats.svg?v=3" alt="By the numbers" width="100%" />
+  <img src="generated/stats.svg?v=dev" alt="By the numbers" width="100%" />
 </p>
 
 <p align="center"><sub>◷ Auto-updated daily by GitHub Actions · self-rendered SVG, no third-party widgets</sub></p>
