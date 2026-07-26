@@ -1,31 +1,15 @@
 {
-  "title": "TOOL WALL",
-  "columns": 6,
-  "note": "Ordered by resume Core Expertise: AI & agents, cloud & infra, observability, delivery, languages. Add a tool: append here + drop assets/tools/<image>.",
+  "title": "TOOLKIT",
+  "columns": 4,
+  "note": "A small, curated accent — not a full inventory. The essence of the current stack.",
   "tools": [
-    { "name": "Anthropic", "image": "anthropic.svg", "category": "ai", "url": "https://anthropic.com/" },
-    { "name": "LangChain", "image": "langchain.svg", "category": "ai", "url": "https://langchain.com/" },
-    { "name": "MCP", "image": "mcp.svg", "category": "ai", "url": "https://modelcontextprotocol.io/" },
-    { "name": "Ollama", "image": "ollama.svg", "category": "ai", "url": "https://ollama.com/" },
-    { "name": "Neo4j", "image": "neo4j.svg", "category": "ai", "url": "https://neo4j.com/" },
-    { "name": "Graphiti", "image": "graphiti.svg", "category": "ai", "url": "https://github.com/getzep/graphiti" },
+    { "name": "Python", "image": "python.svg", "category": "lang", "url": "https://python.org/" },
+    { "name": "Go", "image": "go.svg", "category": "lang", "url": "https://go.dev/" },
     { "name": "AWS", "image": "aws.svg", "category": "cloud", "url": "https://aws.amazon.com/" },
-    { "name": "Google Cloud", "image": "gcp.svg", "category": "cloud", "url": "https://cloud.google.com/" },
     { "name": "Kubernetes", "image": "kubernetes.svg", "category": "infra", "url": "https://kubernetes.io/" },
     { "name": "Terraform", "image": "terraform.svg", "category": "infra", "url": "https://terraform.io/" },
-    { "name": "Docker", "image": "docker.svg", "category": "infra", "url": "https://docker.com/" },
-    { "name": "Ansible", "image": "ansible.svg", "category": "infra", "url": "https://ansible.com/" },
-    { "name": "Prometheus", "image": "prometheus.svg", "category": "obs", "url": "https://prometheus.io/" },
-    { "name": "Grafana", "image": "grafana.svg", "category": "obs", "url": "https://grafana.com/" },
     { "name": "OpenTelemetry", "image": "otel.svg", "category": "obs", "url": "https://opentelemetry.io/" },
-    { "name": "Loki", "image": "loki.svg", "category": "obs", "url": "https://grafana.com/oss/loki/" },
-    { "name": "Tempo", "image": "tempo.svg", "category": "obs", "url": "https://grafana.com/oss/tempo/" },
-    { "name": "Mimir", "image": "mimir.svg", "category": "obs", "url": "https://grafana.com/oss/mimir/" },
-    { "name": "Datadog", "image": "datadog.svg", "category": "obs", "url": "https://datadoghq.com/" },
-    { "name": "Splunk", "image": "splunk.svg", "category": "obs", "url": "https://splunk.com/" },
-    { "name": "GitHub Actions", "image": "actions.svg", "category": "ci", "url": "https://github.com/features/actions" },
-    { "name": "CircleCI", "image": "circleci.svg", "category": "ci", "url": "https://circleci.com/" },
-    { "name": "Python", "image": "python.svg", "category": "lang", "url": "https://python.org/" },
-    { "name": "Go", "image": "go.svg", "category": "lang", "url": "https://go.dev/" }
+    { "name": "Grafana", "image": "grafana.svg", "category": "obs", "url": "https://grafana.com/" },
+    { "name": "Ollama", "image": "ollama.svg", "category": "ai", "url": "https://ollama.com/" }
   ]
 }

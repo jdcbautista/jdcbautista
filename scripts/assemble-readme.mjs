@@ -1,6 +1,8 @@
-// Assembles README.md from config + the generated SVG fragments.
-// This is the final step of the main workflow: every module writes its SVG,
-// then this stitches them into the profile. Editing config/ changes the README.
+// Assembles README.md from config + the generated hero/tool-wall.
+// Lean by intent: the hero, a two-line identity, links, and one small accent
+// of capability (the tool wall). No feed, no stats grid — the essence, not a
+// barrage. The feed/stats modules still exist in the machine; they're just not
+// surfaced here.
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { loadJSON, ROOT } from "./lib/svg.mjs";
@@ -8,7 +10,7 @@ import { loadJSON, ROOT } from "./lib/svg.mjs";
 const p = loadJSON("config/profile.json");
 const pages = p.pagesUrl;
 
-// Cache-bust so GitHub's image proxy re-fetches updated SVGs each run.
+// Cache-bust so GitHub's image proxy re-fetches updated assets each run.
 const stamp = process.env.BUILD_STAMP || "dev";
 const img = (path, alt) => `generated/${path}?v=${stamp}" alt="${alt}`;
 
@@ -32,7 +34,7 @@ ${taglineLines}
 </p>
 
 <p align="center">
-  <a href="${pages}"><strong>▶ ENTER THE SITE</strong></a>
+  <a href="${pages}"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
   <a href="${p.links.linkedin}">LinkedIn</a>
   &nbsp;·&nbsp;
@@ -41,25 +43,12 @@ ${taglineLines}
   <a href="${p.links.email}">Email</a>
 </p>
 
-<!-- MODULE:signal -->
-<h3 align="center">◢ Signal</h3>
-<p align="center">
-  <img src="${img("feed.svg", "Recent signal")}" width="100%" />
-</p>
+<br>
 
-<!-- MODULE:toolwall -->
-<h3 align="center">◢ Tool wall</h3>
 <p align="center">
-  <img src="${img("tool-wall.svg", "Tool wall")}" width="100%" />
+  <img src="${img("tool-wall.svg", "Toolkit")}" width="82%" />
 </p>
-
-<!-- MODULE:stats -->
-<p align="center">
-  <img src="${img("stats.svg", "By the numbers")}" width="100%" />
-</p>
-
-<p align="center"><sub>◷ Auto-updated daily by GitHub Actions · self-rendered SVG, no third-party widgets</sub></p>
 `;
 
 writeFileSync(join(ROOT, "README.md"), md);
-console.log("assembled README.md");
+console.log("assembled README.md (lean)");
