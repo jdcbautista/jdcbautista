@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=dev" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=11" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
@@ -28,5 +28,5 @@
 <br>
 
 <p align="center">
-  <img src="generated/tool-wall.svg?v=dev" alt="Toolkit" width="82%" />
+  <img src="generated/tool-wall.svg?v=11" alt="Toolkit" width="82%" />
 </p>
