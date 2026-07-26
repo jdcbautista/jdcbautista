@@ -1,0 +1,19 @@
+{
+  "title": "TOOL WALL",
+  "columns": 6,
+  "note": "Add a tool: append an object here + drop an image at assets/tools/<image>. The tool-wall workflow regenerates generated/tool-wall.svg on next run.",
+  "tools": [
+    { "name": "TypeScript", "image": "typescript.svg", "category": "lang", "url": "https://www.typescriptlang.org/" },
+    { "name": "Python", "image": "python.svg", "category": "lang", "url": "https://python.org/" },
+    { "name": "Go", "image": "go.svg", "category": "lang", "url": "https://go.dev/" },
+    { "name": "React", "image": "react.svg", "category": "frontend", "url": "https://react.dev/" },
+    { "name": "Three.js", "image": "threejs.svg", "category": "frontend", "url": "https://threejs.org/" },
+    { "name": "Node.js", "image": "node.svg", "category": "runtime", "url": "https://nodejs.org/" },
+    { "name": "AWS", "image": "aws.svg", "category": "cloud", "url": "https://aws.amazon.com/" },
+    { "name": "Terraform", "image": "terraform.svg", "category": "infra", "url": "https://terraform.io/" },
+    { "name": "Docker", "image": "docker.svg", "category": "infra", "url": "https://docker.com/" },
+    { "name": "Kubernetes", "image": "kubernetes.svg", "category": "infra", "url": "https://kubernetes.io/" },
+    { "name": "GitHub Actions", "image": "actions.svg", "category": "ci", "url": "https://github.com/features/actions" },
+    { "name": "Neo4j", "image": "neo4j.svg", "category": "data", "url": "https://neo4j.com/" }
+  ]
+}

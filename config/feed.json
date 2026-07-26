@@ -1,0 +1,12 @@
+{
+  "title": "SIGNAL",
+  "maxVisible": 5,
+  "note": "The feed is a stack. New items are prepended (scripts/push-feed.mjs). When length > maxVisible, the oldest items pop into archive/feed-archive.json.",
+  "items": [
+    { "date": "2026-07-26", "tag": "build", "text": "Rebuilt this profile as a config-driven, self-updating machine." },
+    { "date": "2026-07-24", "tag": "ship", "text": "Modular Ollama-in-Actions review/apply pipeline running green." },
+    { "date": "2026-07-20", "tag": "learn", "text": "Wiring Graphiti + Neo4j knowledge graphs into an agent stack." },
+    { "date": "2026-07-15", "tag": "teach", "text": "SCORM prep-course modules 16-20 shipped to students." },
+    { "date": "2026-07-08", "tag": "build", "text": "Portfolio moving to React 19 + Three.js on GitHub Pages." }
+  ]
+}

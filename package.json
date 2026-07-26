@@ -1,0 +1,16 @@
+{
+  "name": "jdcbautista-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Config-driven, self-updating GitHub profile. Edit config/, let Actions render.",
+  "scripts": {
+    "build": "node scripts/render-all.mjs",
+    "hero": "node scripts/render-hero.mjs",
+    "toolwall": "node scripts/render-tool-wall.mjs",
+    "feed": "node scripts/render-feed.mjs",
+    "stats": "node scripts/render-stats.mjs",
+    "readme": "node scripts/assemble-readme.mjs",
+    "push": "node scripts/push-feed.mjs"
+  }
+}

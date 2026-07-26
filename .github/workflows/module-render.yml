@@ -1,0 +1,47 @@
+# Reusable module workflow. The main dispatcher calls this once per module it
+# decides to run. Each call renders one fragment and uploads it as an artifact;
+# the dispatcher's assemble job stitches them into the README.
+name: module-render
+
+on:
+  workflow_call:
+    inputs:
+      module:
+        description: "hero | tool-wall | feed | stats"
+        required: true
+        type: string
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # stats pulls real numbers from the GitHub API; other modules are pure.
+      - name: Collect stats (stats module only)
+        if: inputs.module == 'stats'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          user="${{ github.repository_owner }}"
+          repos=$(gh api "users/$user" --jq '.public_repos')
+          followers=$(gh api "users/$user" --jq '.followers')
+          stars=$(gh api "users/$user/repos?per_page=100" --jq '[.[].stargazers_count] | add // 0')
+          {
+            echo "STAT_REPOS=$repos"
+            echo "STAT_FOLLOWERS=$followers"
+            echo "STAT_STARS=$stars"
+          } >> "$GITHUB_ENV"
+
+      - name: Render ${{ inputs.module }}
+        run: node "scripts/render-${{ inputs.module }}.mjs"
+
+      - name: Upload fragment
+        uses: actions/upload-artifact@v4
+        with:
+          name: frag-${{ inputs.module }}
+          path: generated/
+          retention-days: 1

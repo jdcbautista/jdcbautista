@@ -1,0 +1,151 @@
+# Main dispatcher. Runs daily, on manual dispatch, and on config/script pushes.
+# The `route` job is the switch: it decides which module workflows to trigger,
+# they render in parallel, and `assemble` stitches the README and commits once.
+#
+#   route (switch) ─┬─ hero        (module-render, if run_hero)
+#                   ├─ tool-wall   (module-render, if run_toolwall)
+#                   ├─ feed        (module-render, if run_feed)
+#                   └─ stats       (module-render, if run_stats)
+#                            ↓
+#                        assemble → commit README + generated/*.svg
+name: profile-update
+
+on:
+  schedule:
+    - cron: "17 13 * * *" # daily at 13:17 UTC
+  workflow_dispatch:
+    inputs:
+      module:
+        description: "Which module to run"
+        default: all
+        type: choice
+        options: [all, hero, tool-wall, feed, stats]
+  push:
+    branches: [main]
+    paths: # note: README.md + generated/** are intentionally excluded to avoid loops
+      - "config/**"
+      - "scripts/**"
+      - "assets/**"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  # ---- THE SWITCH -----------------------------------------------------------
+  route:
+    runs-on: ubuntu-latest
+    outputs:
+      run_hero: ${{ steps.sw.outputs.run_hero }}
+      run_toolwall: ${{ steps.sw.outputs.run_toolwall }}
+      run_feed: ${{ steps.sw.outputs.run_feed }}
+      run_stats: ${{ steps.sw.outputs.run_stats }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - id: sw
+        env:
+          EVENT: ${{ github.event_name }}
+          PICK: ${{ github.event.inputs.module }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          hero=false; toolwall=false; feed=false; stats=false
+          case "$EVENT" in
+            schedule)
+              hero=true; toolwall=true; feed=true; stats=true ;;
+            workflow_dispatch)
+              case "$PICK" in
+                all)       hero=true; toolwall=true; feed=true; stats=true ;;
+                hero)      hero=true ;;
+                tool-wall) toolwall=true ;;
+                feed)      feed=true ;;
+                stats)     stats=true ;;
+              esac ;;
+            push)
+              # Map changed paths to affected modules; fall back to all.
+              if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+                hero=true; toolwall=true; feed=true; stats=true
+              else
+                changed=$(git diff --name-only "$BEFORE" "${{ github.sha }}" || echo "")
+                echo "$changed" | grep -qE 'config/hero|render-hero|profile.json'      && hero=true
+                echo "$changed" | grep -qE 'config/tools|render-tool-wall|assets/tools' && toolwall=true
+                echo "$changed" | grep -qE 'config/feed|render-feed'                    && feed=true
+                echo "$changed" | grep -qE 'render-stats'                               && stats=true
+                # scripts/lib or workflow changes -> rebuild everything
+                echo "$changed" | grep -qE 'scripts/lib|assemble-readme|\.github/'      && { hero=true; toolwall=true; feed=true; stats=true; }
+              fi ;;
+          esac
+          {
+            echo "run_hero=$hero"
+            echo "run_toolwall=$toolwall"
+            echo "run_feed=$feed"
+            echo "run_stats=$stats"
+          } >> "$GITHUB_OUTPUT"
+          echo "switch -> hero=$hero toolwall=$toolwall feed=$feed stats=$stats"
+
+  # ---- MODULE FAN-OUT (each is a call into the reusable workflow) ------------
+  hero:
+    needs: route
+    if: needs.route.outputs.run_hero == 'true'
+    uses: ./.github/workflows/module-render.yml
+    with: { module: hero }
+
+  tool-wall:
+    needs: route
+    if: needs.route.outputs.run_toolwall == 'true'
+    uses: ./.github/workflows/module-render.yml
+    with: { module: tool-wall }
+
+  feed:
+    needs: route
+    if: needs.route.outputs.run_feed == 'true'
+    uses: ./.github/workflows/module-render.yml
+    with: { module: feed }
+
+  stats:
+    needs: route
+    if: needs.route.outputs.run_stats == 'true'
+    uses: ./.github/workflows/module-render.yml
+    with: { module: stats }
+
+  # ---- STITCH + COMMIT ------------------------------------------------------
+  assemble:
+    needs: [route, hero, tool-wall, feed, stats]
+    if: always() && needs.route.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      # Pull down whichever fragments were rendered this run; the rest keep the
+      # last-committed SVGs already present from checkout.
+      - uses: actions/download-artifact@v4
+        with:
+          path: _frags
+          merge-multiple: true
+        continue-on-error: true
+      - name: Apply fragments
+        run: |
+          if [ -d _frags ]; then cp -f _frags/*.svg generated/ 2>/dev/null || true; fi
+          rm -rf _frags
+      - name: Assemble README
+        env:
+          BUILD_STAMP: ${{ github.run_number }}
+        run: node scripts/assemble-readme.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md generated/
+          if git diff --staged --quiet; then
+            echo "nothing to update"
+          else
+            git commit -m "chore: profile-update [skip ci]"
+            git push
+          fi

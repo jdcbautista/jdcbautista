@@ -1,0 +1,10 @@
+{
+  "note": "Each frame is one panel of the auto-rotating hero carousel (SMIL-animated SVG). secondsPerFrame controls dwell time. The whole hero links to pagesUrl.",
+  "secondsPerFrame": 4,
+  "frames": [
+    { "kicker": "SRE / DEVOPS", "headline": "I build infra that stays boring in production.", "sub": "Terraform · AWS · GitHub Actions · observability" },
+    { "kicker": "APPLIED AI", "headline": "Agents, knowledge graphs, and pipelines that survive real constraints.", "sub": "Ollama · Graphiti · Neo4j · LangGraph" },
+    { "kicker": "EDUCATOR", "headline": "Lead DevOps instructor — I turn students into shippers.", "sub": "Code Platoon · curriculum · SCORM" },
+    { "kicker": "VISUAL ARTIST", "headline": "USMC veteran who codes like he composes.", "sub": "Blender · generative · story-driven" }
+  ]
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="GitHub stats">
+  <rect x="0" y="0" width="900" height="150" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="36" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="16" letter-spacing="5" font-weight="700">BY THE NUMBERS</text>
+  
+  <g>
+    <rect x="24" y="52" width="205.5" height="72" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="126.75" y="94" text-anchor="middle" fill="#e6edf3" font-family="Georgia,serif" font-size="30" font-weight="700">48</text>
+    <text x="126.75" y="114" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">public repos</text>
+  </g>
+  <g>
+    <rect x="239.5" y="52" width="205.5" height="72" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="342.25" y="94" text-anchor="middle" fill="#e6edf3" font-family="Georgia,serif" font-size="30" font-weight="700">0</text>
+    <text x="342.25" y="114" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">followers</text>
+  </g>
+  <g>
+    <rect x="455" y="52" width="205.5" height="72" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="557.75" y="94" text-anchor="middle" fill="#e6edf3" font-family="Georgia,serif" font-size="30" font-weight="700">0</text>
+    <text x="557.75" y="114" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">stars earned</text>
+  </g>
+  <g>
+    <rect x="670.5" y="52" width="205.5" height="72" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="773.25" y="94" text-anchor="middle" fill="#e6edf3" font-family="Georgia,serif" font-size="30" font-weight="700">0</text>
+    <text x="773.25" y="114" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">commits (yr)</text>
+  </g>
+</svg>

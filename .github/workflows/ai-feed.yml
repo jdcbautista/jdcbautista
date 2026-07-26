@@ -1,0 +1,77 @@
+# Hybrid AI feed push (manual). Give it a rough note; a small local Ollama model
+# polishes it into a one-liner, pushes it onto the signal stack (overflow auto-
+# archives), re-renders the feed, and commits. Kept off the daily schedule so
+# the hot path stays fast and model-free.
+name: ai-feed
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "build | ship | learn | teach | note"
+        default: build
+        type: choice
+        options: [build, ship, learn, teach, note]
+      note:
+        description: "Rough note — the model will tighten it"
+        required: true
+        type: string
+      use_ai:
+        description: "Polish with Ollama? (off = use note as-is)"
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+env:
+  OLLAMA_MODEL: qwen2.5:0.5b
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Start Ollama
+        if: ${{ inputs.use_ai }}
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve & sleep 5
+          ollama pull "$OLLAMA_MODEL"
+
+      - name: Polish note
+        id: polish
+        run: |
+          if [ "${{ inputs.use_ai }}" = "true" ]; then
+            line=$(node scripts/ai-polish.mjs "${{ inputs.note }}")
+          else
+            line="${{ inputs.note }}"
+          fi
+          echo "line<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$line"     >> "$GITHUB_OUTPUT"
+          echo "EOF"        >> "$GITHUB_OUTPUT"
+          echo "feed line: $line"
+
+      - name: Push onto the stack + re-render
+        env:
+          BUILD_STAMP: ${{ github.run_number }}
+        run: |
+          node scripts/push-feed.mjs --tag "${{ inputs.tag }}" --text "${{ steps.polish.outputs.line }}"
+          node scripts/render-feed.mjs
+          node scripts/assemble-readme.mjs
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/feed.json archive/feed-archive.json generated/feed.svg README.md
+          git commit -m "feed: ${{ inputs.tag }} — new signal [skip ci]" || echo "no change"
+          git push

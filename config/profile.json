@@ -1,0 +1,26 @@
+{
+  "name": "Julius",
+  "fullName": "Julius Bautista",
+  "site": "https://juliusbautista.com/",
+  "pagesUrl": "https://jdcbautista.github.io/portfolio/",
+  "tagline": [
+    "Filipino-American USMC veteran.",
+    "Site Reliability Engineer @ Enova.",
+    "DevOps instructor. Visual artist.",
+    "I build infra that stays boring in prod."
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/juliusdcbautista/",
+    "website": "https://juliusbautista.com/",
+    "email": "mailto:hello@juliusbautista.com"
+  },
+  "theme": {
+    "bg": "#0d1117",
+    "panel": "#161b22",
+    "line": "#30363d",
+    "text": "#e6edf3",
+    "muted": "#8b949e",
+    "accent": "#e0533d",
+    "accent2": "#4c8bf5"
+  }
+}
