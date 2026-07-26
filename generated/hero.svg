@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Julius Bautista — rotating intro">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-label="Julius Bautista — I build infra that stays boring in production.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#161b22"/>
@@ -9,63 +9,40 @@
       <stop offset="1" stop-color="#4c8bf5"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="900" height="300" rx="16" fill="url(#bg)" stroke="#30363d"/>
-  <rect x="0" y="0" width="6" height="300" rx="3" fill="url(#edge)"/>
+  <rect x="0" y="0" width="900" height="380" rx="16" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="0" y="0" width="6" height="380" rx="3" fill="url(#edge)"/>
+
+  <text x="40" y="64" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="14" letter-spacing="4" font-weight="700">JULIUS BAUTISTA</text>
+  <text x="40" y="86" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="2">SRE · APPLIED AI · EDUCATOR · ARTIST</text>
+
+  <text x="38" y="140" fill="#e6edf3" font-family="Georgia,serif" font-size="38" font-weight="600">I build infra that stays</text><text x="38" y="182" fill="#e6edf3" font-family="Georgia,serif" font-size="38" font-weight="600">boring in production.</text>
+
   
-  <g opacity="0">
-    <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
-             keyTimes="0.0000;0.0167;0.0333;0.0500;0.0667;0.0833;0.1000;0.1167;0.1333;0.1500;0.1667;0.1833;0.2000;0.2167;0.2333;0.2500;0.2667;0.2833;0.3000;0.3167;0.3333;0.3500;0.3667;0.3833;0.4000;0.4167;0.4333;0.4500;0.4667;0.4833;0.5000;0.5167;0.5333;0.5500;0.5667;0.5833;0.6000;0.6167;0.6333;0.6500;0.6667;0.6833;0.7000;0.7167;0.7333;0.7500;0.7667;0.7833;0.8000;0.8167;0.8333;0.8500;0.8667;0.8833;0.9000;0.9167;0.9333;0.9500;0.9667;0.9833;1.0000" values="1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;0.619;0.238;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.238;0.619;1.000" />
-    <text x="48" y="90" fill="#e0533d" font-family="'JetBrains Mono',monospace"
-          font-size="16" letter-spacing="4" font-weight="700">SRE / DEVOPS</text>
-    <text x="46" y="140" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">I build infra that stays boring in</text><text x="46" y="180" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">production.</text>
-    <text x="48" y="244" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="14">Terraform · AWS · GitHub Actions · observability</text>
+  <g>
+    <rect x="40" y="210" width="400" height="66" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="40" y="210" width="4" height="66" rx="2" fill="#e0533d"/>
+    <text x="60" y="237" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="2" font-weight="700">SRE / DEVOPS</text>
+    <text x="60" y="258" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">Terraform · AWS · GitHub Actions · observability</text>
   </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
-             keyTimes="0.0000;0.0167;0.0333;0.0500;0.0667;0.0833;0.1000;0.1167;0.1333;0.1500;0.1667;0.1833;0.2000;0.2167;0.2333;0.2500;0.2667;0.2833;0.3000;0.3167;0.3333;0.3500;0.3667;0.3833;0.4000;0.4167;0.4333;0.4500;0.4667;0.4833;0.5000;0.5167;0.5333;0.5500;0.5667;0.5833;0.6000;0.6167;0.6333;0.6500;0.6667;0.6833;0.7000;0.7167;0.7333;0.7500;0.7667;0.7833;0.8000;0.8167;0.8333;0.8500;0.8667;0.8833;0.9000;0.9167;0.9333;0.9500;0.9667;0.9833;1.0000" values="0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.238;0.619;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;0.619;0.238;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000" />
-    <text x="48" y="90" fill="#e0533d" font-family="'JetBrains Mono',monospace"
-          font-size="16" letter-spacing="4" font-weight="700">APPLIED AI</text>
-    <text x="46" y="140" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">Agents, knowledge graphs, and</text><text x="46" y="180" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">pipelines that survive real</text><text x="46" y="220" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">constraints.</text>
-    <text x="48" y="284" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="14">Ollama · Graphiti · Neo4j · LangGraph</text>
+  <g>
+    <rect x="460" y="210" width="400" height="66" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="460" y="210" width="4" height="66" rx="2" fill="#4c8bf5"/>
+    <text x="480" y="237" fill="#4c8bf5" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="2" font-weight="700">APPLIED AI</text>
+    <text x="480" y="258" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">Ollama · Graphiti · Neo4j · LangGraph</text>
   </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
-             keyTimes="0.0000;0.0167;0.0333;0.0500;0.0667;0.0833;0.1000;0.1167;0.1333;0.1500;0.1667;0.1833;0.2000;0.2167;0.2333;0.2500;0.2667;0.2833;0.3000;0.3167;0.3333;0.3500;0.3667;0.3833;0.4000;0.4167;0.4333;0.4500;0.4667;0.4833;0.5000;0.5167;0.5333;0.5500;0.5667;0.5833;0.6000;0.6167;0.6333;0.6500;0.6667;0.6833;0.7000;0.7167;0.7333;0.7500;0.7667;0.7833;0.8000;0.8167;0.8333;0.8500;0.8667;0.8833;0.9000;0.9167;0.9333;0.9500;0.9667;0.9833;1.0000" values="0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.238;0.619;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;0.619;0.238;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000" />
-    <text x="48" y="90" fill="#e0533d" font-family="'JetBrains Mono',monospace"
-          font-size="16" letter-spacing="4" font-weight="700">EDUCATOR</text>
-    <text x="46" y="140" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">Lead DevOps instructor — I turn</text><text x="46" y="180" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">students into shippers.</text>
-    <text x="48" y="244" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="14">Code Platoon · curriculum · SCORM</text>
+  <g>
+    <rect x="40" y="296" width="400" height="66" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="40" y="296" width="4" height="66" rx="2" fill="#3fb950"/>
+    <text x="60" y="323" fill="#3fb950" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="2" font-weight="700">EDUCATOR</text>
+    <text x="60" y="344" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">Code Platoon · curriculum · SCORM</text>
   </g>
-  <g opacity="0">
-    <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
-             keyTimes="0.0000;0.0167;0.0333;0.0500;0.0667;0.0833;0.1000;0.1167;0.1333;0.1500;0.1667;0.1833;0.2000;0.2167;0.2333;0.2500;0.2667;0.2833;0.3000;0.3167;0.3333;0.3500;0.3667;0.3833;0.4000;0.4167;0.4333;0.4500;0.4667;0.4833;0.5000;0.5167;0.5333;0.5500;0.5667;0.5833;0.6000;0.6167;0.6333;0.6500;0.6667;0.6833;0.7000;0.7167;0.7333;0.7500;0.7667;0.7833;0.8000;0.8167;0.8333;0.8500;0.8667;0.8833;0.9000;0.9167;0.9333;0.9500;0.9667;0.9833;1.0000" values="1.000;0.619;0.238;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.000;0.238;0.619;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000" />
-    <text x="48" y="90" fill="#e0533d" font-family="'JetBrains Mono',monospace"
-          font-size="16" letter-spacing="4" font-weight="700">VISUAL ARTIST</text>
-    <text x="46" y="140" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">USMC veteran who codes like he</text><text x="46" y="180" fill="#e6edf3"
-          font-family="Georgia,serif" font-size="34" font-weight="600">composes.</text>
-    <text x="48" y="244" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="14">Blender · generative · story-driven</text>
+  <g>
+    <rect x="460" y="296" width="400" height="66" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="460" y="296" width="4" height="66" rx="2" fill="#a371f7"/>
+    <text x="480" y="323" fill="#a371f7" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="2" font-weight="700">VISUAL ARTIST</text>
+    <text x="480" y="344" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">Blender · generative · story-driven</text>
   </g>
-  <circle cx="794" cy="270" r="4" fill="#30363d">
-    <animate attributeName="fill" dur="16s" repeatCount="indefinite"
-      calcMode="discrete" keyTimes="0;0.250" values="#e0533d;#30363d" /></circle><circle cx="816" cy="270" r="4" fill="#30363d">
-    <animate attributeName="fill" dur="16s" repeatCount="indefinite"
-      calcMode="discrete" keyTimes="0;0.250;0.500" values="#30363d;#e0533d;#30363d" /></circle><circle cx="838" cy="270" r="4" fill="#30363d">
-    <animate attributeName="fill" dur="16s" repeatCount="indefinite"
-      calcMode="discrete" keyTimes="0;0.500;0.750" values="#30363d;#e0533d;#30363d" /></circle><circle cx="860" cy="270" r="4" fill="#30363d">
-    <animate attributeName="fill" dur="16s" repeatCount="indefinite"
-      calcMode="discrete" keyTimes="0;0.750;1.000" values="#30363d;#e0533d;#30363d" /></circle>
-  <text x="48" y="276" fill="#8b949e" font-family="'JetBrains Mono',monospace"
-        font-size="12" opacity="0.8">▶ enter the site →</text>
+
+  <text x="40" y="358" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700">▶ enter the site</text>
+  <text x="180" y="358" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="13">jdcbautista.github.io/portfolio/ →</text>
 </svg>
