@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=9" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=dev" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
 <h1 align="center">Julius Bautista</h1>
 <p align="center">
-<samp>DevOps / Site Reliability Engineer @ Enova (fintech).</samp><br><samp>Infra automation · observability · incident response.</samp><br><samp>AI agents for ops — guardrails, policy gates, audit logs.</samp><br><samp>U.S. Marine Corps veteran · Chicago.</samp>
+<samp>Site Reliability Engineer @ Enova — 170+ services, ~1.6M jobs/yr at 99.6%.</samp><br><samp>Lead AI, Cloud & DevOps instructor @ Code Platoon.</samp><br><samp>Visual artist & founder — 15 years serving clients, by design.</samp><br><samp>U.S. Marine Corps veteran · Chicago.</samp>
 </p>
 
 <p align="center">
@@ -22,24 +22,24 @@
   &nbsp;·&nbsp;
   <a href="https://juliusbautista.com/">juliusbautista.com</a>
   &nbsp;·&nbsp;
-  <a href="mailto:hello@juliusbautista.com">Email</a>
+  <a href="mailto:jdcbautista@gmail.com">Email</a>
 </p>
 
 <!-- MODULE:signal -->
 <h3 align="center">◢ Signal</h3>
 <p align="center">
-  <img src="generated/feed.svg?v=9" alt="Recent signal" width="100%" />
+  <img src="generated/feed.svg?v=dev" alt="Recent signal" width="100%" />
 </p>
 
 <!-- MODULE:toolwall -->
 <h3 align="center">◢ Tool wall</h3>
 <p align="center">
-  <img src="generated/tool-wall.svg?v=9" alt="Tool wall" width="100%" />
+  <img src="generated/tool-wall.svg?v=dev" alt="Tool wall" width="100%" />
 </p>
 
 <!-- MODULE:stats -->
 <p align="center">
-  <img src="generated/stats.svg?v=9" alt="By the numbers" width="100%" />
+  <img src="generated/stats.svg?v=dev" alt="By the numbers" width="100%" />
 </p>
 
 <p align="center"><sub>◷ Auto-updated daily by GitHub Actions · self-rendered SVG, no third-party widgets</sub></p>

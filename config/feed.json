@@ -4,10 +4,10 @@
   "keep": 12,
   "note": "The feed is a stack. New items are prepended (scripts/push-feed.mjs). When length > keep, the oldest items pop into archive/feed-archive.json.",
   "items": [
-    { "date": "2026-07-26", "tag": "build", "text": "Reusable Terraform modules + org-wide Service Level Management rollout." },
-    { "date": "2026-07-22", "tag": "ship", "text": "Cross-team pipeline lets non-eng reps ship engineer-approved fixes." },
-    { "date": "2026-07-18", "tag": "ship", "text": "Incident-support AI agent: policy gates, retries, audit logging, telemetry." },
-    { "date": "2026-07-12", "tag": "teach", "text": "SOP catalog + interactive new-hire training for internal tooling." },
-    { "date": "2026-07-06", "tag": "learn", "text": "Sharpening GitOps + OpenTelemetry patterns for platform reliability." }
+    { "date": "2026-07-26", "tag": "build", "text": "Shadow automation platform: 36 automations, ~1.6M jobs/yr at 99.6% success." },
+    { "date": "2026-07-22", "tag": "ship", "text": "Self-serve tool lets 250+ non-eng reps ship engineer fixes — hours → minutes." },
+    { "date": "2026-07-18", "tag": "build", "text": "AI control plane: shared memory, model routing, policy gates, OTel → Grafana." },
+    { "date": "2026-07-12", "tag": "teach", "text": "Lead AI/Cloud/DevOps instructor — 160+ veteran grads, 300+ live sessions." },
+    { "date": "2026-07-06", "tag": "design", "text": "Founder, Visual Arts LLC — installations for NIH, GE, Economic Club of Chicago." }
   ]
 }

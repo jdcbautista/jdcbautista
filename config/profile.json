@@ -4,15 +4,15 @@
   "site": "https://juliusbautista.com/",
   "pagesUrl": "https://jdcbautista.github.io/portfolio/",
   "tagline": [
-    "DevOps / Site Reliability Engineer @ Enova (fintech).",
-    "Infra automation · observability · incident response.",
-    "AI agents for ops — guardrails, policy gates, audit logs.",
+    "Site Reliability Engineer @ Enova — 170+ services, ~1.6M jobs/yr at 99.6%.",
+    "Lead AI, Cloud & DevOps instructor @ Code Platoon.",
+    "Visual artist & founder — 15 years serving clients, by design.",
     "U.S. Marine Corps veteran · Chicago."
   ],
   "links": {
     "linkedin": "https://www.linkedin.com/in/juliusdcbautista/",
     "website": "https://juliusbautista.com/",
-    "email": "mailto:hello@juliusbautista.com"
+    "email": "mailto:jdcbautista@gmail.com"
   },
   "theme": {
     "bg": "#0d1117",

@@ -11,7 +11,7 @@ const cfg = loadJSON("config/feed.json");
 const N = cfg.maxVisible || 5;
 const items = cfg.items.slice(0, N);
 
-const tagColor = { build: t.accent, ship: "#3fb950", learn: t.accent2, teach: "#d29922", note: t.muted };
+const tagColor = { build: t.accent, ship: "#3fb950", learn: t.accent2, teach: "#d29922", design: "#a371f7", note: t.muted };
 
 const PAD = 24, HEAD = 58, ROW = 46, W = 900;
 const H = HEAD + PAD + items.length * ROW + PAD - 10;
