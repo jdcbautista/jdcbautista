@@ -8,35 +8,35 @@
     <text x="24" y="82" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-26</text>
     <rect x="120" y="69" width="58" height="18" rx="5" fill="#e0533d" opacity="0.16"/>
     <text x="149" y="82" text-anchor="middle" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">build</text>
-    <text x="196" y="82" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Rebuilt this profile as a config-driven, self-updating machine.</text>
+    <text x="196" y="82" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Reusable Terraform modules + org-wide Service Level Management rollout.</text>
     <line x1="24" y1="98" x2="876" y2="98" stroke="#30363d" opacity="0.6"/>
   </g>
   <g>
-    <text x="24" y="128" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-24</text>
+    <text x="24" y="128" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-22</text>
     <rect x="120" y="115" width="58" height="18" rx="5" fill="#3fb950" opacity="0.16"/>
     <text x="149" y="128" text-anchor="middle" fill="#3fb950" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">ship</text>
-    <text x="196" y="128" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Modular Ollama-in-Actions review/apply pipeline running green.</text>
+    <text x="196" y="128" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Cross-team pipeline lets non-eng reps ship engineer-approved fixes.</text>
     <line x1="24" y1="144" x2="876" y2="144" stroke="#30363d" opacity="0.6"/>
   </g>
   <g>
-    <text x="24" y="174" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-20</text>
-    <rect x="120" y="161" width="58" height="18" rx="5" fill="#4c8bf5" opacity="0.16"/>
-    <text x="149" y="174" text-anchor="middle" fill="#4c8bf5" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">learn</text>
-    <text x="196" y="174" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Wiring Graphiti + Neo4j knowledge graphs into an agent stack.</text>
+    <text x="24" y="174" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-18</text>
+    <rect x="120" y="161" width="58" height="18" rx="5" fill="#3fb950" opacity="0.16"/>
+    <text x="149" y="174" text-anchor="middle" fill="#3fb950" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">ship</text>
+    <text x="196" y="174" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Incident-support AI agent: policy gates, retries, audit logging, telemetry.</text>
     <line x1="24" y1="190" x2="876" y2="190" stroke="#30363d" opacity="0.6"/>
   </g>
   <g>
-    <text x="24" y="220" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-15</text>
+    <text x="24" y="220" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-12</text>
     <rect x="120" y="207" width="58" height="18" rx="5" fill="#d29922" opacity="0.16"/>
     <text x="149" y="220" text-anchor="middle" fill="#d29922" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">teach</text>
-    <text x="196" y="220" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">SCORM prep-course modules 16-20 shipped to students.</text>
+    <text x="196" y="220" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">SOP catalog + interactive new-hire training for internal tooling.</text>
     <line x1="24" y1="236" x2="876" y2="236" stroke="#30363d" opacity="0.6"/>
   </g>
   <g>
-    <text x="24" y="266" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-08</text>
-    <rect x="120" y="253" width="58" height="18" rx="5" fill="#e0533d" opacity="0.16"/>
-    <text x="149" y="266" text-anchor="middle" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">build</text>
-    <text x="196" y="266" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Portfolio moving to React 19 + Three.js on GitHub Pages.</text>
+    <text x="24" y="266" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-06</text>
+    <rect x="120" y="253" width="58" height="18" rx="5" fill="#4c8bf5" opacity="0.16"/>
+    <text x="149" y="266" text-anchor="middle" fill="#4c8bf5" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">learn</text>
+    <text x="196" y="266" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Sharpening GitOps + OpenTelemetry patterns for platform reliability.</text>
     <line x1="24" y1="282" x2="876" y2="282" stroke="#30363d" opacity="0.6"/>
   </g>
 </svg>

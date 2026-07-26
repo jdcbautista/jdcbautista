@@ -15,8 +15,9 @@ const rows = Math.ceil(tools.length / cols);
 // Category palette for the lettered fallback tiles (used until you drop a
 // real icon into assets/tools/). Keeps the wall looking designed, not broken.
 const CAT = {
-  lang: "#e0533d", frontend: "#4c8bf5", runtime: "#3fb950",
-  cloud: "#d29922", infra: "#a371f7", ci: "#f778ba", data: "#39c5cf",
+  infra: "#4c8bf5", cloud: "#d29922", obs: "#39c5cf",
+  ci: "#f778ba", lang: "#e0533d", ai: "#a371f7",
+  frontend: "#4c8bf5", runtime: "#3fb950", data: "#39c5cf",
 };
 
 const PAD = 24, GAP = 16, CELL = 118, ICON = 56, HEAD = 64;

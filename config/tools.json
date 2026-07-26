@@ -1,19 +1,23 @@
 {
   "title": "TOOL WALL",
   "columns": 6,
-  "note": "Add a tool: append an object here + drop an image at assets/tools/<image>. The tool-wall workflow regenerates generated/tool-wall.svg on next run.",
+  "note": "Ordered for DevOps/SRE: platform + reliability + delivery first, languages, then AI. Add a tool: append here + drop assets/tools/<image>.",
   "tools": [
-    { "name": "TypeScript", "image": "typescript.svg", "category": "lang", "url": "https://www.typescriptlang.org/" },
+    { "name": "Kubernetes", "image": "kubernetes.svg", "category": "infra", "url": "https://kubernetes.io/" },
+    { "name": "Terraform", "image": "terraform.svg", "category": "infra", "url": "https://terraform.io/" },
+    { "name": "AWS", "image": "aws.svg", "category": "cloud", "url": "https://aws.amazon.com/" },
+    { "name": "Docker", "image": "docker.svg", "category": "infra", "url": "https://docker.com/" },
+    { "name": "Linux", "image": "linux.svg", "category": "infra", "url": "https://kernel.org/" },
+    { "name": "GitHub Actions", "image": "actions.svg", "category": "ci", "url": "https://github.com/features/actions" },
+    { "name": "CircleCI", "image": "circleci.svg", "category": "ci", "url": "https://circleci.com/" },
+    { "name": "Prometheus", "image": "prometheus.svg", "category": "obs", "url": "https://prometheus.io/" },
+    { "name": "Grafana", "image": "grafana.svg", "category": "obs", "url": "https://grafana.com/" },
+    { "name": "OpenTelemetry", "image": "otel.svg", "category": "obs", "url": "https://opentelemetry.io/" },
+    { "name": "Datadog", "image": "datadog.svg", "category": "obs", "url": "https://datadoghq.com/" },
+    { "name": "Splunk", "image": "splunk.svg", "category": "obs", "url": "https://splunk.com/" },
+    { "name": "PagerDuty", "image": "pagerduty.svg", "category": "obs", "url": "https://pagerduty.com/" },
     { "name": "Python", "image": "python.svg", "category": "lang", "url": "https://python.org/" },
     { "name": "Go", "image": "go.svg", "category": "lang", "url": "https://go.dev/" },
-    { "name": "React", "image": "react.svg", "category": "frontend", "url": "https://react.dev/" },
-    { "name": "Three.js", "image": "threejs.svg", "category": "frontend", "url": "https://threejs.org/" },
-    { "name": "Node.js", "image": "node.svg", "category": "runtime", "url": "https://nodejs.org/" },
-    { "name": "AWS", "image": "aws.svg", "category": "cloud", "url": "https://aws.amazon.com/" },
-    { "name": "Terraform", "image": "terraform.svg", "category": "infra", "url": "https://terraform.io/" },
-    { "name": "Docker", "image": "docker.svg", "category": "infra", "url": "https://docker.com/" },
-    { "name": "Kubernetes", "image": "kubernetes.svg", "category": "infra", "url": "https://kubernetes.io/" },
-    { "name": "GitHub Actions", "image": "actions.svg", "category": "ci", "url": "https://github.com/features/actions" },
-    { "name": "Neo4j", "image": "neo4j.svg", "category": "data", "url": "https://neo4j.com/" }
+    { "name": "Ollama", "image": "ollama.svg", "category": "ai", "url": "https://ollama.com/" }
   ]
 }

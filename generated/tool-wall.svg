@@ -1,103 +1,135 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="836" height="364" viewBox="0 0 836 364" role="img" aria-label="Tool wall">
-  <rect x="0" y="0" width="836" height="364" rx="16" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="836" height="498" viewBox="0 0 836 498" role="img" aria-label="Tool wall">
+  <rect x="0" y="0" width="836" height="498" rx="16" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="42" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="20" letter-spacing="6" font-weight="700">TOOL WALL</text>
-  <text x="812" y="42" text-anchor="end" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="12">12 tools</text>
+  <text x="812" y="42" text-anchor="end" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="12">16 tools</text>
   <line x1="24" y1="56" x2="812" y2="56" stroke="#30363d"/>
   
   <g>
     <rect x="24" y="88" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="55" y="104" width="56" height="56" rx="12" fill="#e0533d" opacity="0.18"/>
-       <rect x="55" y="104" width="56" height="56" rx="12" fill="none" stroke="#e0533d" stroke-opacity="0.5"/>
-       <text x="83" y="141" text-anchor="middle" fill="#e0533d" font-family="Georgia,serif" font-size="26" font-weight="700">T</text>
+    <rect x="55" y="104" width="56" height="56" rx="12" fill="#4c8bf5" opacity="0.18"/>
+       <rect x="55" y="104" width="56" height="56" rx="12" fill="none" stroke="#4c8bf5" stroke-opacity="0.5"/>
+       <text x="83" y="141" text-anchor="middle" fill="#4c8bf5" font-family="Georgia,serif" font-size="26" font-weight="700">K</text>
     <text x="83" y="190" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">TypeScript</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">Kubernetes</text>
   </g>
   <g>
     <rect x="158" y="88" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="189" y="104" width="56" height="56" rx="12" fill="#e0533d" opacity="0.18"/>
-       <rect x="189" y="104" width="56" height="56" rx="12" fill="none" stroke="#e0533d" stroke-opacity="0.5"/>
-       <text x="217" y="141" text-anchor="middle" fill="#e0533d" font-family="Georgia,serif" font-size="26" font-weight="700">P</text>
+    <rect x="189" y="104" width="56" height="56" rx="12" fill="#4c8bf5" opacity="0.18"/>
+       <rect x="189" y="104" width="56" height="56" rx="12" fill="none" stroke="#4c8bf5" stroke-opacity="0.5"/>
+       <text x="217" y="141" text-anchor="middle" fill="#4c8bf5" font-family="Georgia,serif" font-size="26" font-weight="700">T</text>
     <text x="217" y="190" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">Python</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">Terraform</text>
   </g>
   <g>
     <rect x="292" y="88" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="323" y="104" width="56" height="56" rx="12" fill="#e0533d" opacity="0.18"/>
-       <rect x="323" y="104" width="56" height="56" rx="12" fill="none" stroke="#e0533d" stroke-opacity="0.5"/>
-       <text x="351" y="141" text-anchor="middle" fill="#e0533d" font-family="Georgia,serif" font-size="26" font-weight="700">G</text>
+    <rect x="323" y="104" width="56" height="56" rx="12" fill="#d29922" opacity="0.18"/>
+       <rect x="323" y="104" width="56" height="56" rx="12" fill="none" stroke="#d29922" stroke-opacity="0.5"/>
+       <text x="351" y="141" text-anchor="middle" fill="#d29922" font-family="Georgia,serif" font-size="26" font-weight="700">A</text>
     <text x="351" y="190" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">Go</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">AWS</text>
   </g>
   <g>
     <rect x="426" y="88" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
     <rect x="457" y="104" width="56" height="56" rx="12" fill="#4c8bf5" opacity="0.18"/>
        <rect x="457" y="104" width="56" height="56" rx="12" fill="none" stroke="#4c8bf5" stroke-opacity="0.5"/>
-       <text x="485" y="141" text-anchor="middle" fill="#4c8bf5" font-family="Georgia,serif" font-size="26" font-weight="700">R</text>
+       <text x="485" y="141" text-anchor="middle" fill="#4c8bf5" font-family="Georgia,serif" font-size="26" font-weight="700">D</text>
     <text x="485" y="190" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">React</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">Docker</text>
   </g>
   <g>
     <rect x="560" y="88" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
     <rect x="591" y="104" width="56" height="56" rx="12" fill="#4c8bf5" opacity="0.18"/>
        <rect x="591" y="104" width="56" height="56" rx="12" fill="none" stroke="#4c8bf5" stroke-opacity="0.5"/>
-       <text x="619" y="141" text-anchor="middle" fill="#4c8bf5" font-family="Georgia,serif" font-size="26" font-weight="700">T</text>
+       <text x="619" y="141" text-anchor="middle" fill="#4c8bf5" font-family="Georgia,serif" font-size="26" font-weight="700">L</text>
     <text x="619" y="190" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">Three.js</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">Linux</text>
   </g>
   <g>
     <rect x="694" y="88" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="725" y="104" width="56" height="56" rx="12" fill="#3fb950" opacity="0.18"/>
-       <rect x="725" y="104" width="56" height="56" rx="12" fill="none" stroke="#3fb950" stroke-opacity="0.5"/>
-       <text x="753" y="141" text-anchor="middle" fill="#3fb950" font-family="Georgia,serif" font-size="26" font-weight="700">N</text>
+    <rect x="725" y="104" width="56" height="56" rx="12" fill="#f778ba" opacity="0.18"/>
+       <rect x="725" y="104" width="56" height="56" rx="12" fill="none" stroke="#f778ba" stroke-opacity="0.5"/>
+       <text x="753" y="141" text-anchor="middle" fill="#f778ba" font-family="Georgia,serif" font-size="26" font-weight="700">G</text>
     <text x="753" y="190" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">Node.js</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">GitHub Actions</text>
   </g>
   <g>
     <rect x="24" y="222" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="55" y="238" width="56" height="56" rx="12" fill="#d29922" opacity="0.18"/>
-       <rect x="55" y="238" width="56" height="56" rx="12" fill="none" stroke="#d29922" stroke-opacity="0.5"/>
-       <text x="83" y="275" text-anchor="middle" fill="#d29922" font-family="Georgia,serif" font-size="26" font-weight="700">A</text>
+    <rect x="55" y="238" width="56" height="56" rx="12" fill="#f778ba" opacity="0.18"/>
+       <rect x="55" y="238" width="56" height="56" rx="12" fill="none" stroke="#f778ba" stroke-opacity="0.5"/>
+       <text x="83" y="275" text-anchor="middle" fill="#f778ba" font-family="Georgia,serif" font-size="26" font-weight="700">C</text>
     <text x="83" y="324" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">AWS</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">CircleCI</text>
   </g>
   <g>
     <rect x="158" y="222" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="189" y="238" width="56" height="56" rx="12" fill="#a371f7" opacity="0.18"/>
-       <rect x="189" y="238" width="56" height="56" rx="12" fill="none" stroke="#a371f7" stroke-opacity="0.5"/>
-       <text x="217" y="275" text-anchor="middle" fill="#a371f7" font-family="Georgia,serif" font-size="26" font-weight="700">T</text>
+    <rect x="189" y="238" width="56" height="56" rx="12" fill="#39c5cf" opacity="0.18"/>
+       <rect x="189" y="238" width="56" height="56" rx="12" fill="none" stroke="#39c5cf" stroke-opacity="0.5"/>
+       <text x="217" y="275" text-anchor="middle" fill="#39c5cf" font-family="Georgia,serif" font-size="26" font-weight="700">P</text>
     <text x="217" y="324" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">Terraform</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">Prometheus</text>
   </g>
   <g>
     <rect x="292" y="222" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="323" y="238" width="56" height="56" rx="12" fill="#a371f7" opacity="0.18"/>
-       <rect x="323" y="238" width="56" height="56" rx="12" fill="none" stroke="#a371f7" stroke-opacity="0.5"/>
-       <text x="351" y="275" text-anchor="middle" fill="#a371f7" font-family="Georgia,serif" font-size="26" font-weight="700">D</text>
+    <rect x="323" y="238" width="56" height="56" rx="12" fill="#39c5cf" opacity="0.18"/>
+       <rect x="323" y="238" width="56" height="56" rx="12" fill="none" stroke="#39c5cf" stroke-opacity="0.5"/>
+       <text x="351" y="275" text-anchor="middle" fill="#39c5cf" font-family="Georgia,serif" font-size="26" font-weight="700">G</text>
     <text x="351" y="324" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">Docker</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">Grafana</text>
   </g>
   <g>
     <rect x="426" y="222" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="457" y="238" width="56" height="56" rx="12" fill="#a371f7" opacity="0.18"/>
-       <rect x="457" y="238" width="56" height="56" rx="12" fill="none" stroke="#a371f7" stroke-opacity="0.5"/>
-       <text x="485" y="275" text-anchor="middle" fill="#a371f7" font-family="Georgia,serif" font-size="26" font-weight="700">K</text>
+    <rect x="457" y="238" width="56" height="56" rx="12" fill="#39c5cf" opacity="0.18"/>
+       <rect x="457" y="238" width="56" height="56" rx="12" fill="none" stroke="#39c5cf" stroke-opacity="0.5"/>
+       <text x="485" y="275" text-anchor="middle" fill="#39c5cf" font-family="Georgia,serif" font-size="26" font-weight="700">O</text>
     <text x="485" y="324" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">Kubernetes</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">OpenTelemetry</text>
   </g>
   <g>
     <rect x="560" y="222" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
-    <rect x="591" y="238" width="56" height="56" rx="12" fill="#f778ba" opacity="0.18"/>
-       <rect x="591" y="238" width="56" height="56" rx="12" fill="none" stroke="#f778ba" stroke-opacity="0.5"/>
-       <text x="619" y="275" text-anchor="middle" fill="#f778ba" font-family="Georgia,serif" font-size="26" font-weight="700">G</text>
+    <rect x="591" y="238" width="56" height="56" rx="12" fill="#39c5cf" opacity="0.18"/>
+       <rect x="591" y="238" width="56" height="56" rx="12" fill="none" stroke="#39c5cf" stroke-opacity="0.5"/>
+       <text x="619" y="275" text-anchor="middle" fill="#39c5cf" font-family="Georgia,serif" font-size="26" font-weight="700">D</text>
     <text x="619" y="324" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">GitHub Actions</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">Datadog</text>
   </g>
   <g>
     <rect x="694" y="222" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
     <rect x="725" y="238" width="56" height="56" rx="12" fill="#39c5cf" opacity="0.18"/>
        <rect x="725" y="238" width="56" height="56" rx="12" fill="none" stroke="#39c5cf" stroke-opacity="0.5"/>
-       <text x="753" y="275" text-anchor="middle" fill="#39c5cf" font-family="Georgia,serif" font-size="26" font-weight="700">N</text>
+       <text x="753" y="275" text-anchor="middle" fill="#39c5cf" font-family="Georgia,serif" font-size="26" font-weight="700">S</text>
     <text x="753" y="324" text-anchor="middle" fill="#8b949e"
-          font-family="'JetBrains Mono',monospace" font-size="11">Neo4j</text>
+          font-family="'JetBrains Mono',monospace" font-size="11">Splunk</text>
+  </g>
+  <g>
+    <rect x="24" y="356" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
+    <rect x="55" y="372" width="56" height="56" rx="12" fill="#39c5cf" opacity="0.18"/>
+       <rect x="55" y="372" width="56" height="56" rx="12" fill="none" stroke="#39c5cf" stroke-opacity="0.5"/>
+       <text x="83" y="409" text-anchor="middle" fill="#39c5cf" font-family="Georgia,serif" font-size="26" font-weight="700">P</text>
+    <text x="83" y="458" text-anchor="middle" fill="#8b949e"
+          font-family="'JetBrains Mono',monospace" font-size="11">PagerDuty</text>
+  </g>
+  <g>
+    <rect x="158" y="356" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
+    <rect x="189" y="372" width="56" height="56" rx="12" fill="#e0533d" opacity="0.18"/>
+       <rect x="189" y="372" width="56" height="56" rx="12" fill="none" stroke="#e0533d" stroke-opacity="0.5"/>
+       <text x="217" y="409" text-anchor="middle" fill="#e0533d" font-family="Georgia,serif" font-size="26" font-weight="700">P</text>
+    <text x="217" y="458" text-anchor="middle" fill="#8b949e"
+          font-family="'JetBrains Mono',monospace" font-size="11">Python</text>
+  </g>
+  <g>
+    <rect x="292" y="356" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
+    <rect x="323" y="372" width="56" height="56" rx="12" fill="#e0533d" opacity="0.18"/>
+       <rect x="323" y="372" width="56" height="56" rx="12" fill="none" stroke="#e0533d" stroke-opacity="0.5"/>
+       <text x="351" y="409" text-anchor="middle" fill="#e0533d" font-family="Georgia,serif" font-size="26" font-weight="700">G</text>
+    <text x="351" y="458" text-anchor="middle" fill="#8b949e"
+          font-family="'JetBrains Mono',monospace" font-size="11">Go</text>
+  </g>
+  <g>
+    <rect x="426" y="356" width="118" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
+    <rect x="457" y="372" width="56" height="56" rx="12" fill="#a371f7" opacity="0.18"/>
+       <rect x="457" y="372" width="56" height="56" rx="12" fill="none" stroke="#a371f7" stroke-opacity="0.5"/>
+       <text x="485" y="409" text-anchor="middle" fill="#a371f7" font-family="Georgia,serif" font-size="26" font-weight="700">O</text>
+    <text x="485" y="458" text-anchor="middle" fill="#8b949e"
+          font-family="'JetBrains Mono',monospace" font-size="11">Ollama</text>
   </g>
 </svg>
