@@ -1,15 +1,16 @@
 // Renders generated/hero.gif — the animated hero (this IS the "hero" module).
 //
-// The motion is a faithful port of the `s01` p5 sketch from the old `devfolio`
-// Spotify visualizer: three circles orbit a center, leaping ~110°/step (tempo),
-// their radius creeping outward then snapping back, over a background redrawn
-// with low alpha each frame so everything leaves a smoky trail.
+// Faithful port of the `s01` p5 sketch from the old `devfolio` Spotify
+// visualizer. Per frame it draws three white circles that orbit a center,
+// leaping ~110°/step (tempo=110), the inner one at radius r and the outer two
+// at 2r, with r creeping outward each frame so the whole figure spirals and
+// zooms OUT. A low-alpha background each frame leaves smoky trails.
 //
-// SMIL/CSS animation is frozen inside a README <img> (verified), so we bake the
-// motion into a GIF. Trails need real frame-to-frame persistence, so the orbit
-// is simulated in an RGBA accumulation buffer (fade toward the panel each step,
-// then draw the circles). The panel + fixed text are rasterized once with resvg
-// and composited under/over the buffer so the text stays crisp.
+// SMIL is frozen inside a README <img>, so the motion is baked into a GIF. The
+// trail is an additive "glow" buffer that decays toward zero, so the capture
+// runs exactly one cycle — birth at center → spiral zooms off-screen → trails
+// decay to a clean frame — and loops seamlessly (clean end == clean start), the
+// way s01 only cuts once the spiral is completely out of view.
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { Resvg } from "@resvg/resvg-js";
@@ -17,30 +18,26 @@ import gifenc from "gifenc";
 import { loadJSON, theme, esc, wrap, ROOT } from "./lib/svg.mjs";
 const { GIFEncoder, quantize, applyPalette } = gifenc;
 
-const W = 900, H = 340, FRAMES = 46, DELAY = 55; // ~2.5s loop
+const W = 900, H = 340, DELAY = 55;
 const t = theme();
 const profile = loadJSON("config/profile.json");
 const headline = "I build infra that stays boring in production.";
 const head = wrap(headline, 26);
 
-const cx = 690, cy = H / 2; // orbit center (right side, clear of the text)
+const cx = 700, cy = H / 2; // orbit center (right side, clear of the text)
 const DEG = Math.PI / 180;
 const hex = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
-const bg = hex(t.bg);
 
-// ---- rasterize the two static layers once ---------------------------------
-// Panel (under the motion): gradient + edge bar. Fully opaque.
+// ---- static layers, rasterized once ---------------------------------------
 const panelSVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${t.panel}"/><stop offset="1" stop-color="${t.bg}"/></linearGradient></defs>
   <rect width="${W}" height="${H}" fill="${t.bg}"/>
   <rect width="${W}" height="${H}" rx="16" fill="url(#bg)" stroke="${t.line}"/></svg>`;
-const panel = new Resvg(panelSVG, { fitTo: { mode: "width", value: W } }).render();
-const panelPx = panel.pixels; // RGBA, opaque
+const panelPx = new Resvg(panelSVG, { fitTo: { mode: "width", value: W } }).render().pixels;
 
-// Overlay (over the motion): left scrim so text stays readable, edge bar, text.
 const overlaySVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs>
-    <radialGradient id="scrim" cx="34%" cy="50%" r="66%"><stop offset="0" stop-color="${t.bg}" stop-opacity="0.96"/><stop offset="0.55" stop-color="${t.bg}" stop-opacity="0.6"/><stop offset="1" stop-color="${t.bg}" stop-opacity="0"/></radialGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="${t.bg}" stop-opacity="0.96"/><stop offset="0.42" stop-color="${t.bg}" stop-opacity="0.82"/><stop offset="0.72" stop-color="${t.bg}" stop-opacity="0"/></linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${t.accent}"/><stop offset="1" stop-color="${t.accent2}"/></linearGradient>
   </defs>
   <rect width="${W}" height="${H}" rx="16" fill="url(#scrim)"/>
@@ -50,102 +47,111 @@ const overlaySVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height=
   ${head.map((l, i) => `<text x="38" y="${150 + i * 46}" fill="${t.text}" font-family="Georgia,serif" font-size="40" font-weight="600">${esc(l)}</text>`).join("")}
   <text x="40" y="${H - 30}" fill="${t.accent}" font-family="monospace" font-size="13" font-weight="700">▶ enter the site</text>
   <text x="180" y="${H - 30}" fill="${t.muted}" font-family="monospace" font-size="13">${esc(profile.pagesUrl.replace(/^https?:\/\//, ""))} →</text></svg>`;
-const overlay = new Resvg(overlaySVG, { fitTo: { mode: "width", value: W }, background: "rgba(0,0,0,0)" }).render();
-const overPx = overlay.pixels; // RGBA with alpha
+const overPx = new Resvg(overlaySVG, { fitTo: { mode: "width", value: W }, background: "rgba(0,0,0,0)" }).render().pixels;
 
-// ---- the s01 orbit simulation ---------------------------------------------
-const acc = new Uint8ClampedArray(panelPx); // start from the panel
-const idx = (x, y) => (y * W + x) * 4;
+// ---- additive glow buffer (the trail) -------------------------------------
+const glow = new Float32Array(W * H * 3); // R,G,B light added over the panel
+const XCLIP = 400; // don't paint left of this — protects the text side
 
-// Soft additive-ish circle: blend `col` into acc with radial falloff.
-function disc(px, py, sz, col, a) {
-  const x0 = Math.max(0, (px - sz) | 0), x1 = Math.min(W - 1, (px + sz) | 0);
+function disc(px, py, sz, intensity) {
+  const x0 = Math.max(XCLIP, (px - sz) | 0), x1 = Math.min(W - 1, (px + sz) | 0);
   const y0 = Math.max(0, (py - sz) | 0), y1 = Math.min(H - 1, (py + sz) | 0);
   for (let y = y0; y <= y1; y++) {
     for (let x = x0; x <= x1; x++) {
       const d = Math.hypot(x - px, y - py);
       if (d > sz) continue;
-      const f = a * (1 - d / sz);
-      const i = idx(x, y);
-      acc[i] = acc[i] * (1 - f) + col[0] * f;
-      acc[i + 1] = acc[i + 1] * (1 - f) + col[1] * f;
-      acc[i + 2] = acc[i + 2] * (1 - f) + col[2] * f;
+      const f = intensity * (1 - d / sz);
+      const i = (y * W + x) * 3;
+      glow[i] += 236 * f; glow[i + 1] += 240 * f; glow[i + 2] += 245 * f;
     }
   }
 }
+const decay = (k) => { for (let i = 0; i < glow.length; i++) glow[i] *= 1 - k; };
 
-// Fade the whole buffer back toward the panel — this is what leaves trails.
-function fade(k) {
-  for (let i = 0; i < acc.length; i += 4) {
-    acc[i] = acc[i] * (1 - k) + panelPx[i] * k;
-    acc[i + 1] = acc[i + 1] * (1 - k) + panelPx[i + 1] * k;
-    acc[i + 2] = acc[i + 2] * (1 - k) + panelPx[i + 2] * k;
-  }
+// s01 orbit state
+let angle = 0, r = 4;
+const GROW = 1.10;       // per-frame radius growth (zoom-out speed)
+const DECAY = 0.15;      // trail decay per frame
+
+// one s01 draw(): three leaping circles — inner at r, outer two at 2r
+function drawStep() {
+  disc(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 20, 0.95);
+  angle += 110.05;
+  disc(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 11, 0.9);
+  angle += 110.1;
+  disc(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 6, 0.85);
+  angle += 110.2;
+  r *= GROW;
 }
 
-const WHITE = [230, 237, 243];
-const tint = [hex(t.accent), hex(t.accent2), [63, 185, 80], [163, 113, 247]];
-let angle = 0, r = 10;
-const RMAX = 150;
-const grow = () => { r = r < RMAX ? r * 1.02 + 0.5 : 10; };
+// 4x4 ordered-dither matrix breaks up gradient banding on the base layer (GIF
+// is 256 colors with no built-in dithering).
+const BAYER = [0, 8, 2, 10, 12, 4, 14, 6, 3, 11, 1, 9, 15, 7, 13, 5];
 
-// One simulation step ~ one p5 draw(): three leaping, growing orbits.
-function step(n) {
-  fade(0.14);
-  disc(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 10, WHITE, 0.9);
-  angle += 110.05; grow();
-  disc(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 6, tint[n % 4], 0.85);
-  angle += 110.1; grow();
-  disc(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 4, tint[(n + 2) % 4], 0.8);
-  angle += 110.2; grow();
-}
-
-// Warm up so the first captured frame already has trails.
-for (let i = 0; i < 24; i++) step(i);
-
-// Composite overlay (scrim + text) over a copy of acc → one output frame.
-function compose() {
-  const out = new Uint8ClampedArray(acc);
-  for (let i = 0; i < out.length; i += 4) {
-    const a = overPx[i + 3] / 255;
-    if (a === 0) continue;
-    out[i] = overPx[i] * a + out[i] * (1 - a);
-    out[i + 1] = overPx[i + 1] * a + out[i + 1] * (1 - a);
-    out[i + 2] = overPx[i + 2] * a + out[i + 2] * (1 - a);
-    out[i + 3] = 255;
+// env scales the glow; 0 at the first and last frame → both ends are a clean
+// empty panel, so the loop is seamless no matter where the spiral is.
+function compose(env) {
+  const out = new Uint8ClampedArray(W * H * 4);
+  for (let y = 0, p = 0, g = 0, q = 0; y < H; y++) {
+    for (let x = 0; x < W; x++, p++, g += 3, q += 4) {
+      const dit = (BAYER[(y & 3) * 4 + (x & 3)] / 16 - 0.5) * 6; // ±3
+      let R = panelPx[q] + glow[g] * env + dit, G = panelPx[q + 1] + glow[g + 1] * env + dit, B = panelPx[q + 2] + glow[g + 2] * env + dit;
+      const a = overPx[q + 3] / 255;
+      if (a > 0) { R = overPx[q] * a + R * (1 - a); G = overPx[q + 1] * a + G * (1 - a); B = overPx[q + 2] * a + B * (1 - a); }
+      out[q] = R; out[q + 1] = G; out[q + 2] = B; out[q + 3] = 255;
+    }
   }
   return out;
 }
 
-// ---- capture frames + encode ----------------------------------------------
+// ---- capture one seamless cycle -------------------------------------------
+// The spiral is born at center, zooms out for the whole clip, and the envelope
+// fades it fully in at the start and fully out at the end so the cut is clean.
+const N = 56;
 const frames = [];
-for (let f = 0; f < FRAMES; f++) { step(f + 24); frames.push(compose()); }
+for (let f = 0; f < N; f++) {
+  drawStep();                                   // keep spiraling outward
+  decay(DECAY);                                 // trails fade
+  const env = Math.max(0, Math.min(f / 5, (N - 1 - f) / 8, 1));
+  frames.push(compose(env));
+}
 
-// Palette: quantize()'s median-cut collapses on this mostly-dark, low-variance
-// image (and a hand-built palette isn't in the form applyPalette expects). So
-// we quantize a SYNTHETIC swatch of the exact colors used — enough variance
-// that median-cut can't collapse — and get a correctly-formatted palette.
-const rampC = (a, b, n) => Array.from({ length: n }, (_, i) => {
-  const u = i / (n - 1);
-  return [0, 1, 2].map((c) => Math.round(a[c] + (b[c] - a[c]) * u));
-});
-const swatchColors = [
-  ...rampC(bg, WHITE, 30),
-  hex(t.panel), hex(t.line), hex(t.muted), hex(t.text),
-  ...rampC(bg, hex(t.accent), 8),
-  ...rampC(bg, hex(t.accent2), 8),
-  ...rampC(bg, [63, 185, 80], 6),
-  ...rampC(bg, [163, 113, 247], 6),
+// palette from a synthetic swatch of the colors in play (quantize collapses on
+// the real mostly-dark frames)
+const rampC = (a, b, n) => Array.from({ length: n }, (_, i) => { const u = i / (n - 1); return [0, 1, 2].map((c) => Math.round(a[c] + (b[c] - a[c]) * u)); });
+const bg = hex(t.bg);
+const swatch = [];
+const cols = [
+  ...rampC(bg, hex(t.panel), 12),          // panel gradient (kills the banding)
+  ...rampC(bg, [45, 49, 60], 16),          // dense near-black → dim grey (faint glow)
+  ...rampC([45, 49, 60], [236, 240, 245], 22), // dim grey → white (bright glow)
+  hex(t.line), hex(t.muted), hex(t.text),
+  ...rampC(bg, hex(t.accent), 5), ...rampC(bg, hex(t.accent2), 5),
 ];
-const PER = 48;
-const swatch = new Uint8Array(swatchColors.length * PER * 4);
-let so = 0;
-for (const c of swatchColors) for (let k = 0; k < PER; k++) { swatch[so++] = c[0]; swatch[so++] = c[1]; swatch[so++] = c[2]; swatch[so++] = 255; }
-const palette = quantize(swatch, 48, { format: "rgb565" });
+for (const c of cols) for (let k = 0; k < 40; k++) swatch.push(c[0], c[1], c[2], 255);
+const palette = quantize(new Uint8Array(swatch), 64, { format: "rgb565" });
+
 const gif = GIFEncoder();
 for (const fr of frames) gif.writeFrame(applyPalette(fr, palette, "rgb565"), W, H, { palette, delay: DELAY });
 gif.finish();
 
 const bytes = gif.bytes();
 writeFileSync(join(ROOT, "generated/hero.gif"), bytes);
-console.log(`rendered generated/hero.gif (s01 orbits, ${FRAMES} frames, ${(bytes.length / 1024).toFixed(0)} KB)`);
+console.log(`rendered generated/hero.gif (s01 orbits, ${frames.length} frames, ${(bytes.length / 1024).toFixed(0)} KB)`);
+
+// MONTAGE=1 → stack sampled frames into a PNG for visual inspection (debug only)
+if (process.env.MONTAGE) {
+  const { deflateSync } = await import("node:zlib");
+  const pick = [0, 6, 12, 18, 24, 30, 36, 42, 48, frames.length - 1];
+  const MH = H * pick.length;
+  const big = new Uint8ClampedArray(W * MH * 4);
+  pick.forEach((fi, band) => big.set(frames[fi], band * W * H * 4));
+  const crc32 = (b) => { let c = ~0; for (let i = 0; i < b.length; i++) { c ^= b[i]; for (let k = 0; k < 8; k++) c = (c >>> 1) ^ (0xEDB88320 & -(c & 1)); } return ~c >>> 0; };
+  const ck = (type, data) => { const L = Buffer.alloc(4); L.writeUInt32BE(data.length); const T = Buffer.from(type); const C = Buffer.alloc(4); C.writeUInt32BE(crc32(Buffer.concat([T, data]))); return Buffer.concat([L, T, data, C]); };
+  const ihdr = Buffer.alloc(13); ihdr.writeUInt32BE(W, 0); ihdr.writeUInt32BE(MH, 4); ihdr[8] = 8; ihdr[9] = 6;
+  const raw = Buffer.alloc(MH * (W * 4 + 1));
+  for (let y = 0; y < MH; y++) { raw[y * (W * 4 + 1)] = 0; Buffer.from(big.buffer, y * W * 4, W * 4).copy(raw, y * (W * 4 + 1) + 1); }
+  const png = Buffer.concat([Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]), ck("IHDR", ihdr), ck("IDAT", deflateSync(raw)), ck("IEND", Buffer.alloc(0))]);
+  writeFileSync(join(ROOT, "generated/_montage.png"), png);
+  console.log("wrote generated/_montage.png");
+}
