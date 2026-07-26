@@ -22,7 +22,7 @@ const md = `<!-- ============================================================
 
 <p align="center">
   <a href="${pages}">
-    <img src="${img("hero.svg", "Julius Bautista")}" width="100%" />
+    <img src="${img("hero.gif", "Julius Bautista")}" width="100%" />
   </a>
 </p>
 

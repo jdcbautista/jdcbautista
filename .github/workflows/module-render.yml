@@ -19,6 +19,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: npm
+
+      # The hero module rasterizes to GIF (resvg + gifenc); install deps.
+      - run: npm ci
 
       # stats pulls real numbers from the GitHub API; other modules are pure.
       - name: Collect stats (stats module only)
