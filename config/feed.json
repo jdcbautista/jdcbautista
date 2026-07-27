@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-06-15",
+      "date": "2026-07-06",
       "track": "AI",
       "source": "Import AI",
-      "text": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
-      "link": "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+      "text": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "link": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
     },
     {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "track": "Cloud",
       "source": "Kubernetes",
-      "text": "Kubernetes Dashboard to Headlamp: A Step-by-Step Guide",
-      "link": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/"
+      "text": "Building a Custom Metrics Exporter for Kubernetes",
+      "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"
     },
     {
-      "date": "2026-07-16",
+      "date": "2026-07-22",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "What Doom taught us about AI-assisted incident response | Rootly",
-      "link": "https://webflow.rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response"
+      "source": "Grafana",
+      "text": "Cost attribution in Grafana Cloud: Manage spend across observability and testing workflows",
+      "link": "https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-06-22",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Partnerships can keep open source sustainable​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
-      "link": "https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/"
+      "source": "Netflix Tech",
+      "text": "How Netflix Simplified Batch Compute with Kueue",
+      "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-07-27",
+      "date": "2026-07-26",
       "track": "News",
       "source": "Hacker News",
-      "text": "PGSimCity - How PostgreSQL Works",
-      "link": "https://nikolays.github.io/PGSimCity/"
+      "text": "Teaching Kids Forth",
+      "link": "https://gracefulliberty.com/articles/teaching-kids-forth/"
     }
   ]
 }

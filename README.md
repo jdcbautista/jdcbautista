@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=97489791" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=e72f9508" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" /><!--
---><a href="https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"><img src="generated/feed-item-0.svg?v=aadcc654" alt="AI — Import AI" width="720" /></a><!--
---><a href="https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/"><img src="generated/feed-item-1.svg?v=e71e2c24" alt="Cloud — Kubernetes" width="720" /></a><!--
---><a href="https://webflow.rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response"><img src="generated/feed-item-2.svg?v=fa7de4d2" alt="SRE — Rootly" width="720" /></a><!--
---><a href="https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/"><img src="generated/feed-item-3.svg?v=1c87584d" alt="Systems — Stack Overflow" width="720" /></a><!--
---><a href="https://nikolays.github.io/PGSimCity/"><img src="generated/feed-item-4.svg?v=64974d75" alt="News — Hacker News" width="720" /></a><!--
+--><a href="https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"><img src="generated/feed-item-0.svg?v=ad273e39" alt="AI — Import AI" width="720" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"><img src="generated/feed-item-1.svg?v=f4952108" alt="Cloud — Kubernetes" width="720" /></a><!--
+--><a href="https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/"><img src="generated/feed-item-2.svg?v=2f7ace5f" alt="SRE — Grafana" width="720" /></a><!--
+--><a href="https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69f91af2" alt="Systems — Netflix Tech" width="720" /></a><!--
+--><a href="https://gracefulliberty.com/articles/teaching-kids-forth/"><img src="generated/feed-item-4.svg?v=242a7c9f" alt="News — Hacker News" width="720" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
