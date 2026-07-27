@@ -1,19 +1,17 @@
 // Renders generated/hero.gif — the animated hero (this IS the "hero" module).
 //
-// Faithful port of the `s01` p5 sketch from the old `devfolio` Spotify
-// visualizer. Per frame it draws three white circles that orbit a center,
-// leaping ~110°/step (tempo=110), the inner one at radius r and the outer two
-// at 2r, with r creeping outward each frame so the whole figure spirals and
-// zooms OUT. A low-alpha background each frame leaves smoky trails.
-//
-// SMIL is frozen inside a README <img>, so the motion is baked into a GIF. The
-// trail is an additive "glow" buffer that decays toward zero, so the capture
-// runs exactly one cycle — birth at center → spiral zooms off-screen → trails
-// decay to a clean frame — and loops seamlessly (clean end == clean start), the
-// way s01 only cuts once the spiral is completely out of view.
+// The spiral is the ACTUAL `s01` drawing from the old `devfolio` Spotify
+// visualizer, rendered on a real Canvas2D (@napi-rs/canvas) — the same 2D
+// backend p5 uses — not an approximation. Each frame lays down s01's three
+// translucent background washes (which leave the smoky trails) and its three
+// solid orbiting ellipses (inner at r, outer two at 2r), leaping ~110°/step
+// (tempo), with r growing so the figure spirals outward. We warm the canvas up
+// so the fog reaches steady state, capture one loop, composite the fixed text
+// over it, and bake it to a GIF (GitHub READMEs can't run p5/canvas).
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { Resvg } from "@resvg/resvg-js";
+import { createCanvas } from "@napi-rs/canvas";
 import gifenc from "gifenc";
 import { loadJSON, theme, esc, wrap, ROOT } from "./lib/svg.mjs";
 const { GIFEncoder, quantize, applyPalette } = gifenc;
@@ -21,15 +19,11 @@ const { GIFEncoder, quantize, applyPalette } = gifenc;
 const W = 900, H = 392, DELAY = 55;
 const t = theme();
 const profile = loadJSON("config/profile.json");
-const headline = "Build beautiful and meaningful things.";
 const head = ["Build beautiful and", "meaningful things."];
 const subLines = wrap(profile.heroSub || "", 42);
-
-const cx = 700, cy = H / 2; // orbit center (right side, clear of the text)
-const DEG = Math.PI / 180;
 const hex = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
 
-// ---- static layers, rasterized once ---------------------------------------
+// ---- static layers, rasterized once with resvg ----------------------------
 const panelSVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${t.panel}"/><stop offset="1" stop-color="${t.bg}"/></linearGradient></defs>
   <rect width="${W}" height="${H}" fill="${t.bg}"/>
@@ -50,100 +44,85 @@ const overlaySVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height=
   </svg>`;
 const overPx = new Resvg(overlaySVG, { fitTo: { mode: "width", value: W }, background: "rgba(0,0,0,0)" }).render().pixels;
 
-// ---- additive glow buffer (the trail) -------------------------------------
-const glow = new Float32Array(W * H * 3); // R,G,B light added over the panel
-const XCLIP = 400; // don't paint left of this — protects the text side
+// ---- the real s01 sketch, on a Canvas2D ------------------------------------
+const canvas = createCanvas(W, H);
+const ctx = canvas.getContext("2d");
+ctx.fillStyle = `rgb(${hex(t.bg).join(",")})`;
+ctx.fillRect(0, 0, W, H);
 
-function disc(px, py, sz, intensity) {
-  const x0 = Math.max(XCLIP, (px - sz) | 0), x1 = Math.min(W - 1, (px + sz) | 0);
-  const y0 = Math.max(0, (py - sz) | 0), y1 = Math.min(H - 1, (py + sz) | 0);
-  for (let y = y0; y <= y1; y++) {
-    for (let x = x0; x <= x1; x++) {
-      const d = Math.hypot(x - px, y - py);
-      if (d > sz) continue;
-      const f = intensity * (1 - d / sz);
-      const i = (y * W + x) * 3;
-      glow[i] += 236 * f; glow[i + 1] += 240 * f; glow[i + 2] += 245 * f;
-    }
-  }
-}
-const decay = (k) => { for (let i = 0; i < glow.length; i++) glow[i] *= 1 - k; };
+const cx = 700, cy = Math.round(H * 0.46); // orbit center, right side
+const DEG = Math.PI / 180;
+const tempo = 110, speed = 0.1;
+let angle = 0, r = 8;
+const GROW = 1.058, RMIN = 8, RMAX = 176;
 
-// s01 orbit state
-let angle = 0, r = 4;
-const GROW = 1.10;       // per-frame radius growth (zoom-out speed)
-const DECAY = 0.15;      // trail decay per frame
-
-// one s01 draw(): three leaping circles — inner at r, outer two at 2r
-function drawStep() {
-  disc(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 20, 0.95);
-  angle += 110.05;
-  disc(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 11, 0.9);
-  angle += 110.1;
-  disc(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 6, 0.85);
-  angle += 110.2;
-  r *= GROW;
+function ellipse(x, y, d) {
+  ctx.beginPath();
+  ctx.ellipse(x, y, d / 2, d / 2, 0, 0, Math.PI * 2);
+  ctx.fillStyle = "rgba(236,240,246,0.92)";
+  ctx.fill();
+  ctx.lineWidth = 1;
+  ctx.strokeStyle = "rgba(10,12,16,0.45)";
+  ctx.stroke();
 }
 
-// 4x4 ordered-dither matrix breaks up gradient banding on the base layer (GIF
-// is 256 colors with no built-in dithering).
-const BAYER = [0, 8, 2, 10, 12, 4, 14, 6, 3, 11, 1, 9, 15, 7, 13, 5];
+// One s01 draw(): three translucent washes (trails) + three orbiting ellipses.
+function step() {
+  ctx.fillStyle = "rgba(18,20,26,0.085)"; ctx.fillRect(0, 0, W, H); // dark trail
+  ctx.fillStyle = "rgba(210,216,226,0.020)"; ctx.fillRect(0, 0, W, H); // light wash (fog)
+  ctx.fillStyle = "rgba(120,60,60,0.013)"; ctx.fillRect(0, 0, W, H); // faint warmth
+  ellipse(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 44);
+  angle += speed / 2 + tempo;
+  ellipse(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 24);
+  angle += speed + tempo;
+  ellipse(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 12);
+  angle += speed * 2 + tempo;
+  r = r < RMAX ? r * GROW : RMIN;
+}
 
-// env scales the glow; 0 at the first and last frame → both ends are a clean
-// empty panel, so the loop is seamless no matter where the spiral is.
-function compose(env) {
+const N = 56, WARM = 46;
+for (let i = 0; i < WARM; i++) step(); // let the fog reach steady state
+const spiralFrames = [];
+for (let f = 0; f < N; f++) { step(); spiralFrames.push(ctx.getImageData(0, 0, W, H).data); }
+
+// ---- composite: lerp(panel, spiral, env) + text overlay --------------------
+// env fades the spiral fully out at the first/last frame → seamless loop.
+function compose(spiral, env) {
   const out = new Uint8ClampedArray(W * H * 4);
-  for (let y = 0, p = 0, g = 0, q = 0; y < H; y++) {
-    for (let x = 0; x < W; x++, p++, g += 3, q += 4) {
-      const dit = (BAYER[(y & 3) * 4 + (x & 3)] / 16 - 0.5) * 6; // ±3
-      let R = panelPx[q] + glow[g] * env + dit, G = panelPx[q + 1] + glow[g + 1] * env + dit, B = panelPx[q + 2] + glow[g + 2] * env + dit;
-      const a = overPx[q + 3] / 255;
-      if (a > 0) { R = overPx[q] * a + R * (1 - a); G = overPx[q + 1] * a + G * (1 - a); B = overPx[q + 2] * a + B * (1 - a); }
-      out[q] = R; out[q + 1] = G; out[q + 2] = B; out[q + 3] = 255;
-    }
+  for (let q = 0; q < out.length; q += 4) {
+    let R = panelPx[q] + (spiral[q] - panelPx[q]) * env;
+    let G = panelPx[q + 1] + (spiral[q + 1] - panelPx[q + 1]) * env;
+    let B = panelPx[q + 2] + (spiral[q + 2] - panelPx[q + 2]) * env;
+    const a = overPx[q + 3] / 255;
+    if (a > 0) { R = overPx[q] * a + R * (1 - a); G = overPx[q + 1] * a + G * (1 - a); B = overPx[q + 2] * a + B * (1 - a); }
+    out[q] = R; out[q + 1] = G; out[q + 2] = B; out[q + 3] = 255;
   }
   return out;
 }
+const frames = spiralFrames.map((sp, f) => compose(sp, Math.max(0, Math.min(f / 4, (N - 1 - f) / 6, 1))));
 
-// ---- capture one seamless cycle -------------------------------------------
-// The spiral is born at center, zooms out for the whole clip, and the envelope
-// fades it fully in at the start and fully out at the end so the cut is clean.
-const N = 56;
-const frames = [];
-for (let f = 0; f < N; f++) {
-  drawStep();                                   // keep spiraling outward
-  decay(DECAY);                                 // trails fade
-  const env = Math.max(0, Math.min(f / 5, (N - 1 - f) / 8, 1));
-  frames.push(compose(env));
+// ---- palette + encode ------------------------------------------------------
+let palette;
+try { palette = quantize(frames[Math.floor(N / 2)], 128, { format: "rgb565" }); }
+catch {
+  const bg = hex(t.bg);
+  const ramp = (a, b, n) => Array.from({ length: n }, (_, i) => { const u = i / (n - 1); return [0, 1, 2].map((c) => Math.round(a[c] + (b[c] - a[c]) * u)); });
+  const sw = [];
+  for (const c of [...ramp(bg, [236, 240, 246], 48), ...ramp(bg, [90, 95, 108], 16), hex(t.accent), hex(t.accent2)]) for (let k = 0; k < 40; k++) sw.push(c[0], c[1], c[2], 255);
+  palette = quantize(new Uint8Array(sw), 64, { format: "rgb565" });
 }
-
-// palette from a synthetic swatch of the colors in play (quantize collapses on
-// the real mostly-dark frames)
-const rampC = (a, b, n) => Array.from({ length: n }, (_, i) => { const u = i / (n - 1); return [0, 1, 2].map((c) => Math.round(a[c] + (b[c] - a[c]) * u)); });
-const bg = hex(t.bg);
-const swatch = [];
-const cols = [
-  ...rampC(bg, hex(t.panel), 12),          // panel gradient (kills the banding)
-  ...rampC(bg, [45, 49, 60], 16),          // dense near-black → dim grey (faint glow)
-  ...rampC([45, 49, 60], [236, 240, 245], 22), // dim grey → white (bright glow)
-  hex(t.line), hex(t.muted), hex(t.text),
-  ...rampC(bg, hex(t.accent), 5), ...rampC(bg, hex(t.accent2), 5),
-];
-for (const c of cols) for (let k = 0; k < 40; k++) swatch.push(c[0], c[1], c[2], 255);
-const palette = quantize(new Uint8Array(swatch), 64, { format: "rgb565" });
 
 const gif = GIFEncoder();
 for (const fr of frames) gif.writeFrame(applyPalette(fr, palette, "rgb565"), W, H, { palette, delay: DELAY });
 gif.finish();
-
 const bytes = gif.bytes();
 writeFileSync(join(ROOT, "generated/hero.gif"), bytes);
-console.log(`rendered generated/hero.gif (s01 orbits, ${frames.length} frames, ${(bytes.length / 1024).toFixed(0)} KB)`);
+console.log(`rendered generated/hero.gif (real s01 canvas, ${N} frames, ${(bytes.length / 1024).toFixed(0)} KB)`);
 
-// MONTAGE=1 → stack sampled frames into a PNG for visual inspection (debug only)
+// MONTAGE=1 → stack sampled frames into a PNG for inspection.
 if (process.env.MONTAGE) {
   const { deflateSync } = await import("node:zlib");
-  const pick = [0, 6, 12, 18, 24, 30, 36, 42, 48, frames.length - 1];
+  const pick = [0, 6, 12, 18, 24, 30, 36, 42, 48, N - 1];
   const MH = H * pick.length;
   const big = new Uint8ClampedArray(W * MH * 4);
   pick.forEach((fi, band) => big.set(frames[fi], band * W * H * 4));
