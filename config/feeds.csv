@@ -1,0 +1,28 @@
+enabled,category,source,url
+# Edit this file right in GitHub. Toggle `enabled` (true/false) per line.
+# The feed shows the freshest item per category (track) from the enabled sources.
+true,AI,Simon Willison,https://simonwillison.net/atom/everything/
+true,AI,Hugging Face,https://huggingface.co/blog/feed.xml
+true,AI,OpenAI,https://openai.com/news/rss.xml
+true,AI,Google AI,https://blog.google/technology/ai/rss/
+true,AI,Import AI,https://jack-clark.net/feed/
+true,Cloud,AWS DevOps,https://aws.amazon.com/blogs/devops/feed/
+true,Cloud,Kubernetes,https://kubernetes.io/feed.xml
+true,Cloud,CNCF,https://www.cncf.io/feed/
+true,Cloud,HashiCorp,https://www.hashicorp.com/blog/feed.xml
+true,Cloud,Cloudflare,https://blog.cloudflare.com/rss/
+true,SRE,SRE Weekly,https://sreweekly.com/feed/
+true,SRE,Grafana,https://grafana.com/blog/index.xml
+true,SRE,Datadog,https://www.datadoghq.com/blog/index.xml
+true,SRE,Gremlin,https://www.gremlin.com/blog/rss.xml
+true,SRE,Rootly,https://rootly.com/blog/rss.xml
+true,Systems,LWN,https://lwn.net/headlines/rss
+true,Systems,InfoQ,https://feed.infoq.com/
+true,Systems,Martin Fowler,https://martinfowler.com/feed.atom
+true,Systems,Netflix Tech,https://netflixtechblog.com/feed
+true,Systems,Stack Overflow,https://stackoverflow.blog/feed/
+true,News,Hacker News,https://hnrss.org/frontpage
+true,News,Ars Technica,https://feeds.arstechnica.com/arstechnica/index
+true,News,MIT Tech Review,https://www.technologyreview.com/feed/
+true,News,The Verge,https://www.theverge.com/rss/index.xml
+true,News,TechCrunch AI,https://techcrunch.com/category/artificial-intelligence/feed/

@@ -4,7 +4,20 @@
 import { writeFileSync, readFileSync, existsSync } from "node:fs";
 import { createHash } from "node:crypto";
 import { join } from "node:path";
-import { loadJSON, ROOT } from "./lib/svg.mjs";
+import { loadJSON, loadCSV, truthy, ROOT } from "./lib/svg.mjs";
+
+// "Signal source pools" — the enabled sources grouped by track, from feeds.csv.
+function sourcePools() {
+  const rows = loadCSV("config/feeds.csv").filter((r) => truthy(r.enabled));
+  const order = [];
+  const by = {};
+  for (const r of rows) {
+    if (!by[r.category]) { by[r.category] = []; order.push(r.category); }
+    by[r.category].push(r.source);
+  }
+  const lines = order.map((c) => `<strong>${c}</strong> — ${by[c].join(" · ")}`);
+  return `<details>\n<summary>Signal source pools</summary>\n<br>\n${lines.join("<br>\n")}\n</details>`;
+}
 
 const p = loadJSON("config/profile.json");
 const pages = p.pagesUrl;
@@ -63,10 +76,12 @@ ${taglineLines}
 <br>
 
 <p align="center">
-  <img src="${img("feed.svg", "Signal — the latest from around the industry")}" width="88%" />
+  <img src="${img("feed.svg", "Signal machine — the freshest signal per track")}" width="88%" />
 </p>
 
-<p align="center"><sub>◷ Quote rotates daily · feed pulled from the field · auto-updated by GitHub Actions</sub></p>
+<p align="center"><sub>◷ Quote rotates daily · signal refreshes twice daily · auto-updated by GitHub Actions</sub></p>
+
+${sourcePools()}
 `;
 
 writeFileSync(join(ROOT, "README.md"), md);

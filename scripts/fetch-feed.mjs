@@ -1,81 +1,70 @@
-// The daily feed. Pulls the latest post from each site in config/feeds.json and
-// prepends the new ones onto the SIGNAL stack (config/feed.json); overflow past
-// `keep` pops into archive/feed-archive.json. Dedupes by link, so re-running is
-// safe. Pure Node — regex RSS/Atom parsing, no dependencies.
-import { readFileSync, writeFileSync, existsSync } from "node:fs";
+// The daily feed. For each category (track) in config/feeds.csv, fetches every
+// enabled source and keeps the single FRESHEST item — so the feed is one strong
+// signal per track, refreshed each run. Pure Node: regex RSS/Atom parsing.
+import { writeFileSync } from "node:fs";
 import { join } from "node:path";
-import { ROOT } from "./lib/svg.mjs";
+import { loadCSV, truthy, ROOT } from "./lib/svg.mjs";
 
-const feedsPath = join(ROOT, "config/feeds.json");
 const feedPath = join(ROOT, "config/feed.json");
-const archivePath = join(ROOT, "archive/feed-archive.json");
-
-const feeds = JSON.parse(readFileSync(feedsPath, "utf8"));
-const feed = JSON.parse(readFileSync(feedPath, "utf8"));
-const perSource = feeds.perSource || 1;
+const rows = loadCSV("config/feeds.csv").filter((r) => truthy(r.enabled));
 
 const decode = (s) =>
   s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
     .replace(/<[^>]+>/g, "")
     .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&#8217;/g, "'")
+    .replace(/&quot;/g, '"').replace(/&#0?39;|&apos;|&#8217;|&#x27;/g, "'")
+    .replace(/&#8211;|&#8212;/g, "–").replace(/&hellip;|&#8230;/g, "…")
     .replace(/\s+/g, " ").trim();
+const grab = (b, re) => { const m = b.match(re); return m ? m[1] : ""; };
 
-const firstMatch = (block, re) => { const m = block.match(re); return m ? m[1] : ""; };
-
-function parse(xml, max) {
+function latestItem(xml) {
   const blocks = xml.match(/<(item|entry)\b[\s\S]*?<\/\1>/gi) || [];
-  const out = [];
-  for (const b of blocks.slice(0, max * 2)) {
-    const title = decode(firstMatch(b, /<title[^>]*>([\s\S]*?)<\/title>/i));
-    const link =
-      firstMatch(b, /<link[^>]*href="([^"]+)"/i) ||
-      decode(firstMatch(b, /<link[^>]*>([\s\S]*?)<\/link>/i));
-    const dateRaw = firstMatch(b, /<(?:pubDate|published|updated|dc:date)>([^<]+)</i);
+  for (const b of blocks) {
+    const title = decode(grab(b, /<title[^>]*>([\s\S]*?)<\/title>/i));
+    const link = grab(b, /<link[^>]*href="([^"]+)"/i) || decode(grab(b, /<link[^>]*>([\s\S]*?)<\/link>/i));
+    const dateRaw = grab(b, /<(?:pubDate|published|updated|dc:date)>([^<]+)</i);
     if (!title || !link) continue;
-    let date;
     const d = new Date(dateRaw);
-    date = isNaN(d) ? new Date().toISOString().slice(0, 10) : d.toISOString().slice(0, 10);
-    out.push({ title, link, date });
-    if (out.length >= max) break;
+    return { title, link, ts: isNaN(d) ? 0 : d.getTime() };
   }
-  return out;
+  return null;
 }
 
-const fetched = [];
-for (const src of feeds.sources) {
+async function fetchLatest(src) {
   try {
     const res = await fetch(src.url, {
       headers: { "user-agent": "Mozilla/5.0 (feed reader)" },
       signal: AbortSignal.timeout(20000),
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const xml = await res.text();
-    for (const it of parse(xml, perSource)) {
-      fetched.push({ date: it.date, tag: src.tag, text: it.title, color: src.color, link: it.link });
-    }
-    console.log(`  ✓ ${src.tag}: ${parse(xml, perSource).length} item(s)`);
+    const item = latestItem(await res.text());
+    return item ? { ...item, source: src.source, track: src.category } : null;
   } catch (err) {
-    console.warn(`  ✗ ${src.tag} (${src.url}): ${err.message}`);
+    console.warn(`  ✗ ${src.source} (${src.category}): ${err.message}`);
+    return null;
   }
 }
 
-// Newest first; prepend only links we don't already have.
-fetched.sort((a, b) => (a.date < b.date ? 1 : -1));
-const have = new Set(feed.items.map((i) => i.link).filter(Boolean));
-const fresh = fetched.filter((i) => !have.has(i.link));
-feed.items = [...fresh, ...feed.items];
+// Preserve category order as first seen in the CSV.
+const order = [];
+for (const r of rows) if (!order.includes(r.category)) order.push(r.category);
 
-const keep = feed.keep || 16;
-if (feed.items.length > keep) {
-  const overflow = feed.items.splice(keep);
-  const archive = existsSync(archivePath)
-    ? JSON.parse(readFileSync(archivePath, "utf8"))
-    : { items: [] };
-  archive.items.unshift(...overflow);
-  writeFileSync(archivePath, JSON.stringify(archive, null, 2) + "\n");
-  console.log(`archived ${overflow.length} older item(s)`);
+const results = await Promise.all(rows.map(fetchLatest));
+const items = [];
+for (const track of order) {
+  const pool = results.filter((r) => r && r.track === track);
+  if (!pool.length) continue;
+  const best = pool.reduce((a, b) => (b.ts > a.ts ? b : a));
+  items.push({
+    date: best.ts ? new Date(best.ts).toISOString().slice(0, 10) : "",
+    track,
+    source: best.source,
+    text: best.title,
+    link: best.link,
+  });
+  console.log(`  ✓ ${track}: ${best.source} — ${best.title.slice(0, 50)}`);
 }
 
+const feed = { title: "SIGNAL MACHINE", note: "One freshest item per track, from config/feeds.csv. Regenerated each run.", items };
 writeFileSync(feedPath, JSON.stringify(feed, null, 2) + "\n");
-console.log(`feed: +${fresh.length} new, ${feed.items.length} in stack`);
+console.log(`feed: ${items.length} tracks`);

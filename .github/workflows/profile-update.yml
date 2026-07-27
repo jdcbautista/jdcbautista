@@ -9,7 +9,8 @@ name: profile-update
 
 on:
   schedule:
-    - cron: "17 13 * * *" # daily at 13:17 UTC
+    - cron: "17 1 * * *" # twice daily
+    - cron: "17 13 * * *"
   workflow_dispatch:
     inputs:
       module:
@@ -72,7 +73,7 @@ jobs:
                 echo "$ch" | grep -qE 'config/hero|render-hero|profile.json'                 && hero=true
                 echo "$ch" | grep -qE 'config/tools|assets/tools|render-tool-wall|fetch-icons' && toolwall=true
                 echo "$ch" | grep -qE 'config/feed|render-feed|fetch-feed'                    && feed=true
-                echo "$ch" | grep -qE 'config/quotes|render-quote'                            && quote=true
+                echo "$ch" | grep -qE 'config/quotes|config/speakers|render-quote'            && quote=true
                 echo "$ch" | grep -qE 'scripts/lib|assemble-readme|\.github/'                 && { hero=true; toolwall=true; feed=true; quote=true; }
               fi ;;
           esac

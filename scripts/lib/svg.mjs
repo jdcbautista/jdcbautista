@@ -9,6 +9,40 @@ export const ROOT = join(HERE, "..", "..");
 export const loadJSON = (rel) => JSON.parse(readFileSync(join(ROOT, rel), "utf8"));
 export const theme = () => loadJSON("config/profile.json").theme;
 
+// Parse a CSV into row objects keyed by the header. Handles double-quoted
+// fields (so a value like "Efficacy, Equanimity & Inner Life" keeps its comma),
+// skips blank lines and lines starting with '#'. Edit these files right in the
+// GitHub web editor.
+function splitCSVLine(line) {
+  const out = [];
+  let cur = "", inQ = false;
+  for (let i = 0; i < line.length; i++) {
+    const c = line[i];
+    if (inQ) {
+      if (c === '"' && line[i + 1] === '"') { cur += '"'; i++; }
+      else if (c === '"') inQ = false;
+      else cur += c;
+    } else if (c === '"') inQ = true;
+    else if (c === ",") { out.push(cur); cur = ""; }
+    else cur += c;
+  }
+  out.push(cur);
+  return out.map((s) => s.trim());
+}
+export function loadCSV(rel) {
+  const raw = readFileSync(join(ROOT, rel), "utf8");
+  const lines = raw.split(/\r?\n/).filter((l) => l.trim() && !l.trim().startsWith("#"));
+  if (!lines.length) return [];
+  const header = splitCSVLine(lines[0]);
+  return lines.slice(1).map((line) => {
+    const cells = splitCSVLine(line);
+    const row = {};
+    header.forEach((h, i) => (row[h] = cells[i] ?? ""));
+    return row;
+  });
+}
+export const truthy = (v) => /^(1|true|yes|y|on)$/i.test(String(v).trim());
+
 export const esc = (s = "") =>
   String(s)
     .replace(/&/g, "&amp;")

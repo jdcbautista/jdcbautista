@@ -1,0 +1,28 @@
+enabled,category,speaker
+# The daily quote is picked from ENABLED speakers below. Toggle true/false.
+# Quote text lives in config/quotes.json (author must match a speaker name).
+# Speakers set to false have no quotes wired up yet — enable once you add some.
+true,Advertising & Branding,Seth Godin
+true,Advertising & Branding,Donald Miller
+false,Advertising & Branding,Will Storr
+true,Business & Leadership,Simon Sinek
+true,Business & Leadership,Jim Collins
+true,Charisma & Communication,Chip & Dan Heath
+false,Charisma & Communication,David Nihill
+true,Discipline & Decision Making,Greg McKeown
+true,Discipline & Decision Making,Richard Koch
+true,"Efficacy, Equanimity & Inner Life",Marcus Aurelius
+false,"Efficacy, Equanimity & Inner Life",Donald Robertson
+true,"Efficacy, Equanimity & Inner Life",Eckhart Tolle
+true,"Efficacy, Equanimity & Inner Life",Stephen Covey
+true,Existentialism & Philosophy,Nietzsche
+true,Existentialism & Philosophy,Alfred Adler
+true,Existentialism & Philosophy,Socrates
+false,Authors,Kazuo Ishiguro
+true,Authors,Albert Camus
+false,Peak Performance,Benjamin Hardy
+false,Peak Performance,Tara Swart
+false,Peak Performance,Jay Shetty
+true,Peak Performance,Og Mandino
+false,Community Growth Strategy,Pat Flynn
+false,Community Growth Strategy,Graham Cochrane

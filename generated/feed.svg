@@ -1,42 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="326" viewBox="0 0 900 326" role="img" aria-label="Signal feed">
-  <rect x="0" y="0" width="900" height="326" rx="16" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="338" viewBox="0 0 900 338" role="img" aria-label="Signal machine">
+  <rect x="0" y="0" width="900" height="338" rx="16" fill="#0d1117" stroke="#30363d"/>
   <circle cx="26" cy="28" r="6" fill="#ff5f56"/><circle cx="46" cy="28" r="6" fill="#ffbd2e"/><circle cx="66" cy="28" r="6" fill="#27c93f"/>
-  <text x="450" y="33" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="4">SIGNAL — live feed</text>
+  <text x="450" y="33" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="13" letter-spacing="4">SIGNAL MACHINE — freshest per track</text>
   <line x1="0" y1="52" x2="900" y2="52" stroke="#30363d"/>
   
   <g>
-    <text x="24" y="82" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-27</text>
-    <rect x="120" y="69" width="58" height="18" rx="5" fill="#3fb950" opacity="0.16"/>
-    <text x="149" y="82" text-anchor="middle" fill="#3fb950" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">sre</text>
-    <text x="196" y="82" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">SRE Weekly Issue #527</text>
-    <line x1="24" y1="98" x2="876" y2="98" stroke="#30363d" opacity="0.6"/>
+    <rect x="26" y="70" width="78" height="20" rx="5" fill="#4c8bf5" opacity="0.16"/>
+    <text x="65" y="84" text-anchor="middle" fill="#4c8bf5" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" letter-spacing="1">AI</text>
+    <text x="118" y="84" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">An Inside Look at the Relay Market Powering Token Res…</text>
+    <text x="874" y="84" text-anchor="end" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">Simon Willison  ·  Jul 26</text>
+    <line x1="26" y1="101" x2="874" y2="101" stroke="#30363d" opacity="0.6"/>
   </g>
   <g>
-    <text x="24" y="128" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-24</text>
-    <rect x="120" y="115" width="58" height="18" rx="5" fill="#e0533d" opacity="0.16"/>
-    <text x="149" y="128" text-anchor="middle" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">grafana</text>
-    <text x="196" y="128" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">A new allowlists design for Grafana Cloud IP addresses: What you need to…</text>
-    <line x1="24" y1="144" x2="876" y2="144" stroke="#30363d" opacity="0.6"/>
+    <rect x="26" y="118" width="78" height="20" rx="5" fill="#d29922" opacity="0.16"/>
+    <text x="65" y="132" text-anchor="middle" fill="#d29922" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" letter-spacing="1">CLOUD</text>
+    <text x="118" y="132" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">BGP ORIGIN attribute manipulation and its impact on t…</text>
+    <text x="874" y="132" text-anchor="end" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">Cloudflare  ·  Jul 24</text>
+    <line x1="26" y1="149" x2="874" y2="149" stroke="#30363d" opacity="0.6"/>
   </g>
   <g>
-    <text x="24" y="174" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-24</text>
-    <rect x="120" y="161" width="58" height="18" rx="5" fill="#39c5cf" opacity="0.16"/>
-    <text x="149" y="174" text-anchor="middle" fill="#39c5cf" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">cncf</text>
-    <text x="196" y="174" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">My LFX mentorship journey with kgateway</text>
-    <line x1="24" y1="190" x2="876" y2="190" stroke="#30363d" opacity="0.6"/>
+    <rect x="26" y="166" width="78" height="20" rx="5" fill="#39c5cf" opacity="0.16"/>
+    <text x="65" y="180" text-anchor="middle" fill="#39c5cf" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" letter-spacing="1">SRE</text>
+    <text x="118" y="180" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">SRE Weekly Issue #527</text>
+    <text x="874" y="180" text-anchor="end" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">SRE Weekly  ·  Jul 27</text>
+    <line x1="26" y1="197" x2="874" y2="197" stroke="#30363d" opacity="0.6"/>
   </g>
   <g>
-    <text x="24" y="220" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-14</text>
-    <rect x="120" y="207" width="58" height="18" rx="5" fill="#d29922" opacity="0.16"/>
-    <text x="149" y="220" text-anchor="middle" fill="#d29922" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">aws</text>
-    <text x="196" y="220" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Automated Incident Remediation with AWS DevOps Agent and Kiro CLI</text>
-    <line x1="24" y1="236" x2="876" y2="236" stroke="#30363d" opacity="0.6"/>
+    <rect x="26" y="214" width="78" height="20" rx="5" fill="#3fb950" opacity="0.16"/>
+    <text x="65" y="228" text-anchor="middle" fill="#3fb950" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" letter-spacing="1">SYSTEMS</text>
+    <text x="118" y="228" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Kernel prepatch 7.2-rc5</text>
+    <text x="874" y="228" text-anchor="end" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">LWN  ·  Jul 26</text>
+    <line x1="26" y1="245" x2="874" y2="245" stroke="#30363d" opacity="0.6"/>
   </g>
   <g>
-    <text x="24" y="266" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="12">2026-07-14</text>
-    <rect x="120" y="253" width="58" height="18" rx="5" fill="#4c8bf5" opacity="0.16"/>
-    <text x="149" y="266" text-anchor="middle" fill="#4c8bf5" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700">k8s</text>
-    <text x="196" y="266" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Building a Custom Metrics Exporter for Kubernetes</text>
-    <line x1="24" y1="282" x2="876" y2="282" stroke="#30363d" opacity="0.6"/>
+    <rect x="26" y="262" width="78" height="20" rx="5" fill="#e0533d" opacity="0.16"/>
+    <text x="65" y="276" text-anchor="middle" fill="#e0533d" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" letter-spacing="1">NEWS</text>
+    <text x="118" y="276" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">I Championed Prediction Markets. Look What They've Be…</text>
+    <text x="874" y="276" text-anchor="end" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">Hacker News  ·  Jul 27</text>
+    <line x1="26" y1="293" x2="874" y2="293" stroke="#30363d" opacity="0.6"/>
   </g>
 </svg>

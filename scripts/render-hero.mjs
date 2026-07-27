@@ -43,10 +43,9 @@ const overlaySVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height=
   <rect width="${W}" height="${H}" rx="16" fill="url(#scrim)"/>
   <rect width="6" height="${H}" rx="3" fill="url(#edge)"/>
   <text x="40" y="70" fill="${t.accent}" font-family="monospace" font-size="15" letter-spacing="4" font-weight="700">JULIUS BAUTISTA</text>
-  <text x="40" y="94" fill="${t.muted}" font-family="monospace" font-size="11" letter-spacing="2">SITE RELIABILITY ENGINEER · DESIGNER</text>
+  <text x="40" y="94" fill="${t.muted}" font-family="monospace" font-size="11" letter-spacing="2">SITE RELIABILITY ENGINEER · INSTRUCTOR · DESIGNER</text>
   ${head.map((l, i) => `<text x="38" y="${150 + i * 46}" fill="${t.text}" font-family="Georgia,serif" font-size="40" font-weight="600">${esc(l)}</text>`).join("")}
-  <text x="40" y="${H - 30}" fill="${t.accent}" font-family="monospace" font-size="13" font-weight="700">▶ enter the site</text>
-  <text x="180" y="${H - 30}" fill="${t.muted}" font-family="monospace" font-size="13">${esc(profile.pagesUrl.replace(/^https?:\/\//, ""))} →</text></svg>`;
+  </svg>`;
 const overPx = new Resvg(overlaySVG, { fitTo: { mode: "width", value: W }, background: "rgba(0,0,0,0)" }).render().pixels;
 
 // ---- additive glow buffer (the trail) -------------------------------------

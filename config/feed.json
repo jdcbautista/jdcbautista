@@ -1,43 +1,41 @@
 {
-  "title": "SIGNAL",
-  "maxVisible": 5,
-  "keep": 16,
-  "note": "A stack. fetch-feed.mjs pulls the latest from config/feeds.json sites and prepends new items; overflow past `keep` pops into archive/feed-archive.json. push-feed.mjs can also add custom items.",
+  "title": "SIGNAL MACHINE",
+  "note": "One freshest item per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
+      "date": "2026-07-26",
+      "track": "AI",
+      "source": "Simon Willison",
+      "text": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
+    },
+    {
+      "date": "2026-07-24",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "link": "https://blog.cloudflare.com/bgp-origin-attribute/"
+    },
+    {
       "date": "2026-07-27",
-      "tag": "sre",
+      "track": "SRE",
+      "source": "SRE Weekly",
       "text": "SRE Weekly Issue #527",
-      "color": "#3fb950",
       "link": "https://sreweekly.com/sre-weekly-issue-527/"
     },
     {
-      "date": "2026-07-24",
-      "tag": "grafana",
-      "text": "A new allowlists design for Grafana Cloud IP addresses: What you need to know",
-      "color": "#e0533d",
-      "link": "https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know/"
+      "date": "2026-07-26",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "Kernel prepatch 7.2-rc5",
+      "link": "https://lwn.net/Articles/1085422/"
     },
     {
-      "date": "2026-07-24",
-      "tag": "cncf",
-      "text": "My LFX mentorship journey with kgateway",
-      "color": "#39c5cf",
-      "link": "https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway/"
-    },
-    {
-      "date": "2026-07-14",
-      "tag": "aws",
-      "text": "Automated Incident Remediation with AWS DevOps Agent and Kiro CLI",
-      "color": "#d29922",
-      "link": "https://aws.amazon.com/blogs/devops/automated-incident-remediation-with-aws-devops-agent-and-kiro-cli/"
-    },
-    {
-      "date": "2026-07-14",
-      "tag": "k8s",
-      "text": "Building a Custom Metrics Exporter for Kubernetes",
-      "color": "#4c8bf5",
-      "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"
+      "date": "2026-07-27",
+      "track": "News",
+      "source": "Hacker News",
+      "text": "I Championed Prediction Markets. Look What They've Become",
+      "link": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look"
     }
   ]
 }

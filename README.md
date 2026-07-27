@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=eb1df0f9" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=5781151c" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=408c5456" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -40,7 +40,17 @@
 <br>
 
 <p align="center">
-  <img src="generated/feed.svg?v=048e2349" alt="Signal — the latest from around the industry" width="88%" />
+  <img src="generated/feed.svg?v=b7fdfa7e" alt="Signal machine — the freshest signal per track" width="88%" />
 </p>
 
-<p align="center"><sub>◷ Quote rotates daily · feed pulled from the field · auto-updated by GitHub Actions</sub></p>
+<p align="center"><sub>◷ Quote rotates daily · signal refreshes twice daily · auto-updated by GitHub Actions</sub></p>
+
+<details>
+<summary>Signal source pools</summary>
+<br>
+<strong>AI</strong> — Simon Willison · Hugging Face · OpenAI · Google AI · Import AI<br>
+<strong>Cloud</strong> — AWS DevOps · Kubernetes · CNCF · HashiCorp · Cloudflare<br>
+<strong>SRE</strong> — SRE Weekly · Grafana · Datadog · Gremlin · Rootly<br>
+<strong>Systems</strong> — LWN · InfoQ · Martin Fowler · Netflix Tech · Stack Overflow<br>
+<strong>News</strong> — Hacker News · Ars Technica · MIT Tech Review · The Verge · TechCrunch AI
+</details>
