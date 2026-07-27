@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=eb1df0f9" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=1e786d85" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
 <h1 align="center">Julius Bautista</h1>
 <p align="center">
-<samp>Site Reliability Engineer at Enova · designer by training.</samp><br><samp>Cloud, reliability, and AI operations — Chicago.</samp>
+<samp>Site Reliability Engineer at Enova · Designer.</samp><br><samp>Cloud, reliability, and AI operations — Chicago.</samp>
 </p>
 
 <p align="center">
