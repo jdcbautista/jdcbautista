@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/search/connected-apps/"><img src="generated/feed-item-0.svg?v=a269fd3e" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/ship-infrastructure-faster-with-cloudformation-and-cdk-pre-deployment-validation-on-every-stack-operation/"><img src="generated/feed-item-1.svg?v=a1e7cc2f" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-524/"><img src="generated/feed-item-2.svg?v=9fa57883" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/"><img src="generated/feed-item-3.svg?v=6d2f4657" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"><img src="generated/feed-item-4.svg?v=63ecde20" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"><img src="generated/feed-item-0.svg?v=cc709b9f" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers/"><img src="generated/feed-item-1.svg?v=b5788e9f" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/"><img src="generated/feed-item-2.svg?v=2f7ace5f" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-07-21.html"><img src="generated/feed-item-3.svg?v=3623a4d5" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"><img src="generated/feed-item-4.svg?v=70ce3375" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
