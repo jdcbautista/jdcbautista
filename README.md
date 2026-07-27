@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=e72f9508" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=b860fea7" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 

@@ -1,38 +1,36 @@
 // Renders generated/hero.gif — the animated hero (this IS the "hero" module).
 //
-// The spiral is the ACTUAL `s01` drawing from the old `devfolio` Spotify
-// visualizer, rendered on a real Canvas2D (@napi-rs/canvas) — the same 2D
-// backend p5 uses — not an approximation. Each frame lays down s01's three
-// translucent background washes (which leave the smoky trails) and its three
-// solid orbiting ellipses (inner at r, outer two at 2r), leaping ~110°/step
-// (tempo), with r growing so the figure spirals outward. We warm the canvas up
-// so the fog reaches steady state, capture one loop, composite the fixed text
-// over it, and bake it to a GIF (GitHub READMEs can't run p5/canvas).
+// Layers, composited each frame on a Canvas2D and baked to a GIF (GitHub can't
+// run p5/canvas):
+//   1. panel gradient
+//   2. PARALLAX STARFIELD — 3 depth layers drifting at different speeds; each
+//      wraps an integer number of times over the loop, so it's seamless.
+//   3. the real `s01` spiral — solid orbiting ellipses (inner r, outer two 2r),
+//      leaping ~110°/step; trails fade toward TRANSPARENT (so stars show
+//      through). Each orbit's brightness fades in at birth and out at death
+//      (envelope on the cycle phase) so the radius reset never pops.
+//   4. fixed text overlay (rendered once with resvg).
+// The whole thing is exactly periodic (angle repeats every 12 frames, r does
+// one grow→reset cycle over N frames) → frame N == frame 0, no fade needed.
 import { writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { Resvg } from "@resvg/resvg-js";
-import { createCanvas } from "@napi-rs/canvas";
+import { createCanvas, ImageData } from "@napi-rs/canvas";
 import gifenc from "gifenc";
 import { loadJSON, theme, esc, wrap, ROOT } from "./lib/svg.mjs";
 const { GIFEncoder, quantize, applyPalette } = gifenc;
 
-const W = 900, H = 392, DELAY = 55;
+const W = 900, H = 392, DELAY = 55, N = 48;
 const t = theme();
 const profile = loadJSON("config/profile.json");
 const head = ["Build beautiful and", "meaningful things."];
 const subLines = wrap(profile.heroSub || "", 42);
 const hex = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
 
-// ---- static layers, rasterized once with resvg ----------------------------
-const panelSVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${t.panel}"/><stop offset="1" stop-color="${t.bg}"/></linearGradient></defs>
-  <rect width="${W}" height="${H}" fill="${t.bg}"/>
-  <rect width="${W}" height="${H}" rx="16" fill="url(#bg)" stroke="${t.line}"/></svg>`;
-const panelPx = new Resvg(panelSVG, { fitTo: { mode: "width", value: W } }).render().pixels;
-
+// ---- fixed text overlay (resvg → canvas) ----------------------------------
 const overlaySVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs>
-    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="${t.bg}" stop-opacity="0.96"/><stop offset="0.42" stop-color="${t.bg}" stop-opacity="0.82"/><stop offset="0.72" stop-color="${t.bg}" stop-opacity="0"/></linearGradient>
+    <linearGradient id="scrim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="${t.bg}" stop-opacity="0.94"/><stop offset="0.42" stop-color="${t.bg}" stop-opacity="0.78"/><stop offset="0.72" stop-color="${t.bg}" stop-opacity="0"/></linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${t.accent}"/><stop offset="1" stop-color="${t.accent2}"/></linearGradient>
   </defs>
   <rect width="${W}" height="${H}" rx="16" fill="url(#scrim)"/>
@@ -43,63 +41,74 @@ const overlaySVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height=
   ${subLines.map((l, i) => `<text x="40" y="${242 + i * 23}" fill="${t.muted}" font-family="Georgia,serif" font-size="15">${esc(l)}</text>`).join("")}
   </svg>`;
 const overPx = new Resvg(overlaySVG, { fitTo: { mode: "width", value: W }, background: "rgba(0,0,0,0)" }).render().pixels;
+const overlayCanvas = createCanvas(W, H);
+overlayCanvas.getContext("2d").putImageData(new ImageData(new Uint8ClampedArray(overPx), W, H), 0, 0);
 
-// ---- the real s01 sketch, on a Canvas2D ------------------------------------
-const canvas = createCanvas(W, H);
-const ctx = canvas.getContext("2d");
-const grad = ctx.createLinearGradient(0, 0, W, H);
-grad.addColorStop(0, t.panel); grad.addColorStop(1, t.bg);
-ctx.fillStyle = grad; ctx.fillRect(0, 0, W, H);
-
-const cx = 700, cy = Math.round(H * 0.46); // orbit center, right side
-const DEG = Math.PI / 180, tempo = 110;
-// Exact periodicity → seamless loop with NO fade. The angle advances exactly
-// 330°/frame (3×110), which repeats every 12 frames, and r completes exactly
-// one grow→reset cycle over N frames — so frame N is identical to frame 0.
-const N = 48, RMIN = 6, RMAX = 176;
-const GROW = Math.pow(RMAX / RMIN, 1 / N);
-let angle = 0, r = RMIN;
-
-function ellipse(x, y, d) {
-  ctx.beginPath();
-  ctx.ellipse(x, y, d / 2, d / 2, 0, 0, Math.PI * 2);
-  ctx.fillStyle = "rgba(236,240,246,0.92)";
-  ctx.fill();
-  ctx.lineWidth = 1;
-  ctx.strokeStyle = "rgba(10,12,16,0.45)";
-  ctx.stroke();
+// ---- parallax starfield (seeded so it's stable across runs) ----------------
+const mulberry32 = (a) => () => { a |= 0; a = (a + 0x6d2b79f5) | 0; let x = Math.imul(a ^ (a >>> 15), 1 | a); x = (x + Math.imul(x ^ (x >>> 7), 61 | x)) ^ x; return ((x ^ (x >>> 14)) >>> 0) / 4294967296; };
+const rng = mulberry32(20260727);
+const LAYERS = [
+  { n: 110, wraps: 1, size: [0.5, 1.0], a: [0.10, 0.30] }, // far
+  { n: 55, wraps: 2, size: [0.8, 1.4], a: [0.25, 0.5] },  // mid
+  { n: 24, wraps: 3, size: [1.2, 2.1], a: [0.45, 0.8] },  // near
+];
+const stars = [];
+for (const L of LAYERS) for (let i = 0; i < L.n; i++)
+  stars.push({ x: rng() * W, y: rng() * H, s: L.size[0] + rng() * (L.size[1] - L.size[0]), a: L.a[0] + rng() * (L.a[1] - L.a[0]), vx: (W * L.wraps) / N });
+function drawStars(ctx, f) {
+  ctx.fillStyle = "#cbd6ea";
+  for (const st of stars) {
+    const x = ((st.x - st.vx * f) % W + W) % W;
+    ctx.globalAlpha = st.a;
+    ctx.beginPath(); ctx.arc(x, st.y, st.s, 0, Math.PI * 2); ctx.fill();
+  }
+  ctx.globalAlpha = 1;
 }
 
-// One s01 draw(): three translucent washes (trails) + three orbiting ellipses.
+// ---- the s01 spiral on its own transparent layer --------------------------
+const spiral = createCanvas(W, H);
+const sx = spiral.getContext("2d");
+const cx = 700, cy = Math.round(H * 0.46), DEG = Math.PI / 180, tempo = 110;
+const RMIN = 6, RMAX = 176, GROW = Math.pow(RMAX / RMIN, 1 / N);
+let angle = 0, r = RMIN, cyc = 0;
+
+function orbit(x, y, d, env) {
+  sx.beginPath();
+  sx.ellipse(x, y, d / 2, d / 2, 0, 0, Math.PI * 2);
+  sx.fillStyle = `rgba(236,240,246,${(0.95 * env).toFixed(3)})`;
+  sx.fill();
+  sx.lineWidth = 1; sx.strokeStyle = `rgba(10,12,16,${(0.4 * env).toFixed(3)})`; sx.stroke();
+}
 function step() {
-  ctx.fillStyle = "rgba(18,20,26,0.085)"; ctx.fillRect(0, 0, W, H); // dark trail
-  ctx.fillStyle = "rgba(210,216,226,0.020)"; ctx.fillRect(0, 0, W, H); // light wash (fog)
-  ctx.fillStyle = "rgba(120,60,60,0.013)"; ctx.fillRect(0, 0, W, H); // faint warmth
-  ellipse(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 44);
-  angle += tempo;
-  ellipse(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 24);
-  angle += tempo;
-  ellipse(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 12);
-  angle += tempo;
+  // fade existing trails toward TRANSPARENT (so the starfield shows through)
+  sx.globalCompositeOperation = "destination-out";
+  sx.fillStyle = "rgba(0,0,0,0.10)"; sx.fillRect(0, 0, W, H);
+  sx.globalCompositeOperation = "source-over";
+  const env = Math.sin(Math.PI * ((cyc % N) / N)); // 0 at birth/death → no reset pop
+  orbit(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 44, env); angle += tempo;
+  orbit(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 24, env); angle += tempo;
+  orbit(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 12, env); angle += tempo;
   r *= GROW; if (r >= RMAX) r = RMIN;
+  cyc++;
+}
+
+// ---- compose each frame ----------------------------------------------------
+const compose = createCanvas(W, H);
+const cc = compose.getContext("2d");
+const grad = cc.createLinearGradient(0, 0, W, H);
+grad.addColorStop(0, t.panel); grad.addColorStop(1, t.bg);
+function frameAt(f) {
+  cc.globalCompositeOperation = "source-over";
+  cc.fillStyle = grad; cc.fillRect(0, 0, W, H);
+  drawStars(cc, f);
+  cc.drawImage(spiral, 0, 0);
+  cc.drawImage(overlayCanvas, 0, 0);
+  return cc.getImageData(0, 0, W, H).data;
 }
 
 for (let i = 0; i < 2 * N; i++) step(); // settle onto the periodic attractor
-const spiralFrames = [];
-for (let f = 0; f < N; f++) { step(); spiralFrames.push(ctx.getImageData(0, 0, W, H).data); }
-
-// ---- composite: s01 canvas + fixed text overlay (no fade) -----------------
-function compose(spiral) {
-  const out = new Uint8ClampedArray(W * H * 4);
-  for (let q = 0; q < out.length; q += 4) {
-    let R = spiral[q], G = spiral[q + 1], B = spiral[q + 2];
-    const a = overPx[q + 3] / 255;
-    if (a > 0) { R = overPx[q] * a + R * (1 - a); G = overPx[q + 1] * a + G * (1 - a); B = overPx[q + 2] * a + B * (1 - a); }
-    out[q] = R; out[q + 1] = G; out[q + 2] = B; out[q + 3] = 255;
-  }
-  return out;
-}
-const frames = spiralFrames.map(compose);
+const frames = [];
+for (let f = 0; f < N; f++) { step(); frames.push(frameAt(f)); }
 
 // ---- palette + encode ------------------------------------------------------
 let palette;
@@ -111,13 +120,12 @@ catch {
   for (const c of [...ramp(bg, [236, 240, 246], 48), ...ramp(bg, [90, 95, 108], 16), hex(t.accent), hex(t.accent2)]) for (let k = 0; k < 40; k++) sw.push(c[0], c[1], c[2], 255);
   palette = quantize(new Uint8Array(sw), 64, { format: "rgb565" });
 }
-
 const gif = GIFEncoder();
 for (const fr of frames) gif.writeFrame(applyPalette(fr, palette, "rgb565"), W, H, { palette, delay: DELAY });
 gif.finish();
 const bytes = gif.bytes();
 writeFileSync(join(ROOT, "generated/hero.gif"), bytes);
-console.log(`rendered generated/hero.gif (real s01 canvas, ${N} frames, ${(bytes.length / 1024).toFixed(0)} KB)`);
+console.log(`rendered generated/hero.gif (s01 + parallax stars, ${N} frames, ${(bytes.length / 1024).toFixed(0)} KB)`);
 
 // MONTAGE=1 → stack sampled frames into a PNG for inspection.
 if (process.env.MONTAGE) {
