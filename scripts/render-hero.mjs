@@ -67,8 +67,9 @@ function drawStars(ctx, f) {
 // ---- RIGHT: the s01 spiral (confined to x >= SPLIT) -----------------------
 const spiral = createCanvas(W, H);
 const sx = spiral.getContext("2d");
-const cx = Math.round((SPLIT + W) / 2), cy = Math.round(H * 0.46), DEG = Math.PI / 180, tempo = 110;
-const RMIN = 6, RMAX = 150, GROW = Math.pow(RMAX / RMIN, 1 / N);
+const cx = Math.round((SPLIT + W) / 2), cy = Math.round(H * 0.5), DEG = Math.PI / 180, tempo = 110;
+const RMIN = 6, RMAX = 210, GROW = Math.pow(RMAX / RMIN, 1 / N);
+const FADE_BY = 0.72; // orbits fade to 0 by this phase — before they'd reach an edge
 let angle = 0, cyc = 0;
 
 function orbit(x, y, d, env) {
@@ -82,13 +83,16 @@ function step() {
   sx.save();
   sx.beginPath(); sx.rect(SPLIT, 0, W - SPLIT, H); sx.clip(); // keep the spiral in the right panel
   sx.globalCompositeOperation = "destination-out";
-  sx.fillStyle = "rgba(0,0,0,0.11)"; sx.fillRect(0, 0, W, H); // fade trails → transparent
+  sx.fillStyle = "rgba(0,0,0,0.22)"; sx.fillRect(0, 0, W, H); // fade trails → transparent (higher = shorter trails)
   sx.globalCompositeOperation = "source-over";
   // r is a pure function of the cycle phase → period is EXACTLY N (no off-by-one
   // reset), so frame N == frame 0. env is 0 at phase 0 so the wrap is invisible.
   const phase = (cyc % N) / N;
   const r = RMIN * Math.pow(GROW, cyc % N);
-  const env = Math.sin(Math.PI * phase);
+  // Envelope peaks mid-cycle and returns to 0 by FADE_BY — so each orbit is
+  // fully faded out BEFORE its radius grows large enough to touch a panel edge.
+  // No half-cropped circles; the outer arc of the spiral simply dissolves.
+  const env = phase < FADE_BY ? Math.sin(Math.PI * phase / FADE_BY) : 0;
   orbit(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 44, env); angle += tempo;
   orbit(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 24, env); angle += tempo;
   orbit(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 12, env); angle += tempo;
