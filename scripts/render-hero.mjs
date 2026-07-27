@@ -47,14 +47,18 @@ const overPx = new Resvg(overlaySVG, { fitTo: { mode: "width", value: W }, backg
 // ---- the real s01 sketch, on a Canvas2D ------------------------------------
 const canvas = createCanvas(W, H);
 const ctx = canvas.getContext("2d");
-ctx.fillStyle = `rgb(${hex(t.bg).join(",")})`;
-ctx.fillRect(0, 0, W, H);
+const grad = ctx.createLinearGradient(0, 0, W, H);
+grad.addColorStop(0, t.panel); grad.addColorStop(1, t.bg);
+ctx.fillStyle = grad; ctx.fillRect(0, 0, W, H);
 
 const cx = 700, cy = Math.round(H * 0.46); // orbit center, right side
-const DEG = Math.PI / 180;
-const tempo = 110, speed = 0.1;
-let angle = 0, r = 8;
-const GROW = 1.058, RMIN = 8, RMAX = 176;
+const DEG = Math.PI / 180, tempo = 110;
+// Exact periodicity → seamless loop with NO fade. The angle advances exactly
+// 330°/frame (3×110), which repeats every 12 frames, and r completes exactly
+// one grow→reset cycle over N frames — so frame N is identical to frame 0.
+const N = 48, RMIN = 6, RMAX = 176;
+const GROW = Math.pow(RMAX / RMIN, 1 / N);
+let angle = 0, r = RMIN;
 
 function ellipse(x, y, d) {
   ctx.beginPath();
@@ -72,34 +76,30 @@ function step() {
   ctx.fillStyle = "rgba(210,216,226,0.020)"; ctx.fillRect(0, 0, W, H); // light wash (fog)
   ctx.fillStyle = "rgba(120,60,60,0.013)"; ctx.fillRect(0, 0, W, H); // faint warmth
   ellipse(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 44);
-  angle += speed / 2 + tempo;
+  angle += tempo;
   ellipse(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 24);
-  angle += speed + tempo;
+  angle += tempo;
   ellipse(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 12);
-  angle += speed * 2 + tempo;
-  r = r < RMAX ? r * GROW : RMIN;
+  angle += tempo;
+  r *= GROW; if (r >= RMAX) r = RMIN;
 }
 
-const N = 56, WARM = 46;
-for (let i = 0; i < WARM; i++) step(); // let the fog reach steady state
+for (let i = 0; i < 2 * N; i++) step(); // settle onto the periodic attractor
 const spiralFrames = [];
 for (let f = 0; f < N; f++) { step(); spiralFrames.push(ctx.getImageData(0, 0, W, H).data); }
 
-// ---- composite: lerp(panel, spiral, env) + text overlay --------------------
-// env fades the spiral fully out at the first/last frame → seamless loop.
-function compose(spiral, env) {
+// ---- composite: s01 canvas + fixed text overlay (no fade) -----------------
+function compose(spiral) {
   const out = new Uint8ClampedArray(W * H * 4);
   for (let q = 0; q < out.length; q += 4) {
-    let R = panelPx[q] + (spiral[q] - panelPx[q]) * env;
-    let G = panelPx[q + 1] + (spiral[q + 1] - panelPx[q + 1]) * env;
-    let B = panelPx[q + 2] + (spiral[q + 2] - panelPx[q + 2]) * env;
+    let R = spiral[q], G = spiral[q + 1], B = spiral[q + 2];
     const a = overPx[q + 3] / 255;
     if (a > 0) { R = overPx[q] * a + R * (1 - a); G = overPx[q + 1] * a + G * (1 - a); B = overPx[q + 2] * a + B * (1 - a); }
     out[q] = R; out[q + 1] = G; out[q + 2] = B; out[q + 3] = 255;
   }
   return out;
 }
-const frames = spiralFrames.map((sp, f) => compose(sp, Math.max(0, Math.min(f / 4, (N - 1 - f) / 6, 1))));
+const frames = spiralFrames.map(compose);
 
 // ---- palette + encode ------------------------------------------------------
 let palette;
@@ -122,7 +122,7 @@ console.log(`rendered generated/hero.gif (real s01 canvas, ${N} frames, ${(bytes
 // MONTAGE=1 → stack sampled frames into a PNG for inspection.
 if (process.env.MONTAGE) {
   const { deflateSync } = await import("node:zlib");
-  const pick = [0, 6, 12, 18, 24, 30, 36, 42, 48, N - 1];
+  const pick = Array.from({ length: 10 }, (_, i) => Math.round((i * (N - 1)) / 9));
   const MH = H * pick.length;
   const big = new Uint8ClampedArray(W * MH * 4);
   pick.forEach((fi, band) => big.set(frames[fi], band * W * H * 4));

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="52" viewBox="0 0 900 52" role="img">
+    <path d="M0 52 L0 16 Q0 0 16 0 L884 0 Q900 0 900 16 L900 52 Z" fill="#161b22"/>
+    <path d="M0 52 L0 16 Q0 0 16 0 L884 0 Q900 0 900 16 L900 52" fill="none" stroke="#30363d"/>
+    <line x1="0" y1="52" x2="900" y2="52" stroke="#30363d"/>
+    <circle cx="28" cy="27" r="6" fill="#ff5f56"/><circle cx="48" cy="27" r="6" fill="#ffbd2e"/><circle cx="68" cy="27" r="6" fill="#27c93f"/>
+    <text x="450" y="32" text-anchor="middle" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="14" letter-spacing="5" font-weight="700">FEED</text>
+    <text x="876" y="32" text-anchor="end" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="10">refreshed daily</text></svg>

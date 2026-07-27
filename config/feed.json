@@ -1,41 +1,41 @@
 {
-  "title": "SIGNAL MACHINE",
-  "note": "One freshest item per track, from config/feeds.csv. Regenerated each run.",
+  "title": "Feed",
+  "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-26",
+      "date": "2026-06-15",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-      "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
+      "source": "Import AI",
+      "text": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+      "link": "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"
+    },
+    {
+      "date": "2026-07-13",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Kubernetes Dashboard to Headlamp: A Step-by-Step Guide",
+      "link": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/"
+    },
+    {
+      "date": "2026-07-16",
+      "track": "SRE",
+      "source": "Rootly",
+      "text": "What Doom taught us about AI-assisted incident response | Rootly",
+      "link": "https://webflow.rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response"
     },
     {
       "date": "2026-07-24",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-      "link": "https://blog.cloudflare.com/bgp-origin-attribute/"
-    },
-    {
-      "date": "2026-07-27",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #527",
-      "link": "https://sreweekly.com/sre-weekly-issue-527/"
-    },
-    {
-      "date": "2026-07-26",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Kernel prepatch 7.2-rc5",
-      "link": "https://lwn.net/Articles/1085422/"
+      "source": "Stack Overflow",
+      "text": "Partnerships can keep open source sustainable​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌​​ ‍‌​ ‍‌​ ​‍​ ​‌​ ​‍​ ​​​ ​‍​‍ ‌​ ​‌‌‍‌‍​ ​ ​ ​‌​‍ ‌​ ‌​​ ​​​ ​ ​ ‌‍​‍ ‌​ ‍‌‌‍‌‍‌‍​‍​ ‌ ​‍ ‌‌‍​‌​ ‌ ​ ‍​​ ‌‌​ ‍​​ ​‍​ ‍​​ ‌ ​ ​ ​ ​‌​ ​ ‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+      "link": "https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/"
     },
     {
       "date": "2026-07-27",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Are brain waves the next unlock for physical AI?",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+      "source": "Hacker News",
+      "text": "PGSimCity - How PostgreSQL Works",
+      "link": "https://nikolays.github.io/PGSimCity/"
     }
   ]
 }

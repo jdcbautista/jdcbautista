@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=026afa8e" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=97489791" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
@@ -37,14 +37,18 @@
 
 <br>
 
-<p align="center">
-  <img src="generated/feed.svg?v=c7e70705" alt="Signal machine — the freshest signal per track" width="88%" />
-</p>
+<div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" /><!--
+--><a href="https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/"><img src="generated/feed-item-0.svg?v=aadcc654" alt="AI — Import AI" width="720" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/"><img src="generated/feed-item-1.svg?v=e71e2c24" alt="Cloud — Kubernetes" width="720" /></a><!--
+--><a href="https://webflow.rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response"><img src="generated/feed-item-2.svg?v=fa7de4d2" alt="SRE — Rootly" width="720" /></a><!--
+--><a href="https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/"><img src="generated/feed-item-3.svg?v=1c87584d" alt="Systems — Stack Overflow" width="720" /></a><!--
+--><a href="https://nikolays.github.io/PGSimCity/"><img src="generated/feed-item-4.svg?v=64974d75" alt="News — Hacker News" width="720" /></a><!--
+--><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" /></div>
 
-<p align="center"><sub>◷ Quote rotates daily · signal refreshes twice daily · auto-updated by GitHub Actions</sub></p>
+<p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
 
 <details>
-<summary>Signal source pools</summary>
+<summary>Feed sources</summary>
 <br>
 <strong>AI</strong> — Simon Willison · Hugging Face · OpenAI · Google AI · Import AI<br>
 <strong>Cloud</strong> — AWS DevOps · Kubernetes · CNCF · HashiCorp · Cloudflare<br>

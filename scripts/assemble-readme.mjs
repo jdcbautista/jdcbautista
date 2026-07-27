@@ -16,7 +16,7 @@ function sourcePools() {
     by[r.category].push(r.source);
   }
   const lines = order.map((c) => `<strong>${c}</strong> — ${by[c].join(" · ")}`);
-  return `<details>\n<summary>Signal source pools</summary>\n<br>\n${lines.join("<br>\n")}\n</details>`;
+  return `<details>\n<summary>Feed sources</summary>\n<br>\n${lines.join("<br>\n")}\n</details>`;
 }
 
 const p = loadJSON("config/profile.json");
@@ -31,6 +31,17 @@ const ver = (path) => {
   return createHash("sha1").update(readFileSync(abs)).digest("hex").slice(0, 8);
 };
 const img = (path, alt) => `generated/${path}?v=${ver(path)}" alt="${alt}`;
+
+// Feed: header + one CLICKABLE SVG per article + footer, stacked with ZERO gap
+// via HTML-comment newline-eaters so they read as a single card. Each item row
+// links to its article; the header/footer don't.
+const feed = loadJSON("config/feed.json");
+const feedParts = [
+  `<img src="${img("feed-header.svg", "Feed")}" width="720" />`,
+  ...feed.items.map((it, i) => `<a href="${it.link}"><img src="${img(`feed-item-${i}.svg`, `${it.track} — ${it.source}`)}" width="720" /></a>`),
+  `<img src="${img("feed-footer.svg", "Feed")}" width="720" />`,
+];
+const feedStack = `<div align="center">${feedParts.join("<!--\n-->")}</div>`;
 
 
 const md = `<!-- ============================================================
@@ -72,11 +83,9 @@ const md = `<!-- ============================================================
 
 <br>
 
-<p align="center">
-  <img src="${img("feed.svg", "Signal machine — the freshest signal per track")}" width="88%" />
-</p>
+${feedStack}
 
-<p align="center"><sub>◷ Quote rotates daily · signal refreshes twice daily · auto-updated by GitHub Actions</sub></p>
+<p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
 
 ${sourcePools()}
 `;
