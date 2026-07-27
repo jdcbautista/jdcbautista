@@ -78,13 +78,13 @@ function drawStars(ctx, f) {
 const spiral = createCanvas(W, H);
 const sx = spiral.getContext("2d");
 const cx = Math.round((SPLIT + W) / 2), cy = Math.round(H * 0.5), DEG = Math.PI / 180;
-const G = 1.055;              // radius ratio between adjacent circles (smaller = denser)
-const TURN = 137.5 * DEG;     // angle between adjacent circles (golden angle → organic fill)
+const G = 1.026;              // radius ratio between adjacent circles (small → many tight whorls)
+const TURN = 18 * DEG;        // angle between adjacent circles (small → a continuous winding arm)
 const K = 6;                  // generations advanced per loop (outward speed; MUST be integer)
 const R0 = 2;                 // radius of generation t=0 (px)
-const RAD = 9;                // circle radius (px, constant → delicate uniform dots)
+const RAD = 8;                // circle radius (px, constant → delicate uniform dots)
 const FADE_IN = [2, 9];       // fade opacity 0→full as radius crosses this band (birth)
-const I_MIN = -10, I_MAX = 100; // integer band: center (opacity 0) → off-panel, padded by K
+const I_MIN = -10, I_MAX = 204; // integer band: center (opacity 0) → off-panel, padded by K
 
 function drawSpiral(f) {
   sx.clearRect(0, 0, W, H);
