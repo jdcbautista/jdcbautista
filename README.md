@@ -6,22 +6,12 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=6fa4b3e8" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=efbe9aba" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
 <h1 align="center">Julius Bautista</h1>
 <p align="center"><sub>Site Reliability Engineer · Instructor · Designer · Chicago</sub></p>
-
-<table align="center" width="720"><tr><td align="center">
-
-<strong>Your production has to stay boring.</strong> Services multiply, the toil piles up, on-call gets heavy — and now everyone wants AI in the loop without it breaking things.
-
-That's been my work for fifteen years: keeping systems calm — 170+ services and an automation platform running ~1.6M jobs a year at 99.6% — building the guardrails and self-service tooling that let teams move fast, and teaching engineers to do the same. I came up as a designer, so I sweat how a system <em>feels</em> to use, not just whether it's up.
-
-Bring me the messy, high-stakes parts. <strong>You keep shipping; I'll keep it reliable.</strong>
-
-</td></tr></table>
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/"><strong>Portfolio</strong></a>

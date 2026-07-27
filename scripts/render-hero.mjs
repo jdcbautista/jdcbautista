@@ -18,11 +18,12 @@ import gifenc from "gifenc";
 import { loadJSON, theme, esc, wrap, ROOT } from "./lib/svg.mjs";
 const { GIFEncoder, quantize, applyPalette } = gifenc;
 
-const W = 900, H = 340, DELAY = 55;
+const W = 900, H = 372, DELAY = 55;
 const t = theme();
 const profile = loadJSON("config/profile.json");
 const headline = "Build and create beautiful things";
 const head = ["Build and create", "beautiful things"];
+const subLines = wrap(profile.heroSub || "", 40);
 
 const cx = 700, cy = H / 2; // orbit center (right side, clear of the text)
 const DEG = Math.PI / 180;
@@ -45,6 +46,7 @@ const overlaySVG = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height=
   <text x="40" y="70" fill="${t.accent}" font-family="monospace" font-size="15" letter-spacing="4" font-weight="700">JULIUS BAUTISTA</text>
   <text x="40" y="94" fill="${t.muted}" font-family="monospace" font-size="11" letter-spacing="2">SITE RELIABILITY ENGINEER · INSTRUCTOR · DESIGNER</text>
   ${head.map((l, i) => `<text x="38" y="${150 + i * 46}" fill="${t.text}" font-family="Georgia,serif" font-size="40" font-weight="600">${esc(l)}</text>`).join("")}
+  ${subLines.map((l, i) => `<text x="40" y="${242 + i * 23}" fill="${t.muted}" font-family="Georgia,serif" font-size="15">${esc(l)}</text>`).join("")}
   </svg>`;
 const overPx = new Resvg(overlaySVG, { fitTo: { mode: "width", value: W }, background: "rgba(0,0,0,0)" }).render().pixels;
 
