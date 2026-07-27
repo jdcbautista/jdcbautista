@@ -18,12 +18,12 @@ import gifenc from "gifenc";
 import { loadJSON, theme, esc, wrap, ROOT } from "./lib/svg.mjs";
 const { GIFEncoder, quantize, applyPalette } = gifenc;
 
-const W = 900, H = 372, DELAY = 55;
+const W = 900, H = 392, DELAY = 55;
 const t = theme();
 const profile = loadJSON("config/profile.json");
-const headline = "Build and create beautiful things";
-const head = ["Build and create", "beautiful things"];
-const subLines = wrap(profile.heroSub || "", 40);
+const headline = "Build beautiful and meaningful things.";
+const head = ["Build beautiful and", "meaningful things."];
+const subLines = wrap(profile.heroSub || "", 42);
 
 const cx = 700, cy = H / 2; // orbit center (right side, clear of the text)
 const DEG = Math.PI / 180;
