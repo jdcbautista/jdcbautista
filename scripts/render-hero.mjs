@@ -7,8 +7,11 @@
 //   RIGHT panel — the real `s01` spiral (solid orbiting ellipses, trails).
 // Both are made exactly periodic so frame N == frame 0 (seamless, no fade):
 //   • stars: each layer drifts up an integer number of screen-heights over N.
-//   • spiral: angle 330°/frame (repeats every 12) + r one grow→reset over N,
-//     with a sin(π·phase) brightness envelope so the reset never pops.
+//   • spiral: a SELF-SIMILAR log spiral — every frame the whole thing advances
+//     by K/N of a generation; over the loop it advances by exactly K (integer)
+//     generations, so frame N's circles are identical to frame 0's (just
+//     re-indexed). Circles grow as they spiral out and drift fully off the
+//     edge — no brightness fade, no gap, no half-cropped circle at the wrap.
 // Run with DIFF=1 to print consecutive-frame diffs (the wrap diff should match
 // its neighbors — that's how we verify the loop, not by eyeballing a montage).
 import { writeFileSync } from "node:fs";
@@ -65,39 +68,44 @@ function drawStars(ctx, f) {
 }
 
 // ---- RIGHT: the s01 spiral (confined to x >= SPLIT) -----------------------
+// Circle i sits at radius R0·G^t, angle t·TURN, with t = i + K·(f/N). Because t
+// advances by exactly K (integer) generations per loop, frame N's set of
+// circles == frame 0's, re-indexed. SIZE and OPACITY are pure functions of the
+// radius, so the circle occupying any given radius is identical at frame 0 and
+// frame N → the loop is pixel-identical (seamless) with NO fade hack. Circles
+// fade IN near the center (birth) and drift fully off the panel edge (clipped)
+// — small delicate dots, bright dense core, no gap, no half-cropped circle.
 const spiral = createCanvas(W, H);
 const sx = spiral.getContext("2d");
-const cx = Math.round((SPLIT + W) / 2), cy = Math.round(H * 0.5), DEG = Math.PI / 180, tempo = 110;
-const RMIN = 6, RMAX = 210, GROW = Math.pow(RMAX / RMIN, 1 / N);
-const FADE_BY = 0.72; // orbits fade to 0 by this phase — before they'd reach an edge
-let angle = 0, cyc = 0;
+const cx = Math.round((SPLIT + W) / 2), cy = Math.round(H * 0.5), DEG = Math.PI / 180;
+const G = 1.055;              // radius ratio between adjacent circles (smaller = denser)
+const TURN = 137.5 * DEG;     // angle between adjacent circles (golden angle → organic fill)
+const K = 6;                  // generations advanced per loop (outward speed; MUST be integer)
+const R0 = 2;                 // radius of generation t=0 (px)
+const RAD = 9;                // circle radius (px, constant → delicate uniform dots)
+const FADE_IN = [2, 9];       // fade opacity 0→full as radius crosses this band (birth)
+const I_MIN = -10, I_MAX = 100; // integer band: center (opacity 0) → off-panel, padded by K
 
-function orbit(x, y, d, env) {
-  sx.beginPath();
-  sx.ellipse(x, y, d / 2, d / 2, 0, 0, Math.PI * 2);
-  sx.fillStyle = `rgba(236,240,246,${(0.95 * env).toFixed(3)})`;
-  sx.fill();
-  sx.lineWidth = 1; sx.strokeStyle = `rgba(10,12,16,${(0.4 * env).toFixed(3)})`; sx.stroke();
-}
-function step() {
+function drawSpiral(f) {
+  sx.clearRect(0, 0, W, H);
   sx.save();
   sx.beginPath(); sx.rect(SPLIT, 0, W - SPLIT, H); sx.clip(); // keep the spiral in the right panel
-  sx.globalCompositeOperation = "destination-out";
-  sx.fillStyle = "rgba(0,0,0,0.22)"; sx.fillRect(0, 0, W, H); // fade trails → transparent (higher = shorter trails)
-  sx.globalCompositeOperation = "source-over";
-  // r is a pure function of the cycle phase → period is EXACTLY N (no off-by-one
-  // reset), so frame N == frame 0. env is 0 at phase 0 so the wrap is invisible.
-  const phase = (cyc % N) / N;
-  const r = RMIN * Math.pow(GROW, cyc % N);
-  // Envelope peaks mid-cycle and returns to 0 by FADE_BY — so each orbit is
-  // fully faded out BEFORE its radius grows large enough to touch a panel edge.
-  // No half-cropped circles; the outer arc of the spiral simply dissolves.
-  const env = phase < FADE_BY ? Math.sin(Math.PI * phase / FADE_BY) : 0;
-  orbit(cx + r * Math.cos(angle * DEG), cy + r * Math.sin(angle * DEG), 44, env); angle += tempo;
-  orbit(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 24, env); angle += tempo;
-  orbit(cx + 2 * r * Math.cos(angle * DEG), cy + 2 * r * Math.sin(angle * DEG), 12, env); angle += tempo;
+  const adv = K * (f / N);
+  for (let i = I_MIN; i <= I_MAX; i++) {
+    const t = i + adv;
+    const r = R0 * Math.pow(G, t);
+    const op = Math.min(1, Math.max(0, (r - FADE_IN[0]) / (FADE_IN[1] - FADE_IN[0]))) * 0.55;
+    if (op <= 0.003) continue;                                   // faded-out center → invisible
+    const ang = t * TURN;
+    const x = cx + r * Math.cos(ang), y = cy + r * Math.sin(ang);
+    if (x + RAD < SPLIT || x - RAD > W || y + RAD < 0 || y - RAD > H) continue; // fully off-panel
+    sx.beginPath();
+    sx.ellipse(x, y, RAD, RAD, 0, 0, Math.PI * 2);
+    sx.fillStyle = `rgba(236,240,246,${op.toFixed(3)})`;
+    sx.fill();
+    sx.lineWidth = 1; sx.strokeStyle = `rgba(10,12,16,${(op * 0.35).toFixed(3)})`; sx.stroke();
+  }
   sx.restore();
-  cyc++;
 }
 
 // ---- compose each frame: bg → stars(left) → spiral(right) → divider → text -
@@ -109,6 +117,7 @@ function frameAt(f) {
   cc.globalCompositeOperation = "source-over";
   cc.fillStyle = grad; cc.fillRect(0, 0, W, H);
   drawStars(cc, f);
+  drawSpiral(f);
   cc.drawImage(spiral, 0, 0);
   cc.strokeStyle = t.line; cc.globalAlpha = 0.7;
   cc.beginPath(); cc.moveTo(SPLIT, 18); cc.lineTo(SPLIT, H - 18); cc.stroke(); cc.globalAlpha = 1;
@@ -116,9 +125,8 @@ function frameAt(f) {
   return cc.getImageData(0, 0, W, H).data;
 }
 
-for (let i = 0; i < 2 * N; i++) step(); // settle onto the periodic attractor
 const frames = [];
-for (let f = 0; f < N; f++) { step(); frames.push(frameAt(f)); }
+for (let f = 0; f < N; f++) frames.push(frameAt(f)); // spiral is a pure function of f — no warmup
 
 // ---- verify the loop numerically (DIFF=1) ---------------------------------
 if (process.env.DIFF) {
