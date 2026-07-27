@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://jdcbautista.github.io/portfolio/">
-    <img src="generated/hero.gif?v=5781151c" alt="Julius Bautista" width="100%" />
+    <img src="generated/hero.gif?v=6fa4b3e8" alt="Julius Bautista" width="100%" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ Bring me the messy, high-stakes parts. <strong>You keep shipping; I'll keep it r
 <br>
 
 <p align="center">
-  <img src="generated/feed.svg?v=b7fdfa7e" alt="Signal machine — the freshest signal per track" width="88%" />
+  <img src="generated/feed.svg?v=c7e70705" alt="Signal machine — the freshest signal per track" width="88%" />
 </p>
 
 <p align="center"><sub>◷ Quote rotates daily · signal refreshes twice daily · auto-updated by GitHub Actions</sub></p>
