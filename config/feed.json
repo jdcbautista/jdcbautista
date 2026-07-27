@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-16",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
-      "link": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/"
+      "source": "Google AI",
+      "text": "Connect more of your apps to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/"
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-06-30",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Building a Custom Metrics Exporter for Kubernetes",
-      "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"
+      "source": "AWS DevOps",
+      "text": "Ship infrastructure faster with CloudFormation and CDK pre-deployment validation on every stack operation",
+      "link": "https://aws.amazon.com/blogs/devops/ship-infrastructure-faster-with-cloudformation-and-cdk-pre-deployment-validation-on-every-stack-operation/"
     },
     {
-      "date": "2026-07-22",
+      "date": "2026-07-06",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Cost attribution in Grafana Cloud: Manage spend across observability and testing workflows",
-      "link": "https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #524",
+      "link": "https://sreweekly.com/sre-weekly-issue-524/"
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-07-21",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "How Netflix Simplified Batch Compute with Kueue",
-      "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "The future of development is full-stack​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‌ ‌‍‌​​ ​ ‌‍‌‍​ ‍​‌‍​‌‌‍‌‌‌‍‌‌​‍ ‌​ ‍​​ ​​​ ‍​‌‍‌​​‍ ‌​ ‌​​ ​ ​ ‌‍​ ‌‍​‍ ‌​ ‍​​ ​‍​ ‌ ​ ​‌​‍ ‌‌‍​ ​ ‌‍‌‍‌​‌‍​‍​ ‌ ​ ‍​‌‍‌​​ ​ ​ ‍​​ ​‌​ ​‌‌‍‌​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‌ ‌‍‌​​ ​ ‌‍‌‍​ ‍​‌‍​‌‌‍‌‌‌‍‌‌​‍ ‌​ ‍​​ ​​​ ‍​‌‍‌​​‍ ‌​ ‌​​ ​ ​ ‌‍​ ‌‍​‍ ‌​ ‍​​ ​‍​ ‌ ​ ​‌​‍ ‌‌‍​ ​ ‌‍‌‍‌​‌‍​‍​ ‌ ​ ‍​‌‍‌​​ ​ ​ ‍​​ ​‌​ ​‌‌‍‌​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+      "link": "https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/"
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-07-25",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Teaching Kids Forth",
-      "link": "https://gracefulliberty.com/articles/teaching-kids-forth/"
+      "source": "Ars Technica",
+      "text": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
     }
   ]
 }
