@@ -36,10 +36,12 @@ const img = (path, alt) => `generated/${path}?v=${ver(path)}" alt="${alt}`;
 // via HTML-comment newline-eaters so they read as a single card. Each item row
 // links to its article; the header/footer don't.
 const feed = loadJSON("config/feed.json");
+// align="top" maps to vertical-align:top in the browser (a plain HTML attribute
+// GitHub keeps), which removes the inline-image baseline gap → TRUE zero gap.
 const feedParts = [
-  `<img src="${img("feed-header.svg", "Feed")}" width="720" />`,
-  ...feed.items.map((it, i) => `<a href="${it.link}"><img src="${img(`feed-item-${i}.svg`, `${it.track} — ${it.source}`)}" width="720" /></a>`),
-  `<img src="${img("feed-footer.svg", "Feed")}" width="720" />`,
+  `<img src="${img("feed-header.svg", "Feed")}" width="720" align="top" />`,
+  ...feed.items.map((it, i) => `<a href="${it.link}"><img src="${img(`feed-item-${i}.svg`, `${it.track} — ${it.source}`)}" width="720" align="top" /></a>`),
+  `<img src="${img("feed-footer.svg", "Feed")}" width="720" align="top" />`,
 ];
 const feedStack = `<div align="center">${feedParts.join("<!--\n-->")}</div>`;
 
