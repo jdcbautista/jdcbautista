@@ -31,11 +31,14 @@ function cell(tool, idx) {
   const uri = tool.image ? dataUri(`assets/tools/${tool.image}`) : null;
   const iconX = x + (CELL - ICON) / 2;
   const col = CAT[tool.category] || t.muted;
+  // Category-tinted backdrop under every glyph so real icons and lettered
+  // fallbacks share one look.
+  const pad = 6, bx = iconX - pad, by = y + 16 - pad, bs = ICON + pad * 2;
+  const backdrop = `<rect x="${bx}" y="${by}" width="${bs}" height="${bs}" rx="14" fill="${col}" opacity="0.12"/>
+       <rect x="${bx}" y="${by}" width="${bs}" height="${bs}" rx="14" fill="none" stroke="${col}" stroke-opacity="0.35"/>`;
   const art = uri
-    ? `<image x="${iconX}" y="${y + 16}" width="${ICON}" height="${ICON}" href="${uri}" preserveAspectRatio="xMidYMid meet"/>`
-    : `<rect x="${iconX}" y="${y + 16}" width="${ICON}" height="${ICON}" rx="12" fill="${col}" opacity="0.18"/>
-       <rect x="${iconX}" y="${y + 16}" width="${ICON}" height="${ICON}" rx="12" fill="none" stroke="${col}" stroke-opacity="0.5"/>
-       <text x="${x + CELL / 2}" y="${y + 16 + ICON / 2 + 9}" text-anchor="middle" fill="${col}" font-family="Georgia,serif" font-size="26" font-weight="700">${esc(tool.name[0])}</text>`;
+    ? `${backdrop}<image x="${iconX}" y="${y + 16}" width="${ICON}" height="${ICON}" href="${uri}" preserveAspectRatio="xMidYMid meet"/>`
+    : `${backdrop}<text x="${x + CELL / 2}" y="${y + 16 + ICON / 2 + 9}" text-anchor="middle" fill="${col}" font-family="Georgia,serif" font-size="26" font-weight="700">${esc(tool.name[0])}</text>`;
   return `
   <g>
     <rect x="${x}" y="${y}" width="${CELL}" height="${CELL}" rx="14" fill="${t.panel}" stroke="${t.line}"/>

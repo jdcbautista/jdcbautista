@@ -16,10 +16,13 @@ const tagColor = { build: t.accent, ship: "#3fb950", learn: t.accent2, teach: "#
 const PAD = 24, HEAD = 58, ROW = 46, W = 900;
 const H = HEAD + PAD + items.length * ROW + PAD - 10;
 
+// Truncate a (possibly long RSS) title to one line with an ellipsis.
+const oneLine = (s, n) => (s.length > n ? s.slice(0, n - 1).trimEnd() + "…" : s);
+
 function row(it, i) {
   const y = HEAD + PAD + i * ROW;
-  const col = tagColor[it.tag] || t.muted;
-  const text = wrap(it.text, 78)[0];
+  const col = it.color || tagColor[it.tag] || t.muted;
+  const text = oneLine(it.text, 74);
   return `
   <g>
     <text x="${PAD}" y="${y}" fill="${t.muted}" font-family="'JetBrains Mono',monospace" font-size="12">${esc(it.date)}</text>

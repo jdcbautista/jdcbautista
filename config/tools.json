@@ -1,15 +1,43 @@
 {
   "title": "TOOLKIT",
-  "columns": 4,
-  "note": "A small, curated accent — not a full inventory. The essence of the current stack.",
+  "columns": 6,
+  "note": "Official icons are fetched from the web by scripts/fetch-icons.mjs into assets/tools/, then embedded by render-tool-wall. Dark-brand icons use iconUrl with a light color so they stay visible on the dark panel.",
   "tools": [
-    { "name": "Python", "image": "python.svg", "category": "lang", "url": "https://python.org/" },
-    { "name": "Go", "image": "go.svg", "category": "lang", "url": "https://go.dev/" },
-    { "name": "AWS", "image": "aws.svg", "category": "cloud", "url": "https://aws.amazon.com/" },
-    { "name": "Kubernetes", "image": "kubernetes.svg", "category": "infra", "url": "https://kubernetes.io/" },
-    { "name": "Terraform", "image": "terraform.svg", "category": "infra", "url": "https://terraform.io/" },
-    { "name": "OpenTelemetry", "image": "otel.svg", "category": "obs", "url": "https://opentelemetry.io/" },
-    { "name": "Grafana", "image": "grafana.svg", "category": "obs", "url": "https://grafana.com/" },
-    { "name": "Ollama", "image": "ollama.svg", "category": "ai", "url": "https://ollama.com/" }
+    { "name": "Python", "image": "python.svg", "category": "lang", "iconUrl": "https://cdn.simpleicons.org/python" },
+    { "name": "Go", "image": "go.svg", "category": "lang", "iconUrl": "https://cdn.simpleicons.org/go" },
+    { "name": "TypeScript", "image": "typescript.svg", "category": "lang", "iconUrl": "https://cdn.simpleicons.org/typescript" },
+    { "name": "JavaScript", "image": "javascript.svg", "category": "lang", "iconUrl": "https://cdn.simpleicons.org/javascript" },
+    { "name": "C#", "image": "csharp.svg", "category": "lang", "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" },
+    { "name": "Bash", "image": "bash.svg", "category": "lang", "iconUrl": "https://cdn.simpleicons.org/gnubash/e6edf3" },
+
+    { "name": "Anthropic", "image": "anthropic.svg", "category": "ai", "iconUrl": "https://cdn.simpleicons.org/anthropic/e6edf3" },
+    { "name": "Ollama", "image": "ollama.svg", "category": "ai", "iconUrl": "https://cdn.simpleicons.org/ollama/e6edf3" },
+    { "name": "LangChain", "image": "langchain.svg", "category": "ai", "iconUrl": "https://cdn.simpleicons.org/langchain/e6edf3" },
+
+    { "name": "AWS", "image": "aws.svg", "category": "cloud", "iconUrl": "https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" },
+    { "name": "Google Cloud", "image": "gcp.svg", "category": "cloud", "iconUrl": "https://cdn.simpleicons.org/googlecloud" },
+
+    { "name": "Kubernetes", "image": "kubernetes.svg", "category": "infra", "iconUrl": "https://cdn.simpleicons.org/kubernetes" },
+    { "name": "Docker", "image": "docker.svg", "category": "infra", "iconUrl": "https://cdn.simpleicons.org/docker" },
+    { "name": "Terraform", "image": "terraform.svg", "category": "infra", "iconUrl": "https://cdn.simpleicons.org/terraform" },
+    { "name": "Ansible", "image": "ansible.svg", "category": "infra", "iconUrl": "https://cdn.simpleicons.org/ansible/e6edf3" },
+
+    { "name": "Prometheus", "image": "prometheus.svg", "category": "obs", "iconUrl": "https://cdn.simpleicons.org/prometheus" },
+    { "name": "Grafana", "image": "grafana.svg", "category": "obs", "iconUrl": "https://cdn.simpleicons.org/grafana" },
+    { "name": "OpenTelemetry", "image": "otel.svg", "category": "obs", "iconUrl": "https://cdn.simpleicons.org/opentelemetry/e6edf3" },
+    { "name": "Datadog", "image": "datadog.svg", "category": "obs", "iconUrl": "https://cdn.simpleicons.org/datadog" },
+    { "name": "Splunk", "image": "splunk.svg", "category": "obs", "iconUrl": "https://cdn.simpleicons.org/splunk/e6edf3" },
+    { "name": "PagerDuty", "image": "pagerduty.svg", "category": "obs", "iconUrl": "https://cdn.simpleicons.org/pagerduty" },
+
+    { "name": "PostgreSQL", "image": "postgresql.svg", "category": "data", "iconUrl": "https://cdn.simpleicons.org/postgresql" },
+    { "name": "Neo4j", "image": "neo4j.svg", "category": "data", "iconUrl": "https://cdn.simpleicons.org/neo4j/e6edf3" },
+    { "name": "Airflow", "image": "airflow.svg", "category": "data", "iconUrl": "https://cdn.simpleicons.org/apacheairflow" },
+    { "name": "FastAPI", "image": "fastapi.svg", "category": "data", "iconUrl": "https://cdn.simpleicons.org/fastapi" },
+    { "name": "Django", "image": "django.svg", "category": "data", "iconUrl": "https://cdn.simpleicons.org/django/e6edf3" },
+    { "name": ".NET", "image": "dotnet.svg", "category": "data", "iconUrl": "https://cdn.simpleicons.org/dotnet" },
+
+    { "name": "Git", "image": "git.svg", "category": "ci", "iconUrl": "https://cdn.simpleicons.org/git" },
+    { "name": "GitHub Actions", "image": "actions.svg", "category": "ci", "iconUrl": "https://cdn.simpleicons.org/githubactions" },
+    { "name": "CircleCI", "image": "circleci.svg", "category": "ci", "iconUrl": "https://cdn.simpleicons.org/circleci/e6edf3" }
   ]
 }

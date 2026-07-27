@@ -1,18 +1,23 @@
-// Assembles README.md from config + the generated hero/tool-wall.
-// Lean by intent: the hero, a two-line identity, links, and one small accent
-// of capability (the tool wall). No feed, no stats grid — the essence, not a
-// barrage. The feed/stats modules still exist in the machine; they're just not
-// surfaced here.
-import { writeFileSync } from "node:fs";
+// Assembles README.md from config + the generated art.
+// Layout: hero → identity + links → daily quote → toolkit → signal feed.
+// Each block's SVG carries its own heading, so the markdown stays clean.
+import { writeFileSync, readFileSync, existsSync } from "node:fs";
+import { createHash } from "node:crypto";
 import { join } from "node:path";
 import { loadJSON, ROOT } from "./lib/svg.mjs";
 
 const p = loadJSON("config/profile.json");
 const pages = p.pagesUrl;
 
-// Cache-bust so GitHub's image proxy re-fetches updated assets each run.
-const stamp = process.env.BUILD_STAMP || "dev";
-const img = (path, alt) => `generated/${path}?v=${stamp}" alt="${alt}`;
+// Cache-bust by CONTENT HASH: the ?v= only changes when the asset changes, so
+// the README (and camo's cache) update on real changes — no daily churn from
+// the static hero, but the feed/quote refresh when they move.
+const ver = (path) => {
+  const abs = join(ROOT, "generated", path);
+  if (!existsSync(abs)) return "0";
+  return createHash("sha1").update(readFileSync(abs)).digest("hex").slice(0, 8);
+};
+const img = (path, alt) => `generated/${path}?v=${ver(path)}" alt="${alt}`;
 
 const taglineLines = p.tagline.map((l) => `<samp>${l}</samp>`).join("<br>");
 
@@ -46,9 +51,23 @@ ${taglineLines}
 <br>
 
 <p align="center">
-  <img src="${img("tool-wall.svg", "Toolkit")}" width="82%" />
+  <img src="${img("quote.svg", "Quote of the day")}" width="82%" />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="${img("tool-wall.svg", "Toolkit")}" width="88%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="${img("feed.svg", "Signal — the latest from around the industry")}" width="88%" />
+</p>
+
+<p align="center"><sub>◷ Quote rotates daily · feed pulled from the field · auto-updated by GitHub Actions</sub></p>
 `;
 
 writeFileSync(join(ROOT, "README.md"), md);
-console.log("assembled README.md (lean)");
+console.log("assembled README.md");

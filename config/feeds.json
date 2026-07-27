@@ -1,0 +1,11 @@
+{
+  "note": "The daily feed pulls the latest post from each of these sites and pushes it onto the SIGNAL stack (config/feed.json). Add/remove sources here. perSource = how many latest items to take from each.",
+  "perSource": 1,
+  "sources": [
+    { "tag": "k8s", "url": "https://kubernetes.io/feed.xml", "color": "#4c8bf5" },
+    { "tag": "aws", "url": "https://aws.amazon.com/blogs/devops/feed/", "color": "#d29922" },
+    { "tag": "cncf", "url": "https://www.cncf.io/feed/", "color": "#39c5cf" },
+    { "tag": "grafana", "url": "https://grafana.com/blog/index.xml", "color": "#e0533d" },
+    { "tag": "sre", "url": "https://sreweekly.com/feed/", "color": "#3fb950" }
+  ]
+}

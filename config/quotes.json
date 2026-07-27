@@ -1,0 +1,19 @@
+{
+  "note": "The daily quote picks one of these by date (rotates every day). Add your own — text + author.",
+  "quotes": [
+    { "text": "Simplicity is the ultimate sophistication.", "author": "Leonardo da Vinci" },
+    { "text": "The details are not the details. They make the design.", "author": "Charles Eames" },
+    { "text": "Make it work, make it right, make it fast.", "author": "Kent Beck" },
+    { "text": "Design is not just what it looks like. Design is how it works.", "author": "Steve Jobs" },
+    { "text": "Perfection is attained not when there is nothing more to add, but when there is nothing left to take away.", "author": "Antoine de Saint-Exupéry" },
+    { "text": "First, solve the problem. Then, write the code.", "author": "John Johnson" },
+    { "text": "Any fool can write code a computer understands. Good programmers write code humans understand.", "author": "Martin Fowler" },
+    { "text": "Slow is smooth, and smooth is fast.", "author": "USMC adage" },
+    { "text": "Discipline equals freedom.", "author": "Jocko Willink" },
+    { "text": "The best way to predict the future is to invent it.", "author": "Alan Kay" },
+    { "text": "Everything should be made as simple as possible, but not simpler.", "author": "Albert Einstein" },
+    { "text": "Craft is the difference between what you meant and what you made.", "author": "Julius Bautista" },
+    { "text": "Quality is not an act, it is a habit.", "author": "Aristotle" },
+    { "text": "The function of good software is to make the complex appear simple.", "author": "Grady Booch" }
+  ]
+}

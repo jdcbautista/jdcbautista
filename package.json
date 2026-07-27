@@ -10,7 +10,10 @@
     "toolwall": "node scripts/render-tool-wall.mjs",
     "feed": "node scripts/render-feed.mjs",
     "stats": "node scripts/render-stats.mjs",
+    "quote": "node scripts/render-quote.mjs",
     "readme": "node scripts/assemble-readme.mjs",
+    "icons": "node scripts/fetch-icons.mjs",
+    "feed:fetch": "node scripts/fetch-feed.mjs",
     "push": "node scripts/push-feed.mjs"
   },
   "devDependencies": {

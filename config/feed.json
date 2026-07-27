@@ -1,13 +1,43 @@
 {
   "title": "SIGNAL",
   "maxVisible": 5,
-  "keep": 12,
-  "note": "The feed is a stack. New items are prepended (scripts/push-feed.mjs). When length > keep, the oldest items pop into archive/feed-archive.json.",
+  "keep": 16,
+  "note": "A stack. fetch-feed.mjs pulls the latest from config/feeds.json sites and prepends new items; overflow past `keep` pops into archive/feed-archive.json. push-feed.mjs can also add custom items.",
   "items": [
-    { "date": "2026-07-26", "tag": "build", "text": "Shadow automation platform: 36 automations, ~1.6M jobs/yr at 99.6% success." },
-    { "date": "2026-07-22", "tag": "ship", "text": "Self-serve tool lets 250+ non-eng reps ship engineer fixes — hours → minutes." },
-    { "date": "2026-07-18", "tag": "build", "text": "AI control plane: shared memory, model routing, policy gates, OTel → Grafana." },
-    { "date": "2026-07-12", "tag": "teach", "text": "Lead AI/Cloud/DevOps instructor — 160+ veteran grads, 300+ live sessions." },
-    { "date": "2026-07-06", "tag": "design", "text": "Founder, Visual Arts LLC — installations for NIH, GE, Economic Club of Chicago." }
+    {
+      "date": "2026-07-27",
+      "tag": "sre",
+      "text": "SRE Weekly Issue #527",
+      "color": "#3fb950",
+      "link": "https://sreweekly.com/sre-weekly-issue-527/"
+    },
+    {
+      "date": "2026-07-24",
+      "tag": "grafana",
+      "text": "A new allowlists design for Grafana Cloud IP addresses: What you need to know",
+      "color": "#e0533d",
+      "link": "https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know/"
+    },
+    {
+      "date": "2026-07-24",
+      "tag": "cncf",
+      "text": "My LFX mentorship journey with kgateway",
+      "color": "#39c5cf",
+      "link": "https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway/"
+    },
+    {
+      "date": "2026-07-14",
+      "tag": "aws",
+      "text": "Automated Incident Remediation with AWS DevOps Agent and Kiro CLI",
+      "color": "#d29922",
+      "link": "https://aws.amazon.com/blogs/devops/automated-incident-remediation-with-aws-devops-agent-and-kiro-cli/"
+    },
+    {
+      "date": "2026-07-14",
+      "tag": "k8s",
+      "text": "Building a Custom Metrics Exporter for Kubernetes",
+      "color": "#4c8bf5",
+      "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"
+    }
   ]
 }
