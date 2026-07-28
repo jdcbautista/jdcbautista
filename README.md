@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=2f47b238" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"><img src="generated/feed-item-0.svg?v=cc709b9f" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers/"><img src="generated/feed-item-1.svg?v=b5788e9f" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/"><img src="generated/feed-item-2.svg?v=2f7ace5f" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-07-21.html"><img src="generated/feed-item-3.svg?v=3623a4d5" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"><img src="generated/feed-item-4.svg?v=70ce3375" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/nunchaku-diffusers"><img src="generated/feed-item-0.svg?v=8d5e81fb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/"><img src="generated/feed-item-1.svg?v=c8c2a17b" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/"><img src="generated/feed-item-2.svg?v=76db7bae" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=b885f09c" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"><img src="generated/feed-item-4.svg?v=68ab7f3e" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

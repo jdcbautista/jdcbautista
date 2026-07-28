@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-26",
+      "date": "2026-07-23",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-      "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
+      "source": "Hugging Face",
+      "text": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "link": "https://huggingface.co/blog/nunchaku-diffusers"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-13",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Launch of the AI Infra SIG under the CNCF Japan chapter: First meetup and call for speakers",
-      "link": "https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers/"
+      "source": "Kubernetes",
+      "text": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
+      "link": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/"
     },
     {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "track": "SRE",
       "source": "Grafana",
-      "text": "Cost attribution in Grafana Cloud: Manage spend across observability and testing workflows",
-      "link": "https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/"
+      "text": "How to monitor your Supabase projects: connect Grafana Cloud in one click",
+      "link": "https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-27",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: July 21",
-      "link": "https://martinfowler.com/fragments/2026-07-21.html"
+      "source": "InfoQ",
+      "text": "Article: An Evolutionary Architecture Pattern for Managing AI's Pace of Change",
+      "link": "https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-07-27",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
+      "source": "TechCrunch AI",
+      "text": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
     }
   ]
 }
