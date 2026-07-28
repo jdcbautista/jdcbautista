@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/nunchaku-diffusers"><img src="generated/feed-item-0.svg?v=8d5e81fb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/"><img src="generated/feed-item-1.svg?v=c8c2a17b" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/"><img src="generated/feed-item-2.svg?v=76db7bae" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=b885f09c" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"><img src="generated/feed-item-4.svg?v=68ab7f3e" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything"><img src="generated/feed-item-0.svg?v=58799bcd" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/"><img src="generated/feed-item-1.svg?v=a7715f86" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"><img src="generated/feed-item-2.svg?v=593d635e" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/rachels-ramblings/intro.html"><img src="generated/feed-item-3.svg?v=734f1d61" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"><img src="generated/feed-item-4.svg?v=dc20a414" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

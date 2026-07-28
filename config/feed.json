@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-23",
+      "date": "2026-07-27",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "link": "https://huggingface.co/blog/nunchaku-diffusers"
+      "source": "Simon Willison",
+      "text": "An opinionated guide to which AI to use to do stuff",
+      "link": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything"
     },
     {
-      "date": "2026-07-13",
+      "date": "2026-06-22",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
-      "link": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/"
+      "source": "AWS DevOps",
+      "text": "Building and running custom code transformations without leaving your editor",
+      "link": "https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-28",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "How to monitor your Supabase projects: connect Grafana Cloud in one click",
-      "link": "https://grafana.com/blog/grafana-cloud-supabase-one-click-integration/"
+      "source": "Datadog",
+      "text": "Investigate every security event with an AI agent, without the frontier bill",
+      "link": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"
     },
     {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Article: An Evolutionary Architecture Pattern for Managing AI's Pace of Change",
-      "link": "https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Why I'm Writing Rachel's Ramblings",
+      "link": "https://martinfowler.com/rachels-ramblings/intro.html"
     },
     {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
+      "source": "MIT Tech Review",
+      "text": "The Download: OpenAI's predictable hack, and an AI stock sell-off",
+      "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
     }
   ]
 }
