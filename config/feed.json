@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-23",
+      "date": "2026-06-29",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "link": "https://huggingface.co/blog/nunchaku-diffusers"
+      "source": "Import AI",
+      "text": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "link": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+    },
+    {
+      "date": "2026-07-23",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "Introducing Cache Response Rules",
+      "link": "https://blog.cloudflare.com/introducing-cache-response-rules/"
+    },
+    {
+      "date": "2026-07-27",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "Explore what's next in agentic operations: Introducing AI Week",
+      "link": "https://grafana.com/blog/explore-what-s-next-in-agentic-operations-introducing-ai-week/"
+    },
+    {
+      "date": "2026-07-16",
+      "track": "Systems",
+      "source": "Martin Fowler",
+      "text": "The Archaeologist's Copilot",
+      "link": "https://martinfowler.com/articles/archaeologist-copilot.html"
     },
     {
       "date": "2026-07-29",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "CNCF and SlashData Report Finds Japan's Cloud Native Community Reaches Nearly 1 Million Developers",
-      "link": "https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers/"
-    },
-    {
-      "date": "2026-07-22",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "Unbiased Java CPU profiling with JFR in JDK 25",
-      "link": "https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/"
-    },
-    {
-      "date": "2026-07-28",
-      "track": "Systems",
-      "source": "InfoQ",
-      "text": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices",
-      "link": "https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
-    },
-    {
-      "date": "2026-07-28",
       "track": "News",
-      "source": "The Verge",
-      "text": "Ariana Grande is suing the hackers who've been leaking her songs and videos for years",
-      "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit"
+      "source": "TechCrunch AI",
+      "text": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
     }
   ]
 }

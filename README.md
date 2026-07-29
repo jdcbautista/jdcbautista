@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/nunchaku-diffusers"><img src="generated/feed-item-0.svg?v=8d5e81fb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers/"><img src="generated/feed-item-1.svg?v=759d72b1" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/"><img src="generated/feed-item-2.svg?v=6ed432e7" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=b67b1337" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit"><img src="generated/feed-item-4.svg?v=ba467e0b" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"><img src="generated/feed-item-0.svg?v=c9e2d262" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/introducing-cache-response-rules/"><img src="generated/feed-item-1.svg?v=1ff05138" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/explore-what-s-next-in-agentic-operations-introducing-ai-week/"><img src="generated/feed-item-2.svg?v=09c0f296" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/archaeologist-copilot.html"><img src="generated/feed-item-3.svg?v=b75ec0a2" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"><img src="generated/feed-item-4.svg?v=c7552b7b" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
