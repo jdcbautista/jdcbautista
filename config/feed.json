@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-27",
+      "date": "2026-07-23",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "An opinionated guide to which AI to use to do stuff",
-      "link": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything"
+      "source": "Hugging Face",
+      "text": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "link": "https://huggingface.co/blog/nunchaku-diffusers"
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-07-29",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Building and running custom code transformations without leaving your editor",
-      "link": "https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/"
+      "source": "CNCF",
+      "text": "CNCF and SlashData Report Finds Japan's Cloud Native Community Reaches Nearly 1 Million Developers",
+      "link": "https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-22",
       "track": "SRE",
       "source": "Datadog",
-      "text": "Investigate every security event with an AI agent, without the frontier bill",
-      "link": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"
+      "text": "Unbiased Java CPU profiling with JFR in JDK 25",
+      "link": "https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/"
     },
     {
       "date": "2026-07-28",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Why I'm Writing Rachel's Ramblings",
-      "link": "https://martinfowler.com/rachels-ramblings/intro.html"
+      "source": "InfoQ",
+      "text": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices",
+      "link": "https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-07-28",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: OpenAI's predictable hack, and an AI stock sell-off",
-      "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
+      "source": "The Verge",
+      "text": "Ariana Grande is suing the hackers who've been leaking her songs and videos for years",
+      "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit"
     }
   ]
 }

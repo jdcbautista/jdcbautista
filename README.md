@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=2f47b238" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=9fe1b0fe" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything"><img src="generated/feed-item-0.svg?v=58799bcd" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/building-and-running-custom-code-transformations-without-leaving-your-editor/"><img src="generated/feed-item-1.svg?v=a7715f86" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"><img src="generated/feed-item-2.svg?v=593d635e" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/rachels-ramblings/intro.html"><img src="generated/feed-item-3.svg?v=734f1d61" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"><img src="generated/feed-item-4.svg?v=dc20a414" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/nunchaku-diffusers"><img src="generated/feed-item-0.svg?v=8d5e81fb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers/"><img src="generated/feed-item-1.svg?v=759d72b1" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/"><img src="generated/feed-item-2.svg?v=6ed432e7" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=b67b1337" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit"><img src="generated/feed-item-4.svg?v=ba467e0b" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
