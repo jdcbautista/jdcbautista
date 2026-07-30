@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-06-29",
+      "date": "2026-07-27",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
-      "link": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"
+      "source": "OpenAI",
+      "text": "How AI is expanding what people do at work",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+    },
+    {
+      "date": "2026-07-24",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "link": "https://blog.cloudflare.com/bgp-origin-attribute/"
     },
     {
       "date": "2026-07-23",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Introducing Cache Response Rules",
-      "link": "https://blog.cloudflare.com/introducing-cache-response-rules/"
-    },
-    {
-      "date": "2026-07-27",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Explore what's next in agentic operations: Introducing AI Week",
-      "link": "https://grafana.com/blog/explore-what-s-next-in-agentic-operations-introducing-ai-week/"
+      "source": "Datadog",
+      "text": "AI gateway best practices: Model routing, reliability, and budget controls for production agents",
+      "link": "https://www.datadoghq.com/blog/ai-gateways-best-practices/"
     },
     {
-      "date": "2026-07-16",
+      "date": "2026-06-29",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "The Archaeologist's Copilot",
-      "link": "https://martinfowler.com/articles/archaeologist-copilot.html"
+      "source": "Netflix Tech",
+      "text": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+      "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-07-29",
       "track": "News",
       "source": "TechCrunch AI",
-      "text": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+      "text": "Discover what's next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
     }
   ]
 }

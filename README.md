@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=9fe1b0fe" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/"><img src="generated/feed-item-0.svg?v=c9e2d262" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/introducing-cache-response-rules/"><img src="generated/feed-item-1.svg?v=1ff05138" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/explore-what-s-next-in-agentic-operations-introducing-ai-week/"><img src="generated/feed-item-2.svg?v=09c0f296" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/archaeologist-copilot.html"><img src="generated/feed-item-3.svg?v=b75ec0a2" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"><img src="generated/feed-item-4.svg?v=c7552b7b" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"><img src="generated/feed-item-0.svg?v=f7e00397" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/bgp-origin-attribute/"><img src="generated/feed-item-1.svg?v=08469d5a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/ai-gateways-best-practices/"><img src="generated/feed-item-2.svg?v=089b8591" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c4a0e021" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"><img src="generated/feed-item-4.svg?v=46f39198" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
