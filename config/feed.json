@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-27",
+      "date": "2026-07-29",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "How AI is expanding what people do at work",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+      "source": "Simon Willison",
+      "text": "Adding a custom MCP server to Claude and ChatGPT",
+      "link": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-28",
       "track": "Cloud",
       "source": "Cloudflare",
-      "text": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-      "link": "https://blog.cloudflare.com/bgp-origin-attribute/"
+      "text": "Natural disasters and government interference: examining Q2 2026's major Internet disruption events",
+      "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-21",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "AI gateway best practices: Model routing, reliability, and budget controls for production agents",
-      "link": "https://www.datadoghq.com/blog/ai-gateways-best-practices/"
+      "source": "Rootly",
+      "text": "Incident management best practices for 2026: A complete guide | Rootly",
+      "link": "https://webflow.rootly.com/blog/incident-management-best-practices-2026"
     },
     {
-      "date": "2026-06-29",
+      "date": "2026-07-30",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
-      "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
+      "link": "https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "track": "News",
       "source": "TechCrunch AI",
-      "text": "Discover what's next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"
+      "text": "TechCrunch Disrupt 2026's biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/"
     }
   ]
 }

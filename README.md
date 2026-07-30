@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"><img src="generated/feed-item-0.svg?v=f7e00397" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/bgp-origin-attribute/"><img src="generated/feed-item-1.svg?v=08469d5a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/ai-gateways-best-practices/"><img src="generated/feed-item-2.svg?v=089b8591" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c4a0e021" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/"><img src="generated/feed-item-4.svg?v=46f39198" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"><img src="generated/feed-item-0.svg?v=4fd39a52" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"><img src="generated/feed-item-1.svg?v=4f36dc3d" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/incident-management-best-practices-2026"><img src="generated/feed-item-2.svg?v=49906e1b" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=217ef278" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/"><img src="generated/feed-item-4.svg?v=03040244" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
