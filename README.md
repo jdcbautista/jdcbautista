@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"><img src="generated/feed-item-0.svg?v=4fd39a52" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"><img src="generated/feed-item-1.svg?v=4f36dc3d" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/incident-management-best-practices-2026"><img src="generated/feed-item-2.svg?v=49906e1b" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=217ef278" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/"><img src="generated/feed-item-4.svg?v=03040244" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/avatarin"><img src="generated/feed-item-0.svg?v=e2a25947" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/"><img src="generated/feed-item-1.svg?v=2a24ed54" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"><img src="generated/feed-item-2.svg?v=5a6e7d55" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=7fe94dfa" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://earendil.com/posts/session-portability/"><img src="generated/feed-item-4.svg?v=35604e50" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Adding a custom MCP server to Claude and ChatGPT",
-      "link": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"
+      "source": "OpenAI",
+      "text": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "link": "https://openai.com/index/avatarin"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-08",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Natural disasters and government interference: examining Q2 2026's major Internet disruption events",
-      "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"
+      "source": "Kubernetes",
+      "text": "Announcing etcd v3.7.0",
+      "link": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-29",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Incident management best practices for 2026: A complete guide | Rootly",
-      "link": "https://webflow.rootly.com/blog/incident-management-best-practices-2026"
+      "source": "Grafana",
+      "text": "Automate all the things: How to use Grafana Cloud's AI to relieve the operational burden",
+      "link": "https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"
     },
     {
       "date": "2026-07-30",
       "track": "Systems",
       "source": "InfoQ",
-      "text": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
-      "link": "https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "text": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action",
+      "link": "https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "TechCrunch Disrupt 2026's biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/"
+      "source": "Hacker News",
+      "text": "The Session You Cannot take with you",
+      "link": "https://earendil.com/posts/session-portability/"
     }
   ]
 }
