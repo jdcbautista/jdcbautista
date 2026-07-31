@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/avatarin"><img src="generated/feed-item-0.svg?v=e2a25947" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/"><img src="generated/feed-item-1.svg?v=2a24ed54" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"><img src="generated/feed-item-2.svg?v=5a6e7d55" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=7fe94dfa" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://earendil.com/posts/session-portability/"><img src="generated/feed-item-4.svg?v=35604e50" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/search/connected-apps/"><img src="generated/feed-item-0.svg?v=a269fd3e" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"><img src="generated/feed-item-1.svg?v=79a1b42f" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"><img src="generated/feed-item-2.svg?v=9a50223a" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bdba6789" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"><img src="generated/feed-item-4.svg?v=a2594410" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

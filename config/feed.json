@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-30",
+      "date": "2026-07-16",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "link": "https://openai.com/index/avatarin"
-    },
-    {
-      "date": "2026-07-08",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Announcing etcd v3.7.0",
-      "link": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/"
+      "source": "Google AI",
+      "text": "Connect more of your apps to Search",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/"
     },
     {
       "date": "2026-07-29",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+      "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"
+    },
+    {
+      "date": "2026-07-28",
       "track": "SRE",
       "source": "Grafana",
-      "text": "Automate all the things: How to use Grafana Cloud's AI to relieve the operational burden",
-      "link": "https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"
+      "text": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
+      "link": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"
     },
     {
       "date": "2026-07-30",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action",
-      "link": "https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Netflix Tech",
+      "text": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-07-30",
       "track": "News",
-      "source": "Hacker News",
-      "text": "The Session You Cannot take with you",
-      "link": "https://earendil.com/posts/session-portability/"
+      "source": "MIT Tech Review",
+      "text": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
     }
   ]
 }
