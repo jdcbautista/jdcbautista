@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything"><img src="generated/feed-item-0.svg?v=edb2a00c" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth/"><img src="generated/feed-item-1.svg?v=207aca00" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/building-abundant-intelligence"><img src="generated/feed-item-0.svg?v=02b286d4" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"><img src="generated/feed-item-1.svg?v=4f36dc3d" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
 --><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=554a91ff" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker"><img src="generated/feed-item-4.svg?v=c4ed087f" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-07-21.html"><img src="generated/feed-item-3.svg?v=3623a4d5" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"><img src="generated/feed-item-4.svg?v=83f559ed" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

@@ -5,16 +5,16 @@
     {
       "date": "2026-07-31",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything"
+      "source": "OpenAI",
+      "text": "Building abundant intelligence",
+      "link": "https://openai.com/index/building-abundant-intelligence"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-07-28",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth",
-      "link": "https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth/"
+      "source": "Cloudflare",
+      "text": "Natural disasters and government interference: examining Q2 2026's major Internet disruption events",
+      "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"
     },
     {
       "date": "2026-07-24",
@@ -24,18 +24,18 @@
       "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-07-21",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Presentation: The Free-Lunch Guide to Idea Circularity",
-      "link": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Fragments: July 21",
+      "link": "https://martinfowler.com/fragments/2026-07-21.html"
     },
     {
       "date": "2026-07-31",
       "track": "News",
-      "source": "The Verge",
-      "text": "Google might launch a 'Pixel Tag'",
-      "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker"
+      "source": "MIT Tech Review",
+      "text": "Montana's new \"right to try\" law can't come soon enough for some",
+      "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
     }
   ]
 }
