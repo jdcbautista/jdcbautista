@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6a5d3ea5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/search/connected-apps/"><img src="generated/feed-item-0.svg?v=a269fd3e" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"><img src="generated/feed-item-1.svg?v=79a1b42f" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"><img src="generated/feed-item-2.svg?v=9a50223a" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bdba6789" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"><img src="generated/feed-item-4.svg?v=a2594410" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything"><img src="generated/feed-item-0.svg?v=edb2a00c" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth/"><img src="generated/feed-item-1.svg?v=207aca00" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=554a91ff" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker"><img src="generated/feed-item-4.svg?v=c4ed087f" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

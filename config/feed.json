@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-16",
+      "date": "2026-07-31",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Connect more of your apps to Search",
-      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+      "source": "Simon Willison",
+      "text": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-31",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
-      "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"
+      "source": "CNCF",
+      "text": "Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth",
+      "link": "https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-24",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
-      "link": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"
+      "source": "Rootly",
+      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
+      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "Presentation: The Free-Lunch Guide to Idea Circularity",
+      "link": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+      "source": "The Verge",
+      "text": "Google might launch a 'Pixel Tag'",
+      "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker"
     }
   ]
 }
