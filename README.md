@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"><img src="generated/feed-item-0.svg?v=b5d92405" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/terraform-azurerm-provider-50-now-generally-available"><img src="generated/feed-item-1.svg?v=be7a54da" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/why-agentic-ai-development-needs-reliability-guardrails"><img src="generated/feed-item-2.svg?v=e9fc5306" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1084869/"><img src="generated/feed-item-3.svg?v=e81b3dbc" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"><img src="generated/feed-item-4.svg?v=3980befe" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"><img src="generated/feed-item-0.svg?v=c4332305" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/terraform-stacks-explained"><img src="generated/feed-item-1.svg?v=35d46a85" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"><img src="generated/feed-item-2.svg?v=1371e2f4" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=554a91ff" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/"><img src="generated/feed-item-4.svg?v=17ecb92d" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

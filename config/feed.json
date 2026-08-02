@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-22",
+      "date": "2026-07-31",
       "track": "AI",
-      "source": "Google AI",
-      "text": "3 Google updates from Galaxy Unpacked 2026",
-      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+      "source": "OpenAI",
+      "text": "Disrupting a Criminal Scam Operation",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+    },
+    {
+      "date": "2026-07-23",
+      "track": "Cloud",
+      "source": "HashiCorp",
+      "text": "Terraform Stacks, explained",
+      "link": "https://www.hashicorp.com/blog/terraform-stacks-explained"
     },
     {
       "date": "2026-07-28",
-      "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Terraform AzureRM provider 5.0 now generally available",
-      "link": "https://www.hashicorp.com/blog/terraform-azurerm-provider-50-now-generally-available"
-    },
-    {
-      "date": "2026-05-15",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Why agentic AI development needs reliability guardrails",
-      "link": "https://www.gremlin.com/blog/why-agentic-ai-development-needs-reliability-guardrails"
+      "source": "Rootly",
+      "text": "Why Rootly acquired ThinkHive | Rootly",
+      "link": "https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"
     },
     {
       "date": "2026-07-31",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] The future of libraries in BPF",
-      "link": "https://lwn.net/Articles/1084869/"
+      "source": "InfoQ",
+      "text": "Presentation: The Free-Lunch Guide to Idea Circularity",
+      "link": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-08-01",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Judge denies xAI's request to block Minnesota ban on 'nudify' apps",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+      "source": "Ars Technica",
+      "text": "Defcon's new badge is a security key you can see inside",
+      "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/"
     }
   ]
 }
