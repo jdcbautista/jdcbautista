@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6a5d3ea5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=7050c51f" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/building-abundant-intelligence"><img src="generated/feed-item-0.svg?v=02b286d4" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"><img src="generated/feed-item-1.svg?v=4f36dc3d" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-07-21.html"><img src="generated/feed-item-3.svg?v=3623a4d5" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"><img src="generated/feed-item-4.svg?v=83f559ed" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"><img src="generated/feed-item-0.svg?v=b5d92405" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/terraform-azurerm-provider-50-now-generally-available"><img src="generated/feed-item-1.svg?v=be7a54da" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/why-agentic-ai-development-needs-reliability-guardrails"><img src="generated/feed-item-2.svg?v=e9fc5306" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1084869/"><img src="generated/feed-item-3.svg?v=e81b3dbc" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"><img src="generated/feed-item-4.svg?v=3980befe" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-31",
+      "date": "2026-07-22",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Building abundant intelligence",
-      "link": "https://openai.com/index/building-abundant-intelligence"
+      "source": "Google AI",
+      "text": "3 Google updates from Galaxy Unpacked 2026",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
     },
     {
       "date": "2026-07-28",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Natural disasters and government interference: examining Q2 2026's major Internet disruption events",
-      "link": "https://blog.cloudflare.com/q2-2026-internet-disruption-summary/"
+      "source": "HashiCorp",
+      "text": "Terraform AzureRM provider 5.0 now generally available",
+      "link": "https://www.hashicorp.com/blog/terraform-azurerm-provider-50-now-generally-available"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-05-15",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
-      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
-    },
-    {
-      "date": "2026-07-21",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: July 21",
-      "link": "https://martinfowler.com/fragments/2026-07-21.html"
+      "source": "Gremlin",
+      "text": "Why agentic AI development needs reliability guardrails",
+      "link": "https://www.gremlin.com/blog/why-agentic-ai-development-needs-reliability-guardrails"
     },
     {
       "date": "2026-07-31",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "[$] The future of libraries in BPF",
+      "link": "https://lwn.net/Articles/1084869/"
+    },
+    {
+      "date": "2026-08-01",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Montana's new \"right to try\" law can't come soon enough for some",
-      "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
+      "source": "TechCrunch AI",
+      "text": "Judge denies xAI's request to block Minnesota ban on 'nudify' apps",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
     }
   ]
 }
