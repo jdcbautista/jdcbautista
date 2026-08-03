@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=7050c51f" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=e0fa4229" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"><img src="generated/feed-item-0.svg?v=c4332305" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/terraform-stacks-explained"><img src="generated/feed-item-1.svg?v=35d46a85" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"><img src="generated/feed-item-2.svg?v=1371e2f4" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=554a91ff" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/"><img src="generated/feed-item-4.svg?v=17ecb92d" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/ship-infrastructure-faster-with-cloudformation-and-cdk-pre-deployment-validation-on-every-stack-operation/"><img src="generated/feed-item-1.svg?v=a1e7cc2f" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"><img src="generated/feed-item-2.svg?v=5a6e7d55" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"><img src="generated/feed-item-4.svg?v=30e35411" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

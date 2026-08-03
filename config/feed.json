@@ -10,32 +10,32 @@
       "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-06-30",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Terraform Stacks, explained",
-      "link": "https://www.hashicorp.com/blog/terraform-stacks-explained"
+      "source": "AWS DevOps",
+      "text": "Ship infrastructure faster with CloudFormation and CDK pre-deployment validation on every stack operation",
+      "link": "https://aws.amazon.com/blogs/devops/ship-infrastructure-faster-with-cloudformation-and-cdk-pre-deployment-validation-on-every-stack-operation/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Why Rootly acquired ThinkHive | Rootly",
-      "link": "https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"
+      "source": "Grafana",
+      "text": "Automate all the things: How to use Grafana Cloud's AI to relieve the operational burden",
+      "link": "https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"
     },
     {
       "date": "2026-07-31",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Presentation: The Free-Lunch Guide to Idea Circularity",
-      "link": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Netflix Tech",
+      "text": "Modeling Device Capabilities for Analytics",
+      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Defcon's new badge is a security key you can see inside",
-      "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/"
+      "source": "The Verge",
+      "text": "Fender's CEO seems to think your bandmates are just analog AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
     }
   ]
 }
