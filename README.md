@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"><img src="generated/feed-item-0.svg?v=c4332305" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/ship-infrastructure-faster-with-cloudformation-and-cdk-pre-deployment-validation-on-every-stack-operation/"><img src="generated/feed-item-1.svg?v=a1e7cc2f" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"><img src="generated/feed-item-2.svg?v=5a6e7d55" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"><img src="generated/feed-item-4.svg?v=30e35411" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/allenai/olmoearth-infrastructure"><img src="generated/feed-item-0.svg?v=d59fba8c" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri/"><img src="generated/feed-item-1.svg?v=9b57f0e0" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/runtime-prioritization-engine/"><img src="generated/feed-item-2.svg?v=c9d0388f" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c4a0e021" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"><img src="generated/feed-item-4.svg?v=3980befe" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
