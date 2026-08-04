@@ -5,37 +5,37 @@
     {
       "date": "2026-08-03",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting David Crawshaw's prompt",
-      "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"
+      "source": "Google AI",
+      "text": "Inside our 353,000-person vibe coding course",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
     },
     {
-      "date": "2026-07-22",
+      "date": "2026-08-04",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "One service, many doors: Multi-port services in Consul",
-      "link": "https://www.hashicorp.com/blog/one-service-many-doors-multi-port-services-in-consul"
-    },
-    {
-      "date": "2026-07-20",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #526",
-      "link": "https://sreweekly.com/sre-weekly-issue-526/"
+      "source": "CNCF",
+      "text": "You can't debug what you can't see — Observability for AI Agents",
+      "link": "https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/"
     },
     {
       "date": "2026-07-31",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "The Conductor Developer",
-      "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html"
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Prioritize security findings with the Datadog Runtime Prioritization Engine",
+      "link": "https://www.datadoghq.com/blog/runtime-prioritization-engine/"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
+      "track": "Systems",
+      "source": "InfoQ",
+      "text": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
+      "link": "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+    },
+    {
+      "date": "2026-08-04",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Here's why AI agents lie and cheat to reach their goals",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+      "source": "TechCrunch AI",
+      "text": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"
     }
   ]
 }

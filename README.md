@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"><img src="generated/feed-item-0.svg?v=104b1ad3" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/one-service-many-doors-multi-port-services-in-consul"><img src="generated/feed-item-1.svg?v=9ade7505" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-526/"><img src="generated/feed-item-2.svg?v=e2c24747" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/rachels-ramblings/conductor-developer.html"><img src="generated/feed-item-3.svg?v=83169638" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"><img src="generated/feed-item-4.svg?v=192829f8" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"><img src="generated/feed-item-0.svg?v=fb111980" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/"><img src="generated/feed-item-1.svg?v=5d10207e" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/runtime-prioritization-engine/"><img src="generated/feed-item-2.svg?v=c9d0388f" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=2e720514" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"><img src="generated/feed-item-4.svg?v=4fee08a2" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
