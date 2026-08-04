@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-28",
+      "date": "2026-08-03",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+      "source": "Simon Willison",
+      "text": "Quoting David Crawshaw's prompt",
+      "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-22",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Runtime Supply Chain Verification using the Node Resource Interface (NRI)",
-      "link": "https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri/"
+      "source": "HashiCorp",
+      "text": "One service, many doors: Multi-port services in Consul",
+      "link": "https://www.hashicorp.com/blog/one-service-many-doors-multi-port-services-in-consul"
+    },
+    {
+      "date": "2026-07-20",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #526",
+      "link": "https://sreweekly.com/sre-weekly-issue-526/"
     },
     {
       "date": "2026-07-31",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "Prioritize security findings with the Datadog Runtime Prioritization Engine",
-      "link": "https://www.datadoghq.com/blog/runtime-prioritization-engine/"
-    },
-    {
-      "date": "2026-06-29",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
-      "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4"
+      "source": "Martin Fowler",
+      "text": "The Conductor Developer",
+      "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html"
     },
     {
-      "date": "2026-08-01",
+      "date": "2026-08-03",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Judge denies xAI's request to block Minnesota ban on 'nudify' apps",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+      "source": "MIT Tech Review",
+      "text": "Here's why AI agents lie and cheat to reach their goals",
+      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
     }
   ]
 }

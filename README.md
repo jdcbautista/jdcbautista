@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=e0fa4229" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=99d87fa4" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/allenai/olmoearth-infrastructure"><img src="generated/feed-item-0.svg?v=d59fba8c" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri/"><img src="generated/feed-item-1.svg?v=9b57f0e0" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/runtime-prioritization-engine/"><img src="generated/feed-item-2.svg?v=c9d0388f" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c4a0e021" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"><img src="generated/feed-item-4.svg?v=3980befe" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything"><img src="generated/feed-item-0.svg?v=104b1ad3" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/one-service-many-doors-multi-port-services-in-consul"><img src="generated/feed-item-1.svg?v=9ade7505" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-526/"><img src="generated/feed-item-2.svg?v=e2c24747" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/rachels-ramblings/conductor-developer.html"><img src="generated/feed-item-3.svg?v=83169638" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"><img src="generated/feed-item-4.svg?v=192829f8" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
