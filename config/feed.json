@@ -5,37 +5,37 @@
     {
       "date": "2026-08-03",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Inside our 353,000-person vibe coding course",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+      "source": "Import AI",
+      "text": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+      "link": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-07-29",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Kubeflow SDK evolution- One million downloads and counting",
-      "link": "https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting/"
+      "source": "AWS DevOps",
+      "text": "Add security context to operational investigations with AWS DevOps Agent and Wiz",
+      "link": "https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-07-31",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #528",
-      "link": "https://sreweekly.com/sre-weekly-issue-528/"
+      "source": "Grafana",
+      "text": "Reflections on AI Week, and the future of solving problems with observability and AI",
+      "link": "https://grafana.com/blog/ai-week-recap/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-07-31",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Tuesday",
-      "link": "https://lwn.net/Articles/1087068/"
+      "source": "Stack Overflow",
+      "text": "Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​‌‍‌‌​ ​ ​ ​​‌‍​‍​ ‌‍‌‍‌‌‌‍​‍​‍ ‌​ ‌‌​ ‌​‌‍‌​​ ​​​‍ ‌​ ‌​​ ‌ ​ ‍‌‌‍‌‌​‍ ‌‌‍​‍‌‍​‌‌‍​‍​ ​ ​‍ ‌​ ‌ ​ ​‌​ ​ ​ ‍‌‌‍​‌​ ‍‌‌‍​‍​ ​ ​ ‌ ‌‍‌​‌‍​ ​ ‌‍​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​‌‍‌‌​ ​ ​ ​​‌‍​‍​ ‌‍‌‍‌‌‌‍​‍​‍ ‌​ ‌‌​ ‌​‌‍‌​​ ​​​‍ ‌​ ‌​​ ‌ ​ ‍‌‌‍‌‌​‍ ‌‌‍​‍‌‍​‌‌‍​‍​ ​ ​‍ ‌​ ‌ ​ ​‌​ ​ ​ ‍‌‌‍​‌​ ‍‌‌‍​‍​ ​ ​ ‌ ‌‍‌​‌‍​ ​ ‌‍​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+      "link": "https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Senators demand crackdown on wildfire \"prediction markets\"",
-      "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/"
+      "source": "The Verge",
+      "text": "Ring upgraded its peephole doorbell camera to 2K",
+      "link": "https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install"
     }
   ]
 }
