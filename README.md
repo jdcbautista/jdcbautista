@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=99d87fa4" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"><img src="generated/feed-item-0.svg?v=fb111980" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/"><img src="generated/feed-item-1.svg?v=5d10207e" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/runtime-prioritization-engine/"><img src="generated/feed-item-2.svg?v=c9d0388f" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=2e720514" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"><img src="generated/feed-item-4.svg?v=4fee08a2" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting/"><img src="generated/feed-item-1.svg?v=4a85608e" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1087068/"><img src="generated/feed-item-3.svg?v=e78c7b0c" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/"><img src="generated/feed-item-4.svg?v=d99245fe" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

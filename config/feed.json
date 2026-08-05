@@ -10,32 +10,32 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-03",
       "track": "Cloud",
       "source": "CNCF",
-      "text": "You can't debug what you can't see — Observability for AI Agents",
-      "link": "https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/"
+      "text": "Kubeflow SDK evolution- One million downloads and counting",
+      "link": "https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting/"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-03",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Prioritize security findings with the Datadog Runtime Prioritization Engine",
-      "link": "https://www.datadoghq.com/blog/runtime-prioritization-engine/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #528",
+      "link": "https://sreweekly.com/sre-weekly-issue-528/"
     },
     {
       "date": "2026-08-04",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
-      "link": "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "Security updates for Tuesday",
+      "link": "https://lwn.net/Articles/1087068/"
     },
     {
       "date": "2026-08-04",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/"
+      "source": "Ars Technica",
+      "text": "Senators demand crackdown on wildfire \"prediction markets\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/"
     }
   ]
 }
