@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"><img src="generated/feed-item-0.svg?v=ddb8a5b3" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"><img src="generated/feed-item-1.svg?v=9656ffcd" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"><img src="generated/feed-item-2.svg?v=75d18081" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1086134/"><img src="generated/feed-item-3.svg?v=06fead60" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"><img src="generated/feed-item-4.svg?v=0313f5da" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/"><img src="generated/feed-item-0.svg?v=d2de8dfe" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/announcements/2026/08/05/k8gb-becomes-a-cncf-incubating-project/"><img src="generated/feed-item-1.svg?v=aa9ccdfa" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-525/"><img src="generated/feed-item-2.svg?v=898bcebc" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=892d6a03" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/"><img src="generated/feed-item-4.svg?v=597b277a" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

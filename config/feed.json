@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-03",
+      "date": "2026-07-27",
       "track": "AI",
       "source": "Import AI",
-      "text": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
-      "link": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
+      "text": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker",
+      "link": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Accelerate CloudFormation development with the IaC MCP Server",
-      "link": "https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"
+      "source": "CNCF",
+      "text": "K8gb becomes a CNCF incubating project",
+      "link": "https://www.cncf.io/announcements/2026/08/05/k8gb-becomes-a-cncf-incubating-project/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-07-13",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Managing slow container starts with Kubernetes readiness probes",
-      "link": "https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #525",
+      "link": "https://sreweekly.com/sre-weekly-issue-525/"
     },
     {
       "date": "2026-08-06",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] LWN.net Weekly Edition for August 6, 2026",
-      "link": "https://lwn.net/Articles/1086134/"
+      "source": "InfoQ",
+      "text": "From Projects to Products: Turning Platforms into Products People Use",
+      "link": "https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-08-06",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Nashville uses eminent domain to block data center near zoo",
-      "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"
+      "source": "Ars Technica",
+      "text": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
+      "link": "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/"
     }
   ]
 }
