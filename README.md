@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"><img src="generated/feed-item-0.svg?v=ddb8a5b3" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"><img src="generated/feed-item-1.svg?v=7a3e4b41" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/ai-week-recap/"><img src="generated/feed-item-2.svg?v=f6457303" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/"><img src="generated/feed-item-3.svg?v=e9ab37bf" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install"><img src="generated/feed-item-4.svg?v=b9ab3461" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"><img src="generated/feed-item-1.svg?v=9656ffcd" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"><img src="generated/feed-item-2.svg?v=75d18081" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1086134/"><img src="generated/feed-item-3.svg?v=06fead60" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"><img src="generated/feed-item-4.svg?v=0313f5da" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

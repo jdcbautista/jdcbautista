@@ -10,32 +10,32 @@
       "link": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-08-04",
       "track": "Cloud",
       "source": "AWS DevOps",
-      "text": "Add security context to operational investigations with AWS DevOps Agent and Wiz",
-      "link": "https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"
+      "text": "Accelerate CloudFormation development with the IaC MCP Server",
+      "link": "https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-04",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Reflections on AI Week, and the future of solving problems with observability and AI",
-      "link": "https://grafana.com/blog/ai-week-recap/"
+      "source": "Gremlin",
+      "text": "Managing slow container starts with Kubernetes readiness probes",
+      "link": "https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-06",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​‌‍‌‌​ ​ ​ ​​‌‍​‍​ ‌‍‌‍‌‌‌‍​‍​‍ ‌​ ‌‌​ ‌​‌‍‌​​ ​​​‍ ‌​ ‌​​ ‌ ​ ‍‌‌‍‌‌​‍ ‌‌‍​‍‌‍​‌‌‍​‍​ ​ ​‍ ‌​ ‌ ​ ​‌​ ​ ​ ‍‌‌‍​‌​ ‍‌‌‍​‍​ ​ ​ ‌ ‌‍‌​‌‍​ ​ ‌‍​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​‌‍‌‌​ ​ ​ ​​‌‍​‍​ ‌‍‌‍‌‌‌‍​‍​‍ ‌​ ‌‌​ ‌​‌‍‌​​ ​​​‍ ‌​ ‌​​ ‌ ​ ‍‌‌‍‌‌​‍ ‌‌‍​‍‌‍​‌‌‍​‍​ ​ ​‍ ‌​ ‌ ​ ​‌​ ​ ​ ‍‌‌‍​‌​ ‍‌‌‍​‍​ ​ ​ ‌ ‌‍‌​‌‍​ ​ ‌‍​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
-      "link": "https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/"
+      "source": "LWN",
+      "text": "[$] LWN.net Weekly Edition for August 6, 2026",
+      "link": "https://lwn.net/Articles/1086134/"
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "track": "News",
-      "source": "The Verge",
-      "text": "Ring upgraded its peephole doorbell camera to 2K",
-      "link": "https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install"
+      "source": "Hacker News",
+      "text": "Nashville uses eminent domain to block data center near zoo",
+      "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"
     }
   ]
 }
