@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c6205161" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/"><img src="generated/feed-item-0.svg?v=d2de8dfe" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/announcements/2026/08/05/k8gb-becomes-a-cncf-incubating-project/"><img src="generated/feed-item-1.svg?v=aa9ccdfa" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-525/"><img src="generated/feed-item-2.svg?v=898bcebc" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=892d6a03" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/"><img src="generated/feed-item-4.svg?v=597b277a" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"><img src="generated/feed-item-0.svg?v=fb111980" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/how-company-3-streamlines-studio-image-management-with-ec2-image-builder-and-aws-cdk/"><img src="generated/feed-item-1.svg?v=b9c64df9" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/a-practical-guide-to-react-error-monitoring/"><img src="generated/feed-item-2.svg?v=c3021529" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/"><img src="generated/feed-item-3.svg?v=76e11487" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"><img src="generated/feed-item-4.svg?v=6dceeef8" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
