@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-03",
+      "date": "2026-07-28",
       "track": "AI",
       "source": "Google AI",
-      "text": "Inside our 353,000-person vibe coding course",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+      "text": "5 ways to host the ultimate dinner party with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
     },
     {
       "date": "2026-07-29",
       "track": "Cloud",
       "source": "AWS DevOps",
-      "text": "How Company 3 Streamlines Studio Image Management with EC2 Image Builder and AWS CDK",
-      "link": "https://aws.amazon.com/blogs/devops/how-company-3-streamlines-studio-image-management-with-ec2-image-builder-and-aws-cdk/"
+      "text": "Add security context to operational investigations with AWS DevOps Agent and Wiz",
+      "link": "https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"
     },
     {
       "date": "2026-07-29",
@@ -24,18 +24,18 @@
       "link": "https://www.datadoghq.com/blog/a-practical-guide-to-react-error-monitoring/"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-08-07",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Your trusted knowledge layer: Introducing Stack Internal's new platform experience​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌‌‍​‌‌‍‌​‌‍​ ‌‍‌‍​ ​‌‌‍​‍‌‍​ ‌‍​‌​‍ ‌​ ​ ​ ​‍​ ‍‌​ ‌‌​‍ ‌​ ‌​‌‍​‌‌‍​ ​ ‌‌​‍ ‌​ ‍‌‌‍​‍​ ​ ‌‍​ ​‍ ‌​ ​‍​ ​ ‌‍‌‍​ ​ ​ ​ ​ ‌ ​ ‍‌​ ‌ ​ ‌​​ ​‌​ ‍‌​ ​​​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌‌‍​‌‌‍‌​‌‍​ ‌‍‌‍​ ​‌‌‍​‍‌‍​ ‌‍​‌​‍ ‌​ ​ ​ ​‍​ ‍‌​ ‌‌​‍ ‌​ ‌​‌‍​‌‌‍​ ​ ‌‌​‍ ‌​ ‍‌‌‍​‍​ ​ ‌‍​ ​‍ ‌​ ​‍​ ​ ‌‍‌‍​ ​ ​ ​ ​ ‌ ​ ‍‌​ ‌ ​ ‌​​ ​‌​ ‍‌​ ​​​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
-      "link": "https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/"
+      "source": "LWN",
+      "text": "LightDM lives: version 1.33.0 released",
+      "link": "https://lwn.net/Articles/1087759/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-07",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: US robot restrictions and ICE's DNA grab",
-      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      "source": "The Verge",
+      "text": "Trying to explain One Night Only's tech-enforced sex dystopia",
+      "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech"
     }
   ]
 }

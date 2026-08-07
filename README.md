@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"><img src="generated/feed-item-0.svg?v=fb111980" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/how-company-3-streamlines-studio-image-management-with-ec2-image-builder-and-aws-cdk/"><img src="generated/feed-item-1.svg?v=b9c64df9" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"><img src="generated/feed-item-0.svg?v=b5253d1e" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"><img src="generated/feed-item-1.svg?v=7a3e4b41" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
 --><a href="https://www.datadoghq.com/blog/a-practical-guide-to-react-error-monitoring/"><img src="generated/feed-item-2.svg?v=c3021529" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/"><img src="generated/feed-item-3.svg?v=76e11487" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"><img src="generated/feed-item-4.svg?v=6dceeef8" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1087759/"><img src="generated/feed-item-3.svg?v=0549488f" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech"><img src="generated/feed-item-4.svg?v=606a6d72" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
