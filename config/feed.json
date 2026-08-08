@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-07",
-      "track": "AI",
-      "source": "OpenAI",
-      "text": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "link": "https://openai.com/index/hsp-gruppe"
-    },
-    {
-      "date": "2026-08-03",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
-      "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"
-    },
-    {
-      "date": "2026-07-27",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "Smarter onboarding and planning with Grafana Assistant: How to ensure observability is baked in from the start",
-      "link": "https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/"
-    },
-    {
       "date": "2026-08-04",
+      "track": "AI",
+      "source": "Hugging Face",
+      "text": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+    },
+    {
+      "date": "2026-07-23",
+      "track": "Cloud",
+      "source": "HashiCorp",
+      "text": "Terraform introduces workspaces and Stacks restore, and more",
+      "link": "https://www.hashicorp.com/blog/terraform-introduces-workspaces-and-stacks-restore-and-more"
+    },
+    {
+      "date": "2026-07-28",
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Investigate every security event with an AI agent, without the frontier bill",
+      "link": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"
+    },
+    {
+      "date": "2026-08-08",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: August 4",
-      "link": "https://martinfowler.com/fragments/2026-08-04.html"
+      "source": "InfoQ",
+      "text": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis",
+      "link": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-08-07",
       "track": "News",
-      "source": "The Verge",
-      "text": "The only instant cameras worth your money",
-      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak"
+      "source": "MIT Tech Review",
+      "text": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
     }
   ]
 }

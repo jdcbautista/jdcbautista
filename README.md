@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/hsp-gruppe"><img src="generated/feed-item-0.svg?v=1dac0805" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"><img src="generated/feed-item-1.svg?v=c9e9b9eb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/"><img src="generated/feed-item-2.svg?v=9830b1a7" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-08-04.html"><img src="generated/feed-item-3.svg?v=0b7a04fa" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak"><img src="generated/feed-item-4.svg?v=292c8af8" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"><img src="generated/feed-item-0.svg?v=3c6e3699" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/terraform-introduces-workspaces-and-stacks-restore-and-more"><img src="generated/feed-item-1.svg?v=2c8606fa" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"><img src="generated/feed-item-2.svg?v=593d635e" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=e5e62ee0" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"><img src="generated/feed-item-4.svg?v=06f48871" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
