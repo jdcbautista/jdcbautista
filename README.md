@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c6205161" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=35bf3be0" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"><img src="generated/feed-item-0.svg?v=b5253d1e" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"><img src="generated/feed-item-1.svg?v=7a3e4b41" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/a-practical-guide-to-react-error-monitoring/"><img src="generated/feed-item-2.svg?v=c3021529" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1087759/"><img src="generated/feed-item-3.svg?v=0549488f" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech"><img src="generated/feed-item-4.svg?v=606a6d72" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/hsp-gruppe"><img src="generated/feed-item-0.svg?v=1dac0805" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"><img src="generated/feed-item-1.svg?v=c9e9b9eb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/"><img src="generated/feed-item-2.svg?v=9830b1a7" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-08-04.html"><img src="generated/feed-item-3.svg?v=0b7a04fa" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak"><img src="generated/feed-item-4.svg?v=292c8af8" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

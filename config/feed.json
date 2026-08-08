@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-28",
-      "track": "AI",
-      "source": "Google AI",
-      "text": "5 ways to host the ultimate dinner party with Google Search",
-      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
-    },
-    {
-      "date": "2026-07-29",
-      "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Add security context to operational investigations with AWS DevOps Agent and Wiz",
-      "link": "https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"
-    },
-    {
-      "date": "2026-07-29",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "A practical guide to React error monitoring",
-      "link": "https://www.datadoghq.com/blog/a-practical-guide-to-react-error-monitoring/"
-    },
-    {
       "date": "2026-08-07",
+      "track": "AI",
+      "source": "OpenAI",
+      "text": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "link": "https://openai.com/index/hsp-gruppe"
+    },
+    {
+      "date": "2026-08-03",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
+      "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"
+    },
+    {
+      "date": "2026-07-27",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "Smarter onboarding and planning with Grafana Assistant: How to ensure observability is baked in from the start",
+      "link": "https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/"
+    },
+    {
+      "date": "2026-08-04",
       "track": "Systems",
-      "source": "LWN",
-      "text": "LightDM lives: version 1.33.0 released",
-      "link": "https://lwn.net/Articles/1087759/"
+      "source": "Martin Fowler",
+      "text": "Fragments: August 4",
+      "link": "https://martinfowler.com/fragments/2026-08-04.html"
     },
     {
       "date": "2026-08-07",
       "track": "News",
       "source": "The Verge",
-      "text": "Trying to explain One Night Only's tech-enforced sex dystopia",
-      "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech"
+      "text": "The only instant cameras worth your money",
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak"
     }
   ]
 }
