@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/baseten"><img src="generated/feed-item-0.svg?v=d4fc0cdb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"><img src="generated/feed-item-1.svg?v=79a1b42f" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/allenai/tutormoments"><img src="generated/feed-item-0.svg?v=8dd3ef64" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure"><img src="generated/feed-item-1.svg?v=f5950349" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
 --><a href="https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"><img src="generated/feed-item-2.svg?v=fe1e81b1" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/"><img src="generated/feed-item-3.svg?v=e9ab37bf" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"><img src="generated/feed-item-4.svg?v=4ec57415" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bcfda982" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards"><img src="generated/feed-item-4.svg?v=fbd781b1" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

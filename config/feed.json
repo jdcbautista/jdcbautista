@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "Baseten on Hugging Face Inference Providers 🔥",
-      "link": "https://huggingface.co/blog/baseten"
+      "text": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "link": "https://huggingface.co/blog/allenai/tutormoments"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-08-05",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
-      "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"
+      "source": "HashiCorp",
+      "text": "HCP Terraform is the control plane for AI-driven infrastructure",
+      "link": "https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure"
     },
     {
       "date": "2026-08-06",
@@ -24,18 +24,18 @@
       "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-07-13",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​‌‍‌‌​ ​ ​ ​​‌‍​‍​ ‌‍‌‍‌‌‌‍​‍​‍ ‌​ ‌‌​ ‌​‌‍‌​​ ​​​‍ ‌​ ‌​​ ‌ ​ ‍‌‌‍‌‌​‍ ‌‌‍​‍‌‍​‌‌‍​‍​ ​ ​‍ ‌​ ‌ ​ ​‌​ ​ ​ ‍‌‌‍​‌​ ‍‌‌‍​‍​ ​ ​ ‌ ‌‍‌​‌‍​ ​ ‌‍​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​‌‍‌‌​ ​ ​ ​​‌‍​‍​ ‌‍‌‍‌‌‌‍​‍​‍ ‌​ ‌‌​ ‌​‌‍‌​​ ​​​‍ ‌​ ‌​​ ‌ ​ ‍‌‌‍‌‌​‍ ‌‌‍​‍‌‍​‌‌‍​‍​ ​ ​‍ ‌​ ‌ ​ ​‌​ ​ ​ ‍‌‌‍​‌​ ‍‌‌‍​‍​ ​ ​ ‌ ‌‍‌​‌‍​ ​ ‌‍​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
-      "link": "https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/"
+      "source": "Netflix Tech",
+      "text": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+      "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Europe's free satellite service just made it easier to track wildfires",
-      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
+      "source": "The Verge",
+      "text": "X replaces its revenue-sharing program with 'Original Content Rewards'",
+      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards"
     }
   ]
 }
