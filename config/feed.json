@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-04",
+      "date": "2026-08-06",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+      "text": "Baseten on Hugging Face Inference Providers 🔥",
+      "link": "https://huggingface.co/blog/baseten"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-29",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Terraform introduces workspaces and Stacks restore, and more",
-      "link": "https://www.hashicorp.com/blog/terraform-introduces-workspaces-and-stacks-restore-and-more"
+      "source": "Kubernetes",
+      "text": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+      "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-08-06",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Investigate every security event with an AI agent, without the frontier bill",
-      "link": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"
+      "source": "Gremlin",
+      "text": "What your AI SRE can't see (and what you can do about it)",
+      "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
     },
     {
-      "date": "2026-08-08",
+      "date": "2026-07-31",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis",
-      "link": "https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Stack Overflow",
+      "text": "Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​‌‍‌‌​ ​ ​ ​​‌‍​‍​ ‌‍‌‍‌‌‌‍​‍​‍ ‌​ ‌‌​ ‌​‌‍‌​​ ​​​‍ ‌​ ‌​​ ‌ ​ ‍‌‌‍‌‌​‍ ‌‌‍​‍‌‍​‌‌‍​‍​ ​ ​‍ ‌​ ‌ ​ ​‌​ ​ ​ ‍‌‌‍​‌​ ‍‌‌‍​‍​ ​ ​ ‌ ‌‍‌​‌‍​ ​ ‌‍​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​‌‍‌‌​ ​ ​ ​​‌‍​‍​ ‌‍‌‍‌‌‌‍​‍​‍ ‌​ ‌‌​ ‌​‌‍‌​​ ​​​‍ ‌​ ‌​​ ‌ ​ ‍‌‌‍‌‌​‍ ‌‌‍​‍‌‍​‌‌‍​‍​ ​ ​‍ ‌​ ‌ ​ ​‌​ ​ ​ ‍‌‌‍​‌​ ‍‌‌‍​‍​ ​ ​ ‌ ‌‍‌​‌‍​ ​ ‌‍​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+      "link": "https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/"
     },
     {
       "date": "2026-08-07",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+      "source": "Ars Technica",
+      "text": "Europe's free satellite service just made it easier to track wildfires",
+      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
     }
   ]
 }

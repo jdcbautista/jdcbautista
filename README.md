@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=35bf3be0" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=967da203" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"><img src="generated/feed-item-0.svg?v=3c6e3699" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/terraform-introduces-workspaces-and-stacks-restore-and-more"><img src="generated/feed-item-1.svg?v=2c8606fa" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"><img src="generated/feed-item-2.svg?v=593d635e" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=e5e62ee0" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"><img src="generated/feed-item-4.svg?v=06f48871" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/baseten"><img src="generated/feed-item-0.svg?v=d4fc0cdb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"><img src="generated/feed-item-1.svg?v=79a1b42f" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"><img src="generated/feed-item-2.svg?v=fe1e81b1" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/"><img src="generated/feed-item-3.svg?v=e9ab37bf" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"><img src="generated/feed-item-4.svg?v=4ec57415" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
