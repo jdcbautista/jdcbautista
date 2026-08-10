@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "link": "https://huggingface.co/blog/allenai/tutormoments"
+      "source": "Simon Willison",
+      "text": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-07-29",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "HCP Terraform is the control plane for AI-driven infrastructure",
-      "link": "https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure"
+      "source": "AWS DevOps",
+      "text": "Add security context to operational investigations with AWS DevOps Agent and Wiz",
+      "link": "https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-07-28",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "What your AI SRE can't see (and what you can do about it)",
-      "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
+      "source": "Grafana",
+      "text": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
+      "link": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"
     },
     {
-      "date": "2026-07-13",
+      "date": "2026-08-04",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
-      "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "Your MVP doesn't need a Kubernetes cluster​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ​‌‌‍‌‌​ ​ ‌‍​ ​ ‌‌‌‍‌‌​ ​ ​‍ ‌​ ​‌​ ​‌‌‍​‍​ ‌‌​‍ ‌​ ‌​‌‍​‌​ ​‍​ ​​​‍ ‌​ ‍​​ ‌‌‌‍‌‍​ ‌‌​‍ ‌‌‍‌​​ ‍‌‌‍‌‍​ ​ ​ ‍​​ ​‍‌‍​‍​ ​‍​ ‍‌‌‍​ ​ ​‌‌‍​‍​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ​‌‌‍‌‌​ ​ ‌‍​ ​ ‌‌‌‍‌‌​ ​ ​‍ ‌​ ​‌​ ​‌‌‍​‍​ ‌‌​‍ ‌​ ‌​‌‍​‌​ ​‍​ ​​​‍ ‌​ ‍​​ ‌‌‌‍‌‍​ ‌‌​‍ ‌‌‍‌​​ ‍‌‌‍‌‍​ ​ ​ ‍​​ ​‍‌‍​‍​ ​‍​ ‍‌‌‍​ ​ ​‌‌‍​‍​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+      "link": "https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"
     },
     {
       "date": "2026-08-08",
       "track": "News",
-      "source": "The Verge",
-      "text": "X replaces its revenue-sharing program with 'Original Content Rewards'",
-      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards"
+      "source": "Ars Technica",
+      "text": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
     }
   ]
 }

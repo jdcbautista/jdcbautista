@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=967da203" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=3da3caed" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/allenai/tutormoments"><img src="generated/feed-item-0.svg?v=8dd3ef64" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure"><img src="generated/feed-item-1.svg?v=f5950349" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"><img src="generated/feed-item-2.svg?v=fe1e81b1" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bcfda982" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards"><img src="generated/feed-item-4.svg?v=fbd781b1" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"><img src="generated/feed-item-0.svg?v=86b782d5" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"><img src="generated/feed-item-1.svg?v=7a3e4b41" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"><img src="generated/feed-item-2.svg?v=9a50223a" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"><img src="generated/feed-item-3.svg?v=6a30545b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"><img src="generated/feed-item-4.svg?v=ce3e0422" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
