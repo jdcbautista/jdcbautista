@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
+      "text": "GitHub Models is now retired",
+      "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
     },
     {
       "date": "2026-07-29",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Add security context to operational investigations with AWS DevOps Agent and Wiz",
-      "link": "https://aws.amazon.com/blogs/devops/add-security-context-to-operational-investigations-with-aws-devops-agent-and-wiz/"
-    },
-    {
-      "date": "2026-07-28",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
-      "link": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"
+      "source": "Kubernetes",
+      "text": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+      "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"
     },
     {
       "date": "2026-08-04",
+      "track": "SRE",
+      "source": "Gremlin",
+      "text": "Managing slow container starts with Kubernetes readiness probes",
+      "link": "https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"
+    },
+    {
+      "date": "2026-07-30",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Your MVP doesn't need a Kubernetes cluster​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ​‌‌‍‌‌​ ​ ‌‍​ ​ ‌‌‌‍‌‌​ ​ ​‍ ‌​ ​‌​ ​‌‌‍​‍​ ‌‌​‍ ‌​ ‌​‌‍​‌​ ​‍​ ​​​‍ ‌​ ‍​​ ‌‌‌‍‌‍​ ‌‌​‍ ‌‌‍‌​​ ‍‌‌‍‌‍​ ​ ​ ‍​​ ​‍‌‍​‍​ ​‍​ ‍‌‌‍​ ​ ​‌‌‍​‍​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ​‌‌‍‌‌​ ​ ‌‍​ ​ ‌‌‌‍‌‌​ ​ ​‍ ‌​ ​‌​ ​‌‌‍​‍​ ‌‌​‍ ‌​ ‌​‌‍​‌​ ​‍​ ​​​‍ ‌​ ‍​​ ‌‌‌‍‌‍​ ‌‌​‍ ‌‌‍‌​​ ‍‌‌‍‌‍​ ​ ​ ‍​​ ​‍‌‍​‍​ ​‍​ ‍‌‌‍​ ​ ​‌‌‍​‍​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
-      "link": "https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"
+      "source": "Netflix Tech",
+      "text": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-08-08",
       "track": "News",
       "source": "Ars Technica",
-      "text": "The first self-driving vehicle on Mars has proven to be a smashing success",
-      "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
+      "text": "DeepMind's hurricane breakthrough has surprised weather scientists",
+      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
     }
   ]
 }
