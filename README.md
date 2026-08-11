@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=3da3caed" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=bbf7b5c5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"><img src="generated/feed-item-0.svg?v=564c7bf2" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"><img src="generated/feed-item-1.svg?v=79a1b42f" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"><img src="generated/feed-item-2.svg?v=75d18081" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bdba6789" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"><img src="generated/feed-item-4.svg?v=a04a5682" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"><img src="generated/feed-item-0.svg?v=df009e47" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/good-and-bad-agentic-behaviors/"><img src="generated/feed-item-1.svg?v=e020809c" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-525/"><img src="generated/feed-item-2.svg?v=898bcebc" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"><img src="generated/feed-item-3.svg?v=6a30545b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"><img src="generated/feed-item-4.svg?v=e5574a35" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

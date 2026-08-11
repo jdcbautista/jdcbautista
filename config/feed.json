@@ -6,36 +6,36 @@
       "date": "2026-08-09",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "GitHub Models is now retired",
-      "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
+      "text": "Quoting Claude Opus 5 system prompt",
+      "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-08-07",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
-      "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"
+      "source": "Cloudflare",
+      "text": "Unveiling good and bad behaviors on the Agentic Internet",
+      "link": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/"
+    },
+    {
+      "date": "2026-07-13",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #525",
+      "link": "https://sreweekly.com/sre-weekly-issue-525/"
     },
     {
       "date": "2026-08-04",
-      "track": "SRE",
-      "source": "Gremlin",
-      "text": "Managing slow container starts with Kubernetes readiness probes",
-      "link": "https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"
-    },
-    {
-      "date": "2026-07-30",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "Your MVP doesn't need a Kubernetes cluster​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ​‌‌‍‌‌​ ​ ‌‍​ ​ ‌‌‌‍‌‌​ ​ ​‍ ‌​ ​‌​ ​‌‌‍​‍​ ‌‌​‍ ‌​ ‌​‌‍​‌​ ​‍​ ​​​‍ ‌​ ‍​​ ‌‌‌‍‌‍​ ‌‌​‍ ‌‌‍‌​​ ‍‌‌‍‌‍​ ​ ​ ‍​​ ​‍‌‍​‍​ ​‍​ ‍‌‌‍​ ​ ​‌‌‍​‍​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ​‌‌‍‌‌​ ​ ‌‍​ ​ ‌‌‌‍‌‌​ ​ ​‍ ‌​ ​‌​ ​‌‌‍​‍​ ‌‌​‍ ‌​ ‌​‌‍​‌​ ​‍​ ​​​‍ ‌​ ‍​​ ‌‌‌‍‌‍​ ‌‌​‍ ‌‌‍‌​​ ‍‌‌‍‌‍​ ​ ​ ‍​​ ​‍‌‍​‍​ ​‍​ ‍‌‌‍​ ​ ​‌‌‍​‍​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
+      "link": "https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"
     },
     {
-      "date": "2026-08-08",
+      "date": "2026-08-10",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "DeepMind's hurricane breakthrough has surprised weather scientists",
-      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
+      "source": "TechCrunch AI",
+      "text": "Meta's new Glimmer AI model offers a hint at Zuckerberg's personal intelligence vision",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
     }
   ]
 }
