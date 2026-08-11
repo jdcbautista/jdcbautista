@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"><img src="generated/feed-item-0.svg?v=df009e47" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/"><img src="generated/feed-item-1.svg?v=7c7b77cb" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"><img src="generated/feed-item-2.svg?v=45ad3ea0" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bcfda982" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"><img src="generated/feed-item-4.svg?v=5655ad09" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything"><img src="generated/feed-item-0.svg?v=17786cc2" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/agents-week-review-august-2026/"><img src="generated/feed-item-1.svg?v=2296e409" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"><img src="generated/feed-item-2.svg?v=1371e2f4" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=bbf48624" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/"><img src="generated/feed-item-4.svg?v=abb4cca7" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
