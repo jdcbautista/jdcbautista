@@ -1,6 +1,6 @@
 # Main dispatcher. One job, a switch step decides what to (re)build, then it
-# assembles the README and commits. Content-hashed asset URLs mean unchanged
-# images don't churn the README.
+# assembles the README and merges updates through a pull request. Content-hashed
+# asset URLs mean unchanged images don't churn the README.
 #
 #   schedule (daily) → refresh the feed + quote only (the day-to-day items)
 #   workflow_dispatch → the module you pick (or all)
@@ -28,6 +28,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
   group: profile-update
@@ -93,7 +94,9 @@ jobs:
       - name: Assemble README
         run: node scripts/assemble-readme.mjs
 
-      - name: Commit if changed
+      - name: Open and merge PR if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -101,6 +104,16 @@ jobs:
           if git diff --staged --quiet; then
             echo "nothing to update"
           else
+            branch="profile-update/run-${{ github.run_id }}-${{ github.run_attempt }}"
+            git switch -c "$branch"
             git commit -m "chore: profile-update [skip ci]"
-            git push
+            git push --set-upstream origin "$branch"
+
+            pr_url=$(gh pr create \
+              --base main \
+              --head "$branch" \
+              --title "chore: profile-update [skip ci]" \
+              --body "Automated profile update from workflow run ${{ github.run_id }}.")
+
+            gh pr merge "$pr_url" --squash --delete-branch
           fi
