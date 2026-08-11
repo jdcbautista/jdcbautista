@@ -6,36 +6,36 @@
       "date": "2026-08-09",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "Quoting Claude Opus 5 system prompt",
-      "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"
-    },
-    {
-      "date": "2026-08-07",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/"
-    },
-    {
-      "date": "2026-08-04",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills | Rootly",
-      "link": "https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
-    },
-    {
-      "date": "2026-07-13",
-      "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
-      "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"
+      "text": "SQLite compressed text-history prototypes",
+      "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything"
     },
     {
       "date": "2026-08-10",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "Everything we launched during Agents Week",
+      "link": "https://blog.cloudflare.com/agents-week-review-august-2026/"
+    },
+    {
+      "date": "2026-07-28",
+      "track": "SRE",
+      "source": "Rootly",
+      "text": "Why Rootly acquired ThinkHive | Rootly",
+      "link": "https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"
+    },
+    {
+      "date": "2026-08-10",
+      "track": "Systems",
+      "source": "InfoQ",
+      "text": "CloudFlare Previews Automatic WebMCP Support for Web Pages",
+      "link": "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+    },
+    {
+      "date": "2026-08-11",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "AI for science needs reasoning, not just data",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
+      "source": "Ars Technica",
+      "text": "New surveillance tech links your phone to your license plate",
+      "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/"
     }
   ]
 }
