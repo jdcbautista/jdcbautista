@@ -12,30 +12,30 @@
     {
       "date": "2026-08-07",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Unveiling good and bad behaviors on the Agentic Internet",
-      "link": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/"
-    },
-    {
-      "date": "2026-07-13",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #525",
-      "link": "https://sreweekly.com/sre-weekly-issue-525/"
+      "source": "CNCF",
+      "text": "Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/"
     },
     {
       "date": "2026-08-04",
+      "track": "SRE",
+      "source": "Rootly",
+      "text": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills | Rootly",
+      "link": "https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
+    },
+    {
+      "date": "2026-07-13",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Your MVP doesn't need a Kubernetes cluster​​​​‌ ‍ ​‍​‍‌‍ ‌ ​‍‌‍‍‌‌‍‌ ‌‍‍‌‌‍ ‍​‍​‍​ ‍‍​‍​‍‌ ​ ‌‍​‌‌‍ ‍‌‍‍‌‌ ‌​‌ ‍‌​‍ ‍‌‍‍‌‌‍ ​‍​‍​‍ ​​‍​‍‌‍‍​‌ ​‍‌‍‌‌‌‍‌‍​‍​‍​ ‍‍​‍​‍‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​ ‍‍​‍ ​‍ ‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍ ‌‍‍‌‌‍ ‍‌ ‌​‌‍‌‌‌‍ ‍‌ ‌​​‍ ‌‍‌‌‌‍‌​‌‍‍‌‌ ‌​​‍ ‌‍ ‌‌‍ ‌‍‌​‌‍‌‌​ ‌‌ ​​‌ ​‍‌‍‌‌‌ ​ ‌‍‌‌‌‍ ‍‌ ‌​‌‍​‌‌ ‌​‌‍‍‌‌‍ ‌‍ ‍​ ‍ ‌‍‍‌‌‍‌​​ ‌​ ‍​​ ​‌‌‍‌‌​ ​ ‌‍​ ​ ‌‌‌‍‌‌​ ​ ​‍ ‌​ ​‌​ ​‌‌‍​‍​ ‌‌​‍ ‌​ ‌​‌‍​‌​ ​‍​ ​​​‍ ‌​ ‍​​ ‌‌‌‍‌‍​ ‌‌​‍ ‌‌‍‌​​ ‍‌‌‍‌‍​ ​ ​ ‍​​ ​‍‌‍​‍​ ​‍​ ‍‌‌‍​ ​ ​‌‌‍​‍​ ‍ ‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​ ‍ ‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​ ‌‍​‍‌‍​‌‌ ​ ‌‍‌‌‌‌‌‌‌ ​‍‌‍ ​​ ‌‌‍‍​‌ ‌​‌ ‌​‌ ​​‌ ​ ​‍‌‌​ ​ ‌​​‌​‍‌‌​ ​‍‌​‌‍​‍‌‌​ ​‍‌​‌‍‌‍​ ‌‍ ‌‌ ​ ​‍ ‍‌ ​ ‌ ‌​‌‍​‌‌‍​ ‌‍‍ ‌‍ ‌ ‌‍‌‍‌‌‌ ​‍‌‍‌‍‌‍ ​‌‍ ‌ ‌ ​‍ ‍‌‍​ ‌‍ ​‍‌‍‌‍‍‌‌‍‌​​ ‌​ ‍​​ ​‌‌‍‌‌​ ​ ‌‍​ ​ ‌‌‌‍‌‌​ ​ ​‍ ‌​ ​‌​ ​‌‌‍​‍​ ‌‌​‍ ‌​ ‌​‌‍​‌​ ​‍​ ​​​‍ ‌​ ‍​​ ‌‌‌‍‌‍​ ‌‌​‍ ‌‌‍‌​​ ‍‌‌‍‌‍​ ​ ​ ‍​​ ​‍‌‍​‍​ ​‍​ ‍‌‌‍​ ​ ​‌‌‍​‍​‍‌‍‌ ‌​‌ ‍‌‌ ​​‌‍‌‌​ ‌‌‍​‍‌‍ ​‌‍ ‌‍‌ ‌‌​​‌‍ ‌ ​ ‌ ‌​​‍‌‍‌ ​​‌‍​‌‌ ‌​‌‍‍​​ ‌‌ ‌​‌‍‍‌‌ ‌​‌‍ ​‌‍‌‌​‍‌‍‌ ​​‌‍‌‌‌ ​‍‌ ​ ‌ ​​‌‍‌‌‌‍​ ‌ ‌​‌‍‍‌‌ ‌‍‌‍‌‌​ ‌‌ ​​‌ ‌‌‌‍​‍‌‍ ​‌‍‍‌‌ ​ ‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌ ‌",
-      "link": "https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"
+      "source": "Netflix Tech",
+      "text": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+      "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-08-10",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Meta's new Glimmer AI model offers a hint at Zuckerberg's personal intelligence vision",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+      "source": "MIT Tech Review",
+      "text": "AI for science needs reasoning, not just data",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
     }
   ]
 }
