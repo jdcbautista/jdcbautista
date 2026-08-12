@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"><img src="generated/feed-item-0.svg?v=fb111980" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/11/a-practical-guide-to-solving-when-zerozerotwo-in-mesh-observability/"><img src="generated/feed-item-1.svg?v=6c07cb36" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/serverless-agentic-onboarding/"><img src="generated/feed-item-2.svg?v=6a54727e" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"><img src="generated/feed-item-3.svg?v=843fd081" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"><img src="generated/feed-item-4.svg?v=6e848ede" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"><img src="generated/feed-item-0.svg?v=3909d592" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/fedramp-class-d-certification/"><img src="generated/feed-item-1.svg?v=c4c88c89" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/"><img src="generated/feed-item-2.svg?v=9830b1a7" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=d3b3fcf2" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"><img src="generated/feed-item-4.svg?v=5dd21290" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
