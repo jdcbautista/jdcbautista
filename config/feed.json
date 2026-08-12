@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-09",
+      "date": "2026-08-03",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "SQLite compressed text-history prototypes",
-      "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything"
+      "source": "Google AI",
+      "text": "Inside our 353,000-person vibe coding course",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Everything we launched during Agents Week",
-      "link": "https://blog.cloudflare.com/agents-week-review-august-2026/"
-    },
-    {
-      "date": "2026-07-28",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Why Rootly acquired ThinkHive | Rootly",
-      "link": "https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"
+      "source": "CNCF",
+      "text": "A practical guide to solving when zero+zero=two in mesh observability",
+      "link": "https://www.cncf.io/blog/2026/08/11/a-practical-guide-to-solving-when-zerozerotwo-in-mesh-observability/"
     },
     {
       "date": "2026-08-10",
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Instrument serverless apps with agentic onboarding",
+      "link": "https://www.datadoghq.com/blog/serverless-agentic-onboarding/"
+    },
+    {
+      "date": "2026-08-04",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "CloudFlare Previews Automatic WebMCP Support for Web Pages",
-      "link": "https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Stack Overflow",
+      "text": "Your MVP doesn't need a Kubernetes cluster",
+      "link": "https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"
     },
     {
       "date": "2026-08-11",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "New surveillance tech links your phone to your license plate",
-      "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/"
+      "source": "TechCrunch AI",
+      "text": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
     }
   ]
 }

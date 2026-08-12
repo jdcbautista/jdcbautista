@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=bbf7b5c5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=d39e48b4" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything"><img src="generated/feed-item-0.svg?v=17786cc2" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/agents-week-review-august-2026/"><img src="generated/feed-item-1.svg?v=2296e409" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"><img src="generated/feed-item-2.svg?v=1371e2f4" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/08/cloudflare-webmcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=bbf48624" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/"><img src="generated/feed-item-4.svg?v=abb4cca7" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"><img src="generated/feed-item-0.svg?v=fb111980" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/11/a-practical-guide-to-solving-when-zerozerotwo-in-mesh-observability/"><img src="generated/feed-item-1.svg?v=6c07cb36" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/serverless-agentic-onboarding/"><img src="generated/feed-item-2.svg?v=6a54727e" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/"><img src="generated/feed-item-3.svg?v=843fd081" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"><img src="generated/feed-item-4.svg?v=6e848ede" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
