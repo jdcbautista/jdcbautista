@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=d39e48b4" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=e83379fc" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"><img src="generated/feed-item-0.svg?v=3909d592" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/fedramp-class-d-certification/"><img src="generated/feed-item-1.svg?v=c4c88c89" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/"><img src="generated/feed-item-2.svg?v=9830b1a7" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=d3b3fcf2" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"><img src="generated/feed-item-4.svg?v=5dd21290" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"><img src="generated/feed-item-0.svg?v=fb111980" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/introducing-radar-researcher/"><img src="generated/feed-item-1.svg?v=929c7f8f" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/gremlin-app-for-dynatrace"><img src="generated/feed-item-2.svg?v=41c1f902" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=9f1e1b4f" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"><img src="generated/feed-item-4.svg?v=298f0f66" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
