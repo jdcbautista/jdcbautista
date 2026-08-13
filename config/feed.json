@@ -10,32 +10,32 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-08-04",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
-      "link": "https://blog.cloudflare.com/introducing-radar-researcher/"
+      "source": "AWS DevOps",
+      "text": "Accelerate CloudFormation development with the IaC MCP Server",
+      "link": "https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-08-04",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "The Gremlin app for Dynatrace: resilience testing and reliability scoring, built on the observability you already trust",
-      "link": "https://www.gremlin.com/blog/gremlin-app-for-dynatrace"
+      "source": "Rootly",
+      "text": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills | Rootly",
+      "link": "https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-07-31",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake",
-      "link": "https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Netflix Tech",
+      "text": "Modeling Device Capabilities for Analytics",
+      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-08-12",
       "track": "News",
       "source": "Ars Technica",
-      "text": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+      "text": "The web's newest weapon against AI scrapers is a font",
+      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
     }
   ]
 }
