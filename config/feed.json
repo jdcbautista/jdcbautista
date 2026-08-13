@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-20",
+      "date": "2026-08-03",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
-      "link": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
+      "source": "Google AI",
+      "text": "Inside our 353,000-person vibe coding course",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-07",
       "track": "Cloud",
       "source": "Cloudflare",
-      "text": "Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status",
-      "link": "https://blog.cloudflare.com/fedramp-class-d-certification/"
+      "text": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+      "link": "https://blog.cloudflare.com/introducing-radar-researcher/"
     },
     {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Smarter onboarding and planning with Grafana Assistant: How to ensure observability is baked in from the start",
-      "link": "https://grafana.com/blog/smarter-onboarding-and-planning-with-grafana-assistant-how-to-ensure-observability-is-baked-in-from-the-start/"
+      "source": "Gremlin",
+      "text": "The Gremlin app for Dynatrace: resilience testing and reliability scoring, built on the observability you already trust",
+      "link": "https://www.gremlin.com/blog/gremlin-app-for-dynatrace"
     },
     {
       "date": "2026-08-12",
       "track": "Systems",
       "source": "InfoQ",
-      "text": "MCP Goes Stateless, and Developers Ask Whether That Just Makes It an API Again",
-      "link": "https://www.infoq.com/news/2026/08/mcp-stateless-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "text": "Spotify Builds External Index to Enable Low Latency Point Queries on Its Data Lake",
+      "link": "https://www.infoq.com/news/2026/08/spotify-data-lake-point-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-12",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "AI professors are negotiating the new realities of academic research",
-      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+      "source": "Ars Technica",
+      "text": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
     }
   ]
 }
