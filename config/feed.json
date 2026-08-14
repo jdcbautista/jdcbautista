@@ -5,16 +5,16 @@
     {
       "date": "2026-08-13",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "sqlite-utils 4.2.1",
-      "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/"
+      "source": "Google AI",
+      "text": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
     },
     {
       "date": "2026-08-13",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
-      "link": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/"
+      "source": "CNCF",
+      "text": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
+      "link": "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"
     },
     {
       "date": "2026-07-28",
@@ -24,18 +24,18 @@
       "link": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-08-11",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "How to be fearlessly AI native",
-      "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/"
+      "source": "Martin Fowler",
+      "text": "TDD inside the agent loop - theater or actual value?",
+      "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html"
     },
     {
       "date": "2026-08-13",
       "track": "News",
       "source": "TechCrunch AI",
-      "text": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
+      "text": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
     }
   ]
 }
