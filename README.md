@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/13/sqlite-utils-2/"><img src="generated/feed-item-0.svg?v=09645243" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/"><img src="generated/feed-item-1.svg?v=221e90ed" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"><img src="generated/feed-item-0.svg?v=39ef90be" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"><img src="generated/feed-item-1.svg?v=ec4585ab" alt="Cloud — CNCF" width="720" align="top" /></a><!--
 --><a href="https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"><img src="generated/feed-item-2.svg?v=9a50223a" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/"><img src="generated/feed-item-3.svg?v=24cfed7a" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"><img src="generated/feed-item-4.svg?v=92d443fa" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html"><img src="generated/feed-item-3.svg?v=94417a67" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"><img src="generated/feed-item-4.svg?v=38997c18" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
