@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=e83379fc" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=83b24237" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"><img src="generated/feed-item-0.svg?v=fb111980" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"><img src="generated/feed-item-1.svg?v=9656ffcd" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"><img src="generated/feed-item-2.svg?v=45ad3ea0" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"><img src="generated/feed-item-4.svg?v=32a4a848" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/13/sqlite-utils-2/"><img src="generated/feed-item-0.svg?v=09645243" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/"><img src="generated/feed-item-1.svg?v=221e90ed" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"><img src="generated/feed-item-2.svg?v=9a50223a" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/"><img src="generated/feed-item-3.svg?v=24cfed7a" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"><img src="generated/feed-item-4.svg?v=92d443fa" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
