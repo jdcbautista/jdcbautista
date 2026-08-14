@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-03",
+      "date": "2026-08-13",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Inside our 353,000-person vibe coding course",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+      "source": "Simon Willison",
+      "text": "sqlite-utils 4.2.1",
+      "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-13",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Accelerate CloudFormation development with the IaC MCP Server",
-      "link": "https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"
+      "source": "Cloudflare",
+      "text": "Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal",
+      "link": "https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-07-28",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills | Rootly",
-      "link": "https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
+      "source": "Grafana",
+      "text": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
+      "link": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-07",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Modeling Device Capabilities for Analytics",
-      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "How to be fearlessly AI native",
+      "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "The web's newest weapon against AI scrapers is a font",
-      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
+      "source": "TechCrunch AI",
+      "text": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
     }
   ]
 }
