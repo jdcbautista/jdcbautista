@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "The builder's guide to GPT‑5.6",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6"
-    },
-    {
-      "date": "2026-08-06",
-      "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Scaling Autonomous Operations with AWS DevOps Agent and ServiceNow",
-      "link": "https://aws.amazon.com/blogs/devops/scaling-autonomous-operations-with-aws-devops-agent-and-servicenow/"
-    },
-    {
-      "date": "2026-08-03",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #528",
-      "link": "https://sreweekly.com/sre-weekly-issue-528/"
+      "source": "Hugging Face",
+      "text": "State of Open Models: Summer 2026 Observations",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026"
     },
     {
       "date": "2026-07-31",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37 Sneak Peek",
+      "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/"
+    },
+    {
+      "date": "2026-08-06",
+      "track": "SRE",
+      "source": "Gremlin",
+      "text": "What your AI SRE can't see (and what you can do about it)",
+      "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
+    },
+    {
+      "date": "2026-08-14",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Modeling Device Capabilities for Analytics",
-      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
+      "source": "LWN",
+      "text": "Security updates for Friday",
+      "link": "https://lwn.net/Articles/1088919/"
     },
     {
       "date": "2026-08-14",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Google will now allow users to remove visible watermark from its AI generations",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+      "source": "The Verge",
+      "text": "We're reaching peak camera with the Sony A7R VI",
+      "link": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review"
     }
   ]
 }
