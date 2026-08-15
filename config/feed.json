@@ -5,37 +5,37 @@
     {
       "date": "2026-08-13",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Bring your spreadsheet data to life with Sheets canvas",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+      "source": "OpenAI",
+      "text": "The builder's guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-06",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
-      "link": "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"
+      "source": "AWS DevOps",
+      "text": "Scaling Autonomous Operations with AWS DevOps Agent and ServiceNow",
+      "link": "https://aws.amazon.com/blogs/devops/scaling-autonomous-operations-with-aws-devops-agent-and-servicenow/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-08-03",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Telemetry-driven development: How to gain confidence in your coding agents' behavior with gcx and Grafana MCP",
-      "link": "https://grafana.com/blog/telemetry-driven-development-how-to-gain-confidence-in-your-coding-agents-behavior-with-gcx-and-grafana-mcp/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #528",
+      "link": "https://sreweekly.com/sre-weekly-issue-528/"
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-07-31",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "TDD inside the agent loop - theater or actual value?",
-      "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html"
+      "source": "Netflix Tech",
+      "text": "Modeling Device Capabilities for Analytics",
+      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "track": "News",
       "source": "TechCrunch AI",
-      "text": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+      "text": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
     }
   ]
 }
