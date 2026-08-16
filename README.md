@@ -38,10 +38,10 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/"><img src="generated/feed-item-0.svg?v=d2de8dfe" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/scaling-autonomous-operations-with-aws-devops-agent-and-servicenow/"><img src="generated/feed-item-1.svg?v=5ebac678" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/how-to-manage-unfixed-kubernetes-cves/"><img src="generated/feed-item-2.svg?v=85fa547f" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"><img src="generated/feed-item-3.svg?v=d33a3393" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/builders-guide-to-gpt-5-6"><img src="generated/feed-item-0.svg?v=3f38f07b" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"><img src="generated/feed-item-1.svg?v=9656ffcd" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bcfda982" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
 --><a href="https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"><img src="generated/feed-item-4.svg?v=cf673503" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
