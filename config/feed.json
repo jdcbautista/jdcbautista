@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-14",
+      "date": "2026-07-27",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "State of Open Models: Summer 2026 Observations",
-      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026"
-    },
-    {
-      "date": "2026-07-31",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37 Sneak Peek",
-      "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/"
+      "source": "Import AI",
+      "text": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker",
+      "link": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/"
     },
     {
       "date": "2026-08-06",
-      "track": "SRE",
-      "source": "Gremlin",
-      "text": "What your AI SRE can't see (and what you can do about it)",
-      "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
+      "track": "Cloud",
+      "source": "AWS DevOps",
+      "text": "Scaling Autonomous Operations with AWS DevOps Agent and ServiceNow",
+      "link": "https://aws.amazon.com/blogs/devops/scaling-autonomous-operations-with-aws-devops-agent-and-servicenow/"
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-10",
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Understanding unfixed Kubernetes CVEs: What you can and can't detect",
+      "link": "https://www.datadoghq.com/blog/how-to-manage-unfixed-kubernetes-cves/"
+    },
+    {
+      "date": "2026-07-30",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Friday",
-      "link": "https://lwn.net/Articles/1088919/"
+      "source": "Martin Fowler",
+      "text": "The Economic Benefit of Refactoring",
+      "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"
     },
     {
       "date": "2026-08-14",
       "track": "News",
-      "source": "The Verge",
-      "text": "We're reaching peak camera with the Sony A7R VI",
-      "link": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review"
+      "source": "TechCrunch AI",
+      "text": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
     }
   ]
 }
