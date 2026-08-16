@@ -3,32 +3,32 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-27",
+      "date": "2026-08-13",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker",
-      "link": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/"
+      "source": "OpenAI",
+      "text": "The builder's guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-04",
       "track": "Cloud",
       "source": "AWS DevOps",
-      "text": "Scaling Autonomous Operations with AWS DevOps Agent and ServiceNow",
-      "link": "https://aws.amazon.com/blogs/devops/scaling-autonomous-operations-with-aws-devops-agent-and-servicenow/"
+      "text": "Accelerate CloudFormation development with the IaC MCP Server",
+      "link": "https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-03",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Understanding unfixed Kubernetes CVEs: What you can and can't detect",
-      "link": "https://www.datadoghq.com/blog/how-to-manage-unfixed-kubernetes-cves/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #528",
+      "link": "https://sreweekly.com/sre-weekly-issue-528/"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-07-13",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "The Economic Benefit of Refactoring",
-      "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"
+      "source": "Netflix Tech",
+      "text": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+      "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-08-14",
