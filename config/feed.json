@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-13",
+      "date": "2026-08-16",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "link": "https://openai.com/index/previewing-ultrafast"
+      "source": "Simon Willison",
+      "text": "Quoting Dario Amodei",
+      "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-12",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos",
-      "link": "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/"
+      "source": "AWS DevOps",
+      "text": "Extending AWS Transform custom with MCP Servers for End-to-End Code Modernization",
+      "link": "https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-14",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Why Rootly acquired ThinkHive | Rootly",
-      "link": "https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"
+      "source": "Gremlin",
+      "text": "Eliminate Reliability Blind Spots in AWS, Azure, and GCP",
+      "link": "https://www.gremlin.com/blog/eliminate-reliability-blind-spots-detected-risks-aws-azure-gcp"
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-16",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Solving integration woes with a hackathon",
-      "link": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/"
+      "source": "LWN",
+      "text": "The 7.2 kernel has been released",
+      "link": "https://lwn.net/Articles/1088991/"
     },
     {
-      "date": "2026-08-15",
+      "date": "2026-08-17",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+      "source": "Hacker News",
+      "text": "Stripe to Buy OpenRouter for $7B",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
     }
   ]
 }
