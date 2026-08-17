@@ -6,36 +6,36 @@
       "date": "2026-08-13",
       "track": "AI",
       "source": "OpenAI",
-      "text": "The builder's guide to GPT‑5.6",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6"
-    },
-    {
-      "date": "2026-08-04",
-      "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Accelerate CloudFormation development with the IaC MCP Server",
-      "link": "https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"
-    },
-    {
-      "date": "2026-08-03",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #528",
-      "link": "https://sreweekly.com/sre-weekly-issue-528/"
-    },
-    {
-      "date": "2026-07-13",
-      "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
-      "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"
+      "text": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "link": "https://openai.com/index/previewing-ultrafast"
     },
     {
       "date": "2026-08-14",
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos",
+      "link": "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/"
+    },
+    {
+      "date": "2026-07-28",
+      "track": "SRE",
+      "source": "Rootly",
+      "text": "Why Rootly acquired ThinkHive | Rootly",
+      "link": "https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"
+    },
+    {
+      "date": "2026-08-14",
+      "track": "Systems",
+      "source": "Stack Overflow",
+      "text": "Solving integration woes with a hackathon",
+      "link": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/"
+    },
+    {
+      "date": "2026-08-15",
       "track": "News",
       "source": "TechCrunch AI",
-      "text": "Google will now allow users to remove visible watermark from its AI generations",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+      "text": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
     }
   ]
 }

@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6e306e49" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=2e95ed7c" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/builders-guide-to-gpt-5-6"><img src="generated/feed-item-0.svg?v=3f38f07b" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/"><img src="generated/feed-item-1.svg?v=9656ffcd" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bcfda982" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"><img src="generated/feed-item-4.svg?v=cf673503" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/previewing-ultrafast"><img src="generated/feed-item-0.svg?v=13fa6ce3" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/"><img src="generated/feed-item-1.svg?v=e871c9e1" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"><img src="generated/feed-item-2.svg?v=1371e2f4" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/"><img src="generated/feed-item-3.svg?v=6a94449b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"><img src="generated/feed-item-4.svg?v=2fed905f" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
