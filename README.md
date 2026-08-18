@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=2e95ed7c" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6491ad93" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/16/dario-amodei/"><img src="generated/feed-item-0.svg?v=8c5ddaa3" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"><img src="generated/feed-item-1.svg?v=b9d6acdb" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/eliminate-reliability-blind-spots-detected-risks-aws-azure-gcp"><img src="generated/feed-item-2.svg?v=f282b5d3" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1088991/"><img src="generated/feed-item-3.svg?v=549583c8" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"><img src="generated/feed-item-4.svg?v=ee751d3f" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/new-policy-ideas-for-the-intelligence-age"><img src="generated/feed-item-0.svg?v=eb72b489" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"><img src="generated/feed-item-1.svg?v=ec4585ab" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1088776/"><img src="generated/feed-item-3.svg?v=14c4bae4" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/"><img src="generated/feed-item-4.svg?v=0be428cd" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

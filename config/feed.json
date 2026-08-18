@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting Dario Amodei",
-      "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/"
+      "source": "OpenAI",
+      "text": "New policy ideas for the Intelligence Age",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Extending AWS Transform custom with MCP Servers for End-to-End Code Modernization",
-      "link": "https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"
+      "source": "CNCF",
+      "text": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
+      "link": "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-08-13",
       "track": "SRE",
       "source": "Gremlin",
-      "text": "Eliminate Reliability Blind Spots in AWS, Azure, and GCP",
-      "link": "https://www.gremlin.com/blog/eliminate-reliability-blind-spots-detected-risks-aws-azure-gcp"
+      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
+      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
     },
     {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "track": "Systems",
       "source": "LWN",
-      "text": "The 7.2 kernel has been released",
-      "link": "https://lwn.net/Articles/1088991/"
+      "text": "[$] Development statistics for the 7.2 kernel",
+      "link": "https://lwn.net/Articles/1088776/"
     },
     {
       "date": "2026-08-17",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Stripe to Buy OpenRouter for $7B",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+      "source": "Ars Technica",
+      "text": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+      "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/"
     }
   ]
 }
