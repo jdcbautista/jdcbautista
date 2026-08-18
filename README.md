@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/new-policy-ideas-for-the-intelligence-age"><img src="generated/feed-item-0.svg?v=eb72b489" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"><img src="generated/feed-item-1.svg?v=ec4585ab" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1088776/"><img src="generated/feed-item-3.svg?v=14c4bae4" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/"><img src="generated/feed-item-4.svg?v=0be428cd" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"><img src="generated/feed-item-0.svg?v=39ef90be" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"><img src="generated/feed-item-1.svg?v=c9e9b9eb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"><img src="generated/feed-item-2.svg?v=1371e2f4" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/rachels-ramblings/conductor-developer.html"><img src="generated/feed-item-3.svg?v=83169638" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"><img src="generated/feed-item-4.svg?v=0ab6f5af" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
