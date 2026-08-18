@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-13",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "New policy ideas for the Intelligence Age",
-      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+      "source": "Google AI",
+      "text": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-03",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
-      "link": "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"
+      "source": "Kubernetes",
+      "text": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
+      "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-07-28",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
-      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
+      "source": "Rootly",
+      "text": "Why Rootly acquired ThinkHive | Rootly",
+      "link": "https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-07-31",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] Development statistics for the 7.2 kernel",
-      "link": "https://lwn.net/Articles/1088776/"
+      "source": "Martin Fowler",
+      "text": "The Conductor Developer",
+      "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-      "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/"
+      "source": "The Verge",
+      "text": "Firefox's Smart Window promises a better AI browser",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
     }
   ]
 }
