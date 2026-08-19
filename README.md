@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/pacing-model-development-cyber-capabilities"><img src="generated/feed-item-0.svg?v=4d1d289d" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"><img src="generated/feed-item-1.svg?v=ec4585ab" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=9ebb3417" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/"><img src="generated/feed-item-4.svg?v=c902fe9e" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/partnering-with-codeai"><img src="generated/feed-item-0.svg?v=6a475607" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/"><img src="generated/feed-item-1.svg?v=acaa3cd4" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/how-to-build-a-trust-platform-for-your-agent-with-grafana-agent-observability/"><img src="generated/feed-item-2.svg?v=7ae448b3" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.raphaelbauer.com:443/posts/postgresql-everything/"><img src="generated/feed-item-4.svg?v=861b4d1f" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
