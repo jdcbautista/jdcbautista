@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6491ad93" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c2b7c4a0" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"><img src="generated/feed-item-0.svg?v=39ef90be" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"><img src="generated/feed-item-1.svg?v=c9e9b9eb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"><img src="generated/feed-item-2.svg?v=1371e2f4" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/rachels-ramblings/conductor-developer.html"><img src="generated/feed-item-3.svg?v=83169638" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"><img src="generated/feed-item-4.svg?v=0ab6f5af" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/pacing-model-development-cyber-capabilities"><img src="generated/feed-item-0.svg?v=4d1d289d" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"><img src="generated/feed-item-1.svg?v=ec4585ab" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=9ebb3417" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/"><img src="generated/feed-item-4.svg?v=c902fe9e" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-13",
+      "date": "2026-08-18",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Bring your spreadsheet data to life with Sheets canvas",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+      "source": "OpenAI",
+      "text": "Pacing model development in an era of cyber-critical capabilities",
+      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-13",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
-      "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/"
+      "source": "CNCF",
+      "text": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
+      "link": "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-08-10",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Why Rootly acquired ThinkHive | Rootly",
-      "link": "https://webflow.rootly.com/blog/why-rootly-acquired-thinkhive"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #529",
+      "link": "https://sreweekly.com/sre-weekly-issue-529/"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-18",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "The Conductor Developer",
-      "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html"
+      "source": "InfoQ",
+      "text": "Presentation: From Fab To Token - The State Of The Market",
+      "link": "https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-08-18",
       "track": "News",
-      "source": "The Verge",
-      "text": "Firefox's Smart Window promises a better AI browser",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
+      "source": "Ars Technica",
+      "text": "Ukrainian drones overwhelm Russian tanks' new active protection system—for now",
+      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/"
     }
   ]
 }
