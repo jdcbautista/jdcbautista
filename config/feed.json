@@ -6,36 +6,36 @@
       "date": "2026-08-18",
       "track": "AI",
       "source": "OpenAI",
-      "text": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+      "text": "Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-19",
       "track": "Cloud",
       "source": "CNCF",
-      "text": "Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack",
-      "link": "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"
+      "text": "Kyverno is a platform primitive, not a security tool",
+      "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-07-30",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #529",
-      "link": "https://sreweekly.com/sre-weekly-issue-529/"
+      "source": "Grafana",
+      "text": "How to build a trust platform for your agent with Grafana Agent Observability",
+      "link": "https://grafana.com/blog/how-to-build-a-trust-platform-for-your-agent-with-grafana-agent-observability/"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-07-31",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Presentation: From Fab To Token - The State Of The Market",
-      "link": "https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Netflix Tech",
+      "text": "Modeling Device Capabilities for Analytics",
+      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Ukrainian drones overwhelm Russian tanks' new active protection system—for now",
-      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/"
+      "source": "Hacker News",
+      "text": "PostgreSQL for Everything",
+      "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/"
     }
   ]
 }
