@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c2b7c4a0" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c4d5e1a7" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/partnering-with-codeai"><img src="generated/feed-item-0.svg?v=6a475607" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/"><img src="generated/feed-item-1.svg?v=acaa3cd4" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/how-to-build-a-trust-platform-for-your-agent-with-grafana-agent-observability/"><img src="generated/feed-item-2.svg?v=7ae448b3" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.raphaelbauer.com:443/posts/postgresql-everything/"><img src="generated/feed-item-4.svg?v=861b4d1f" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"><img src="generated/feed-item-0.svg?v=a2a1917e" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/rfc9234-bgp-role-model/"><img src="generated/feed-item-1.svg?v=0619dd1a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/dotnet-11-preview-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=58a7f553" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"><img src="generated/feed-item-4.svg?v=06a1c613" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
