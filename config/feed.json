@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-19",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-      "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
+      "text": "Conceptual integrity and counting lines of code",
+      "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-12",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "BGP Role model: tracking the adoption of RFC 9234",
-      "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/"
+      "source": "AWS DevOps",
+      "text": "Extending AWS Transform custom with MCP Servers for End-to-End Code Modernization",
+      "link": "https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"
     },
     {
       "date": "2026-08-10",
@@ -24,18 +24,18 @@
       "link": "https://sreweekly.com/sre-weekly-issue-529/"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-18",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": ".NET 11 Preview 7 Brings Updates Across C#, ASP.NET Core, EF Core, and Windows Forms",
-      "link": "https://www.infoq.com/news/2026/08/dotnet-11-preview-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Stack Overflow",
+      "text": "Building an agentic SDLC with a QA engineering mindset",
+      "link": "https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"
+      "source": "Hacker News",
+      "text": "Browser De-Slop",
+      "link": "https://www.sacredheartsc.com/blog/browser-de-slop/"
     }
   ]
 }
