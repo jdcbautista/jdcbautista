@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-18",
+      "date": "2026-08-17",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Partnering with CodeAI to prepare the first AI generation",
-      "link": "https://openai.com/index/partnering-with-codeai"
+      "source": "Simon Willison",
+      "text": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"
+    },
+    {
+      "date": "2026-08-18",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "BGP Role model: tracking the adoption of RFC 9234",
+      "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/"
+    },
+    {
+      "date": "2026-08-10",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #529",
+      "link": "https://sreweekly.com/sre-weekly-issue-529/"
     },
     {
       "date": "2026-08-19",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "Kyverno is a platform primitive, not a security tool",
-      "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/"
-    },
-    {
-      "date": "2026-07-30",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "How to build a trust platform for your agent with Grafana Agent Observability",
-      "link": "https://grafana.com/blog/how-to-build-a-trust-platform-for-your-agent-with-grafana-agent-observability/"
-    },
-    {
-      "date": "2026-07-31",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Modeling Device Capabilities for Analytics",
-      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": ".NET 11 Preview 7 Brings Updates Across C#, ASP.NET Core, EF Core, and Windows Forms",
+      "link": "https://www.infoq.com/news/2026/08/dotnet-11-preview-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-08-19",
       "track": "News",
-      "source": "Hacker News",
-      "text": "PostgreSQL for Everything",
-      "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/"
+      "source": "Ars Technica",
+      "text": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"
     }
   ]
 }
