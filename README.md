@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/"><img src="generated/feed-item-0.svg?v=a2a1917e" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/rfc9234-bgp-role-model/"><img src="generated/feed-item-1.svg?v=0619dd1a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"><img src="generated/feed-item-0.svg?v=3d093239" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"><img src="generated/feed-item-1.svg?v=b9d6acdb" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
 --><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/08/dotnet-11-preview-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=58a7f553" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/"><img src="generated/feed-item-4.svg?v=06a1c613" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/"><img src="generated/feed-item-3.svg?v=968321cd" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.sacredheartsc.com/blog/browser-de-slop/"><img src="generated/feed-item-4.svg?v=8df56e0a" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

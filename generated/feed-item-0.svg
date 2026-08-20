@@ -2,7 +2,7 @@
     <rect x="0" y="0" width="900" height="48" fill="#161b22"/>
     <rect x="24" y="15" width="78" height="20" rx="5" fill="#4c8bf5" opacity="0.16"/>
     <text x="63" y="30" text-anchor="middle" fill="#4c8bf5" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" letter-spacing="1">AI</text>
-    <text x="114" y="30" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Qwen 3.8 27B scores 52 on the Artificial Analysis I…</text>
-    <text x="876" y="30" text-anchor="end" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">Simon Willison  ·  Aug 17</text>
+    <text x="114" y="30" fill="#e6edf3" font-family="'JetBrains Mono',monospace" font-size="13">Conceptual integrity and counting lines of code</text>
+    <text x="876" y="30" text-anchor="end" fill="#8b949e" font-family="'JetBrains Mono',monospace" font-size="11">Simon Willison  ·  Aug 19</text>
     <line x1="0" y1="0" x2="0" y2="48" stroke="#30363d"/><line x1="900" y1="0" x2="900" y2="48" stroke="#30363d"/>
     <line x1="24" y1="48" x2="876" y2="48" stroke="#30363d" opacity="0.6"/></svg>
