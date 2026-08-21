@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c4d5e1a7" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/"><img src="generated/feed-item-0.svg?v=3d093239" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"><img src="generated/feed-item-1.svg?v=b9d6acdb" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/"><img src="generated/feed-item-3.svg?v=968321cd" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.sacredheartsc.com/blog/browser-de-slop/"><img src="generated/feed-item-4.svg?v=8df56e0a" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/multi-vector-encoder"><img src="generated/feed-item-0.svg?v=298020cc" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/"><img src="generated/feed-item-1.svg?v=d8d0e29a" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/"><img src="generated/feed-item-3.svg?v=aa291374" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/"><img src="generated/feed-item-4.svg?v=fc880480" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
