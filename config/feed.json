@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "link": "https://huggingface.co/blog/multi-vector-encoder"
+      "source": "Simon Willison",
+      "text": "Quoting Jeremy Morrell",
+      "link": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/"
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-20",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
-      "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/"
+      "source": "CNCF",
+      "text": "Announcing H1 2027 KCDs",
+      "link": "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-03",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
-      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #528",
+      "link": "https://sreweekly.com/sre-weekly-issue-528/"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
-      "link": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/"
+      "source": "InfoQ",
+      "text": "Cloudflare Turns Engineering Standards Into an AI-Enforced Control System",
+      "link": "https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "US distributor of China's most popular humanoid robots pivots after US ban",
-      "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/"
+      "source": "Hacker News",
+      "text": "Kino: A high-performance Ractor web server for Ruby 4.0",
+      "link": "https://github.com/yaroslav/kino"
     }
   ]
 }
