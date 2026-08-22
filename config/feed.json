@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-07-20",
-      "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
-      "link": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
-    },
-    {
-      "date": "2026-07-14",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Building a Custom Metrics Exporter for Kubernetes",
-      "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"
-    },
-    {
-      "date": "2026-07-29",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "Automate all the things: How to use Grafana Cloud's AI to relieve the operational burden",
-      "link": "https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"
-    },
-    {
-      "date": "2026-08-18",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: August 18",
-      "link": "https://martinfowler.com/fragments/2026-08-18.html"
-    },
-    {
       "date": "2026-08-21",
+      "track": "AI",
+      "source": "Simon Willison",
+      "text": "Stop Making TUIs",
+      "link": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/"
+    },
+    {
+      "date": "2026-08-19",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
+    },
+    {
+      "date": "2026-08-04",
+      "track": "SRE",
+      "source": "Rootly",
+      "text": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills | Rootly",
+      "link": "https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
+    },
+    {
+      "date": "2026-08-07",
+      "track": "Systems",
+      "source": "Netflix Tech",
+      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+    },
+    {
+      "date": "2026-08-20",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
+      "source": "MIT Tech Review",
+      "text": "Debates over AI consciousness are a trap",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
     }
   ]
 }
