@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-19",
+      "date": "2026-07-20",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting Jeremy Morrell",
-      "link": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/"
+      "source": "Import AI",
+      "text": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+      "link": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-07-14",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Announcing H1 2027 KCDs",
-      "link": "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/"
+      "source": "Kubernetes",
+      "text": "Building a Custom Metrics Exporter for Kubernetes",
+      "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-07-29",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #528",
-      "link": "https://sreweekly.com/sre-weekly-issue-528/"
+      "source": "Grafana",
+      "text": "Automate all the things: How to use Grafana Cloud's AI to relieve the operational burden",
+      "link": "https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-18",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Cloudflare Turns Engineering Standards Into an AI-Enforced Control System",
-      "link": "https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Fragments: August 18",
+      "link": "https://martinfowler.com/fragments/2026-08-18.html"
     },
     {
       "date": "2026-08-21",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Kino: A high-performance Ractor web server for Ruby 4.0",
-      "link": "https://github.com/yaroslav/kino"
+      "source": "TechCrunch AI",
+      "text": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"
     }
   ]
 }

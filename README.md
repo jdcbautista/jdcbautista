@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=2f47b238" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/19/jeremy-morrell/"><img src="generated/feed-item-0.svg?v=c322128c" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/"><img src="generated/feed-item-1.svg?v=92d27d40" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/08/cloudflare-ai-enforcement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=fa3f7288" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://github.com/yaroslav/kino"><img src="generated/feed-item-4.svg?v=fff1bbc3" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/"><img src="generated/feed-item-0.svg?v=3909d592" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"><img src="generated/feed-item-1.svg?v=f4952108" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/automate-all-the-things-how-to-use-grafana-cloud-s-ai-to-relieve-the-operational-burden/"><img src="generated/feed-item-2.svg?v=5a6e7d55" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-08-18.html"><img src="generated/feed-item-3.svg?v=30fef707" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/"><img src="generated/feed-item-4.svg?v=8caea53e" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
