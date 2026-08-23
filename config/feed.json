@@ -3,25 +3,25 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-22",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Evolve your marketing with new AI tools",
-      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+      "source": "Simon Willison",
+      "text": "llm 0.33",
+      "link": "https://simonwillison.net/2026/Aug/22/llm/"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "track": "Cloud",
       "source": "CNCF",
-      "text": "Cloud Native platform sovereignty through multi-plane architecture",
-      "link": "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture/"
+      "text": "German ciphers, telegrams, and cloud native data sovereignty",
+      "link": "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-10",
       "track": "SRE",
       "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #528",
-      "link": "https://sreweekly.com/sre-weekly-issue-528/"
+      "text": "SRE Weekly Issue #529",
+      "link": "https://sreweekly.com/sre-weekly-issue-529/"
     },
     {
       "date": "2026-08-04",
@@ -34,8 +34,8 @@
       "date": "2026-08-21",
       "track": "News",
       "source": "MIT Tech Review",
-      "text": "When AI designs a drug, who gets the credit?",
-      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
+      "text": "This company's plans to deploy space mirrors could jeopardize the night sky for many",
+      "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
     }
   ]
 }

@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"><img src="generated/feed-item-0.svg?v=1d6ecd20" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture/"><img src="generated/feed-item-1.svg?v=3788e274" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/22/llm/"><img src="generated/feed-item-0.svg?v=8581a9b4" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/"><img src="generated/feed-item-1.svg?v=5c286753" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
 --><a href="https://martinfowler.com/fragments/2026-08-04.html"><img src="generated/feed-item-3.svg?v=0b7a04fa" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"><img src="generated/feed-item-4.svg?v=8a3a3250" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"><img src="generated/feed-item-4.svg?v=90c0a191" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
