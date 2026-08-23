@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-21",
+      "date": "2026-08-10",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Stop Making TUIs",
-      "link": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/"
+      "source": "Google AI",
+      "text": "Evolve your marketing with new AI tools",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-18",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "A revisit of remote Spectre attacks on Cloudflare Workers",
-      "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
+      "source": "CNCF",
+      "text": "Cloud Native platform sovereignty through multi-plane architecture",
+      "link": "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture/"
+    },
+    {
+      "date": "2026-08-03",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #528",
+      "link": "https://sreweekly.com/sre-weekly-issue-528/"
     },
     {
       "date": "2026-08-04",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills | Rootly",
-      "link": "https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
-    },
-    {
-      "date": "2026-08-07",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+      "source": "Martin Fowler",
+      "text": "Fragments: August 4",
+      "link": "https://martinfowler.com/fragments/2026-08-04.html"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "track": "News",
       "source": "MIT Tech Review",
-      "text": "Debates over AI consciousness are a trap",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
+      "text": "When AI designs a drug, who gets the credit?",
+      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
     }
   ]
 }
