@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"><img src="generated/feed-item-0.svg?v=39ef90be" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"><img src="generated/feed-item-1.svg?v=3eee53bf" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/systemic-risk-ai-agents-datadog/"><img src="generated/feed-item-2.svg?v=0224d2a9" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"><img src="generated/feed-item-3.svg?v=43ff0787" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"><img src="generated/feed-item-4.svg?v=3934818f" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"><img src="generated/feed-item-0.svg?v=793f0849" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/rfc9234-bgp-role-model/"><img src="generated/feed-item-1.svg?v=0619dd1a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/gremlin-app-for-dynatrace"><img src="generated/feed-item-2.svg?v=41c1f902" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=1a5c0dae" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes"><img src="generated/feed-item-4.svg?v=c27aba32" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
