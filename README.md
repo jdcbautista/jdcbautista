@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=9fe1b0fe" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/22/llm/"><img src="generated/feed-item-0.svg?v=8581a9b4" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/"><img src="generated/feed-item-1.svg?v=5c286753" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-08-04.html"><img src="generated/feed-item-3.svg?v=0b7a04fa" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"><img src="generated/feed-item-4.svg?v=90c0a191" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"><img src="generated/feed-item-0.svg?v=39ef90be" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"><img src="generated/feed-item-1.svg?v=3eee53bf" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/systemic-risk-ai-agents-datadog/"><img src="generated/feed-item-2.svg?v=0224d2a9" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"><img src="generated/feed-item-3.svg?v=43ff0787" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"><img src="generated/feed-item-4.svg?v=3934818f" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
