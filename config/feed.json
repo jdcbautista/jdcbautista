@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-22",
+      "date": "2026-08-13",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "llm 0.33",
-      "link": "https://simonwillison.net/2026/Aug/22/llm/"
+      "source": "Google AI",
+      "text": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+    },
+    {
+      "date": "2026-08-19",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
     },
     {
       "date": "2026-08-20",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "German ciphers, telegrams, and cloud native data sovereignty",
-      "link": "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/"
-    },
-    {
-      "date": "2026-08-10",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #529",
-      "link": "https://sreweekly.com/sre-weekly-issue-529/"
+      "source": "Datadog",
+      "text": "From signals to systemic risk: Building Risk AI",
+      "link": "https://www.datadoghq.com/blog/systemic-risk-ai-agents-datadog/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-19",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "Fragments: August 4",
-      "link": "https://martinfowler.com/fragments/2026-08-04.html"
+      "text": "Citizens Build, Agents Execute, Experts Govern",
+      "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "This company's plans to deploy space mirrors could jeopardize the night sky for many",
-      "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
+      "source": "Ars Technica",
+      "text": "Putting mice into hibernation causes a major loss of synapses",
+      "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
     }
   ]
 }
