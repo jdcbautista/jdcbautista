@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-13",
+      "date": "2026-08-17",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Bring your spreadsheet data to life with Sheets canvas",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+      "source": "Import AI",
+      "text": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
+      "link": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-18",
       "track": "Cloud",
       "source": "Cloudflare",
-      "text": "A revisit of remote Spectre attacks on Cloudflare Workers",
-      "link": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
+      "text": "BGP Role model: tracking the adoption of RFC 9234",
+      "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-07-28",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "From signals to systemic risk: Building Risk AI",
-      "link": "https://www.datadoghq.com/blog/systemic-risk-ai-agents-datadog/"
+      "source": "Gremlin",
+      "text": "The Gremlin app for Dynatrace: resilience testing and reliability scoring, built on the observability you already trust",
+      "link": "https://www.gremlin.com/blog/gremlin-app-for-dynatrace"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-24",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Citizens Build, Agents Execute, Experts Govern",
-      "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"
+      "source": "InfoQ",
+      "text": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
+      "link": "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Putting mice into hibernation causes a major loss of synapses",
-      "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
+      "source": "Hacker News",
+      "text": "My favorite nonfiction books about cults, scams, and schemes",
+      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes"
     }
   ]
 }
