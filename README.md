@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"><img src="generated/feed-item-0.svg?v=793f0849" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/rfc9234-bgp-role-model/"><img src="generated/feed-item-1.svg?v=0619dd1a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/gremlin-app-for-dynatrace"><img src="generated/feed-item-2.svg?v=41c1f902" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=1a5c0dae" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes"><img src="generated/feed-item-4.svg?v=c27aba32" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"><img src="generated/feed-item-0.svg?v=5bb6aebb" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/"><img src="generated/feed-item-1.svg?v=acaa3cd4" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-530/"><img src="generated/feed-item-2.svg?v=66e3a80b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1090098/"><img src="generated/feed-item-3.svg?v=5e21d502" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/"><img src="generated/feed-item-4.svg?v=077c0d57" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
