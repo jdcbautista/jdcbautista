@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-10",
       "track": "AI",
       "source": "Import AI",
-      "text": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
-      "link": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"
+      "text": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+      "link": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "BGP Role model: tracking the adoption of RFC 9234",
-      "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/"
+      "source": "CNCF",
+      "text": "Kyverno is a platform primitive, not a security tool",
+      "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/"
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-08-17",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "The Gremlin app for Dynatrace: resilience testing and reliability scoring, built on the observability you already trust",
-      "link": "https://www.gremlin.com/blog/gremlin-app-for-dynatrace"
-    },
-    {
-      "date": "2026-08-24",
-      "track": "Systems",
-      "source": "InfoQ",
-      "text": "Microsoft Moves AI Governance From Policy to Runtime Enforcement",
-      "link": "https://www.infoq.com/news/2026/08/microsoft-ai-governance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #530",
+      "link": "https://sreweekly.com/sre-weekly-issue-530/"
     },
     {
       "date": "2026-08-23",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "Mourning Steve French",
+      "link": "https://lwn.net/Articles/1090098/"
+    },
+    {
+      "date": "2026-08-24",
       "track": "News",
-      "source": "Hacker News",
-      "text": "My favorite nonfiction books about cults, scams, and schemes",
-      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes"
+      "source": "Ars Technica",
+      "text": "Data centers become \"killer application\" for new power transformer tech",
+      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/"
     }
   ]
 }
