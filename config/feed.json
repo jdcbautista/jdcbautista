@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-20",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
-      "link": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+      "source": "OpenAI",
+      "text": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "link": "https://openai.com/index/stampli"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-11",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Kyverno is a platform primitive, not a security tool",
-      "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/"
+      "source": "Kubernetes",
+      "text": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
+      "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-04",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #530",
-      "link": "https://sreweekly.com/sre-weekly-issue-530/"
-    },
-    {
-      "date": "2026-08-23",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "Mourning Steve French",
-      "link": "https://lwn.net/Articles/1090098/"
+      "source": "Gremlin",
+      "text": "Managing slow container starts with Kubernetes readiness probes",
+      "link": "https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"
     },
     {
       "date": "2026-08-24",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "[$] How to be safe from quantum computing",
+      "link": "https://lwn.net/Articles/1088305/"
+    },
+    {
+      "date": "2026-08-25",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Data centers become \"killer application\" for new power transformer tech",
-      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/"
+      "source": "MIT Tech Review",
+      "text": "Welcome to the spiderverse, a world measured through webs",
+      "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/"
     }
   ]
 }
