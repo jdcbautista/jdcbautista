@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-20",
+      "date": "2026-08-25",
       "track": "AI",
       "source": "OpenAI",
-      "text": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "link": "https://openai.com/index/stampli"
+      "text": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "link": "https://openai.com/index/introducing-admin-plugin"
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-18",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
-      "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/"
+      "source": "Cloudflare",
+      "text": "BGP Role model: tracking the adoption of RFC 9234",
+      "link": "https://blog.cloudflare.com/rfc9234-bgp-role-model/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-10",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Managing slow container starts with Kubernetes readiness probes",
-      "link": "https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #529",
+      "link": "https://sreweekly.com/sre-weekly-issue-529/"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-07-17",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] How to be safe from quantum computing",
-      "link": "https://lwn.net/Articles/1088305/"
+      "source": "Netflix Tech",
+      "text": "In-House LLM Serving at Netflix",
+      "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-08-25",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Welcome to the spiderverse, a world measured through webs",
-      "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/"
+      "source": "The Verge",
+      "text": "At just $8, you owe it to yourself to grab Inscryption",
+      "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale"
     }
   ]
 }
