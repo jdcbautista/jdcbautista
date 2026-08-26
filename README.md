@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6a5d3ea5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/stampli"><img src="generated/feed-item-0.svg?v=173fdc89" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/"><img src="generated/feed-item-1.svg?v=d8d0e29a" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"><img src="generated/feed-item-2.svg?v=75d18081" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1088305/"><img src="generated/feed-item-3.svg?v=0e92b388" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/"><img src="generated/feed-item-4.svg?v=8022774b" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/introducing-admin-plugin"><img src="generated/feed-item-0.svg?v=4274be9d" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/rfc9234-bgp-role-model/"><img src="generated/feed-item-1.svg?v=0619dd1a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=182cb805" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale"><img src="generated/feed-item-4.svg?v=b985ca88" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
