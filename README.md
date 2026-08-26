@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/introducing-admin-plugin"><img src="generated/feed-item-0.svg?v=4274be9d" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/rfc9234-bgp-role-model/"><img src="generated/feed-item-1.svg?v=0619dd1a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=182cb805" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale"><img src="generated/feed-item-4.svg?v=b985ca88" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"><img src="generated/feed-item-0.svg?v=5bb6aebb" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/streamline-your-github-journey-with-aws-codepipeline-and-aws-devops-agent/"><img src="generated/feed-item-1.svg?v=75827d47" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/"><img src="generated/feed-item-3.svg?v=1e9247f5" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement"><img src="generated/feed-item-4.svg?v=568d97a4" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
