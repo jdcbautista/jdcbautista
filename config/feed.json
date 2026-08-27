@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-26",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
-      "link": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"
-    },
-    {
-      "date": "2026-08-05",
-      "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "HCP Terraform is the control plane for AI-driven infrastructure",
-      "link": "https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure"
-    },
-    {
-      "date": "2026-07-24",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
-      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
-    },
-    {
-      "date": "2026-08-20",
-      "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done",
-      "link": "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/"
+      "source": "Simon Willison",
+      "text": "Quoting Paul Dix",
+      "link": "https://simonwillison.net/2026/Aug/26/paul-dix/"
     },
     {
       "date": "2026-08-26",
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "Governance guidance for CNCF projects: Choosing the right structure for your project's size and stage",
+      "link": "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage/"
+    },
+    {
+      "date": "2026-07-21",
+      "track": "SRE",
+      "source": "Rootly",
+      "text": "Incident management best practices for 2026: A complete guide | Rootly",
+      "link": "https://webflow.rootly.com/blog/incident-management-best-practices-2026"
+    },
+    {
+      "date": "2026-07-17",
+      "track": "Systems",
+      "source": "Netflix Tech",
+      "text": "In-House LLM Serving at Netflix",
+      "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4"
+    },
+    {
+      "date": "2026-08-27",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
-      "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/"
+      "source": "The Verge",
+      "text": "Google's AI note-taking app now allows you to interact with books",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
     }
   ]
 }
