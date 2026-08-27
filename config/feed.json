@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-17",
       "track": "AI",
       "source": "Import AI",
-      "text": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
-      "link": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+      "text": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
+      "link": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-05",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Streamline your GitHub journey with AWS CodePipeline and AWS DevOps Agent",
-      "link": "https://aws.amazon.com/blogs/devops/streamline-your-github-journey-with-aws-codepipeline-and-aws-devops-agent/"
+      "source": "HashiCorp",
+      "text": "HCP Terraform is the control plane for AI-driven infrastructure",
+      "link": "https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-07-24",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
-      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
+      "source": "Rootly",
+      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
+      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-20",
       "track": "Systems",
       "source": "Stack Overflow",
-      "text": "Get rid of your CAPTCHA, the future of the web is bots",
-      "link": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/"
+      "text": "AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done",
+      "link": "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/"
     },
     {
       "date": "2026-08-26",
       "track": "News",
-      "source": "The Verge",
-      "text": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
-      "link": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement"
+      "source": "Ars Technica",
+      "text": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+      "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/"
     }
   ]
 }

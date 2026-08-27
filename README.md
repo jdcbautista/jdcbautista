@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6a5d3ea5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=7050c51f" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"><img src="generated/feed-item-0.svg?v=5bb6aebb" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/streamline-your-github-journey-with-aws-codepipeline-and-aws-devops-agent/"><img src="generated/feed-item-1.svg?v=75827d47" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/"><img src="generated/feed-item-3.svg?v=1e9247f5" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement"><img src="generated/feed-item-4.svg?v=568d97a4" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"><img src="generated/feed-item-0.svg?v=793f0849" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure"><img src="generated/feed-item-1.svg?v=f5950349" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/"><img src="generated/feed-item-3.svg?v=eb132280" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/"><img src="generated/feed-item-4.svg?v=b0ee5afb" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
