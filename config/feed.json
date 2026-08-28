@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-26",
+      "date": "2026-08-24",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "link": "https://huggingface.co/blog/train-multi-vector-encoder"
+      "source": "Import AI",
+      "text": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "link": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-28",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Governance guidance for CNCF projects: Choosing the right structure for your project's size and stage",
-      "link": "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage/"
+      "source": "Cloudflare",
+      "text": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+      "link": "https://blog.cloudflare.com/botbase-for-operators/"
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-21",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "How Datadog saves over $1 million each month by optimizing AI usage",
-      "link": "https://www.datadoghq.com/blog/how-datadog-saves-money-by-optimizing-ai-usage/"
+      "source": "Grafana",
+      "text": "How to scale Alloy as a central telemetry gateway: capacity planning, load testing, and production lessons",
+      "link": "https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-28",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Modeling Device Capabilities for Analytics",
-      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "Meta Expands Its Custom Silicon Strategy From Compute Into Networking",
+      "link": "https://www.infoq.com/news/2026/08/meta-hccl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "track": "News",
       "source": "MIT Tech Review",
-      "text": "A startup claims it's found a drug to make your blood young",
-      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+      "text": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
     }
   ]
 }
