@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=7050c51f" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=e0fa4229" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/26/paul-dix/"><img src="generated/feed-item-0.svg?v=55933c75" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/train-multi-vector-encoder"><img src="generated/feed-item-0.svg?v=df2511fb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
 --><a href="https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage/"><img src="generated/feed-item-1.svg?v=4af8f0e6" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/incident-management-best-practices-2026"><img src="generated/feed-item-2.svg?v=49906e1b" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=182cb805" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"><img src="generated/feed-item-4.svg?v=44fe5c4c" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/how-datadog-saves-money-by-optimizing-ai-usage/"><img src="generated/feed-item-2.svg?v=919e1b18" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"><img src="generated/feed-item-4.svg?v=850f1d1e" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
