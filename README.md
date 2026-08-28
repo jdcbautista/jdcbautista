@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/train-multi-vector-encoder"><img src="generated/feed-item-0.svg?v=df2511fb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage/"><img src="generated/feed-item-1.svg?v=4af8f0e6" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/how-datadog-saves-money-by-optimizing-ai-usage/"><img src="generated/feed-item-2.svg?v=919e1b18" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"><img src="generated/feed-item-4.svg?v=850f1d1e" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"><img src="generated/feed-item-0.svg?v=35bd233a" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/botbase-for-operators/"><img src="generated/feed-item-1.svg?v=706ac721" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"><img src="generated/feed-item-2.svg?v=9f5a028b" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/08/meta-hccl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=421f7411" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"><img src="generated/feed-item-4.svg?v=038877c0" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
