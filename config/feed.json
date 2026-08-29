@@ -3,11 +3,11 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
-      "link": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
+      "source": "Hugging Face",
+      "text": "Granite 4.2 LLMs: How They're Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2"
     },
     {
       "date": "2026-08-28",
@@ -17,25 +17,25 @@
       "link": "https://blog.cloudflare.com/botbase-for-operators/"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-19",
       "track": "SRE",
       "source": "Grafana",
-      "text": "How to scale Alloy as a central telemetry gateway: capacity planning, load testing, and production lessons",
-      "link": "https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"
+      "text": "Knowledge Graph as context for LLMs: demonstrating decisive RCA and faster production performance",
+      "link": "https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"
     },
     {
       "date": "2026-08-28",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Meta Expands Its Custom Silicon Strategy From Compute Into Networking",
-      "link": "https://www.infoq.com/news/2026/08/meta-hccl/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "Security updates for Friday",
+      "link": "https://lwn.net/Articles/1091117/"
     },
     {
       "date": "2026-08-28",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+      "source": "Ars Technica",
+      "text": "Cities terminate Flock contracts at record pace in August",
+      "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
     }
   ]
 }
