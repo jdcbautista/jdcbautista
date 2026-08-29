@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-25",
+      "date": "2026-08-24",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Granite 4.2 LLMs: How They're Built",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+      "source": "Import AI",
+      "text": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "link": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-26",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
-      "link": "https://blog.cloudflare.com/botbase-for-operators/"
+      "source": "AWS DevOps",
+      "text": "AI-driven software delivery with Kiro, AWS DevOps Agent and Bluebox by Dynatrace",
+      "link": "https://aws.amazon.com/blogs/devops/ai-driven-software-delivery-with-kiro-aws-devops-agent-and-bluebox-by-dynatrace/"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-27",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Knowledge Graph as context for LLMs: demonstrating decisive RCA and faster production performance",
-      "link": "https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"
+      "source": "Datadog",
+      "text": "What we learned about AI agent security by monitoring our agents",
+      "link": "https://www.datadoghq.com/blog/ai-agent-security-lessons/"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-21",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Friday",
-      "link": "https://lwn.net/Articles/1091117/"
+      "source": "Netflix Tech",
+      "text": "A Tale of Two Flink Autoscalers",
+      "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-08-28",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Cities terminate Flock contracts at record pace in August",
-      "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
+      "source": "The Verge",
+      "text": "Google further buries search results under AI mode",
+      "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
     }
   ]
 }

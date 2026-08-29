@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/ibm-granite/granite-4-2"><img src="generated/feed-item-0.svg?v=6218c0c7" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/botbase-for-operators/"><img src="generated/feed-item-1.svg?v=706ac721" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"><img src="generated/feed-item-2.svg?v=a87b583a" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1091117/"><img src="generated/feed-item-3.svg?v=2940ee1b" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"><img src="generated/feed-item-4.svg?v=61310eab" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"><img src="generated/feed-item-0.svg?v=35bd233a" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/ai-driven-software-delivery-with-kiro-aws-devops-agent-and-bluebox-by-dynatrace/"><img src="generated/feed-item-1.svg?v=b186516b" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/ai-agent-security-lessons/"><img src="generated/feed-item-2.svg?v=fcb187fb" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bc32616d" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"><img src="generated/feed-item-4.svg?v=d873c15d" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
