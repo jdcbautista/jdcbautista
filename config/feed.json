@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-25",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
-      "link": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
+      "source": "Hugging Face",
+      "text": "Granite 4.2 LLMs: How They're Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-27",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Build your own continuous modernization pipeline with AWS Transform custom",
-      "link": "https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/"
+      "source": "Cloudflare",
+      "text": "How we saved 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
     },
     {
       "date": "2026-08-27",
       "track": "SRE",
       "source": "Datadog",
-      "text": "What we learned about AI agent security by monitoring our agents",
-      "link": "https://www.datadoghq.com/blog/ai-agent-security-lessons/"
+      "text": "Debug live production code without redeploying with Datadog Live Debugger",
+      "link": "https://www.datadoghq.com/blog/live-debugger/"
     },
     {
       "date": "2026-08-19",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "Practitioner Voice: The Writing Category Nobody has Named Yet",
-      "link": "https://martinfowler.com/articles/practitioner-voice.html"
+      "text": "Citizens Build, Agents Execute, Experts Govern",
+      "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"
     },
     {
       "date": "2026-08-28",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
+      "source": "Ars Technica",
+      "text": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+      "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/"
     }
   ]
 }
