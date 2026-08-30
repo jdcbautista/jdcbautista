@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"><img src="generated/feed-item-0.svg?v=5bb6aebb" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/"><img src="generated/feed-item-1.svg?v=8328b90d" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/ai-agent-security-lessons/"><img src="generated/feed-item-2.svg?v=fcb187fb" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/practitioner-voice.html"><img src="generated/feed-item-3.svg?v=16b263c6" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"><img src="generated/feed-item-4.svg?v=ddc2f1d8" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/ibm-granite/granite-4-2"><img src="generated/feed-item-0.svg?v=6218c0c7" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"><img src="generated/feed-item-1.svg?v=02c7c420" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/live-debugger/"><img src="generated/feed-item-2.svg?v=a58611ed" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"><img src="generated/feed-item-3.svg?v=43ff0787" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/"><img src="generated/feed-item-4.svg?v=e33cb5f3" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
