@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-25",
+      "date": "2026-08-10",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Granite 4.2 LLMs: How They're Built",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+      "source": "Import AI",
+      "text": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+      "link": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
     },
     {
       "date": "2026-08-28",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
-      "link": "https://blog.cloudflare.com/botbase-for-operators/"
+      "source": "AWS DevOps",
+      "text": "Build your own continuous modernization pipeline with AWS Transform custom",
+      "link": "https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/"
+    },
+    {
+      "date": "2026-08-27",
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "What we learned about AI agent security by monitoring our agents",
+      "link": "https://www.datadoghq.com/blog/ai-agent-security-lessons/"
     },
     {
       "date": "2026-08-19",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "Knowledge Graph as context for LLMs: demonstrating decisive RCA and faster production performance",
-      "link": "https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"
-    },
-    {
-      "date": "2026-08-28",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Friday",
-      "link": "https://lwn.net/Articles/1091117/"
+      "source": "Martin Fowler",
+      "text": "Practitioner Voice: The Writing Category Nobody has Named Yet",
+      "link": "https://martinfowler.com/articles/practitioner-voice.html"
     },
     {
       "date": "2026-08-28",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Cities terminate Flock contracts at record pace in August",
-      "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"
+      "source": "TechCrunch AI",
+      "text": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
     }
   ]
 }
