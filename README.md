@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=99d87fa4" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/ibm-granite/granite-4-2"><img src="generated/feed-item-0.svg?v=6218c0c7" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/botbase-for-operators/"><img src="generated/feed-item-1.svg?v=706ac721" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"><img src="generated/feed-item-2.svg?v=a87b583a" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1091117/"><img src="generated/feed-item-3.svg?v=2940ee1b" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/"><img src="generated/feed-item-4.svg?v=61310eab" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"><img src="generated/feed-item-0.svg?v=5bb6aebb" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/"><img src="generated/feed-item-1.svg?v=8328b90d" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/ai-agent-security-lessons/"><img src="generated/feed-item-2.svg?v=fcb187fb" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/practitioner-voice.html"><img src="generated/feed-item-3.svg?v=16b263c6" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"><img src="generated/feed-item-4.svg?v=ddc2f1d8" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
