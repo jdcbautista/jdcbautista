@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/ibm-granite/granite-4-2"><img src="generated/feed-item-0.svg?v=6218c0c7" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"><img src="generated/feed-item-1.svg?v=02c7c420" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/live-debugger/"><img src="generated/feed-item-2.svg?v=a58611ed" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"><img src="generated/feed-item-3.svg?v=43ff0787" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/"><img src="generated/feed-item-4.svg?v=e33cb5f3" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/open-asr-leaderboard-global-south"><img src="generated/feed-item-0.svg?v=2a3ff79b" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"><img src="generated/feed-item-1.svg?v=b9d6acdb" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"><img src="generated/feed-item-2.svg?v=9f5a028b" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/"><img src="generated/feed-item-3.svg?v=1e9247f5" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"><img src="generated/feed-item-4.svg?v=40114d1c" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

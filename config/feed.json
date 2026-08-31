@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "Granite 4.2 LLMs: How They're Built",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+      "text": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-12",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "How we saved 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
+      "source": "AWS DevOps",
+      "text": "Extending AWS Transform custom with MCP Servers for End-to-End Code Modernization",
+      "link": "https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-21",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Debug live production code without redeploying with Datadog Live Debugger",
-      "link": "https://www.datadoghq.com/blog/live-debugger/"
+      "source": "Grafana",
+      "text": "How to scale Alloy as a central telemetry gateway: capacity planning, load testing, and production lessons",
+      "link": "https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-08-21",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Citizens Build, Agents Execute, Experts Govern",
-      "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"
+      "source": "Stack Overflow",
+      "text": "Get rid of your CAPTCHA, the future of the web is bots",
+      "link": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-30",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-      "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/"
+      "source": "The Verge",
+      "text": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
     }
   ]
 }
