@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-28",
+      "date": "2026-08-27",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+      "source": "OpenAI",
+      "text": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-31",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Extending AWS Transform custom with MCP Servers for End-to-End Code Modernization",
-      "link": "https://aws.amazon.com/blogs/devops/extending-aws-transform-custom-with-mcp-servers-for-end-to-end-code-modernization/"
+      "source": "Cloudflare",
+      "text": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
+      "link": "https://blog.cloudflare.com/introducing-adaptive-intelligence/"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-31",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "How to scale Alloy as a central telemetry gateway: capacity planning, load testing, and production lessons",
-      "link": "https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"
+      "source": "Datadog",
+      "text": "Respond to security threats faster with Tines and Observability Pipelines",
+      "link": "https://www.datadoghq.com/blog/tines-observability-pipelines-security-automation/"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-28",
       "track": "Systems",
       "source": "Stack Overflow",
-      "text": "Get rid of your CAPTCHA, the future of the web is bots",
-      "link": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/"
+      "text": "When you keep AI Lean, you keep AI correct",
+      "link": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/"
     },
     {
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "track": "News",
-      "source": "The Verge",
-      "text": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+      "source": "TechCrunch AI",
+      "text": "Harvard Law dropout raises $6M for Blue Voice to build a 'Harvey for police officers'",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
     }
   ]
 }
