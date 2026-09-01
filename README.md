@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/train-multi-vector-encoder"><img src="generated/feed-item-0.svg?v=df2511fb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/relaunching-hashicorp-validated-designs-with-improved-usability"><img src="generated/feed-item-1.svg?v=3791328e" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/how-bits-database-optimization-proves-a-query-rewrite-is-faster/"><img src="generated/feed-item-2.svg?v=cb340b76" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=67715467" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/"><img src="generated/feed-item-4.svg?v=67de47d5" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Aug/31/andrew-digby/"><img src="generated/feed-item-0.svg?v=548c2ddd" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"><img src="generated/feed-item-1.svg?v=02c7c420" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1091600/"><img src="generated/feed-item-3.svg?v=962c75ef" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"><img src="generated/feed-item-4.svg?v=9051339b" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
