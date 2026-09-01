@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-27",
+      "date": "2026-08-26",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+      "source": "Hugging Face",
+      "text": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder"
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-08-28",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Introducing Adaptive Intelligence: Undermining the economics of every bot attack",
-      "link": "https://blog.cloudflare.com/introducing-adaptive-intelligence/"
+      "source": "HashiCorp",
+      "text": "Relaunching HashiCorp Validated Designs with improved usability",
+      "link": "https://www.hashicorp.com/blog/relaunching-hashicorp-validated-designs-with-improved-usability"
     },
     {
       "date": "2026-08-31",
       "track": "SRE",
       "source": "Datadog",
-      "text": "Respond to security threats faster with Tines and Observability Pipelines",
-      "link": "https://www.datadoghq.com/blog/tines-observability-pipelines-security-automation/"
+      "text": "How Bits Database Optimization proves a query rewrite is faster",
+      "link": "https://www.datadoghq.com/blog/how-bits-database-optimization-proves-a-query-rewrite-is-faster/"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-31",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "When you keep AI Lean, you keep AI correct",
-      "link": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/"
+      "source": "InfoQ",
+      "text": "Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
+      "link": "https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-08-31",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Harvard Law dropout raises $6M for Blue Voice to build a 'Harvey for police officers'",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+      "source": "Ars Technica",
+      "text": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/"
     }
   ]
 }
