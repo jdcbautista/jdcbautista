@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c6205161" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"><img src="generated/feed-item-0.svg?v=27821e82" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/introducing-adaptive-intelligence/"><img src="generated/feed-item-1.svg?v=20332945" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/tines-observability-pipelines-security-automation/"><img src="generated/feed-item-2.svg?v=b44347ad" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/"><img src="generated/feed-item-3.svg?v=70b117e2" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"><img src="generated/feed-item-4.svg?v=eb99f6de" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/train-multi-vector-encoder"><img src="generated/feed-item-0.svg?v=df2511fb" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/relaunching-hashicorp-validated-designs-with-improved-usability"><img src="generated/feed-item-1.svg?v=3791328e" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/how-bits-database-optimization-proves-a-query-rewrite-is-faster/"><img src="generated/feed-item-2.svg?v=cb340b76" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=67715467" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/"><img src="generated/feed-item-4.svg?v=67de47d5" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
