@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/"><img src="generated/feed-item-0.svg?v=164b6c01" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"><img src="generated/feed-item-0.svg?v=34584574" alt="AI — OpenAI" width="720" align="top" /></a><!--
 --><a href="https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/"><img src="generated/feed-item-1.svg?v=04b985fc" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/presentations/telemetry-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=9701d2e8" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arxiv.org/abs/2608.29530"><img src="generated/feed-item-4.svg?v=e466f493" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1092149/"><img src="generated/feed-item-3.svg?v=19c855db" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"><img src="generated/feed-item-4.svg?v=8b35ff26" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
