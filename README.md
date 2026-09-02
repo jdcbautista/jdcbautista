@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c6205161" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=35bf3be0" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Aug/31/andrew-digby/"><img src="generated/feed-item-0.svg?v=548c2ddd" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"><img src="generated/feed-item-1.svg?v=02c7c420" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1091600/"><img src="generated/feed-item-3.svg?v=962c75ef" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"><img src="generated/feed-item-4.svg?v=9051339b" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/"><img src="generated/feed-item-0.svg?v=164b6c01" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/"><img src="generated/feed-item-1.svg?v=04b985fc" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/presentations/telemetry-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=9701d2e8" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arxiv.org/abs/2608.29530"><img src="generated/feed-item-4.svg?v=e466f493" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

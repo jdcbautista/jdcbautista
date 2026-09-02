@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "Quoting Andrew Digby",
-      "link": "https://simonwillison.net/2026/Aug/31/andrew-digby/"
-    },
-    {
-      "date": "2026-08-27",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "How we saved 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
-    },
-    {
-      "date": "2026-08-13",
-      "track": "SRE",
-      "source": "Gremlin",
-      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
-      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
-    },
-    {
-      "date": "2026-08-31",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "Netdev 0x1A videos and slides are now live",
-      "link": "https://lwn.net/Articles/1091600/"
+      "text": "Codex bundles LibreOffice",
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
     },
     {
       "date": "2026-09-01",
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "Platform engineering maturity: From toolchain to self-service",
+      "link": "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/"
+    },
+    {
+      "date": "2026-08-03",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #528",
+      "link": "https://sreweekly.com/sre-weekly-issue-528/"
+    },
+    {
+      "date": "2026-09-01",
+      "track": "Systems",
+      "source": "InfoQ",
+      "text": "Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue",
+      "link": "https://www.infoq.com/presentations/telemetry-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+    },
+    {
+      "date": "2026-09-02",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
+      "source": "Hacker News",
+      "text": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "link": "https://arxiv.org/abs/2608.29530"
     }
   ]
 }
