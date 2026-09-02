@@ -5,9 +5,9 @@
     {
       "date": "2026-09-01",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Codex bundles LibreOffice",
-      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+      "source": "OpenAI",
+      "text": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
     },
     {
       "date": "2026-09-01",
@@ -17,25 +17,25 @@
       "link": "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-10",
       "track": "SRE",
       "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #528",
-      "link": "https://sreweekly.com/sre-weekly-issue-528/"
+      "text": "SRE Weekly Issue #529",
+      "link": "https://sreweekly.com/sre-weekly-issue-529/"
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue",
-      "link": "https://www.infoq.com/presentations/telemetry-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "Security updates for Wednesday",
+      "link": "https://lwn.net/Articles/1092149/"
     },
     {
       "date": "2026-09-02",
       "track": "News",
-      "source": "Hacker News",
-      "text": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "link": "https://arxiv.org/abs/2608.29530"
+      "source": "TechCrunch AI",
+      "text": "We're 'dangerously close' to dead internet theory, says Pangram's CEO",
+      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
     }
   ]
 }
