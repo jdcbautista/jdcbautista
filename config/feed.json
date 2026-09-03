@@ -5,37 +5,37 @@
     {
       "date": "2026-09-01",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+      "source": "Hugging Face",
+      "text": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "link": "https://huggingface.co/blog/allenai/benchmirt"
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-08-31",
       "track": "Cloud",
       "source": "CNCF",
-      "text": "Platform engineering maturity: From toolchain to self-service",
-      "link": "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/"
+      "text": "OpenTelemetry has graduated… now what?",
+      "link": "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-09-02",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #529",
-      "link": "https://sreweekly.com/sre-weekly-issue-529/"
+      "source": "Datadog",
+      "text": "Monitor prompt caching to optimize your token usage",
+      "link": "https://www.datadoghq.com/blog/monitor-prompt-caching-optimize-token-usage/"
     },
     {
       "date": "2026-09-02",
       "track": "Systems",
       "source": "LWN",
-      "text": "Security updates for Wednesday",
-      "link": "https://lwn.net/Articles/1092149/"
+      "text": "[$] Securely suspending LUKS-encrypted disks",
+      "link": "https://lwn.net/Articles/1090568/"
     },
     {
       "date": "2026-09-02",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "We're 'dangerously close' to dead internet theory, says Pangram's CEO",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"
+      "source": "The Verge",
+      "text": "Here are some of REI's best Labor Day sale deals",
+      "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026"
     }
   ]
 }
