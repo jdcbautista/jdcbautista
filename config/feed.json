@@ -5,37 +5,37 @@
     {
       "date": "2026-09-01",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "link": "https://huggingface.co/blog/allenai/benchmirt"
+      "source": "Simon Willison",
+      "text": "Codex bundles LibreOffice",
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "OpenTelemetry has graduated… now what?",
-      "link": "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/"
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads",
+      "link": "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-08-27",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Monitor prompt caching to optimize your token usage",
-      "link": "https://www.datadoghq.com/blog/monitor-prompt-caching-optimize-token-usage/"
+      "source": "Grafana",
+      "text": "How to measure and improve instrumentation quality for better full-stack observability",
+      "link": "https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability/"
     },
     {
       "date": "2026-09-02",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] Securely suspending LUKS-encrypted disks",
-      "link": "https://lwn.net/Articles/1090568/"
+      "source": "Martin Fowler",
+      "text": "Bliki: Paracelsus Maxim",
+      "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "track": "News",
       "source": "The Verge",
-      "text": "Here are some of REI's best Labor Day sale deals",
-      "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026"
+      "text": "Circular's new smart rings add contactless payments and vibrating alerts",
+      "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts"
     }
   ]
 }

@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/allenai/benchmirt"><img src="generated/feed-item-0.svg?v=84fd2940" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/"><img src="generated/feed-item-1.svg?v=b6f47048" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/monitor-prompt-caching-optimize-token-usage/"><img src="generated/feed-item-2.svg?v=324ae91f" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1090568/"><img src="generated/feed-item-3.svg?v=c2a76445" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026"><img src="generated/feed-item-4.svg?v=edc0abdb" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/"><img src="generated/feed-item-0.svg?v=164b6c01" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"><img src="generated/feed-item-1.svg?v=209ce9d0" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability/"><img src="generated/feed-item-2.svg?v=efb74f02" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/bliki/ParacelsusMaxim.html"><img src="generated/feed-item-3.svg?v=253e94ca" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts"><img src="generated/feed-item-4.svg?v=edffd97a" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
