@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=35bf3be0" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=967da203" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"><img src="generated/feed-item-0.svg?v=34584574" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/"><img src="generated/feed-item-1.svg?v=04b985fc" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1092149/"><img src="generated/feed-item-3.svg?v=19c855db" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/"><img src="generated/feed-item-4.svg?v=8b35ff26" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/allenai/benchmirt"><img src="generated/feed-item-0.svg?v=84fd2940" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/"><img src="generated/feed-item-1.svg?v=b6f47048" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/monitor-prompt-caching-optimize-token-usage/"><img src="generated/feed-item-2.svg?v=324ae91f" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1090568/"><img src="generated/feed-item-3.svg?v=c2a76445" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026"><img src="generated/feed-item-4.svg?v=edc0abdb" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
