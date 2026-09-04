@@ -6,36 +6,36 @@
       "date": "2026-09-03",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "link": "https://huggingface.co/blog/train-to-paint-with-code"
+      "text": "Give Your Coding Agents a Memory You Own",
+      "link": "https://huggingface.co/blog/funes"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-08-31",
       "track": "Cloud",
       "source": "Kubernetes",
-      "text": "Kubernetes v1.37: DRA Updates",
-      "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"
+      "text": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
+      "link": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/"
     },
     {
-      "date": "2026-08-19",
+      "date": "2026-09-01",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Knowledge Graph as context for LLMs: demonstrating decisive RCA and faster production performance",
-      "link": "https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"
+      "source": "Datadog",
+      "text": "Visualize how CUPED adjusts experiment results with Datadog",
+      "link": "https://www.datadoghq.com/blog/cuped-adjustments-visualization/"
     },
     {
       "date": "2026-09-03",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Rigorous Yet Sustainable Human Reviews in the AI Era",
-      "link": "https://www.infoq.com/news/2026/09/human-reviews-AI-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "Audacity 4.0 released",
+      "link": "https://lwn.net/Articles/1092439/"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-04",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Facilitating AI integration with simplicity at scale",
-      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
+      "source": "Hacker News",
+      "text": "Higher social class predicts increased unethical behavior",
+      "link": "https://www.pnas.org/doi/10.1073/pnas.1118373109"
     }
   ]
 }
