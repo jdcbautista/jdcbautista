@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-01",
+      "date": "2026-09-03",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Codex bundles LibreOffice",
-      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
-    },
-    {
-      "date": "2026-09-01",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads",
-      "link": "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"
-    },
-    {
-      "date": "2026-08-27",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "How to measure and improve instrumentation quality for better full-stack observability",
-      "link": "https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability/"
-    },
-    {
-      "date": "2026-09-02",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Bliki: Paracelsus Maxim",
-      "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html"
+      "source": "Hugging Face",
+      "text": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "link": "https://huggingface.co/blog/train-to-paint-with-code"
     },
     {
       "date": "2026-09-03",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: DRA Updates",
+      "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"
+    },
+    {
+      "date": "2026-08-19",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "Knowledge Graph as context for LLMs: demonstrating decisive RCA and faster production performance",
+      "link": "https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"
+    },
+    {
+      "date": "2026-09-03",
+      "track": "Systems",
+      "source": "InfoQ",
+      "text": "Rigorous Yet Sustainable Human Reviews in the AI Era",
+      "link": "https://www.infoq.com/news/2026/09/human-reviews-AI-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+    },
+    {
+      "date": "2026-09-02",
       "track": "News",
-      "source": "The Verge",
-      "text": "Circular's new smart rings add contactless payments and vibrating alerts",
-      "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts"
+      "source": "MIT Tech Review",
+      "text": "Facilitating AI integration with simplicity at scale",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
     }
   ]
 }

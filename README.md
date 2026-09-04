@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=967da203" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=3da3caed" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/"><img src="generated/feed-item-0.svg?v=164b6c01" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"><img src="generated/feed-item-1.svg?v=209ce9d0" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability/"><img src="generated/feed-item-2.svg?v=efb74f02" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/bliki/ParacelsusMaxim.html"><img src="generated/feed-item-3.svg?v=253e94ca" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts"><img src="generated/feed-item-4.svg?v=edffd97a" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/train-to-paint-with-code"><img src="generated/feed-item-0.svg?v=47d5a55f" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"><img src="generated/feed-item-1.svg?v=211a3d2d" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"><img src="generated/feed-item-2.svg?v=a87b583a" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/09/human-reviews-AI-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=8490a28d" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"><img src="generated/feed-item-4.svg?v=74961e87" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
