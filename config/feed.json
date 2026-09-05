@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-03",
+      "date": "2026-08-17",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "GPT-6 Astra: A new generation of intelligence",
-      "link": "https://openai.com/index/gpt-6-astra"
+      "source": "Import AI",
+      "text": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
+      "link": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-01",
       "track": "Cloud",
       "source": "HashiCorp",
-      "text": "The common security controls behind India's regulatory wave",
-      "link": "https://www.hashicorp.com/blog/the-common-security-controls-behind-indias-regulatory-wave"
+      "text": "Secure mainframe access with HashiCorp Boundary",
+      "link": "https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-03",
       "track": "SRE",
       "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #529",
-      "link": "https://sreweekly.com/sre-weekly-issue-529/"
-    },
-    {
-      "date": "2026-08-07",
-      "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+      "text": "SRE Weekly Issue #528",
+      "link": "https://sreweekly.com/sre-weekly-issue-528/"
     },
     {
       "date": "2026-09-05",
+      "track": "Systems",
+      "source": "InfoQ",
+      "text": "Beyond Zero: Google Publishes Successor to BeyondCorp",
+      "link": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+    },
+    {
+      "date": "2026-09-04",
       "track": "News",
-      "source": "Hacker News",
-      "text": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
+      "source": "TechCrunch AI",
+      "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
     }
   ]
 }
