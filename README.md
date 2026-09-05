@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/gpt-6-astra"><img src="generated/feed-item-0.svg?v=81cc25b4" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/the-common-security-controls-behind-indias-regulatory-wave"><img src="generated/feed-item-1.svg?v=bb28da8c" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"><img src="generated/feed-item-4.svg?v=e9507fd7" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"><img src="generated/feed-item-0.svg?v=793f0849" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"><img src="generated/feed-item-1.svg?v=cc2edc9b" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=68232e71" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"><img src="generated/feed-item-4.svg?v=d9cfd5c8" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
