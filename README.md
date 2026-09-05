@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=3da3caed" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=bbf7b5c5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/funes"><img src="generated/feed-item-0.svg?v=f842ad55" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/"><img src="generated/feed-item-1.svg?v=2d2c1cd2" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/cuped-adjustments-visualization/"><img src="generated/feed-item-2.svg?v=0b00155e" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1092439/"><img src="generated/feed-item-3.svg?v=f62688ee" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.pnas.org/doi/10.1073/pnas.1118373109"><img src="generated/feed-item-4.svg?v=68a994c2" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/gpt-6-astra"><img src="generated/feed-item-0.svg?v=81cc25b4" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/the-common-security-controls-behind-indias-regulatory-wave"><img src="generated/feed-item-1.svg?v=bb28da8c" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"><img src="generated/feed-item-4.svg?v=e9507fd7" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

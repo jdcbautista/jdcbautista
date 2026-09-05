@@ -5,37 +5,37 @@
     {
       "date": "2026-09-03",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Give Your Coding Agents a Memory You Own",
-      "link": "https://huggingface.co/blog/funes"
-    },
-    {
-      "date": "2026-08-31",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
-      "link": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/"
-    },
-    {
-      "date": "2026-09-01",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "Visualize how CUPED adjusts experiment results with Datadog",
-      "link": "https://www.datadoghq.com/blog/cuped-adjustments-visualization/"
+      "source": "OpenAI",
+      "text": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://openai.com/index/gpt-6-astra"
     },
     {
       "date": "2026-09-03",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "Audacity 4.0 released",
-      "link": "https://lwn.net/Articles/1092439/"
+      "track": "Cloud",
+      "source": "HashiCorp",
+      "text": "The common security controls behind India's regulatory wave",
+      "link": "https://www.hashicorp.com/blog/the-common-security-controls-behind-indias-regulatory-wave"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-08-10",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #529",
+      "link": "https://sreweekly.com/sre-weekly-issue-529/"
+    },
+    {
+      "date": "2026-08-07",
+      "track": "Systems",
+      "source": "Netflix Tech",
+      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+    },
+    {
+      "date": "2026-09-05",
       "track": "News",
       "source": "Hacker News",
-      "text": "Higher social class predicts increased unethical behavior",
-      "link": "https://www.pnas.org/doi/10.1073/pnas.1118373109"
+      "text": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation"
     }
   ]
 }
