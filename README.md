@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"><img src="generated/feed-item-0.svg?v=2c431452" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/"><img src="generated/feed-item-1.svg?v=8f7f4ad0" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/build-datadog-workflows-ai-agents/"><img src="generated/feed-item-2.svg?v=a326c608" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=e53b61d0" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings"><img src="generated/feed-item-4.svg?v=5cb8141c" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/search/home-decor-tips/"><img src="generated/feed-item-0.svg?v=2f31048d" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"><img src="generated/feed-item-1.svg?v=211a3d2d" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"><img src="generated/feed-item-4.svg?v=7fad401f" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
