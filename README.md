@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=bbf7b5c5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=d39e48b4" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"><img src="generated/feed-item-0.svg?v=793f0849" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"><img src="generated/feed-item-1.svg?v=cc2edc9b" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-528/"><img src="generated/feed-item-2.svg?v=848d2cee" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=68232e71" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"><img src="generated/feed-item-4.svg?v=d9cfd5c8" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"><img src="generated/feed-item-0.svg?v=2c431452" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/"><img src="generated/feed-item-1.svg?v=8f7f4ad0" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/build-datadog-workflows-ai-agents/"><img src="generated/feed-item-2.svg?v=a326c608" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=e53b61d0" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings"><img src="generated/feed-item-4.svg?v=5cb8141c" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

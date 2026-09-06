@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-27",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
-      "link": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"
+      "source": "Google AI",
+      "text": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Secure mainframe access with HashiCorp Boundary",
-      "link": "https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
+      "link": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-09-03",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #528",
-      "link": "https://sreweekly.com/sre-weekly-issue-528/"
+      "source": "Datadog",
+      "text": "Build and run Datadog workflows from Bits Chat or AI agents",
+      "link": "https://www.datadoghq.com/blog/build-datadog-workflows-ai-agents/"
     },
     {
       "date": "2026-09-05",
       "track": "Systems",
       "source": "InfoQ",
-      "text": "Beyond Zero: Google Publishes Successor to BeyondCorp",
-      "link": "https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "text": "Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website",
+      "link": "https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+      "source": "The Verge",
+      "text": "Explore the globe in field recordings",
+      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings"
     }
   ]
 }
