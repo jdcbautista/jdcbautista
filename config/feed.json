@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-27",
+      "date": "2026-08-25",
       "track": "AI",
       "source": "Google AI",
-      "text": "3 new ways to plan and book travel in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
-    },
-    {
-      "date": "2026-09-02",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
-      "link": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/"
+      "text": "5 ways to upgrade your home decor with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
     },
     {
       "date": "2026-09-03",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "Build and run Datadog workflows from Bits Chat or AI agents",
-      "link": "https://www.datadoghq.com/blog/build-datadog-workflows-ai-agents/"
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: DRA Updates",
+      "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"
     },
     {
-      "date": "2026-09-05",
+      "date": "2026-08-10",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #529",
+      "link": "https://sreweekly.com/sre-weekly-issue-529/"
+    },
+    {
+      "date": "2026-08-07",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website",
-      "link": "https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Netflix Tech",
+      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-09-05",
       "track": "News",
-      "source": "The Verge",
-      "text": "Explore the globe in field recordings",
-      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings"
+      "source": "Ars Technica",
+      "text": "Tesla's Cybercab has been deployed, and it's already under investigation",
+      "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
     }
   ]
 }
