@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"><img src="generated/feed-item-0.svg?v=2c431452" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"><img src="generated/feed-item-1.svg?v=209ce9d0" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/stop-runtime-threats-with-workload-protection-response-actions/"><img src="generated/feed-item-2.svg?v=99e94f96" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1092757/"><img src="generated/feed-item-3.svg?v=f19b319e" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"><img src="generated/feed-item-4.svg?v=8cdeeb2d" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/grpo-with-trl-ifstruct"><img src="generated/feed-item-0.svg?v=a8fcd208" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"><img src="generated/feed-item-1.svg?v=cc2edc9b" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"><img src="generated/feed-item-2.svg?v=75d18081" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/"><img src="generated/feed-item-3.svg?v=d61a9f35" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"><img src="generated/feed-item-4.svg?v=06ab51bd" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
