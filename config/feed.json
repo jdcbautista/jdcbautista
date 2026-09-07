@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-25",
+      "date": "2026-08-27",
       "track": "AI",
       "source": "Google AI",
-      "text": "5 ways to upgrade your home decor with Google Search",
-      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+      "text": "3 new ways to plan and book travel in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-01",
       "track": "Cloud",
       "source": "Kubernetes",
-      "text": "Kubernetes v1.37: DRA Updates",
-      "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"
+      "text": "Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads",
+      "link": "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-09-04",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #529",
-      "link": "https://sreweekly.com/sre-weekly-issue-529/"
+      "source": "Datadog",
+      "text": "Stop runtime threats with Workload Protection response actions",
+      "link": "https://www.datadoghq.com/blog/stop-runtime-threats-with-workload-protection-response-actions/"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-09-07",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+      "source": "LWN",
+      "text": "Kernel prepatch 7.3-rc2",
+      "link": "https://lwn.net/Articles/1092757/"
     },
     {
-      "date": "2026-09-05",
+      "date": "2026-09-04",
       "track": "News",
       "source": "Ars Technica",
-      "text": "Tesla's Cybercab has been deployed, and it's already under investigation",
-      "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
+      "text": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
     }
   ]
 }
