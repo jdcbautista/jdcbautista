@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-27",
+      "date": "2026-09-03",
       "track": "AI",
-      "source": "Google AI",
-      "text": "3 new ways to plan and book travel in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+      "source": "Hugging Face",
+      "text": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
     },
     {
       "date": "2026-09-01",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads",
-      "link": "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"
+      "source": "HashiCorp",
+      "text": "Secure mainframe access with HashiCorp Boundary",
+      "link": "https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-08-04",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Stop runtime threats with Workload Protection response actions",
-      "link": "https://www.datadoghq.com/blog/stop-runtime-threats-with-workload-protection-response-actions/"
-    },
-    {
-      "date": "2026-09-07",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "Kernel prepatch 7.3-rc2",
-      "link": "https://lwn.net/Articles/1092757/"
+      "source": "Gremlin",
+      "text": "Managing slow container starts with Kubernetes readiness probes",
+      "link": "https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"
     },
     {
       "date": "2026-09-04",
+      "track": "Systems",
+      "source": "Stack Overflow",
+      "text": "How to build a secure-by-default AI coding agent",
+      "link": "https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/"
+    },
+    {
+      "date": "2026-09-06",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+      "source": "TechCrunch AI",
+      "text": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
     }
   ]
 }
