@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=d39e48b4" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=e83379fc" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/search/home-decor-tips/"><img src="generated/feed-item-0.svg?v=2f31048d" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"><img src="generated/feed-item-1.svg?v=211a3d2d" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-529/"><img src="generated/feed-item-2.svg?v=d29dd998" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"><img src="generated/feed-item-4.svg?v=7fad401f" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"><img src="generated/feed-item-0.svg?v=2c431452" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"><img src="generated/feed-item-1.svg?v=209ce9d0" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/stop-runtime-threats-with-workload-protection-response-actions/"><img src="generated/feed-item-2.svg?v=99e94f96" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1092757/"><img src="generated/feed-item-3.svg?v=f19b319e" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"><img src="generated/feed-item-4.svg?v=8cdeeb2d" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
