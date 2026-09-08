@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=e83379fc" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=83b24237" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://huggingface.co/blog/grpo-with-trl-ifstruct"><img src="generated/feed-item-0.svg?v=a8fcd208" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"><img src="generated/feed-item-1.svg?v=cc2edc9b" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"><img src="generated/feed-item-2.svg?v=75d18081" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/"><img src="generated/feed-item-3.svg?v=d61a9f35" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"><img src="generated/feed-item-4.svg?v=06ab51bd" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"><img src="generated/feed-item-1.svg?v=56e9edea" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/grafana-13-2-release-all-the-latest-features/"><img src="generated/feed-item-2.svg?v=47661f6b" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"><img src="generated/feed-item-4.svg?v=013b4b6e" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

@@ -10,32 +10,32 @@
       "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-08-27",
       "track": "Cloud",
       "source": "HashiCorp",
-      "text": "Secure mainframe access with HashiCorp Boundary",
-      "link": "https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"
+      "text": "Stream HCP Vault Dedicated audit logs to Microsoft Sentinel",
+      "link": "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-20",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Managing slow container starts with Kubernetes readiness probes",
-      "link": "https://www.gremlin.com/blog/managing-slow-container-starts-kubernetes-readiness-probes"
+      "source": "Grafana",
+      "text": "Grafana 13.2 release: easier ways to query and explore your data",
+      "link": "https://grafana.com/blog/grafana-13-2-release-all-the-latest-features/"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-08-28",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "How to build a secure-by-default AI coding agent",
-      "link": "https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/"
+      "source": "Netflix Tech",
+      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
+      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+      "source": "Ars Technica",
+      "text": "The complex corporate web behind a $3.2 billion AI data center",
+      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
     }
   ]
 }
