@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/grpo-with-trl-ifstruct"><img src="generated/feed-item-0.svg?v=a8fcd208" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"><img src="generated/feed-item-1.svg?v=56e9edea" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/grafana-13-2-release-all-the-latest-features/"><img src="generated/feed-item-2.svg?v=47661f6b" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"><img src="generated/feed-item-4.svg?v=013b4b6e" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/an-alien-mind"><img src="generated/feed-item-0.svg?v=8af9ca48" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/"><img src="generated/feed-item-1.svg?v=8328b90d" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-530/"><img src="generated/feed-item-2.svg?v=66e3a80b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/rachels-ramblings/code-review.html"><img src="generated/feed-item-3.svg?v=2e677b5b" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"><img src="generated/feed-item-4.svg?v=c3ce56e3" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
