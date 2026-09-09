@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-06",
+      "date": "2026-09-08",
       "track": "AI",
       "source": "OpenAI",
-      "text": "An Alien Mind",
-      "link": "https://openai.com/index/an-alien-mind"
+      "text": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-09-03",
       "track": "Cloud",
       "source": "AWS DevOps",
-      "text": "Build your own continuous modernization pipeline with AWS Transform custom",
-      "link": "https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/"
+      "text": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
+      "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-27",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #530",
-      "link": "https://sreweekly.com/sre-weekly-issue-530/"
+      "source": "Gremlin",
+      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
+      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-08",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Maybe We Shouldn't Be Reviewing All This Code",
-      "link": "https://martinfowler.com/rachels-ramblings/code-review.html"
+      "source": "InfoQ",
+      "text": "Presentation: A Solopreneur's Journey: From Engineer to Puzzle Master and Storyteller",
+      "link": "https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-09-08",
       "track": "News",
       "source": "MIT Tech Review",
-      "text": "The Download: our 35 Innovators Under 35 this year",
-      "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
+      "text": "This founder is making cheaper, cleaner steel",
+      "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/"
     }
   ]
 }
