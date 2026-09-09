@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/codex-quantum-computing-experiments"><img src="generated/feed-item-0.svg?v=33df200c" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"><img src="generated/feed-item-1.svg?v=a0a53fed" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=0ab76c87" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/"><img src="generated/feed-item-4.svg?v=9c92ce03" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/7/llm/"><img src="generated/feed-item-0.svg?v=e479a8ff" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"><img src="generated/feed-item-1.svg?v=211a3d2d" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/how-engineering-leaders-rethink-code-review-in-the-ai-era"><img src="generated/feed-item-2.svg?v=1c2108ca" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1093388/"><img src="generated/feed-item-3.svg?v=00abc18b" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"><img src="generated/feed-item-4.svg?v=e1f8c82c" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
