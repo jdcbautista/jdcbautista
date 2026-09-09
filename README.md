@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=83b24237" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=26b71864" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/an-alien-mind"><img src="generated/feed-item-0.svg?v=8af9ca48" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/build-your-own-continuous-modernization-pipeline-with-aws-transform-custom/"><img src="generated/feed-item-1.svg?v=8328b90d" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-530/"><img src="generated/feed-item-2.svg?v=66e3a80b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/rachels-ramblings/code-review.html"><img src="generated/feed-item-3.svg?v=2e677b5b" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"><img src="generated/feed-item-4.svg?v=c3ce56e3" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/codex-quantum-computing-experiments"><img src="generated/feed-item-0.svg?v=33df200c" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"><img src="generated/feed-item-1.svg?v=a0a53fed" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=0ab76c87" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/"><img src="generated/feed-item-4.svg?v=9c92ce03" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
