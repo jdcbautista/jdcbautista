@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=26b71864" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6e306e49" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/7/llm/"><img src="generated/feed-item-0.svg?v=e479a8ff" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"><img src="generated/feed-item-1.svg?v=211a3d2d" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/how-engineering-leaders-rethink-code-review-in-the-ai-era"><img src="generated/feed-item-2.svg?v=1c2108ca" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1093388/"><img src="generated/feed-item-3.svg?v=00abc18b" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"><img src="generated/feed-item-4.svg?v=e1f8c82c" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/workspace/google-pics/"><img src="generated/feed-item-0.svg?v=2a3280f6" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hashicorp-vault-agentic-iam-is-now-generally-available"><img src="generated/feed-item-1.svg?v=8fb471fb" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/ai-development-golden-paths/"><img src="generated/feed-item-2.svg?v=531f7807" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=be2bc7aa" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"><img src="generated/feed-item-4.svg?v=a80b7840" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
