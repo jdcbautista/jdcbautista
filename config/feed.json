@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-01",
+      "date": "2026-09-10",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+      "source": "Simon Willison",
+      "text": "Quoting Calif Research",
+      "link": "https://simonwillison.net/2026/Sep/10/calif-research/"
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-08-27",
       "track": "Cloud",
       "source": "HashiCorp",
-      "text": "HashiCorp Vault agentic IAM is now generally available",
-      "link": "https://www.hashicorp.com/blog/hashicorp-vault-agentic-iam-is-now-generally-available"
+      "text": "Stream HCP Vault Dedicated audit logs to Microsoft Sentinel",
+      "link": "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-09-04",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "How we built data-driven AI Golden Paths at Datadog",
-      "link": "https://www.datadoghq.com/blog/ai-development-golden-paths/"
+      "source": "Gremlin",
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
       "date": "2026-09-09",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Meta's Recipe for Building Agents as \"Organizational Second Brains\"",
-      "link": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Social Media Engagement: summer 2026",
+      "link": "https://martinfowler.com/articles/2026-social-traffic.html"
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "4 groups caught using the same Chrome and Windows exploit kit",
-      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
+      "source": "Hacker News",
+      "text": "Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf",
+      "link": "https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/"
     }
   ]
 }
