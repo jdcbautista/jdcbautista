@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-01",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "llm 0.35",
-      "link": "https://simonwillison.net/2026/Sep/7/llm/"
+      "source": "Google AI",
+      "text": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-01",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: DRA Updates",
-      "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"
+      "source": "HashiCorp",
+      "text": "HashiCorp Vault agentic IAM is now generally available",
+      "link": "https://www.hashicorp.com/blog/hashicorp-vault-agentic-iam-is-now-generally-available"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-09",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Nobody wants to review 1,000 lines of AI-generated code | Rootly",
-      "link": "https://webflow.rootly.com/blog/how-engineering-leaders-rethink-code-review-in-the-ai-era"
+      "source": "Datadog",
+      "text": "How we built data-driven AI Golden Paths at Datadog",
+      "link": "https://www.datadoghq.com/blog/ai-development-golden-paths/"
     },
     {
       "date": "2026-09-09",
       "track": "Systems",
-      "source": "LWN",
-      "text": "LibreOffice Base survey results",
-      "link": "https://lwn.net/Articles/1093388/"
+      "source": "InfoQ",
+      "text": "Meta's Recipe for Building Agents as \"Organizational Second Brains\"",
+      "link": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-09-09",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/"
+      "source": "Ars Technica",
+      "text": "4 groups caught using the same Chrome and Windows exploit kit",
+      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
     }
   ]
 }
