@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/workspace/google-pics/"><img src="generated/feed-item-0.svg?v=2a3280f6" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/hashicorp-vault-agentic-iam-is-now-generally-available"><img src="generated/feed-item-1.svg?v=8fb471fb" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/ai-development-golden-paths/"><img src="generated/feed-item-2.svg?v=531f7807" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=be2bc7aa" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"><img src="generated/feed-item-4.svg?v=a80b7840" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/10/calif-research/"><img src="generated/feed-item-0.svg?v=25c9022a" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"><img src="generated/feed-item-1.svg?v=56e9edea" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/2026-social-traffic.html"><img src="generated/feed-item-3.svg?v=c83bc78f" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/"><img src="generated/feed-item-4.svg?v=ab9308be" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
