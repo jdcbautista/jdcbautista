@@ -5,37 +5,37 @@
     {
       "date": "2026-09-10",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting Calif Research",
-      "link": "https://simonwillison.net/2026/Sep/10/calif-research/"
+      "source": "Hugging Face",
+      "text": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "link": "https://huggingface.co/blog/gradio-workflow-1111"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-09-08",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Stream HCP Vault Dedicated audit logs to Microsoft Sentinel",
-      "link": "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"
+      "source": "CNCF",
+      "text": "Distributed tracing for CI pipelines without touching a single workflow file",
+      "link": "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file/"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-07-24",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "How to verify your Azure Application Gateway is zone-redundant",
-      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
+      "source": "Rootly",
+      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
+      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-07-30",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Social Media Engagement: summer 2026",
-      "link": "https://martinfowler.com/articles/2026-social-traffic.html"
+      "source": "Netflix Tech",
+      "text": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "track": "News",
       "source": "Hacker News",
-      "text": "Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf",
-      "link": "https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/"
+      "text": "Exercise intensity is associated with cardiometabolic health",
+      "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2"
     }
   ]
 }

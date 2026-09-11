@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6e306e49" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=2e95ed7c" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/10/calif-research/"><img src="generated/feed-item-0.svg?v=25c9022a" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"><img src="generated/feed-item-1.svg?v=56e9edea" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/2026-social-traffic.html"><img src="generated/feed-item-3.svg?v=c83bc78f" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/"><img src="generated/feed-item-4.svg?v=ab9308be" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/gradio-workflow-1111"><img src="generated/feed-item-0.svg?v=96226d22" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file/"><img src="generated/feed-item-1.svg?v=7a242dfd" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bdba6789" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2"><img src="generated/feed-item-4.svg?v=f3569e6e" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
