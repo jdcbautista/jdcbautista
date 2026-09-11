@@ -5,37 +5,37 @@
     {
       "date": "2026-09-10",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "link": "https://huggingface.co/blog/gradio-workflow-1111"
+      "source": "OpenAI",
+      "text": "Now everyone can put data to work",
+      "link": "https://openai.com/index/put-data-to-work"
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-10",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Distributed tracing for CI pipelines without touching a single workflow file",
-      "link": "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file/"
+      "source": "Cloudflare",
+      "text": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+      "link": "https://blog.cloudflare.com/post-quantum-dnssec-1111/"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-09-04",
       "track": "SRE",
       "source": "Rootly",
-      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
-      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
+      "text": "Nobody wants to review 1,000 lines of AI-generated code | Rootly",
+      "link": "https://webflow.rootly.com/blog/how-engineering-leaders-rethink-code-review-in-the-ai-era"
     },
     {
-      "date": "2026-07-30",
+      "date": "2026-08-07",
       "track": "Systems",
       "source": "Netflix Tech",
-      "text": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"
+      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-09-11",
       "track": "News",
       "source": "Hacker News",
-      "text": "Exercise intensity is associated with cardiometabolic health",
-      "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2"
+      "text": "Hacker News with reduced priority for AI driven content",
+      "link": "https://sprinklz.io/public/pdwt4dve5uai"
     }
   ]
 }

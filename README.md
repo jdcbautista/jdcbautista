@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/gradio-workflow-1111"><img src="generated/feed-item-0.svg?v=96226d22" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file/"><img src="generated/feed-item-1.svg?v=7a242dfd" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bdba6789" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2"><img src="generated/feed-item-4.svg?v=f3569e6e" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/put-data-to-work"><img src="generated/feed-item-0.svg?v=feb5c15b" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/post-quantum-dnssec-1111/"><img src="generated/feed-item-1.svg?v=b2f073ba" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/how-engineering-leaders-rethink-code-review-in-the-ai-era"><img src="generated/feed-item-2.svg?v=1c2108ca" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://sprinklz.io/public/pdwt4dve5uai"><img src="generated/feed-item-4.svg?v=8bc203e1" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
