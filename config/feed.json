@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-10",
+      "date": "2026-09-03",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Now everyone can put data to work",
-      "link": "https://openai.com/index/put-data-to-work"
+      "source": "Hugging Face",
+      "text": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "link": "https://huggingface.co/blog/Hcompany/neomme"
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-01",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-      "link": "https://blog.cloudflare.com/post-quantum-dnssec-1111/"
+      "source": "HashiCorp",
+      "text": "HashiCorp Vault agentic IAM is now generally available",
+      "link": "https://www.hashicorp.com/blog/hashicorp-vault-agentic-iam-is-now-generally-available"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-09",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Nobody wants to review 1,000 lines of AI-generated code | Rootly",
-      "link": "https://webflow.rootly.com/blog/how-engineering-leaders-rethink-code-review-in-the-ai-era"
+      "source": "Datadog",
+      "text": "How we built data-driven AI Golden Paths at Datadog",
+      "link": "https://www.datadoghq.com/blog/ai-development-golden-paths/"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-09-11",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "Presentation: How To Run on Three Clouds at Once, and When Not To",
+      "link": "https://www.infoq.com/presentations/form3-multicloud-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-09-11",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Hacker News with reduced priority for AI driven content",
-      "link": "https://sprinklz.io/public/pdwt4dve5uai"
+      "source": "TechCrunch AI",
+      "text": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
     }
   ]
 }
