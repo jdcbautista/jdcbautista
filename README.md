@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=2e95ed7c" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6491ad93" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/put-data-to-work"><img src="generated/feed-item-0.svg?v=feb5c15b" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/post-quantum-dnssec-1111/"><img src="generated/feed-item-1.svg?v=b2f073ba" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/how-engineering-leaders-rethink-code-review-in-the-ai-era"><img src="generated/feed-item-2.svg?v=1c2108ca" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://sprinklz.io/public/pdwt4dve5uai"><img src="generated/feed-item-4.svg?v=8bc203e1" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/Hcompany/neomme"><img src="generated/feed-item-0.svg?v=bece9d77" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hashicorp-vault-agentic-iam-is-now-generally-available"><img src="generated/feed-item-1.svg?v=8fb471fb" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/ai-development-golden-paths/"><img src="generated/feed-item-2.svg?v=531f7807" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/presentations/form3-multicloud-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=f565b8d0" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"><img src="generated/feed-item-4.svg?v=adb152a8" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
