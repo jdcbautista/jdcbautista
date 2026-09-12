@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-03",
+      "date": "2026-09-10",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "link": "https://huggingface.co/blog/Hcompany/neomme"
-    },
-    {
-      "date": "2026-09-01",
-      "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "HashiCorp Vault agentic IAM is now generally available",
-      "link": "https://www.hashicorp.com/blog/hashicorp-vault-agentic-iam-is-now-generally-available"
-    },
-    {
-      "date": "2026-09-09",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "How we built data-driven AI Golden Paths at Datadog",
-      "link": "https://www.datadoghq.com/blog/ai-development-golden-paths/"
+      "source": "Google AI",
+      "text": "3 ways to prep for your next big race with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
     },
     {
       "date": "2026-09-11",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "Introducing automatic remediation policies with Cloudflare CASB",
+      "link": "https://blog.cloudflare.com/casb-policies/"
+    },
+    {
+      "date": "2026-08-21",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "How to scale Alloy as a central telemetry gateway: capacity planning, load testing, and production lessons",
+      "link": "https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"
+    },
+    {
+      "date": "2026-09-09",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Presentation: How To Run on Three Clouds at Once, and When Not To",
-      "link": "https://www.infoq.com/presentations/form3-multicloud-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Social Media Engagement: summer 2026",
+      "link": "https://martinfowler.com/articles/2026-social-traffic.html"
     },
     {
       "date": "2026-09-11",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/"
+      "source": "Ars Technica",
+      "text": "Random rewards enrich classic game-theory insights",
+      "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
     }
   ]
 }
