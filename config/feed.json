@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-10",
+      "date": "2026-09-07",
       "track": "AI",
-      "source": "Google AI",
-      "text": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+      "source": "Import AI",
+      "text": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "link": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-09-03",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Introducing automatic remediation policies with Cloudflare CASB",
-      "link": "https://blog.cloudflare.com/casb-policies/"
-    },
-    {
-      "date": "2026-08-21",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "How to scale Alloy as a central telemetry gateway: capacity planning, load testing, and production lessons",
-      "link": "https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"
+      "source": "AWS DevOps",
+      "text": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
+      "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
     },
     {
       "date": "2026-09-09",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "How to monitor Cypress tests with Grafana Cloud",
+      "link": "https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"
+    },
+    {
+      "date": "2026-07-30",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Social Media Engagement: summer 2026",
-      "link": "https://martinfowler.com/articles/2026-social-traffic.html"
+      "source": "Netflix Tech",
+      "text": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-09-11",
       "track": "News",
       "source": "Ars Technica",
-      "text": "Random rewards enrich classic game-theory insights",
-      "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
+      "text": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/"
     }
   ]
 }
