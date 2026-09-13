@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6491ad93" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c2b7c4a0" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/products/search/running-race-training-tips/"><img src="generated/feed-item-0.svg?v=472e09e2" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/casb-policies/"><img src="generated/feed-item-1.svg?v=a9e07d0c" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/how-to-scale-alloy-as-a-central-telemetry-gateway-capacity-planning-load-testing-and-production-lessons/"><img src="generated/feed-item-2.svg?v=9f5a028b" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/2026-social-traffic.html"><img src="generated/feed-item-3.svg?v=c83bc78f" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"><img src="generated/feed-item-4.svg?v=5f1cdaaa" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"><img src="generated/feed-item-0.svg?v=676378fb" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"><img src="generated/feed-item-1.svg?v=a0a53fed" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"><img src="generated/feed-item-2.svg?v=9013c476" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bdba6789" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/"><img src="generated/feed-item-4.svg?v=1b77f0fc" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
