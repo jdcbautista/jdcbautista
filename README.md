@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c2b7c4a0" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c4d5e1a7" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"><img src="generated/feed-item-0.svg?v=f42bfc03" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training/"><img src="generated/feed-item-1.svg?v=22176f9f" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/chatgpt-datadog-experiments/"><img src="generated/feed-item-2.svg?v=b7325385" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/bliki/ParacelsusMaxim.html"><img src="generated/feed-item-3.svg?v=253e94ca" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"><img src="generated/feed-item-4.svg?v=f4bf9d86" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/12/paul-ford/"><img src="generated/feed-item-0.svg?v=b2ddd92b" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios/"><img src="generated/feed-item-1.svg?v=d43dfa14" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-530/"><img src="generated/feed-item-2.svg?v=66e3a80b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"><img src="generated/feed-item-3.svg?v=1f0575c7" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"><img src="generated/feed-item-4.svg?v=4ed5c304" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
