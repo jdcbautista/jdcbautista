@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/12/paul-ford/"><img src="generated/feed-item-0.svg?v=b2ddd92b" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios/"><img src="generated/feed-item-1.svg?v=d43dfa14" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-530/"><img src="generated/feed-item-2.svg?v=66e3a80b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"><img src="generated/feed-item-3.svg?v=1f0575c7" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"><img src="generated/feed-item-4.svg?v=4ed5c304" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"><img src="generated/feed-item-0.svg?v=ff6488f0" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"><img src="generated/feed-item-1.svg?v=182f82c2" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bc32616d" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"><img src="generated/feed-item-4.svg?v=a8225d0a" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

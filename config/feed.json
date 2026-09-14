@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-12",
+      "date": "2026-09-09",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting Paul Ford",
-      "link": "https://simonwillison.net/2026/Sep/12/paul-ford/"
+      "source": "Hugging Face",
+      "text": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-08-31",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Kubernetes disaster recovery: Guidance from three reproducible failure scenarios",
-      "link": "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios/"
+      "source": "AWS DevOps",
+      "text": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
+      "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-07-24",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #530",
-      "link": "https://sreweekly.com/sre-weekly-issue-530/"
+      "source": "Rootly",
+      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
+      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-08-21",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Scaling your money safely with AI",
-      "link": "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"
+      "source": "Netflix Tech",
+      "text": "A Tale of Two Flink Autoscalers",
+      "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-14",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: a \"God-driven\" cryptocurrency and a solar engineering roadmap",
-      "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
+      "source": "TechCrunch AI",
+      "text": "With iOS 27, I'm actually using Siri again",
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
     }
   ]
 }
