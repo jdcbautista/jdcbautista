@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-09",
+      "date": "2026-09-08",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+      "text": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-09-11",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
-      "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"
+      "source": "Cloudflare",
+      "text": "Introducing automatic remediation policies with Cloudflare CASB",
+      "link": "https://blog.cloudflare.com/casb-policies/"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-09-01",
       "track": "SRE",
       "source": "Rootly",
-      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
-      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
-    },
-    {
-      "date": "2026-08-21",
-      "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "A Tale of Two Flink Autoscalers",
-      "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"
+      "text": "Why we're building a channel at Rootly | Rootly",
+      "link": "https://webflow.rootly.com/blog/why-were-building-a-channel-at-rootly"
     },
     {
       "date": "2026-09-14",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "More than 9,000 patches total in the seven stable kernels for Monday",
+      "link": "https://lwn.net/Articles/1093985/"
+    },
+    {
+      "date": "2026-09-11",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "With iOS 27, I'm actually using Siri again",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+      "source": "MIT Tech Review",
+      "text": "Roundtables: Could AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
     }
   ]
 }
