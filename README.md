@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c4d5e1a7" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"><img src="generated/feed-item-0.svg?v=ff6488f0" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"><img src="generated/feed-item-1.svg?v=182f82c2" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bc32616d" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"><img src="generated/feed-item-4.svg?v=a8225d0a" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"><img src="generated/feed-item-0.svg?v=2c38f0e2" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/casb-policies/"><img src="generated/feed-item-1.svg?v=a9e07d0c" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/why-were-building-a-channel-at-rootly"><img src="generated/feed-item-2.svg?v=23149e53" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1093985/"><img src="generated/feed-item-3.svg?v=7e19cca7" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"><img src="generated/feed-item-4.svg?v=e50a2ab9" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
