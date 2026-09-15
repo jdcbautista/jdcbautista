@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-08",
+      "date": "2026-09-10",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
-    },
-    {
-      "date": "2026-09-11",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Introducing automatic remediation policies with Cloudflare CASB",
-      "link": "https://blog.cloudflare.com/casb-policies/"
-    },
-    {
-      "date": "2026-09-01",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Why we're building a channel at Rootly | Rootly",
-      "link": "https://webflow.rootly.com/blog/why-were-building-a-channel-at-rootly"
+      "text": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
     },
     {
       "date": "2026-09-14",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "More than 9,000 patches total in the seven stable kernels for Monday",
-      "link": "https://lwn.net/Articles/1093985/"
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "Cilium 1.20: Gateway API ExternalAuth, TCPRoute/UDPRoute, ENI IPAM for IPv6, and more",
+      "link": "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more/"
     },
     {
       "date": "2026-09-11",
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Analyze your experiments in ChatGPT with the Datadog Experiments plugin",
+      "link": "https://www.datadoghq.com/blog/chatgpt-datadog-experiments/"
+    },
+    {
+      "date": "2026-09-08",
+      "track": "Systems",
+      "source": "Stack Overflow",
+      "text": "Scaling your money safely with AI",
+      "link": "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"
+    },
+    {
+      "date": "2026-09-15",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+      "source": "The Verge",
+      "text": "Vintage Violence is an absurdist crime thriller for phone addicts",
+      "link": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster"
     }
   ]
 }
