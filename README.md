@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://openai.com/index/fyxer"><img src="generated/feed-item-0.svg?v=53e51e9e" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/"><img src="generated/feed-item-1.svg?v=a7eba60c" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"><img src="generated/feed-item-1.svg?v=182f82c2" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
 --><a href="https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"><img src="generated/feed-item-2.svg?v=47eb97a4" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1094469/"><img src="generated/feed-item-3.svg?v=08bd5fa2" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability"><img src="generated/feed-item-4.svg?v=6b11017f" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=78675ebc" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/"><img src="generated/feed-item-4.svg?v=bb8b431e" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
