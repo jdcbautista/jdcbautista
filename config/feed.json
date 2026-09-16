@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-10",
+      "date": "2026-09-14",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
+      "source": "OpenAI",
+      "text": "How Fyxer built an AI executive assistant people trust",
+      "link": "https://openai.com/index/fyxer"
     },
     {
       "date": "2026-09-14",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Cilium 1.20: Gateway API ExternalAuth, TCPRoute/UDPRoute, ENI IPAM for IPv6, and more",
-      "link": "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more/"
+      "source": "Kubernetes",
+      "text": "Kubernetes Changed Block Tracking API - Beta Differences",
+      "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/"
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-08-20",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Analyze your experiments in ChatGPT with the Datadog Experiments plugin",
-      "link": "https://www.datadoghq.com/blog/chatgpt-datadog-experiments/"
+      "source": "Gremlin",
+      "text": "Safer Kubernetes rollouts with minReadySeconds",
+      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-15",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Scaling your money safely with AI",
-      "link": "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"
+      "source": "LWN",
+      "text": "Security updates for Tuesday",
+      "link": "https://lwn.net/Articles/1094469/"
     },
     {
       "date": "2026-09-15",
       "track": "News",
       "source": "The Verge",
-      "text": "Vintage Violence is an absurdist crime thriller for phone addicts",
-      "link": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster"
+      "text": "The EOS R8 Mark II is Canon's lightest full-frame camera with stabilization",
+      "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability"
     }
   ]
 }

@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=2f47b238" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/asyncgrpo-lora-hfjobs"><img src="generated/feed-item-0.svg?v=d88f5b51" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more/"><img src="generated/feed-item-1.svg?v=faa05b1a" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/chatgpt-datadog-experiments/"><img src="generated/feed-item-2.svg?v=b7325385" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/"><img src="generated/feed-item-3.svg?v=1f0575c7" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster"><img src="generated/feed-item-4.svg?v=8ad169a8" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/fyxer"><img src="generated/feed-item-0.svg?v=53e51e9e" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/"><img src="generated/feed-item-1.svg?v=a7eba60c" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"><img src="generated/feed-item-2.svg?v=47eb97a4" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1094469/"><img src="generated/feed-item-3.svg?v=08bd5fa2" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability"><img src="generated/feed-item-4.svg?v=6b11017f" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
