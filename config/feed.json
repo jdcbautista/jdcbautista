@@ -10,11 +10,11 @@
       "link": "https://openai.com/index/fyxer"
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-08-31",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes Changed Block Tracking API - Beta Differences",
-      "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/"
+      "source": "AWS DevOps",
+      "text": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
+      "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"
     },
     {
       "date": "2026-08-20",
@@ -24,18 +24,18 @@
       "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Tuesday",
-      "link": "https://lwn.net/Articles/1094469/"
+      "source": "InfoQ",
+      "text": "Shopify Drops React Native for Swift and Kotlin as AI Changes Cross-Platform Development Tradeoffs",
+      "link": "https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "track": "News",
-      "source": "The Verge",
-      "text": "The EOS R8 Mark II is Canon's lightest full-frame camera with stabilization",
-      "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability"
+      "source": "TechCrunch AI",
+      "text": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/"
     }
   ]
 }
