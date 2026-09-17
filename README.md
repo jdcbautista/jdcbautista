@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"><img src="generated/feed-item-0.svg?v=793f0849" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/"><img src="generated/feed-item-1.svg?v=09868e7f" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/"><img src="generated/feed-item-3.svg?v=3522b8fd" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"><img src="generated/feed-item-4.svg?v=555380aa" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/16/datasette-2/"><img src="generated/feed-item-0.svg?v=191432fe" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/casb-policies/"><img src="generated/feed-item-1.svg?v=a9e07d0c" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-530/"><img src="generated/feed-item-2.svg?v=66e3a80b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1094303/"><img src="generated/feed-item-3.svg?v=c47b711c" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"><img src="generated/feed-item-4.svg?v=386533ec" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
