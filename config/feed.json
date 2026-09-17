@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-14",
+      "date": "2026-08-17",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://openai.com/index/fyxer"
+      "source": "Import AI",
+      "text": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
+      "link": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-09-15",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
-      "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"
+      "source": "CNCF",
+      "text": "What I learned organizing KCD Lima 2026",
+      "link": "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-13",
       "track": "SRE",
       "source": "Gremlin",
-      "text": "Safer Kubernetes rollouts with minReadySeconds",
-      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
+      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
+      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-15",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Shopify Drops React Native for Swift and Kotlin as AI Changes Cross-Platform Development Tradeoffs",
-      "link": "https://www.infoq.com/news/2026/09/shopify-drops-react-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Stack Overflow",
+      "text": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
+      "link": "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/"
     },
     {
       "date": "2026-09-16",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/"
+      "source": "The Verge",
+      "text": "The AI data center e-waste problem is huge — and getting bigger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
     }
   ]
 }
