@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-17",
+      "date": "2026-09-16",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
-      "link": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/"
+      "source": "Simon Willison",
+      "text": "datasette 0.65.5",
+      "link": "https://simonwillison.net/2026/Sep/16/datasette-2/"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-11",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "What I learned organizing KCD Lima 2026",
-      "link": "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/"
+      "source": "Cloudflare",
+      "text": "Introducing automatic remediation policies with Cloudflare CASB",
+      "link": "https://blog.cloudflare.com/casb-policies/"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-08-17",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
-      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #530",
+      "link": "https://sreweekly.com/sre-weekly-issue-530/"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
-      "link": "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/"
+      "source": "LWN",
+      "text": "[$] Thread-identity switcheroo for io_uring",
+      "link": "https://lwn.net/Articles/1094303/"
     },
     {
       "date": "2026-09-16",
       "track": "News",
-      "source": "The Verge",
-      "text": "The AI data center e-waste problem is huge — and getting bigger",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+      "source": "Ars Technica",
+      "text": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"
     }
   ]
 }
