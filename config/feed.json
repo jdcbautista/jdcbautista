@@ -5,37 +5,37 @@
     {
       "date": "2026-09-17",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Introducing Astra for Law",
-      "link": "https://openai.com/index/astra-for-law"
+      "source": "Google AI",
+      "text": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
+    },
+    {
+      "date": "2026-09-15",
+      "track": "Cloud",
+      "source": "HashiCorp",
+      "text": "Simplifying Terraform for IBM Z with intent-driven workflows",
+      "link": "https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows"
     },
     {
       "date": "2026-09-14",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes Changed Block Tracking API - Beta Differences",
-      "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/"
-    },
-    {
-      "date": "2026-08-06",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "What your AI SRE can't see (and what you can do about it)",
-      "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #534",
+      "link": "https://sreweekly.com/sre-weekly-issue-534/"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] Thread-identity switcheroo for io_uring",
-      "link": "https://lwn.net/Articles/1094303/"
+      "source": "InfoQ",
+      "text": "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance",
+      "link": "https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "The FAA's plan to fix air traffic? $875M worth of AI",
-      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+      "source": "Ars Technica",
+      "text": "Meet the winner of Nikon's Small World in Motion video contest",
+      "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/"
     }
   ]
 }

@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/astra-for-law"><img src="generated/feed-item-0.svg?v=2b7a4da6" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/"><img src="generated/feed-item-1.svg?v=a7eba60c" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"><img src="generated/feed-item-2.svg?v=fe1e81b1" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1094303/"><img src="generated/feed-item-3.svg?v=c47b711c" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"><img src="generated/feed-item-4.svg?v=fd9820d0" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"><img src="generated/feed-item-0.svg?v=4bae1476" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows"><img src="generated/feed-item-1.svg?v=527b08be" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-534/"><img src="generated/feed-item-2.svg?v=3d5d1b85" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=63f98f46" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/"><img src="generated/feed-item-4.svg?v=46328a2b" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
