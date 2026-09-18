@@ -3,25 +3,25 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "datasette 0.65.5",
-      "link": "https://simonwillison.net/2026/Sep/16/datasette-2/"
+      "source": "OpenAI",
+      "text": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law"
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-09-14",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Introducing automatic remediation policies with Cloudflare CASB",
-      "link": "https://blog.cloudflare.com/casb-policies/"
+      "source": "Kubernetes",
+      "text": "Kubernetes Changed Block Tracking API - Beta Differences",
+      "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/"
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-06",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #530",
-      "link": "https://sreweekly.com/sre-weekly-issue-530/"
+      "source": "Gremlin",
+      "text": "What your AI SRE can't see (and what you can do about it)",
+      "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
     },
     {
       "date": "2026-09-17",
@@ -31,11 +31,11 @@
       "link": "https://lwn.net/Articles/1094303/"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"
+      "source": "TechCrunch AI",
+      "text": "The FAA's plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
     }
   ]
 }
