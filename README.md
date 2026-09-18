@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=9fe1b0fe" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/16/datasette-2/"><img src="generated/feed-item-0.svg?v=191432fe" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/casb-policies/"><img src="generated/feed-item-1.svg?v=a9e07d0c" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-530/"><img src="generated/feed-item-2.svg?v=66e3a80b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/astra-for-law"><img src="generated/feed-item-0.svg?v=2b7a4da6" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/"><img src="generated/feed-item-1.svg?v=a7eba60c" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"><img src="generated/feed-item-2.svg?v=fe1e81b1" alt="SRE — Gremlin" width="720" align="top" /></a><!--
 --><a href="https://lwn.net/Articles/1094303/"><img src="generated/feed-item-3.svg?v=c47b711c" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"><img src="generated/feed-item-4.svg?v=386533ec" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"><img src="generated/feed-item-4.svg?v=fd9820d0" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
