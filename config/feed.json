@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-17",
+      "date": "2026-08-10",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic"
+      "source": "Import AI",
+      "text": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+      "link": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"
     },
     {
       "date": "2026-09-15",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Simplifying Terraform for IBM Z with intent-driven workflows",
-      "link": "https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows"
+      "source": "Cloudflare",
+      "text": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-08-24",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Enforce custom rules in Datadog IaC Security scanning",
-      "link": "https://www.datadoghq.com/blog/custom-iac-security-rules/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #531",
+      "link": "https://sreweekly.com/sre-weekly-issue-531/"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-09-19",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
-      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
+      "link": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-09-18",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+      "source": "Ars Technica",
+      "text": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+      "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
     }
   ]
 }
