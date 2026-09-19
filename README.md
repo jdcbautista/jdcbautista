@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"><img src="generated/feed-item-0.svg?v=4bae1476" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/cooley-gopublic"><img src="generated/feed-item-0.svg?v=8160d43d" alt="AI — OpenAI" width="720" align="top" /></a><!--
 --><a href="https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows"><img src="generated/feed-item-1.svg?v=527b08be" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-534/"><img src="generated/feed-item-2.svg?v=3d5d1b85" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=63f98f46" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/"><img src="generated/feed-item-4.svg?v=46328a2b" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/custom-iac-security-rules/"><img src="generated/feed-item-2.svg?v=baec9655" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"><img src="generated/feed-item-4.svg?v=6ee6f468" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
