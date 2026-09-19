@@ -5,9 +5,9 @@
     {
       "date": "2026-09-17",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
+      "source": "OpenAI",
+      "text": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic"
     },
     {
       "date": "2026-09-15",
@@ -17,25 +17,25 @@
       "link": "https://www.hashicorp.com/blog/simplifying-terraform-for-ibm-z-with-intent-driven-workflows"
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-18",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #534",
-      "link": "https://sreweekly.com/sre-weekly-issue-534/"
+      "source": "Datadog",
+      "text": "Enforce custom rules in Datadog IaC Security scanning",
+      "link": "https://www.datadoghq.com/blog/custom-iac-security-rules/"
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-08-28",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance",
-      "link": "https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Netflix Tech",
+      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
+      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-09-18",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Meet the winner of Nikon's Small World in Motion video contest",
-      "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/"
+      "source": "TechCrunch AI",
+      "text": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
     }
   ]
 }
