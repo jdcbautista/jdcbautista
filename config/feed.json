@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-03",
+      "date": "2026-09-18",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "link": "https://huggingface.co/blog/Hcompany/neomme"
+      "source": "Simon Willison",
+      "text": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"
     },
     {
       "date": "2026-09-15",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Have it both ways: stay discoverable in search while disallowing AI training",
-      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
+      "source": "CNCF",
+      "text": "What I learned organizing KCD Lima 2026",
+      "link": "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/"
     },
     {
       "date": "2026-09-15",
       "track": "SRE",
       "source": "Datadog",
-      "text": "How to operate shared platforms safely at agent scale",
-      "link": "https://www.datadoghq.com/blog/operating-shared-platforms-agent-scale/"
+      "text": "Monitor TAS and gang scheduling for AI training in Kubernetes",
+      "link": "https://www.datadoghq.com/blog/monitor-tas-and-gang-scheduling-for-ai-training-in-kubernetes/"
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-09-17",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Modeling Device Capabilities for Analytics",
-      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "The AI magic words",
+      "link": "https://stackoverflow.blog/2026/09/17/the-ai-magic-words/"
     },
     {
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+      "source": "The Verge",
+      "text": "A great new video game movie",
+      "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave"
     }
   ]
 }
