@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/Hcompany/neomme"><img src="generated/feed-item-0.svg?v=bece9d77" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"><img src="generated/feed-item-1.svg?v=c65887bc" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/operating-shared-platforms-agent-scale/"><img src="generated/feed-item-2.svg?v=4257a9ce" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"><img src="generated/feed-item-4.svg?v=6a3d44fd" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"><img src="generated/feed-item-0.svg?v=8e0d6704" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/"><img src="generated/feed-item-1.svg?v=09868e7f" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/monitor-tas-and-gang-scheduling-for-ai-training-in-kubernetes/"><img src="generated/feed-item-2.svg?v=dd925c03" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/09/17/the-ai-magic-words/"><img src="generated/feed-item-3.svg?v=7216f4ef" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave"><img src="generated/feed-item-4.svg?v=f01b4a0d" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
