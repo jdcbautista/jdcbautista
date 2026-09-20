@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6a5d3ea5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/"><img src="generated/feed-item-0.svg?v=5bb6aebb" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/Hcompany/neomme"><img src="generated/feed-item-0.svg?v=bece9d77" alt="AI — Hugging Face" width="720" align="top" /></a><!--
 --><a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"><img src="generated/feed-item-1.svg?v=c65887bc" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-531/"><img src="generated/feed-item-2.svg?v=4826fd12" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=c5e0e205" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"><img src="generated/feed-item-4.svg?v=fc803e79" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/operating-shared-platforms-agent-scale/"><img src="generated/feed-item-2.svg?v=4257a9ce" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=69ae3543" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"><img src="generated/feed-item-4.svg?v=6a3d44fd" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
