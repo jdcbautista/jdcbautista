@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-19",
-      "track": "AI",
-      "source": "Simon Willison",
-      "text": "California Sea Lion, Brandt's Cormorant",
-      "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
-    },
-    {
       "date": "2026-09-15",
+      "track": "AI",
+      "source": "Google AI",
+      "text": "Building AI to accelerate science and improve lives",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
+    },
+    {
+      "date": "2026-09-03",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Have it both ways: stay discoverable in search while disallowing AI training",
-      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
+      "source": "AWS DevOps",
+      "text": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
+      "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-09-09",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Safer Kubernetes rollouts with minReadySeconds",
-      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
+      "source": "Grafana",
+      "text": "How to monitor Cypress tests with Grafana Cloud",
+      "link": "https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"
     },
     {
-      "date": "2026-09-20",
+      "date": "2026-09-18",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Kernel prepatch 7.3-rc4",
-      "link": "https://lwn.net/Articles/1095491/"
+      "source": "Netflix Tech",
+      "text": "Leave the Class Path in the Rearview Mirror",
+      "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
+      "source": "The Verge",
+      "text": "Can John Ternus find Apple's next big thing?",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
     }
   ]
 }

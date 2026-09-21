@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/19/sighting-401567341/"><img src="generated/feed-item-0.svg?v=62618841" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"><img src="generated/feed-item-1.svg?v=c65887bc" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"><img src="generated/feed-item-2.svg?v=47eb97a4" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1095491/"><img src="generated/feed-item-3.svg?v=effc41a5" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"><img src="generated/feed-item-4.svg?v=91405950" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"><img src="generated/feed-item-0.svg?v=cf1cea6d" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"><img src="generated/feed-item-1.svg?v=a0a53fed" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"><img src="generated/feed-item-2.svg?v=9013c476" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=42519743" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"><img src="generated/feed-item-4.svg?v=7961552e" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
