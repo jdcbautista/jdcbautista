@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"
+      "text": "California Sea Lion, Brandt's Cormorant",
+      "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/"
     },
     {
       "date": "2026-09-15",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "What I learned organizing KCD Lima 2026",
-      "link": "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/"
+      "source": "Cloudflare",
+      "text": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-08-20",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Monitor TAS and gang scheduling for AI training in Kubernetes",
-      "link": "https://www.datadoghq.com/blog/monitor-tas-and-gang-scheduling-for-ai-training-in-kubernetes/"
+      "source": "Gremlin",
+      "text": "Safer Kubernetes rollouts with minReadySeconds",
+      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-20",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "The AI magic words",
-      "link": "https://stackoverflow.blog/2026/09/17/the-ai-magic-words/"
+      "source": "LWN",
+      "text": "Kernel prepatch 7.3-rc4",
+      "link": "https://lwn.net/Articles/1095491/"
     },
     {
       "date": "2026-09-20",
       "track": "News",
-      "source": "The Verge",
-      "text": "A great new video game movie",
-      "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave"
+      "source": "Ars Technica",
+      "text": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
     }
   ]
 }
