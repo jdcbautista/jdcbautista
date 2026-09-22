@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-15",
+      "date": "2026-09-21",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Building AI to accelerate science and improve lives",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
-    },
-    {
-      "date": "2026-09-15",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Give every teammate and agent the right level of access to your Workers",
-      "link": "https://blog.cloudflare.com/workers-granular-authorization/"
-    },
-    {
-      "date": "2026-08-31",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #532",
-      "link": "https://sreweekly.com/sre-weekly-issue-532/"
-    },
-    {
-      "date": "2026-09-16",
-      "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
-      "link": "https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/"
+      "source": "Import AI",
+      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
     },
     {
       "date": "2026-09-21",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
+    },
+    {
+      "date": "2026-08-06",
+      "track": "SRE",
+      "source": "Gremlin",
+      "text": "What your AI SRE can't see (and what you can do about it)",
+      "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
+    },
+    {
+      "date": "2026-09-17",
+      "track": "Systems",
+      "source": "Martin Fowler",
+      "text": "I don't like LLMs",
+      "link": "https://martinfowler.com/articles/2026-dont-like-llms.html"
+    },
+    {
+      "date": "2026-09-22",
       "track": "News",
-      "source": "The Verge",
-      "text": "Amazon wants to help the Colorado River, but we still don't know how much water the company uses",
-      "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+      "source": "Hacker News",
+      "text": "Aging may be a program, not a breakdown",
+      "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/"
     }
   ]
 }

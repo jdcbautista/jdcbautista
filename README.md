@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"><img src="generated/feed-item-0.svg?v=cf1cea6d" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/workers-granular-authorization/"><img src="generated/feed-item-1.svg?v=86cd7bd7" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-532/"><img src="generated/feed-item-2.svg?v=1a85bb35" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/"><img src="generated/feed-item-3.svg?v=0ce74c1b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"><img src="generated/feed-item-4.svg?v=8704c249" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"><img src="generated/feed-item-0.svg?v=ad96794d" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"><img src="generated/feed-item-1.svg?v=05596555" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"><img src="generated/feed-item-2.svg?v=fe1e81b1" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/2026-dont-like-llms.html"><img src="generated/feed-item-3.svg?v=28116903" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/"><img src="generated/feed-item-4.svg?v=a17a80e1" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
