@@ -10,32 +10,32 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-15",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
-      "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
+      "source": "Cloudflare",
+      "text": "Give every teammate and agent the right level of access to your Workers",
+      "link": "https://blog.cloudflare.com/workers-granular-authorization/"
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-08-31",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "How to monitor Cypress tests with Grafana Cloud",
-      "link": "https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #532",
+      "link": "https://sreweekly.com/sre-weekly-issue-532/"
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-09-16",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Leave the Class Path in the Rearview Mirror",
-      "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
+      "link": "https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/"
     },
     {
       "date": "2026-09-21",
       "track": "News",
       "source": "The Verge",
-      "text": "Can John Ternus find Apple's next big thing?",
-      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"
+      "text": "Amazon wants to help the Colorado River, but we still don't know how much water the company uses",
+      "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
     }
   ]
 }
