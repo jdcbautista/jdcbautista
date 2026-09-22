@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=7050c51f" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=e0fa4229" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"><img src="generated/feed-item-0.svg?v=cf1cea6d" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"><img src="generated/feed-item-1.svg?v=a0a53fed" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"><img src="generated/feed-item-2.svg?v=9013c476" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=42519743" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone"><img src="generated/feed-item-4.svg?v=7961552e" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/workers-granular-authorization/"><img src="generated/feed-item-1.svg?v=86cd7bd7" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-532/"><img src="generated/feed-item-2.svg?v=1a85bb35" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/"><img src="generated/feed-item-3.svg?v=0ce74c1b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"><img src="generated/feed-item-4.svg?v=8704c249" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
