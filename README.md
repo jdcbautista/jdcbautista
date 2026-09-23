@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/omlx"><img src="generated/feed-item-0.svg?v=520f1bba" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"><img src="generated/feed-item-1.svg?v=9bb09153" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"><img src="generated/feed-item-2.svg?v=0457f9f9" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/2026-social-traffic.html"><img src="generated/feed-item-3.svg?v=c83bc78f" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://waymo.com/blog/2026/09/transit-rewards/"><img src="generated/feed-item-4.svg?v=d5514044" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"><img src="generated/feed-item-0.svg?v=1969dff2" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"><img src="generated/feed-item-1.svg?v=dfcc14b3" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-09-08.html"><img src="generated/feed-item-3.svg?v=ad2dbf5d" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"><img src="generated/feed-item-4.svg?v=50c668f6" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
