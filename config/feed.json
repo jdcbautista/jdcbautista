@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-22",
+      "date": "2026-09-21",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "link": "https://huggingface.co/blog/omlx"
+      "text": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
     },
     {
       "date": "2026-09-16",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
-      "link": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+      "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
     },
     {
-      "date": "2026-08-13",
+      "date": "2026-07-24",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
-      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
+      "source": "Rootly",
+      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
+      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-09-08",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "Social Media Engagement: summer 2026",
-      "link": "https://martinfowler.com/articles/2026-social-traffic.html"
+      "text": "Fragments: September 8",
+      "link": "https://martinfowler.com/fragments/2026-09-08.html"
     },
     {
       "date": "2026-09-23",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Transit rewards (Waymo pays you to take the train)",
-      "link": "https://waymo.com/blog/2026/09/transit-rewards/"
+      "source": "The Verge",
+      "text": "Bernie Sanders proposes banning 'superintelligence' and putting violators in prison",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
     }
   ]
 }
