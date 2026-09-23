@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
+      "source": "Hugging Face",
+      "text": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "link": "https://huggingface.co/blog/omlx"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-09-16",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
+      "source": "CNCF",
+      "text": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
+      "link": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"
     },
     {
-      "date": "2026-08-06",
+      "date": "2026-08-13",
       "track": "SRE",
       "source": "Gremlin",
-      "text": "What your AI SRE can't see (and what you can do about it)",
-      "link": "https://www.gremlin.com/blog/what-your-ai-sre-cant-see-and-what-you-can-do-about-it"
+      "text": "Optimizing Kubernetes pods for reliability with topology spread constraints",
+      "link": "https://www.gremlin.com/blog/optimizing-kubernetes-pod-deployments-for-reliability-with-topology-spread-constraints"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-09",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "I don't like LLMs",
-      "link": "https://martinfowler.com/articles/2026-dont-like-llms.html"
+      "text": "Social Media Engagement: summer 2026",
+      "link": "https://martinfowler.com/articles/2026-social-traffic.html"
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "track": "News",
       "source": "Hacker News",
-      "text": "Aging may be a program, not a breakdown",
-      "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/"
+      "text": "Transit rewards (Waymo pays you to take the train)",
+      "link": "https://waymo.com/blog/2026/09/transit-rewards/"
     }
   ]
 }
