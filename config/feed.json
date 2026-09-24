@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-23",
+      "date": "2026-09-17",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Two years of OpenAI Academy",
-      "link": "https://openai.com/index/two-years-of-openai-academy"
+      "source": "Google AI",
+      "text": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-09-16",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
-      "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"
+      "source": "CNCF",
+      "text": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
+      "link": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-09-23",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #531",
-      "link": "https://sreweekly.com/sre-weekly-issue-531/"
+      "source": "Datadog",
+      "text": "Find answers in your logs faster with Datadog's Tap to Parse",
+      "link": "https://www.datadoghq.com/blog/tap-to-parse-logs/"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-09-24",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "InfoQ Launches High-Performing Teams Certification Program",
+      "link": "https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-09-24",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Contrastive Language Models",
-      "link": "https://contrastive-lm.notion.site/"
+      "source": "The Verge",
+      "text": "Now Google Chrome shares tabs to new devices that save where you were",
+      "link": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"
     }
   ]
 }
