@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=99d87fa4" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"><img src="generated/feed-item-0.svg?v=1969dff2" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"><img src="generated/feed-item-1.svg?v=dfcc14b3" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-09-08.html"><img src="generated/feed-item-3.svg?v=ad2dbf5d" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"><img src="generated/feed-item-4.svg?v=50c668f6" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/two-years-of-openai-academy"><img src="generated/feed-item-0.svg?v=1ff5296b" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"><img src="generated/feed-item-1.svg?v=182f82c2" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-531/"><img src="generated/feed-item-2.svg?v=4826fd12" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://contrastive-lm.notion.site/"><img src="generated/feed-item-4.svg?v=69eaa48a" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-21",
-      "track": "AI",
-      "source": "Hugging Face",
-      "text": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
-    },
-    {
-      "date": "2026-09-16",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
-      "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
-    },
-    {
-      "date": "2026-07-24",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
-      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
-    },
-    {
-      "date": "2026-09-08",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: September 8",
-      "link": "https://martinfowler.com/fragments/2026-09-08.html"
-    },
-    {
       "date": "2026-09-23",
+      "track": "AI",
+      "source": "OpenAI",
+      "text": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy"
+    },
+    {
+      "date": "2026-08-31",
+      "track": "Cloud",
+      "source": "AWS DevOps",
+      "text": "Optimize EKS operations with agents: Reduce MTTR with AWS DevOps Agent and a Kubernetes Operator",
+      "link": "https://aws.amazon.com/blogs/devops/optimize-eks-operations-with-agents-reduce-mttr-with-aws-devops-agent-and-a-kubernetes-operator/"
+    },
+    {
+      "date": "2026-08-24",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #531",
+      "link": "https://sreweekly.com/sre-weekly-issue-531/"
+    },
+    {
+      "date": "2026-08-07",
+      "track": "Systems",
+      "source": "Netflix Tech",
+      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+    },
+    {
+      "date": "2026-09-24",
       "track": "News",
-      "source": "The Verge",
-      "text": "Bernie Sanders proposes banning 'superintelligence' and putting violators in prison",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act"
+      "source": "Hacker News",
+      "text": "Contrastive Language Models",
+      "link": "https://contrastive-lm.notion.site/"
     }
   ]
 }
