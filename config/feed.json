@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-17",
-      "track": "AI",
-      "source": "Google AI",
-      "text": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
-    },
-    {
-      "date": "2026-09-16",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
-      "link": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"
-    },
-    {
       "date": "2026-09-23",
+      "track": "AI",
+      "source": "Simon Willison",
+      "text": "Gemini 3.8 TTS Playground",
+      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"
+    },
+    {
+      "date": "2026-09-18",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "Saving another 100TB of RAM with math (and Rust)",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
+    },
+    {
+      "date": "2026-08-20",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Find answers in your logs faster with Datadog's Tap to Parse",
-      "link": "https://www.datadoghq.com/blog/tap-to-parse-logs/"
+      "source": "Gremlin",
+      "text": "Safer Kubernetes rollouts with minReadySeconds",
+      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
     },
     {
       "date": "2026-09-24",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "InfoQ Launches High-Performing Teams Certification Program",
-      "link": "https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "The Kernel Report 2026 edition",
+      "link": "https://lwn.net/Articles/1096411/"
     },
     {
       "date": "2026-09-24",
       "track": "News",
-      "source": "The Verge",
-      "text": "Now Google Chrome shares tabs to new devices that save where you were",
-      "link": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"
+      "source": "Ars Technica",
+      "text": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+      "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"
     }
   ]
 }
