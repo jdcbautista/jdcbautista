@@ -38,10 +38,10 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"><img src="generated/feed-item-0.svg?v=9ef2197b" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"><img src="generated/feed-item-1.svg?v=af253438" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"><img src="generated/feed-item-2.svg?v=47eb97a4" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1096411/"><img src="generated/feed-item-3.svg?v=7568173e" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"><img src="generated/feed-item-0.svg?v=01750f86" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"><img src="generated/feed-item-1.svg?v=e67997f9" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/synthetic-monitoring-labels-update/"><img src="generated/feed-item-2.svg?v=9672050f" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1096245/"><img src="generated/feed-item-3.svg?v=96b1aa40" alt="Systems — LWN" width="720" align="top" /></a><!--
 --><a href="https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"><img src="generated/feed-item-4.svg?v=283e2046" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 

@@ -5,30 +5,30 @@
     {
       "date": "2026-09-23",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Gemini 3.8 TTS Playground",
-      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"
+      "source": "OpenAI",
+      "text": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-09-15",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Saving another 100TB of RAM with math (and Rust)",
-      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
+      "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-09-10",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Safer Kubernetes rollouts with minReadySeconds",
-      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
+      "source": "Grafana",
+      "text": "Custom labels in Grafana Cloud Synthetic Monitoring: New updates for consistency and ease-of-use",
+      "link": "https://grafana.com/blog/synthetic-monitoring-labels-update/"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "track": "Systems",
       "source": "LWN",
-      "text": "The Kernel Report 2026 edition",
-      "link": "https://lwn.net/Articles/1096411/"
+      "text": "[$] How KDE got funding to add enterprise features",
+      "link": "https://lwn.net/Articles/1096245/"
     },
     {
       "date": "2026-09-24",
