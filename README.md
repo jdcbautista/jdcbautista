@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"><img src="generated/feed-item-0.svg?v=4bae1476" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"><img src="generated/feed-item-1.svg?v=9bb09153" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/tap-to-parse-logs/"><img src="generated/feed-item-2.svg?v=aadb1f66" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/09/high-performing-teams-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=01d251ee" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates"><img src="generated/feed-item-4.svg?v=09bd4954" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"><img src="generated/feed-item-0.svg?v=9ef2197b" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/"><img src="generated/feed-item-1.svg?v=af253438" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"><img src="generated/feed-item-2.svg?v=47eb97a4" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1096411/"><img src="generated/feed-item-3.svg?v=7568173e" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"><img src="generated/feed-item-4.svg?v=283e2046" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
