@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c6205161" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"><img src="generated/feed-item-0.svg?v=01750f86" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"><img src="generated/feed-item-1.svg?v=e67997f9" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/synthetic-monitoring-labels-update/"><img src="generated/feed-item-2.svg?v=9672050f" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1096245/"><img src="generated/feed-item-3.svg?v=96b1aa40" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"><img src="generated/feed-item-4.svg?v=283e2046" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/transformers-llama-cpp-quants"><img src="generated/feed-item-0.svg?v=8fd0e4a7" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/"><img src="generated/feed-item-1.svg?v=1036e035" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-531/"><img src="generated/feed-item-2.svg?v=4826fd12" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/"><img src="generated/feed-item-3.svg?v=9db25888" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.homelabfest.org"><img src="generated/feed-item-4.svg?v=0ff6ef76" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
