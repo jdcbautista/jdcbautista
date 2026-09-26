@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-23",
+      "date": "2026-09-22",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-    },
-    {
-      "date": "2026-09-15",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
-      "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"
-    },
-    {
-      "date": "2026-09-10",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "Custom labels in Grafana Cloud Synthetic Monitoring: New updates for consistency and ease-of-use",
-      "link": "https://grafana.com/blog/synthetic-monitoring-labels-update/"
+      "source": "Hugging Face",
+      "text": "Transformers now runs llama.cpp quants",
+      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants"
     },
     {
       "date": "2026-09-25",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "[$] How KDE got funding to add enterprise features",
-      "link": "https://lwn.net/Articles/1096245/"
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "Security Slam 2026 – Fall edition",
+      "link": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-08-24",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #531",
+      "link": "https://sreweekly.com/sre-weekly-issue-531/"
+    },
+    {
+      "date": "2026-09-22",
+      "track": "Systems",
+      "source": "Stack Overflow",
+      "text": "Haters think AI agents can't write GPU code? This'll ROCm",
+      "link": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/"
+    },
+    {
+      "date": "2026-09-26",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-      "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"
+      "source": "Hacker News",
+      "text": "HomelabFest will be in St. Louis in September 2027",
+      "link": "https://www.homelabfest.org"
     }
   ]
 }
