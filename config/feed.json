@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-22",
+      "date": "2026-09-21",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Transformers now runs llama.cpp quants",
-      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+      "source": "Import AI",
+      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
+    },
+    {
+      "date": "2026-09-24",
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026",
+      "link": "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026/"
+    },
+    {
+      "date": "2026-09-09",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "How to monitor Cypress tests with Grafana Cloud",
+      "link": "https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"
     },
     {
       "date": "2026-09-25",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "Security Slam 2026 – Fall edition",
-      "link": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/"
-    },
-    {
-      "date": "2026-08-24",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #531",
-      "link": "https://sreweekly.com/sre-weekly-issue-531/"
-    },
-    {
-      "date": "2026-09-22",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Haters think AI agents can't write GPU code? This'll ROCm",
-      "link": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/"
+      "source": "Netflix Tech",
+      "text": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+      "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-09-26",
+      "date": "2026-09-25",
       "track": "News",
-      "source": "Hacker News",
-      "text": "HomelabFest will be in St. Louis in September 2027",
-      "link": "https://www.homelabfest.org"
+      "source": "The Verge",
+      "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
     }
   ]
 }
