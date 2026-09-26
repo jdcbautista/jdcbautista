@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/transformers-llama-cpp-quants"><img src="generated/feed-item-0.svg?v=8fd0e4a7" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/"><img src="generated/feed-item-1.svg?v=1036e035" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-531/"><img src="generated/feed-item-2.svg?v=4826fd12" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/"><img src="generated/feed-item-3.svg?v=9db25888" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.homelabfest.org"><img src="generated/feed-item-4.svg?v=0ff6ef76" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"><img src="generated/feed-item-0.svg?v=ad96794d" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026/"><img src="generated/feed-item-1.svg?v=a362dd3a" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"><img src="generated/feed-item-2.svg?v=9013c476" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=2177a5f4" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"><img src="generated/feed-item-4.svg?v=5f1eea91" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
