@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-23",
+      "date": "2026-09-18",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Sam Altman's remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks"
+      "source": "Google AI",
+      "text": "New experts join Google's AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-17",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
-      "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
+      "source": "HashiCorp",
+      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
+      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-01",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "How to verify your Azure Application Gateway is zone-redundant",
-      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
+      "source": "Rootly",
+      "text": "Why we're building a channel at Rootly | Rootly",
+      "link": "https://webflow.rootly.com/blog/why-were-building-a-channel-at-rootly"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-08-21",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Friday",
-      "link": "https://lwn.net/Articles/1096637/"
+      "source": "Netflix Tech",
+      "text": "A Tale of Two Flink Autoscalers",
+      "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-27",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/"
+      "source": "Ars Technica",
+      "text": "How the Smithsonian became the latest front in Trump's culture war",
+      "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
     }
   ]
 }
