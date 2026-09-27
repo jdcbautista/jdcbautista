@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/sam-altman-un-security-council-remarks"><img src="generated/feed-item-0.svg?v=b2893453" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"><img src="generated/feed-item-1.svg?v=a0a53fed" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1096637/"><img src="generated/feed-item-3.svg?v=b6aeb2b7" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/"><img src="generated/feed-item-4.svg?v=7bdf7ef5" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"><img src="generated/feed-item-0.svg?v=e7c8f42d" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"><img src="generated/feed-item-1.svg?v=36a92713" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/why-were-building-a-channel-at-rootly"><img src="generated/feed-item-2.svg?v=23149e53" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bc32616d" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"><img src="generated/feed-item-4.svg?v=f9ebce8d" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
