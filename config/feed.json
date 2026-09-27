@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-23",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
+      "source": "OpenAI",
+      "text": "Sam Altman's remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-03",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026/"
+      "source": "AWS DevOps",
+      "text": "Automating the Experimentation Lifecycle with Kiro, AWS DevOps Agent, and LaunchDarkly",
+      "link": "https://aws.amazon.com/blogs/devops/automating-the-experimentation-lifecycle-with-kiro-aws-devops-agent-and-launchdarkly/"
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-09-04",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "How to monitor Cypress tests with Grafana Cloud",
-      "link": "https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"
+      "source": "Gremlin",
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
       "date": "2026-09-25",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
-      "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4"
+      "source": "LWN",
+      "text": "Security updates for Friday",
+      "link": "https://lwn.net/Articles/1096637/"
     },
     {
-      "date": "2026-09-25",
+      "date": "2026-09-24",
       "track": "News",
-      "source": "The Verge",
-      "text": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
+      "source": "MIT Tech Review",
+      "text": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/"
     }
   ]
 }
