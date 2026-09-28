@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-22",
+      "date": "2026-09-28",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "link": "https://huggingface.co/blog/omlx"
+      "source": "Simon Willison",
+      "text": "Quoting @joedaroo",
+      "link": "https://simonwillison.net/2026/Sep/28/joedaroo/"
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-29",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Which hat am I wearing right now?",
-      "link": "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now/"
+      "source": "HashiCorp",
+      "text": "Secure AI agents with HashiCorp Boundary",
+      "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-21",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Teaching a 9B model to investigate production alerts",
-      "link": "https://www.datadoghq.com/blog/ai/investigate-production-alerts/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #535",
+      "link": "https://sreweekly.com/sre-weekly-issue-535/"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-28",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "I don't like LLMs",
-      "link": "https://martinfowler.com/articles/2026-dont-like-llms.html"
+      "source": "LWN",
+      "text": "Security updates for Monday",
+      "link": "https://lwn.net/Articles/1097191/"
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "track": "News",
-      "source": "The Verge",
-      "text": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
-      "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
+      "source": "Hacker News",
+      "text": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "link": "https://stateofutopia.com/experiments/microllmlab/"
     }
   ]
 }
