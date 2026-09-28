@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=35bf3be0" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=967da203" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"><img src="generated/feed-item-0.svg?v=e7c8f42d" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"><img src="generated/feed-item-1.svg?v=36a92713" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/why-were-building-a-channel-at-rootly"><img src="generated/feed-item-2.svg?v=23149e53" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bc32616d" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"><img src="generated/feed-item-4.svg?v=f9ebce8d" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/omlx"><img src="generated/feed-item-0.svg?v=520f1bba" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now/"><img src="generated/feed-item-1.svg?v=011d9e6f" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/ai/investigate-production-alerts/"><img src="generated/feed-item-2.svg?v=49caad87" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/2026-dont-like-llms.html"><img src="generated/feed-item-3.svg?v=28116903" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"><img src="generated/feed-item-4.svg?v=ae3bdbd3" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
