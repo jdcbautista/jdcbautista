@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/omlx"><img src="generated/feed-item-0.svg?v=520f1bba" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now/"><img src="generated/feed-item-1.svg?v=011d9e6f" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/ai/investigate-production-alerts/"><img src="generated/feed-item-2.svg?v=49caad87" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/2026-dont-like-llms.html"><img src="generated/feed-item-3.svg?v=28116903" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"><img src="generated/feed-item-4.svg?v=ae3bdbd3" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Sep/28/joedaroo/"><img src="generated/feed-item-0.svg?v=958b7658" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"><img src="generated/feed-item-1.svg?v=0929f47f" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-535/"><img src="generated/feed-item-2.svg?v=0f228885" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1097191/"><img src="generated/feed-item-3.svg?v=b2e0f47c" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://stateofutopia.com/experiments/microllmlab/"><img src="generated/feed-item-4.svg?v=52b0e2a4" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
