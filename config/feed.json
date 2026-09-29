@@ -5,37 +5,37 @@
     {
       "date": "2026-09-28",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting @joedaroo",
-      "link": "https://simonwillison.net/2026/Sep/28/joedaroo/"
-    },
-    {
-      "date": "2026-09-29",
-      "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Secure AI agents with HashiCorp Boundary",
-      "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"
+      "source": "OpenAI",
+      "text": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra"
     },
     {
       "date": "2026-09-21",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #535",
-      "link": "https://sreweekly.com/sre-weekly-issue-535/"
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-10",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "Custom labels in Grafana Cloud Synthetic Monitoring: New updates for consistency and ease-of-use",
+      "link": "https://grafana.com/blog/synthetic-monitoring-labels-update/"
+    },
+    {
+      "date": "2026-08-07",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Monday",
-      "link": "https://lwn.net/Articles/1097191/"
+      "source": "Netflix Tech",
+      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-09-28",
       "track": "News",
-      "source": "Hacker News",
-      "text": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "link": "https://stateofutopia.com/experiments/microllmlab/"
+      "source": "TechCrunch AI",
+      "text": "OpenAI reportedly ditches model over safety concerns",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
     }
   ]
 }
