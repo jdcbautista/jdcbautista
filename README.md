@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/basis-tax-workbook-with-astra"><img src="generated/feed-item-0.svg?v=694420b9" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"><img src="generated/feed-item-1.svg?v=05596555" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/synthetic-monitoring-labels-update/"><img src="generated/feed-item-2.svg?v=9672050f" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"><img src="generated/feed-item-4.svg?v=2ffc89fd" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/nvidia/kumo-tabular"><img src="generated/feed-item-0.svg?v=b05da254" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026/"><img src="generated/feed-item-1.svg?v=8cf99d6c" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/rum-remote-configuration/"><img src="generated/feed-item-2.svg?v=ea1cb594" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/"><img src="generated/feed-item-3.svg?v=e646c189" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"><img src="generated/feed-item-4.svg?v=b8ffdb84" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
