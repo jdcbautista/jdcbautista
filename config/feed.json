@@ -5,37 +5,37 @@
     {
       "date": "2026-09-29",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "link": "https://huggingface.co/blog/nvidia/kumo-tabular"
+      "source": "OpenAI",
+      "text": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-29",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "From attendee badge to speaker badge: My first KubeCon at KubeCon + CloudNativeCon India 2026",
-      "link": "https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026/"
+      "source": "Cloudflare",
+      "text": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+      "link": "https://blog.cloudflare.com/ai-era-framework/"
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-04",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Configure RUM SDKs remotely from Datadog",
-      "link": "https://www.datadoghq.com/blog/rum-remote-configuration/"
+      "source": "Gremlin",
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
       "date": "2026-09-29",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Your phone is AI's newest hardware",
-      "link": "https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/"
+      "source": "LWN",
+      "text": "[$] The kernel from a PostgreSQL point of view",
+      "link": "https://lwn.net/Articles/1096827/"
     },
     {
       "date": "2026-09-29",
       "track": "News",
-      "source": "The Verge",
-      "text": "Protesters gather at OpenAI's DevDay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"
+      "source": "TechCrunch AI",
+      "text": "The internet is convinced Elon Musk's xAI trolled OpenAI's 'Dots' launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
     }
   ]
 }
