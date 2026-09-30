@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-29",
+      "date": "2026-09-18",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol"
+      "source": "Google AI",
+      "text": "New experts join Google's AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
-      "link": "https://blog.cloudflare.com/ai-era-framework/"
+      "source": "AWS DevOps",
+      "text": "Audit trails for autonomous agents with AWS DevOps Agent",
+      "link": "https://aws.amazon.com/blogs/devops/audit-trails-for-autonomous-agents-with-aws-devops-agent/"
     },
     {
       "date": "2026-09-04",
@@ -24,18 +24,18 @@
       "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] The kernel from a PostgreSQL point of view",
-      "link": "https://lwn.net/Articles/1096827/"
+      "source": "Martin Fowler",
+      "text": "Principles for effective slides",
+      "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "The internet is convinced Elon Musk's xAI trolled OpenAI's 'Dots' launch",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+      "source": "Hacker News",
+      "text": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603"
     }
   ]
 }

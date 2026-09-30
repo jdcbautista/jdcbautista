@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/introducing-gpt-6-1-sol"><img src="generated/feed-item-0.svg?v=27739ee5" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/ai-era-framework/"><img src="generated/feed-item-1.svg?v=da5f95e3" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"><img src="generated/feed-item-0.svg?v=e7c8f42d" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/audit-trails-for-autonomous-agents-with-aws-devops-agent/"><img src="generated/feed-item-1.svg?v=d2c7b045" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
 --><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1096827/"><img src="generated/feed-item-3.svg?v=047059b8" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"><img src="generated/feed-item-4.svg?v=ddbb26c5" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/never-send-slides/slide-principles.html"><img src="generated/feed-item-3.svg?v=0a458910" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603"><img src="generated/feed-item-4.svg?v=cb3d4711" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
