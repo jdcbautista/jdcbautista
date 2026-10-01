@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-28",
+      "date": "2026-09-21",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Holo4: powering generalist computer-use agents",
-      "link": "https://huggingface.co/blog/Hcompany/holo4"
+      "source": "Import AI",
+      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "track": "Cloud",
       "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
-      "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"
+      "text": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+      "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-08-27",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #535",
-      "link": "https://sreweekly.com/sre-weekly-issue-535/"
+      "source": "Gremlin",
+      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
+      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-09-18",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Principles for effective slides",
-      "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html"
+      "source": "Netflix Tech",
+      "text": "Leave the Class Path in the Rearview Mirror",
+      "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-09-30",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+      "source": "MIT Tech Review",
+      "text": "\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI's chief research officer",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
     }
   ]
 }
