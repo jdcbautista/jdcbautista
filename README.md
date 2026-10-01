@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=bbf7b5c5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=d39e48b4" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"><img src="generated/feed-item-0.svg?v=e7c8f42d" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/audit-trails-for-autonomous-agents-with-aws-devops-agent/"><img src="generated/feed-item-1.svg?v=d2c7b045" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/Hcompany/holo4"><img src="generated/feed-item-0.svg?v=0675c9f8" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"><img src="generated/feed-item-1.svg?v=e67997f9" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-535/"><img src="generated/feed-item-2.svg?v=0f228885" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
 --><a href="https://martinfowler.com/articles/never-send-slides/slide-principles.html"><img src="generated/feed-item-3.svg?v=0a458910" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603"><img src="generated/feed-item-4.svg?v=cb3d4711" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"><img src="generated/feed-item-4.svg?v=3ba7bd8e" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
