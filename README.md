@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=d39e48b4" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=e83379fc" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"><img src="generated/feed-item-0.svg?v=ad96794d" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"><img src="generated/feed-item-1.svg?v=dfcc14b3" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=42519743" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"><img src="generated/feed-item-4.svg?v=19e706b5" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/the-eternal-complement"><img src="generated/feed-item-0.svg?v=da15e7f3" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"><img src="generated/feed-item-1.svg?v=e67997f9" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"><img src="generated/feed-item-3.svg?v=54f74a81" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"><img src="generated/feed-item-4.svg?v=64b25054" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
