@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-21",
+      "date": "2026-10-01",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
+      "source": "OpenAI",
+      "text": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-15",
       "track": "Cloud",
       "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
-      "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
+      "text": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
+      "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-07-24",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
-      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
-    },
-    {
-      "date": "2026-09-18",
-      "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Leave the Class Path in the Rearview Mirror",
-      "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"
+      "source": "Rootly",
+      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
+      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
     },
     {
       "date": "2026-09-30",
+      "track": "Systems",
+      "source": "Stack Overflow",
+      "text": "Anyone can start building verified knowledge with Stack Internal",
+      "link": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
+    },
+    {
+      "date": "2026-10-01",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI's chief research officer",
-      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+      "source": "TechCrunch AI",
+      "text": "Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground",
+      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
     }
   ]
 }
