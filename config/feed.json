@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-01",
-      "track": "AI",
-      "source": "OpenAI",
-      "text": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement"
-    },
-    {
-      "date": "2026-09-15",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
-      "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"
-    },
-    {
-      "date": "2026-07-24",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
-      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
-    },
-    {
       "date": "2026-09-30",
-      "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Anyone can start building verified knowledge with Stack Internal",
-      "link": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
+      "track": "AI",
+      "source": "Simon Willison",
+      "text": "He Built This City",
+      "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
+      "link": "https://blog.cloudflare.com/streamline/"
+    },
+    {
+      "date": "2026-10-02",
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Key metrics for monitoring Databricks",
+      "link": "https://www.datadoghq.com/blog/key-metrics-for-databricks-monitoring/"
+    },
+    {
+      "date": "2026-10-02",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "Linux Test Project suite stable release for September 2026",
+      "link": "https://lwn.net/Articles/1098313/"
+    },
+    {
+      "date": "2026-10-02",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+      "source": "Ars Technica",
+      "text": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/"
     }
   ]
 }
