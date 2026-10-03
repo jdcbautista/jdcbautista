@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-30",
+      "date": "2026-09-29",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "He Built This City",
-      "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
+      "text": "Photo Scrubber — local face blur & metadata removal",
+      "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-09-30",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-      "link": "https://blog.cloudflare.com/streamline/"
+      "source": "AWS DevOps",
+      "text": "Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide",
+      "link": "https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-09-21",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Key metrics for monitoring Databricks",
-      "link": "https://www.datadoghq.com/blog/key-metrics-for-databricks-monitoring/"
+      "source": "Grafana",
+      "text": "Grafana Alerting: Scale alert routing without scaling complexity using multiple notification policies",
+      "link": "https://grafana.com/blog/grafana-alerting-scale-alert-routing-without-scaling-complexity-using-multiple-notification-policies/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-09-24",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Linux Test Project suite stable release for September 2026",
-      "link": "https://lwn.net/Articles/1098313/"
+      "source": "Martin Fowler",
+      "text": "Fragments: September 24",
+      "link": "https://martinfowler.com/fragments/2026-09-24.html"
     },
     {
       "date": "2026-10-02",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-      "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/"
+      "source": "The Verge",
+      "text": "Meta open sources code to let you make Muse AI gadgets",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
     }
   ]
 }
