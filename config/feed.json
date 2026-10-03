@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-29",
+      "date": "2026-08-24",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Photo Scrubber — local face blur & metadata removal",
-      "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/"
+      "source": "Import AI",
+      "text": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "link": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-10-02",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Accelerating AS/400 business rule extraction with Kiro: Step-by-step guide",
-      "link": "https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/"
+      "source": "CNCF",
+      "text": "KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer",
+      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer/"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-07-24",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Grafana Alerting: Scale alert routing without scaling complexity using multiple notification policies",
-      "link": "https://grafana.com/blog/grafana-alerting-scale-alert-routing-without-scaling-complexity-using-multiple-notification-policies/"
+      "source": "Rootly",
+      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
+      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-10-02",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: September 24",
-      "link": "https://martinfowler.com/fragments/2026-09-24.html"
+      "source": "LWN",
+      "text": "Linux Test Project suite stable release for September 2026",
+      "link": "https://lwn.net/Articles/1098313/"
     },
     {
       "date": "2026-10-02",
       "track": "News",
       "source": "The Verge",
-      "text": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+      "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
     }
   ]
 }
