@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Sep/29/photo-scrubber/"><img src="generated/feed-item-0.svg?v=4fac4465" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/accelerating-as-400-business-rule-extraction-with-kiro-step-by-step-guide/"><img src="generated/feed-item-1.svg?v=b272a0a8" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/grafana-alerting-scale-alert-routing-without-scaling-complexity-using-multiple-notification-policies/"><img src="generated/feed-item-2.svg?v=a79449e5" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-09-24.html"><img src="generated/feed-item-3.svg?v=a1228920" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"><img src="generated/feed-item-4.svg?v=47e4ca95" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"><img src="generated/feed-item-0.svg?v=35bd233a" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer/"><img src="generated/feed-item-1.svg?v=e5ea9fea" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1098313/"><img src="generated/feed-item-3.svg?v=99d0d477" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"><img src="generated/feed-item-4.svg?v=dc48da29" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
