@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=83b24237" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=26b71864" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"><img src="generated/feed-item-0.svg?v=35bd233a" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer/"><img src="generated/feed-item-1.svg?v=e5ea9fea" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"><img src="generated/feed-item-2.svg?v=c136b09c" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1098313/"><img src="generated/feed-item-3.svg?v=99d0d477" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"><img src="generated/feed-item-4.svg?v=dc48da29" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/1/matthew-green/"><img src="generated/feed-item-0.svg?v=8d5d09de" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance"><img src="generated/feed-item-1.svg?v=7fe63eec" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-532/"><img src="generated/feed-item-2.svg?v=1a85bb35" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=a56b259e" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://news.ycombinator.com/item?id=49949438"><img src="generated/feed-item-4.svg?v=f3e63e84" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
