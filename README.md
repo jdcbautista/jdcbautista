@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/1/matthew-green/"><img src="generated/feed-item-0.svg?v=8d5d09de" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance"><img src="generated/feed-item-1.svg?v=7fe63eec" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/"><img src="generated/feed-item-0.svg?v=6bfc787e" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/"><img src="generated/feed-item-1.svg?v=a1651fc5" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
 --><a href="https://sreweekly.com/sre-weekly-issue-532/"><img src="generated/feed-item-2.svg?v=1a85bb35" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=a56b259e" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://news.ycombinator.com/item?id=49949438"><img src="generated/feed-item-4.svg?v=f3e63e84" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/"><img src="generated/feed-item-3.svg?v=7cb4da90" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"><img src="generated/feed-item-4.svg?v=0ced91a1" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

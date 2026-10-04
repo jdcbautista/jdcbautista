@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-01",
+      "date": "2026-09-28",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting Matthew Green",
-      "link": "https://simonwillison.net/2026/Oct/1/matthew-green/"
+      "source": "Import AI",
+      "text": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "link": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-10-02",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "HCP Vagrant deprecation: important dates and migration guidance",
-      "link": "https://www.hashicorp.com/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance"
+      "source": "AWS DevOps",
+      "text": "Closed-loop incident response: connect AWS DevOps Agent to OpenSearch",
+      "link": "https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/"
     },
     {
       "date": "2026-08-31",
@@ -24,18 +24,18 @@
       "link": "https://sreweekly.com/sre-weekly-issue-532/"
     },
     {
-      "date": "2026-10-04",
+      "date": "2026-10-01",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Pizza Bot: Open-Source Inbox for Background AI Agents",
-      "link": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Stack Overflow",
+      "text": "A look back before we look forward: A Developer Survey retrospective",
+      "link": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/"
     },
     {
-      "date": "2026-10-04",
+      "date": "2026-10-02",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Tell HN: Bob Cringely has died",
-      "link": "https://news.ycombinator.com/item?id=49949438"
+      "source": "MIT Tech Review",
+      "text": "The Download: a biological de-aging contest and why LLMs don't reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
     }
   ]
 }
