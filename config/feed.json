@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-24",
+      "date": "2026-10-01",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
-      "link": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/"
+      "source": "Simon Willison",
+      "text": "Quoting Matthew Green",
+      "link": "https://simonwillison.net/2026/Oct/1/matthew-green/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-09-17",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer/"
+      "source": "HashiCorp",
+      "text": "HCP Vagrant deprecation: important dates and migration guidance",
+      "link": "https://www.hashicorp.com/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-08-31",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Best AI Incident Management Platforms for 2026 | Rootly",
-      "link": "https://webflow.rootly.com/blog/best-ai-incident-management-platforms-2026"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #532",
+      "link": "https://sreweekly.com/sre-weekly-issue-532/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-04",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Linux Test Project suite stable release for September 2026",
-      "link": "https://lwn.net/Articles/1098313/"
+      "source": "InfoQ",
+      "text": "Pizza Bot: Open-Source Inbox for Background AI Agents",
+      "link": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-04",
       "track": "News",
-      "source": "The Verge",
-      "text": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview"
+      "source": "Hacker News",
+      "text": "Tell HN: Bob Cringely has died",
+      "link": "https://news.ycombinator.com/item?id=49949438"
     }
   ]
 }
