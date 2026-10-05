@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-28",
+      "date": "2026-10-03",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
-      "link": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/"
+      "source": "Simon Willison",
+      "text": "September sponsors-only newsletter",
+      "link": "https://simonwillison.net/2026/Oct/3/newsletter/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-09-21",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Closed-loop incident response: connect AWS DevOps Agent to OpenSearch",
-      "link": "https://aws.amazon.com/blogs/devops/closed-loop-incident-response-connect-aws-devops-agent-to-opensearch/"
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-08-04",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #532",
-      "link": "https://sreweekly.com/sre-weekly-issue-532/"
+      "source": "Rootly",
+      "text": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills | Rootly",
+      "link": "https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-08-28",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "A look back before we look forward: A Developer Survey retrospective",
-      "link": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/"
+      "source": "Netflix Tech",
+      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
+      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-04",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: a biological de-aging contest and why LLMs don't reason",
-      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
+      "source": "TechCrunch AI",
+      "text": "Can 'super intelligence' and a non-binding safety pact solve AI's image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
     }
   ]
 }
