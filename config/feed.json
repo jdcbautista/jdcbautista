@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-03",
+      "date": "2026-10-01",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "September sponsors-only newsletter",
-      "link": "https://simonwillison.net/2026/Oct/3/newsletter/"
+      "source": "OpenAI",
+      "text": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-10-02",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
+      "source": "CNCF",
+      "text": "KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day",
+      "link": "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day/"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-09-15",
       "track": "SRE",
       "source": "Rootly",
-      "text": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills | Rootly",
-      "link": "https://webflow.rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
+      "text": "Could 2027 be the year you turn off human-in-the-loop remediation?",
+      "link": "https://rootly.com/blog/could-2027-be-the-year-you-turn-off-human-in-the-loop"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-07",
       "track": "Systems",
       "source": "Netflix Tech",
-      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
-      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
+      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Can 'super intelligence' and a non-binding safety pact solve AI's image problem?",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+      "source": "The Verge",
+      "text": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+      "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"
     }
   ]
 }
