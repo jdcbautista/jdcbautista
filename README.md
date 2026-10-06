@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6e306e49" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=2e95ed7c" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/the-eternal-complement"><img src="generated/feed-item-0.svg?v=da15e7f3" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day/"><img src="generated/feed-item-1.svg?v=7b2a31ed" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/could-2027-be-the-year-you-turn-off-human-in-the-loop"><img src="generated/feed-item-2.svg?v=33af0c83" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=562c0856" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"><img src="generated/feed-item-4.svg?v=ef54c871" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/practical-guide-building-gpt-6"><img src="generated/feed-item-0.svg?v=ea05bbe0" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/one-year-later-1111-interns/"><img src="generated/feed-item-1.svg?v=cd6d51a7" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-533/"><img src="generated/feed-item-2.svg?v=1147171c" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"><img src="generated/feed-item-3.svg?v=54f74a81" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/"><img src="generated/feed-item-4.svg?v=52a89090" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
