@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-02",
+      "date": "2026-10-06",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6"
+      "source": "Hugging Face",
+      "text": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-01",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "One year later: the power of 1.1.1.1 interns",
-      "link": "https://blog.cloudflare.com/one-year-later-1111-interns/"
+      "source": "AWS DevOps",
+      "text": "How Mirelo AI brought sound design to the IDE with MCP and Kiro powers",
+      "link": "https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/"
     },
     {
-      "date": "2026-09-07",
+      "date": "2026-09-04",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #533",
-      "link": "https://sreweekly.com/sre-weekly-issue-533/"
+      "source": "Gremlin",
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-08-28",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Anyone can start building verified knowledge with Stack Internal",
-      "link": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
+      "source": "Netflix Tech",
+      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
+      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Texas city demands $2M for public records on Flock usage",
-      "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/"
+      "source": "TechCrunch AI",
+      "text": "Hark releases an AI personal assistant with a focus on privacy",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
     }
   ]
 }
