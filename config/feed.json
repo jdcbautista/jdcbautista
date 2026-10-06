@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "track": "AI",
       "source": "OpenAI",
-      "text": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement"
+      "text": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-05",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day",
-      "link": "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day/"
+      "source": "Cloudflare",
+      "text": "One year later: the power of 1.1.1.1 interns",
+      "link": "https://blog.cloudflare.com/one-year-later-1111-interns/"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-07",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Could 2027 be the year you turn off human-in-the-loop remediation?",
-      "link": "https://rootly.com/blog/could-2027-be-the-year-you-turn-off-human-in-the-loop"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #533",
+      "link": "https://sreweekly.com/sre-weekly-issue-533/"
     },
     {
-      "date": "2026-08-07",
+      "date": "2026-09-30",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
-      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "Anyone can start building verified knowledge with Stack Internal",
+      "link": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/"
     },
     {
       "date": "2026-10-05",
       "track": "News",
-      "source": "The Verge",
-      "text": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
-      "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"
+      "source": "Ars Technica",
+      "text": "Texas city demands $2M for public records on Flock usage",
+      "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/"
     }
   ]
 }
