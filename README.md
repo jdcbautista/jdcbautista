@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=2e95ed7c" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6491ad93" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/tiiuae/falcon-emirati"><img src="generated/feed-item-0.svg?v=6b7e9cad" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/"><img src="generated/feed-item-1.svg?v=5b117586" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"><img src="generated/feed-item-4.svg?v=57a22488" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/sharing-ai-progress-in-mathematics"><img src="generated/feed-item-0.svg?v=6878acf2" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/streamline/"><img src="generated/feed-item-1.svg?v=9ab2424e" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-537/"><img src="generated/feed-item-2.svg?v=3f7e137c" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/10/google-wrong-flagging/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=9b7e0860" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://github.com/shader-effects-inc/shaders"><img src="generated/feed-item-4.svg?v=bd8910e9" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
