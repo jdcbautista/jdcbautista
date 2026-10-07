@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics"
-    },
-    {
-      "date": "2026-10-02",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-      "link": "https://blog.cloudflare.com/streamline/"
+      "source": "Simon Willison",
+      "text": "Anti-Patterns in Software Blogging",
+      "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/"
     },
     {
       "date": "2026-10-05",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #537",
-      "link": "https://sreweekly.com/sre-weekly-issue-537/"
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Scaling Kubernetes Workloads with Node Swap",
+      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-09-15",
+      "track": "SRE",
+      "source": "Rootly",
+      "text": "Can AI Actually Find the Root Cause? Automating Postmortems and RCA",
+      "link": "https://rootly.com/blog/can-ai-find-root-cause-automated-postmortems"
+    },
+    {
+      "date": "2026-10-05",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Flagged by the Machine: How Google Ads Suspended an Open-Source macOS Term as Malicious",
-      "link": "https://www.infoq.com/news/2026/10/google-wrong-flagging/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Fragments: October 4",
+      "link": "https://martinfowler.com/fragments/2026-10-04.html"
     },
     {
       "date": "2026-10-07",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
-      "link": "https://github.com/shader-effects-inc/shaders"
+      "source": "Ars Technica",
+      "text": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
+      "link": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/"
     }
   ]
 }
