@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"><img src="generated/feed-item-0.svg?v=e7c8f42d" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/one-year-later-1111-interns/"><img src="generated/feed-item-1.svg?v=cd6d51a7" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/digital-experience-monitoring-with-grafana-cloud-session-replay-synthetic-checks-and-faster-investigations/"><img src="generated/feed-item-2.svg?v=88ae3313" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale"><img src="generated/feed-item-4.svg?v=8b8a93a4" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"><img src="generated/feed-item-0.svg?v=0daf1dc0" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/"><img src="generated/feed-item-1.svg?v=5b117586" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-536/"><img src="generated/feed-item-2.svg?v=75936e4b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=42519743" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://serverlesshorrors.com/all/cloudflare-108k/"><img src="generated/feed-item-4.svg?v=9417e0e4" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

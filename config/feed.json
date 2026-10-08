@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-18",
+      "date": "2026-09-28",
       "track": "AI",
       "source": "Google AI",
-      "text": "New experts join Google's AI & Economy team",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+      "text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-01",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "One year later: the power of 1.1.1.1 interns",
-      "link": "https://blog.cloudflare.com/one-year-later-1111-interns/"
+      "source": "AWS DevOps",
+      "text": "How Mirelo AI brought sound design to the IDE with MCP and Kiro powers",
+      "link": "https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/"
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-28",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Digital Experience Monitoring with Grafana Cloud: Session Replay, synthetic checks, and faster investigations",
-      "link": "https://grafana.com/blog/digital-experience-monitoring-with-grafana-cloud-session-replay-synthetic-checks-and-faster-investigations/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #536",
+      "link": "https://sreweekly.com/sre-weekly-issue-536/"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-09-18",
       "track": "Systems",
       "source": "Netflix Tech",
-      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
-      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
+      "text": "Leave the Class Path in the Rearview Mirror",
+      "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "track": "News",
-      "source": "The Verge",
-      "text": "Roku's OLED TVs are up to $400 off during Prime Day, starting at $700",
-      "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale"
+      "source": "Hacker News",
+      "text": "Serverless Horrors $10,811.41",
+      "link": "https://serverlesshorrors.com/all/cloudflare-108k/"
     }
   ]
 }
