@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-07",
+      "date": "2026-09-18",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Anti-Patterns in Software Blogging",
-      "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/"
+      "source": "Google AI",
+      "text": "New experts join Google's AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
     },
     {
       "date": "2026-10-05",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Scaling Kubernetes Workloads with Node Swap",
-      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
+      "source": "Cloudflare",
+      "text": "One year later: the power of 1.1.1.1 interns",
+      "link": "https://blog.cloudflare.com/one-year-later-1111-interns/"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-14",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Can AI Actually Find the Root Cause? Automating Postmortems and RCA",
-      "link": "https://rootly.com/blog/can-ai-find-root-cause-automated-postmortems"
+      "source": "Grafana",
+      "text": "Digital Experience Monitoring with Grafana Cloud: Session Replay, synthetic checks, and faster investigations",
+      "link": "https://grafana.com/blog/digital-experience-monitoring-with-grafana-cloud-session-replay-synthetic-checks-and-faster-investigations/"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-08-28",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: October 4",
-      "link": "https://martinfowler.com/fragments/2026-10-04.html"
+      "source": "Netflix Tech",
+      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
+      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-10-07",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-      "link": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/"
+      "source": "The Verge",
+      "text": "Roku's OLED TVs are up to $400 off during Prime Day, starting at $700",
+      "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale"
     }
   ]
 }
