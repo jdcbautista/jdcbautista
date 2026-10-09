@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/8/ttok/"><img src="generated/feed-item-0.svg?v=34be5119" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"><img src="generated/feed-item-1.svg?v=36a92713" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/audit-ready-incident-records-soc-2"><img src="generated/feed-item-2.svg?v=f815b9da" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"><img src="generated/feed-item-4.svg?v=2ebc2736" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/tiiuae/falcon-asr"><img src="generated/feed-item-0.svg?v=796230cf" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/"><img src="generated/feed-item-1.svg?v=481c9525" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"><img src="generated/feed-item-2.svg?v=107d3eae" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-09-24.html"><img src="generated/feed-item-3.svg?v=a1228920" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/1008833/amazon-kindle-light-leak"><img src="generated/feed-item-4.svg?v=1424f253" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

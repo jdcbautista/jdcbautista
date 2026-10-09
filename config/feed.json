@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-08",
+      "date": "2026-10-07",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "ttok 0.4",
-      "link": "https://simonwillison.net/2026/Oct/8/ttok/"
+      "source": "Hugging Face",
+      "text": "Introducing Falcon ASR",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-asr"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-30",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
-      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
+      "source": "AWS DevOps",
+      "text": "Running production experiments with AWS AppConfig experimentation",
+      "link": "https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-10-02",
       "track": "SRE",
       "source": "Rootly",
-      "text": "Audit-ready incident records: what SOC 2 auditors look for and how to evaluate tools",
-      "link": "https://rootly.com/blog/audit-ready-incident-records-soc-2"
+      "text": "Why our retrospective template doesn't ask for root cause",
+      "link": "https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-09-24",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
-      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
+      "source": "Martin Fowler",
+      "text": "Fragments: September 24",
+      "link": "https://martinfowler.com/fragments/2026-09-24.html"
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website",
-      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+      "source": "The Verge",
+      "text": "Amazon's new Kindles appear to have a light leak problem",
+      "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak"
     }
   ]
 }
