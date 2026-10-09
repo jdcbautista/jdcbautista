@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c2b7c4a0" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c4d5e1a7" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"><img src="generated/feed-item-0.svg?v=0daf1dc0" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/"><img src="generated/feed-item-1.svg?v=5b117586" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-536/"><img src="generated/feed-item-2.svg?v=75936e4b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=42519743" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://serverlesshorrors.com/all/cloudflare-108k/"><img src="generated/feed-item-4.svg?v=9417e0e4" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/8/ttok/"><img src="generated/feed-item-0.svg?v=34be5119" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"><img src="generated/feed-item-1.svg?v=36a92713" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/audit-ready-incident-records-soc-2"><img src="generated/feed-item-2.svg?v=f815b9da" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"><img src="generated/feed-item-4.svg?v=2ebc2736" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

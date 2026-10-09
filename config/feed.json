@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-28",
+      "date": "2026-10-08",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+      "source": "Simon Willison",
+      "text": "ttok 0.4",
+      "link": "https://simonwillison.net/2026/Oct/8/ttok/"
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-09-17",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "How Mirelo AI brought sound design to the IDE with MCP and Kiro powers",
-      "link": "https://aws.amazon.com/blogs/devops/how-mirelo-ai-brought-sound-design-to-the-ide-with-mcp-and-kiro-powers/"
+      "source": "HashiCorp",
+      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
+      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #536",
-      "link": "https://sreweekly.com/sre-weekly-issue-536/"
+      "source": "Rootly",
+      "text": "Audit-ready incident records: what SOC 2 auditors look for and how to evaluate tools",
+      "link": "https://rootly.com/blog/audit-ready-incident-records-soc-2"
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-08-28",
       "track": "Systems",
       "source": "Netflix Tech",
-      "text": "Leave the Class Path in the Rearview Mirror",
-      "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4"
+      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
+      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-10-08",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Serverless Horrors $10,811.41",
-      "link": "https://serverlesshorrors.com/all/cloudflare-108k/"
+      "source": "TechCrunch AI",
+      "text": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
     }
   ]
 }
