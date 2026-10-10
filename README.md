@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c4d5e1a7" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/tiiuae/falcon-asr"><img src="generated/feed-item-0.svg?v=796230cf" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/"><img src="generated/feed-item-1.svg?v=481c9525" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"><img src="generated/feed-item-2.svg?v=107d3eae" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-09-24.html"><img src="generated/feed-item-3.svg?v=a1228920" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/1008833/amazon-kindle-light-leak"><img src="generated/feed-item-4.svg?v=1424f253" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/sophos"><img src="generated/feed-item-0.svg?v=9b770d13" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"><img src="generated/feed-item-1.svg?v=05596555" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/tempo-3-1-release-all-the-latest-features/"><img src="generated/feed-item-2.svg?v=03ef2988" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=f1f34a84" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"><img src="generated/feed-item-4.svg?v=1259759a" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
