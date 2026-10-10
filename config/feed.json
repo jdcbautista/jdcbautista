@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-07",
+      "date": "2026-10-09",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Introducing Falcon ASR",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-asr"
+      "source": "OpenAI",
+      "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos"
+    },
+    {
+      "date": "2026-09-21",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
     },
     {
       "date": "2026-09-30",
-      "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Running production experiments with AWS AppConfig experimentation",
-      "link": "https://aws.amazon.com/blogs/devops/running-production-experiments-with-aws-appconfig-experimentation/"
-    },
-    {
-      "date": "2026-10-02",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Why our retrospective template doesn't ask for root cause",
-      "link": "https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"
+      "source": "Grafana",
+      "text": "Tempo 3.1 release: new features for Kafka, TraceQL metrics updates, trace redaction, and more",
+      "link": "https://grafana.com/blog/tempo-3-1-release-all-the-latest-features/"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-10-09",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: September 24",
-      "link": "https://martinfowler.com/fragments/2026-09-24.html"
+      "source": "InfoQ",
+      "text": "Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%",
+      "link": "https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-10-09",
       "track": "News",
-      "source": "The Verge",
-      "text": "Amazon's new Kindles appear to have a light leak problem",
-      "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak"
+      "source": "TechCrunch AI",
+      "text": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
     }
   ]
 }
