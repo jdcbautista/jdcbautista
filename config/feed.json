@@ -5,37 +5,37 @@
     {
       "date": "2026-10-09",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Deno is joining Cloudflare",
-      "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"
+      "source": "OpenAI",
+      "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-10-06",
       "track": "Cloud",
       "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
+      "text": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "track": "SRE",
       "source": "Rootly",
-      "text": "Audit-ready incident records: what SOC 2 auditors look for and how to evaluate tools",
-      "link": "https://rootly.com/blog/audit-ready-incident-records-soc-2"
+      "text": "Write it down, replay it, ship it: why we build ERDs to build product",
+      "link": "https://rootly.com/blog/write-it-down-replay-it-ship-it-why-we-build-erds-to-build-product"
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-08-21",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Production-grade LLMs and agents: a field guide",
-      "link": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/"
+      "source": "Netflix Tech",
+      "text": "A Tale of Two Flink Autoscalers",
+      "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-11",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+      "source": "Hacker News",
+      "text": "AI agents in a stand-up call",
+      "link": "https://atoll92.github.io/agent-standup/"
     }
   ]
 }

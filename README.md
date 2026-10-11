@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=2f47b238" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"><img src="generated/feed-item-0.svg?v=dda28a26" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"><img src="generated/feed-item-1.svg?v=05596555" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/audit-ready-incident-records-soc-2"><img src="generated/feed-item-2.svg?v=f815b9da" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/"><img src="generated/feed-item-3.svg?v=7f363ac1" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"><img src="generated/feed-item-4.svg?v=2c3397b9" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/sophos"><img src="generated/feed-item-0.svg?v=9b770d13" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"><img src="generated/feed-item-1.svg?v=d89a3645" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/write-it-down-replay-it-ship-it-why-we-build-erds-to-build-product"><img src="generated/feed-item-2.svg?v=db006f0b" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=bc32616d" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://atoll92.github.io/agent-standup/"><img src="generated/feed-item-4.svg?v=0c367d32" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
