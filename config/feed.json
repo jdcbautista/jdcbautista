@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-09",
+      "date": "2026-08-31",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos"
+      "source": "Import AI",
+      "text": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+      "link": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-09-28",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
+      "source": "HashiCorp",
+      "text": "Terraform 1.16 completes Actions lifecycles and brings imports into child modules",
+      "link": "https://www.hashicorp.com/blog/terraform-116-completes-actions-lifecycles-and-brings-imports-into-child-modules"
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-09-15",
       "track": "SRE",
       "source": "Rootly",
-      "text": "Write it down, replay it, ship it: why we build ERDs to build product",
-      "link": "https://rootly.com/blog/write-it-down-replay-it-ship-it-why-we-build-erds-to-build-product"
+      "text": "Best Incident Response Tools for SRE and Platform Engineering Teams",
+      "link": "https://rootly.com/blog/best-incident-response-tools-platform-engineering-teams"
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-10-05",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "A Tale of Two Flink Autoscalers",
-      "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4"
+      "source": "Martin Fowler",
+      "text": "Fragments: October 4",
+      "link": "https://martinfowler.com/fragments/2026-10-04.html"
     },
     {
       "date": "2026-10-11",
       "track": "News",
-      "source": "Hacker News",
-      "text": "AI agents in a stand-up call",
-      "link": "https://atoll92.github.io/agent-standup/"
+      "source": "The Verge",
+      "text": "George A. Romero's Season of the Witch is a slow-burn feminist occult drama",
+      "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review"
     }
   ]
 }
