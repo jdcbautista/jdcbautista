@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-08-31",
+      "date": "2026-10-10",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-      "link": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/"
+      "source": "Simon Willison",
+      "text": "Quoting The New York Times",
+      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-10-09",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Terraform 1.16 completes Actions lifecycles and brings imports into child modules",
-      "link": "https://www.hashicorp.com/blog/terraform-116-completes-actions-lifecycles-and-brings-imports-into-child-modules"
+      "source": "CNCF",
+      "text": "Who owns NIS2 and DORA on a Kubernetes platform team",
+      "link": "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/"
     },
     {
       "date": "2026-09-15",
@@ -24,18 +24,18 @@
       "link": "https://rootly.com/blog/best-incident-response-tools-platform-engineering-teams"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-08",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: October 4",
-      "link": "https://martinfowler.com/fragments/2026-10-04.html"
+      "source": "Stack Overflow",
+      "text": "A green exit code is not evidence that the work happened",
+      "link": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/"
     },
     {
-      "date": "2026-10-11",
+      "date": "2026-10-09",
       "track": "News",
-      "source": "The Verge",
-      "text": "George A. Romero's Season of the Witch is a slow-burn feminist occult drama",
-      "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review"
+      "source": "MIT Tech Review",
+      "text": "We're still figuring out the side effects of GLP-1 weight-loss drugs",
+      "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
     }
   ]
 }
