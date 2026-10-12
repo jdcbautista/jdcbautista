@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-10",
+      "date": "2026-09-21",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting The New York Times",
-      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+      "source": "Import AI",
+      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-02",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Who owns NIS2 and DORA on a Kubernetes platform team",
-      "link": "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/"
+      "source": "AWS DevOps",
+      "text": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
+      "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-08-20",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Best Incident Response Tools for SRE and Platform Engineering Teams",
-      "link": "https://rootly.com/blog/best-incident-response-tools-platform-engineering-teams"
+      "source": "Gremlin",
+      "text": "Safer Kubernetes rollouts with minReadySeconds",
+      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
     },
     {
       "date": "2026-10-08",
       "track": "Systems",
       "source": "Stack Overflow",
-      "text": "A green exit code is not evidence that the work happened",
-      "link": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/"
+      "text": "Production-grade LLMs and agents: a field guide",
+      "link": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-12",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "We're still figuring out the side effects of GLP-1 weight-loss drugs",
-      "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/"
+      "source": "Ars Technica",
+      "text": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
     }
   ]
 }
