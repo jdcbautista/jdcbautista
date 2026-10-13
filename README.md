@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/12/datasette-ports/"><img src="generated/feed-item-0.svg?v=778e5fa4" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available"><img src="generated/feed-item-1.svg?v=35d8bd0a" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-535/"><img src="generated/feed-item-2.svg?v=0f228885" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-09-24.html"><img src="generated/feed-item-3.svg?v=a1228920" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"><img src="generated/feed-item-4.svg?v=378f7a64" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"><img src="generated/feed-item-0.svg?v=acddca8b" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop/"><img src="generated/feed-item-1.svg?v=f294dfed" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"><img src="generated/feed-item-4.svg?v=98547df2" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
