@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-07",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "datasette-ports 0.4",
-      "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
+      "source": "Google AI",
+      "text": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-10-12",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Terraform provider for Google Cloud 8.0 now generally available",
-      "link": "https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available"
+      "source": "CNCF",
+      "text": "From zero to agent builder: Running kagent on your laptop",
+      "link": "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop/"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-09-04",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #535",
-      "link": "https://sreweekly.com/sre-weekly-issue-535/"
+      "source": "Gremlin",
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-08-28",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: September 24",
-      "link": "https://martinfowler.com/fragments/2026-09-24.html"
+      "source": "Netflix Tech",
+      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
+      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-10-12",
       "track": "News",
       "source": "MIT Tech Review",
-      "text": "The ecologist revealing the invisible networks that revive rainforests",
-      "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
+      "text": "The Download: moon city problems and drone traffic controllers",
+      "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
     }
   ]
 }
