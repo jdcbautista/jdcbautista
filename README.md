@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=9fe1b0fe" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"><img src="generated/feed-item-0.svg?v=ad96794d" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"><img src="generated/feed-item-1.svg?v=7216286a" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"><img src="generated/feed-item-2.svg?v=47eb97a4" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/"><img src="generated/feed-item-3.svg?v=7f363ac1" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"><img src="generated/feed-item-4.svg?v=eb88900e" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/12/datasette-ports/"><img src="generated/feed-item-0.svg?v=778e5fa4" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available"><img src="generated/feed-item-1.svg?v=35d8bd0a" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-535/"><img src="generated/feed-item-2.svg?v=0f228885" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-09-24.html"><img src="generated/feed-item-3.svg?v=a1228920" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"><img src="generated/feed-item-4.svg?v=378f7a64" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

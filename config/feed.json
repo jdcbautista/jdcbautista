@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-21",
+      "date": "2026-10-12",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
+      "source": "Simon Willison",
+      "text": "datasette-ports 0.4",
+      "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-09-23",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
-      "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"
+      "source": "HashiCorp",
+      "text": "Terraform provider for Google Cloud 8.0 now generally available",
+      "link": "https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-09-21",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Safer Kubernetes rollouts with minReadySeconds",
-      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #535",
+      "link": "https://sreweekly.com/sre-weekly-issue-535/"
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-09-24",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Production-grade LLMs and agents: a field guide",
-      "link": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/"
+      "source": "Martin Fowler",
+      "text": "Fragments: September 24",
+      "link": "https://martinfowler.com/fragments/2026-09-24.html"
     },
     {
       "date": "2026-10-12",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
+      "source": "MIT Tech Review",
+      "text": "The ecologist revealing the invisible networks that revive rainforests",
+      "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
     }
   ]
 }
