@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-08",
+      "date": "2026-10-13",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai"
+      "source": "Simon Willison",
+      "text": "Redesigning source control at Anthropic",
+      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
-      "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
+      "source": "HashiCorp",
+      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
+      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
     },
     {
       "date": "2026-09-30",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Tempo 3.1 release: new features for Kafka, TraceQL metrics updates, trace redaction, and more",
-      "link": "https://grafana.com/blog/tempo-3-1-release-all-the-latest-features/"
+      "source": "Rootly",
+      "text": "Write it down, replay it, ship it: why we build ERDs to build product",
+      "link": "https://rootly.com/blog/write-it-down-replay-it-ship-it-why-we-build-erds-to-build-product"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-12",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs",
-      "link": "https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Stack Overflow",
+      "text": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
+      "link": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Open models have real benefits. Do they outweigh the risks?",
-      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+      "source": "TechCrunch AI",
+      "text": "Deezer will soon let you filter out AI-generated music",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
     }
   ]
 }

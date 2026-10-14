@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/pollo-ai"><img src="generated/feed-item-0.svg?v=17055663" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"><img src="generated/feed-item-1.svg?v=dfcc14b3" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/tempo-3-1-release-all-the-latest-features/"><img src="generated/feed-item-2.svg?v=03ef2988" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=db025800" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"><img src="generated/feed-item-4.svg?v=326f9915" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"><img src="generated/feed-item-0.svg?v=3a3edca5" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"><img src="generated/feed-item-1.svg?v=36a92713" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/write-it-down-replay-it-ship-it-why-we-build-erds-to-build-product"><img src="generated/feed-item-2.svg?v=db006f0b" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/"><img src="generated/feed-item-3.svg?v=25c5ed2d" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"><img src="generated/feed-item-4.svg?v=2cd3bd1c" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
