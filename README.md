@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"><img src="generated/feed-item-0.svg?v=acddca8b" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop/"><img src="generated/feed-item-1.svg?v=f294dfed" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=36ed6202" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"><img src="generated/feed-item-4.svg?v=98547df2" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/pollo-ai"><img src="generated/feed-item-0.svg?v=17055663" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"><img src="generated/feed-item-1.svg?v=dfcc14b3" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/tempo-3-1-release-all-the-latest-features/"><img src="generated/feed-item-2.svg?v=03ef2988" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=db025800" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"><img src="generated/feed-item-4.svg?v=326f9915" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Introducing Playground: Create and play custom games",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+      "source": "OpenAI",
+      "text": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai"
     },
     {
-      "date": "2026-10-12",
+      "date": "2026-09-16",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "From zero to agent builder: Running kagent on your laptop",
-      "link": "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop/"
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+      "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-30",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "How to verify your Azure Application Gateway is zone-redundant",
-      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
+      "source": "Grafana",
+      "text": "Tempo 3.1 release: new features for Kafka, TraceQL metrics updates, trace redaction, and more",
+      "link": "https://grafana.com/blog/tempo-3-1-release-all-the-latest-features/"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-10-13",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "MAPS: Netflix's Multimodal Asset Personalization at Scale",
-      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "Backstage 1.55 Adds Scaffolder Task Recovery and Removes Deprecated Catalog APIs",
+      "link": "https://www.infoq.com/news/2026/10/backstage-1-55-task-recovery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "track": "News",
       "source": "MIT Tech Review",
-      "text": "The Download: moon city problems and drone traffic controllers",
-      "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+      "text": "Open models have real benefits. Do they outweigh the risks?",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
     }
   ]
 }
