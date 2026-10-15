@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/amp-beyond-coding"><img src="generated/feed-item-0.svg?v=5c1e0bc7" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"><img src="generated/feed-item-1.svg?v=90ec2eab" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-538/"><img src="generated/feed-item-2.svg?v=4d6c264a" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=144d06fc" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/"><img src="generated/feed-item-4.svg?v=2307ed14" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"><img src="generated/feed-item-0.svg?v=73e1983b" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"><img src="generated/feed-item-1.svg?v=f84c4d40" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/byoc-cross-cluster-queries/"><img src="generated/feed-item-2.svg?v=457cb12b" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1100611/"><img src="generated/feed-item-3.svg?v=b6c5f341" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links"><img src="generated/feed-item-4.svg?v=94c5ddef" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
