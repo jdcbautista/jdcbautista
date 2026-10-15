@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-14",
+      "date": "2026-10-13",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding"
+      "source": "Hugging Face",
+      "text": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-15",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Restart EC2 and on-premises fleets faster with AWS CodeDeploy RESTART deployment mode",
-      "link": "https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"
+      "source": "Cloudflare",
+      "text": "Cloudflare and OpenAI: making AI discovery better for everyone",
+      "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"
     },
     {
-      "date": "2026-10-12",
+      "date": "2026-10-09",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #538",
-      "link": "https://sreweekly.com/sre-weekly-issue-538/"
+      "source": "Datadog",
+      "text": "Unify data across Datadog BYOC with cross-cluster queries for teams and AI agents",
+      "link": "https://www.datadoghq.com/blog/byoc-cross-cluster-queries/"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "DataJunction as Netflix's answer to the missing piece of the modern data stack",
-      "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4"
+      "source": "LWN",
+      "text": "Seven stable kernels for Thursday with fix for critical vulnerability",
+      "link": "https://lwn.net/Articles/1100611/"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The US military's race to make fake blood",
-      "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/"
+      "source": "The Verge",
+      "text": "Google is making inline links more prominent in AI responses",
+      "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links"
     }
   ]
 }
