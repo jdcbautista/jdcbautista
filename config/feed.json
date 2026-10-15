@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Redesigning source control at Anthropic",
-      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
+      "source": "OpenAI",
+      "text": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-10-05",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
-      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
-    },
-    {
-      "date": "2026-09-30",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Write it down, replay it, ship it: why we build ERDs to build product",
-      "link": "https://rootly.com/blog/write-it-down-replay-it-ship-it-why-we-build-erds-to-build-product"
+      "source": "AWS DevOps",
+      "text": "Restart EC2 and on-premises fleets faster with AWS CodeDeploy RESTART deployment mode",
+      "link": "https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"
     },
     {
       "date": "2026-10-12",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #538",
+      "link": "https://sreweekly.com/sre-weekly-issue-538/"
+    },
+    {
+      "date": "2026-10-14",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
-      "link": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/"
+      "source": "Netflix Tech",
+      "text": "DataJunction as Netflix's answer to the missing piece of the modern data stack",
+      "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-10-14",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+      "source": "MIT Tech Review",
+      "text": "The US military's race to make fake blood",
+      "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/"
     }
   ]
 }
