@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6a5d3ea5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"><img src="generated/feed-item-0.svg?v=3a3edca5" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"><img src="generated/feed-item-1.svg?v=36a92713" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/write-it-down-replay-it-ship-it-why-we-build-erds-to-build-product"><img src="generated/feed-item-2.svg?v=db006f0b" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/"><img src="generated/feed-item-3.svg?v=25c5ed2d" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"><img src="generated/feed-item-4.svg?v=2cd3bd1c" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/amp-beyond-coding"><img src="generated/feed-item-0.svg?v=5c1e0bc7" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"><img src="generated/feed-item-1.svg?v=90ec2eab" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-538/"><img src="generated/feed-item-2.svg?v=4d6c264a" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=144d06fc" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/"><img src="generated/feed-item-4.svg?v=2307ed14" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
