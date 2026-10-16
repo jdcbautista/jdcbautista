@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-15",
+      "date": "2026-09-07",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Welcome FLUX.3 Image Klein in Diffusers",
-      "link": "https://huggingface.co/blog/flux-3"
+      "source": "Import AI",
+      "text": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "link": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-10-02",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
-      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
+      "source": "AWS DevOps",
+      "text": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
+      "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-15",
       "track": "SRE",
       "source": "Datadog",
-      "text": "Unify data across Datadog BYOC with cross-cluster queries for teams and AI agents",
-      "link": "https://www.datadoghq.com/blog/byoc-cross-cluster-queries/"
+      "text": "How Kubernetes DRA can improve GPU utilization and cut costs",
+      "link": "https://www.datadoghq.com/blog/how-kubernetes-dra-can-improve-gpu-utilization-and-cut-costs/"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-13",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] Vendor hooks in the Android kernel",
-      "link": "https://lwn.net/Articles/1098493/"
+      "source": "Martin Fowler",
+      "text": "Are Harnesses Worth the Cost?",
+      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-16",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: faking blood and the future of batteries",
-      "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
+      "source": "The Verge",
+      "text": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus"
     }
   ]
 }
