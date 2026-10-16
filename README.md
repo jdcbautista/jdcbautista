@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6a5d3ea5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=7050c51f" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"><img src="generated/feed-item-0.svg?v=73e1983b" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"><img src="generated/feed-item-1.svg?v=f84c4d40" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/flux-3"><img src="generated/feed-item-0.svg?v=414a8212" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"><img src="generated/feed-item-1.svg?v=36a92713" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
 --><a href="https://www.datadoghq.com/blog/byoc-cross-cluster-queries/"><img src="generated/feed-item-2.svg?v=457cb12b" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1100611/"><img src="generated/feed-item-3.svg?v=b6c5f341" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links"><img src="generated/feed-item-4.svg?v=94c5ddef" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1098493/"><img src="generated/feed-item-3.svg?v=294d24a3" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"><img src="generated/feed-item-4.svg?v=e6a6bc76" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

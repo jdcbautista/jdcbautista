@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-13",
+      "date": "2026-10-15",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+      "text": "Welcome FLUX.3 Image Klein in Diffusers",
+      "link": "https://huggingface.co/blog/flux-3"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-09-17",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Cloudflare and OpenAI: making AI discovery better for everyone",
-      "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"
+      "source": "HashiCorp",
+      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
+      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
     },
     {
       "date": "2026-10-09",
@@ -27,15 +27,15 @@
       "date": "2026-10-15",
       "track": "Systems",
       "source": "LWN",
-      "text": "Seven stable kernels for Thursday with fix for critical vulnerability",
-      "link": "https://lwn.net/Articles/1100611/"
+      "text": "[$] Vendor hooks in the Android kernel",
+      "link": "https://lwn.net/Articles/1098493/"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-14",
       "track": "News",
-      "source": "The Verge",
-      "text": "Google is making inline links more prominent in AI responses",
-      "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links"
+      "source": "MIT Tech Review",
+      "text": "The Download: faking blood and the future of batteries",
+      "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
     }
   ]
 }
