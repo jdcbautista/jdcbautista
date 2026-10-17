@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-07",
+      "date": "2026-10-16",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
-      "link": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/"
+      "source": "Hugging Face",
+      "text": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-16",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
-      "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"
+      "source": "Cloudflare",
+      "text": "Continuous accountability for Verified bots",
+      "link": "https://blog.cloudflare.com/verified-bots-accountability/"
     },
     {
       "date": "2026-10-15",
@@ -24,18 +24,18 @@
       "link": "https://www.datadoghq.com/blog/how-kubernetes-dra-can-improve-gpu-utilization-and-cut-costs/"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-15",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "Are Harnesses Worth the Cost?",
-      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"
+      "text": "When Software Meets Hardware",
+      "link": "https://martinfowler.com/articles/software-meets-hardware.html"
     },
     {
       "date": "2026-10-16",
       "track": "News",
-      "source": "The Verge",
-      "text": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
-      "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus"
+      "source": "TechCrunch AI",
+      "text": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
     }
   ]
 }
