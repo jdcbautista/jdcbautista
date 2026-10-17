@@ -40,9 +40,9 @@
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://huggingface.co/blog/nvidia/scaling-indic-pretraining"><img src="generated/feed-item-0.svg?v=6c389e15" alt="AI — Hugging Face" width="720" align="top" /></a><!--
 --><a href="https://blog.cloudflare.com/verified-bots-accountability/"><img src="generated/feed-item-1.svg?v=db1d584a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/how-kubernetes-dra-can-improve-gpu-utilization-and-cut-costs/"><img src="generated/feed-item-2.svg?v=887b887a" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/software-meets-hardware.html"><img src="generated/feed-item-3.svg?v=7d917bdd" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"><img src="generated/feed-item-4.svg?v=45cace5a" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/how-datadog-defines-service-criticality-at-scale/"><img src="generated/feed-item-2.svg?v=ed389aef" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"><img src="generated/feed-item-3.svg?v=ada08450" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech"><img src="generated/feed-item-4.svg?v=bc61d1b2" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

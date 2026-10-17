@@ -17,25 +17,25 @@
       "link": "https://blog.cloudflare.com/verified-bots-accountability/"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-13",
       "track": "SRE",
       "source": "Datadog",
-      "text": "How Kubernetes DRA can improve GPU utilization and cut costs",
-      "link": "https://www.datadoghq.com/blog/how-kubernetes-dra-can-improve-gpu-utilization-and-cut-costs/"
+      "text": "How Datadog defines service criticality at scale",
+      "link": "https://www.datadoghq.com/blog/how-datadog-defines-service-criticality-at-scale/"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-14",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "When Software Meets Hardware",
-      "link": "https://martinfowler.com/articles/software-meets-hardware.html"
+      "text": "Build your slide template",
+      "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      "source": "Hacker News",
+      "text": "Ad-tech company was a delivery system for \"mercenary spyware\"",
+      "link": "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech"
     }
   ]
 }
