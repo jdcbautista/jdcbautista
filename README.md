@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/stack-overflow-chatgpt-plugin"><img src="generated/feed-item-0.svg?v=5abddb05" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"><img src="generated/feed-item-1.svg?v=d89a3645" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-534/"><img src="generated/feed-item-2.svg?v=3d5d1b85" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"><img src="generated/feed-item-3.svg?v=64eda27a" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"><img src="generated/feed-item-4.svg?v=4c10c8f7" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"><img src="generated/feed-item-0.svg?v=0daf1dc0" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/verified-bots-accountability/"><img src="generated/feed-item-1.svg?v=db1d584a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-536/"><img src="generated/feed-item-2.svg?v=75936e4b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1101020/"><img src="generated/feed-item-3.svg?v=90171cad" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale"><img src="generated/feed-item-4.svg?v=844306a5" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

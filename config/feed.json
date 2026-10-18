@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-16",
+      "date": "2026-09-28",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+      "source": "Google AI",
+      "text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-10-16",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
+      "source": "Cloudflare",
+      "text": "Continuous accountability for Verified bots",
+      "link": "https://blog.cloudflare.com/verified-bots-accountability/"
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-28",
       "track": "SRE",
       "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #534",
-      "link": "https://sreweekly.com/sre-weekly-issue-534/"
-    },
-    {
-      "date": "2026-10-15",
-      "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "MCP standardized tools. Now we need the infrastructure around them.",
-      "link": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"
+      "text": "SRE Weekly Issue #536",
+      "link": "https://sreweekly.com/sre-weekly-issue-536/"
     },
     {
       "date": "2026-10-16",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "Results from the 2026 TAB election",
+      "link": "https://lwn.net/Articles/1101020/"
+    },
+    {
+      "date": "2026-10-18",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Can't bear to say goodbye to your pet? Biotech's got you covered.",
-      "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"
+      "source": "The Verge",
+      "text": "Lenovo's fast, comfy SteamOS handheld is hundreds off",
+      "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale"
     }
   ]
 }
