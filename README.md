@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=e0fa4229" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=99d87fa4" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/nvidia/scaling-indic-pretraining"><img src="generated/feed-item-0.svg?v=6c389e15" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/verified-bots-accountability/"><img src="generated/feed-item-1.svg?v=db1d584a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/how-datadog-defines-service-criticality-at-scale/"><img src="generated/feed-item-2.svg?v=ed389aef" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"><img src="generated/feed-item-3.svg?v=ada08450" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech"><img src="generated/feed-item-4.svg?v=bc61d1b2" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/stack-overflow-chatgpt-plugin"><img src="generated/feed-item-0.svg?v=5abddb05" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"><img src="generated/feed-item-1.svg?v=d89a3645" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-534/"><img src="generated/feed-item-2.svg?v=3d5d1b85" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"><img src="generated/feed-item-3.svg?v=64eda27a" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"><img src="generated/feed-item-4.svg?v=4c10c8f7" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
