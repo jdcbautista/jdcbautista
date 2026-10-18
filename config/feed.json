@@ -5,37 +5,37 @@
     {
       "date": "2026-10-16",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      "source": "OpenAI",
+      "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "date": "2026-10-06",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
+    },
+    {
+      "date": "2026-09-14",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #534",
+      "link": "https://sreweekly.com/sre-weekly-issue-534/"
+    },
+    {
+      "date": "2026-10-15",
+      "track": "Systems",
+      "source": "Stack Overflow",
+      "text": "MCP standardized tools. Now we need the infrastructure around them.",
+      "link": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"
     },
     {
       "date": "2026-10-16",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Continuous accountability for Verified bots",
-      "link": "https://blog.cloudflare.com/verified-bots-accountability/"
-    },
-    {
-      "date": "2026-10-13",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "How Datadog defines service criticality at scale",
-      "link": "https://www.datadoghq.com/blog/how-datadog-defines-service-criticality-at-scale/"
-    },
-    {
-      "date": "2026-10-14",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Build your slide template",
-      "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"
-    },
-    {
-      "date": "2026-10-17",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Ad-tech company was a delivery system for \"mercenary spyware\"",
-      "link": "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech"
+      "source": "MIT Tech Review",
+      "text": "Can't bear to say goodbye to your pet? Biotech's got you covered.",
+      "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/"
     }
   ]
 }
