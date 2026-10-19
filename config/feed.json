@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-16",
+      "date": "2026-09-28",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://openai.com/index/itau-generative-ai"
+      "source": "Google AI",
+      "text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-09-17",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Deploy with Void",
-      "link": "https://blog.cloudflare.com/deploy-with-void/"
+      "source": "HashiCorp",
+      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
+      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-09-29",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Monitor the performance of critical steps in user journeys with RUM operations",
-      "link": "https://www.datadoghq.com/blog/rum-operations-monitoring/"
+      "source": "Rootly",
+      "text": "Audit-ready incident records: what SOC 2 auditors look for and how to evaluate tools",
+      "link": "https://rootly.com/blog/audit-ready-incident-records-soc-2"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-19",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Measuring the Impact of Personalized Recommendations",
-      "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "Podcast: The Future of Web Apps: Will AI Agents Generate UIs on the Fly?",
+      "link": "https://www.infoq.com/podcasts/future-web-apps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-10-17",
+      "date": "2026-10-19",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Science says your boss should talk less in meetings",
-      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
+      "source": "Hacker News",
+      "text": "Towards Company World Models",
+      "link": "https://www.beaconholdings.com/research/towards-company-world-models"
     }
   ]
 }
