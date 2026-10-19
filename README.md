@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=99d87fa4" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"><img src="generated/feed-item-0.svg?v=0daf1dc0" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/verified-bots-accountability/"><img src="generated/feed-item-1.svg?v=db1d584a" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-536/"><img src="generated/feed-item-2.svg?v=75936e4b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1101020/"><img src="generated/feed-item-3.svg?v=90171cad" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale"><img src="generated/feed-item-4.svg?v=844306a5" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/itau-generative-ai"><img src="generated/feed-item-0.svg?v=31d61160" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/deploy-with-void/"><img src="generated/feed-item-1.svg?v=36b1e0cc" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/rum-operations-monitoring/"><img src="generated/feed-item-2.svg?v=442dfd6d" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=7eccaa72" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"><img src="generated/feed-item-4.svg?v=08a496b6" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
