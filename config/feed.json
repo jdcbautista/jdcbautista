@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-18",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"
+      "source": "Simon Willison",
+      "text": "llm-tools-datasette 0.1.1",
+      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-10-15",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
+      "source": "CNCF",
+      "text": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
+      "link": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "track": "SRE",
       "source": "Grafana",
-      "text": "6 improvements that make Grafana Assistant better at helping your workflows",
-      "link": "https://grafana.com/blog/six-improvements-that-make-grafana-assistant-better-at-helping-your-workflows/"
-    },
-    {
-      "date": "2026-10-14",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Build your slide template",
-      "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"
+      "text": "Break the link between data volume and your observability bill with Adaptive Telemetry",
+      "link": "https://grafana.com/blog/cut-costs-keep-what-you-need-adaptive-telemetry/"
     },
     {
       "date": "2026-10-19",
+      "track": "Systems",
+      "source": "InfoQ",
+      "text": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
+      "link": "https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+    },
+    {
+      "date": "2026-10-20",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-      "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
+      "source": "Hacker News",
+      "text": "What Shall I Teach My Son?",
+      "link": "https://stevekrouse.com/ends"
     }
   ]
 }
