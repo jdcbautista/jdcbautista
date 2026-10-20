@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"><img src="generated/feed-item-0.svg?v=d7dc5191" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"><img src="generated/feed-item-1.svg?v=05596555" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/six-improvements-that-make-grafana-assistant-better-at-helping-your-workflows/"><img src="generated/feed-item-2.svg?v=c070b8fe" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"><img src="generated/feed-item-3.svg?v=ada08450" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"><img src="generated/feed-item-4.svg?v=e6b6e9b7" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"><img src="generated/feed-item-0.svg?v=3927bef5" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/"><img src="generated/feed-item-1.svg?v=85616765" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/cut-costs-keep-what-you-need-adaptive-telemetry/"><img src="generated/feed-item-2.svg?v=193bb13a" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=47e0e1db" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://stevekrouse.com/ends"><img src="generated/feed-item-4.svg?v=a39c19bf" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
