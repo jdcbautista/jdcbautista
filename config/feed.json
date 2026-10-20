@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-28",
+      "date": "2026-10-12",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+      "source": "Import AI",
+      "text": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-21",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
-      "link": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
-    },
-    {
-      "date": "2026-09-29",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "Audit-ready incident records: what SOC 2 auditors look for and how to evaluate tools",
-      "link": "https://rootly.com/blog/audit-ready-incident-records-soc-2"
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
     },
     {
       "date": "2026-10-19",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "6 improvements that make Grafana Assistant better at helping your workflows",
+      "link": "https://grafana.com/blog/six-improvements-that-make-grafana-assistant-better-at-helping-your-workflows/"
+    },
+    {
+      "date": "2026-10-14",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Podcast: The Future of Web Apps: Will AI Agents Generate UIs on the Fly?",
-      "link": "https://www.infoq.com/podcasts/future-web-apps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Build your slide template",
+      "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"
     },
     {
       "date": "2026-10-19",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Towards Company World Models",
-      "link": "https://www.beaconholdings.com/research/towards-company-world-models"
+      "source": "Ars Technica",
+      "text": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
     }
   ]
 }
