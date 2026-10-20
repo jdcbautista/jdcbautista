@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"><img src="generated/feed-item-0.svg?v=0daf1dc0" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"><img src="generated/feed-item-1.svg?v=36a92713" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/audit-ready-incident-records-soc-2"><img src="generated/feed-item-2.svg?v=f815b9da" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/podcasts/future-web-apps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=45d59b55" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.beaconholdings.com/research/towards-company-world-models"><img src="generated/feed-item-4.svg?v=5f7146ec" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"><img src="generated/feed-item-0.svg?v=d7dc5191" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"><img src="generated/feed-item-1.svg?v=05596555" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/six-improvements-that-make-grafana-assistant-better-at-helping-your-workflows/"><img src="generated/feed-item-2.svg?v=c070b8fe" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"><img src="generated/feed-item-3.svg?v=ada08450" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"><img src="generated/feed-item-4.svg?v=e6b6e9b7" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
