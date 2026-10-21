@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/ted-taylor-restaurant"><img src="generated/feed-item-0.svg?v=988abd1f" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"><img src="generated/feed-item-1.svg?v=90ec2eab" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"><img src="generated/feed-item-0.svg?v=acddca8b" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"><img src="generated/feed-item-1.svg?v=4c53e917" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
 --><a href="https://sreweekly.com/sre-weekly-issue-539/"><img src="generated/feed-item-2.svg?v=0043d91f" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"><img src="generated/feed-item-3.svg?v=339f6ea8" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"><img src="generated/feed-item-4.svg?v=c7453dfe" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1100026/"><img src="generated/feed-item-3.svg?v=049cccac" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs"><img src="generated/feed-item-4.svg?v=65e9805c" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

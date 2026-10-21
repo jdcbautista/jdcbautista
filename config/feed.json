@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-20",
+      "date": "2026-10-07",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "link": "https://openai.com/index/ted-taylor-restaurant"
+      "source": "Google AI",
+      "text": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-14",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Restart EC2 and on-premises fleets faster with AWS CodeDeploy RESTART deployment mode",
-      "link": "https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"
+      "source": "Kubernetes",
+      "text": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
     },
     {
       "date": "2026-10-19",
@@ -24,18 +24,18 @@
       "link": "https://sreweekly.com/sre-weekly-issue-539/"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-21",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Are Harnesses Worth the Cost?",
-      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"
+      "source": "LWN",
+      "text": "[$] Hash-based module integrity for reproducible distributions",
+      "link": "https://lwn.net/Articles/1100026/"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Robotic therapy for stroke patients",
-      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
+      "source": "Hacker News",
+      "text": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs"
     }
   ]
 }
