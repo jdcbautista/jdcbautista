@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c6205161" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"><img src="generated/feed-item-0.svg?v=3927bef5" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/"><img src="generated/feed-item-1.svg?v=85616765" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/cut-costs-keep-what-you-need-adaptive-telemetry/"><img src="generated/feed-item-2.svg?v=193bb13a" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=47e0e1db" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://stevekrouse.com/ends"><img src="generated/feed-item-4.svg?v=a39c19bf" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/ted-taylor-restaurant"><img src="generated/feed-item-0.svg?v=988abd1f" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"><img src="generated/feed-item-1.svg?v=90ec2eab" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-539/"><img src="generated/feed-item-2.svg?v=0043d91f" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"><img src="generated/feed-item-3.svg?v=339f6ea8" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"><img src="generated/feed-item-4.svg?v=c7453dfe" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
