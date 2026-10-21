@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-18",
-      "track": "AI",
-      "source": "Simon Willison",
-      "text": "llm-tools-datasette 0.1.1",
-      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"
-    },
-    {
-      "date": "2026-10-15",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
-      "link": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/"
-    },
-    {
       "date": "2026-10-20",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "Break the link between data volume and your observability bill with Adaptive Telemetry",
-      "link": "https://grafana.com/blog/cut-costs-keep-what-you-need-adaptive-telemetry/"
+      "track": "AI",
+      "source": "OpenAI",
+      "text": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "link": "https://openai.com/index/ted-taylor-restaurant"
+    },
+    {
+      "date": "2026-10-05",
+      "track": "Cloud",
+      "source": "AWS DevOps",
+      "text": "Restart EC2 and on-premises fleets faster with AWS CodeDeploy RESTART deployment mode",
+      "link": "https://aws.amazon.com/blogs/devops/restart-ec2-and-on-premises-fleets-faster-with-aws-codedeploy-restart-deployment-mode/"
     },
     {
       "date": "2026-10-19",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #539",
+      "link": "https://sreweekly.com/sre-weekly-issue-539/"
+    },
+    {
+      "date": "2026-10-13",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
-      "link": "https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Are Harnesses Worth the Cost?",
+      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"
     },
     {
       "date": "2026-10-20",
       "track": "News",
-      "source": "Hacker News",
-      "text": "What Shall I Teach My Son?",
-      "link": "https://stevekrouse.com/ends"
+      "source": "MIT Tech Review",
+      "text": "Robotic therapy for stroke patients",
+      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
     }
   ]
 }
