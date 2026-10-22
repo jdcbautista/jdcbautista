@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-21",
+      "date": "2026-09-21",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/"
+      "source": "Import AI",
+      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-02",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-      "link": "https://blog.cloudflare.com/webmcp-commerce/"
+      "source": "AWS DevOps",
+      "text": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
+      "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-20",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "The Titanic didn't sink for just one reason",
-      "link": "https://rootly.com/blog/the-titanic-didnt-sink-for-just-one-reason"
+      "source": "Grafana",
+      "text": "From production problem to proposed fix: Implement autonomous operations with Grafana AI",
+      "link": "https://grafana.com/blog/grafana-ai-autonomous-operations/"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: October 21",
-      "link": "https://martinfowler.com/fragments/2026-10-21.html"
+      "source": "InfoQ",
+      "text": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs",
+      "link": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-10-22",
       "track": "News",
-      "source": "Hacker News",
-      "text": "I can't believe PowerShell is good",
-      "link": "https://www.spacebar.news/powershell-is-actually-good/"
+      "source": "The Verge",
+      "text": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
+      "link": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks"
     }
   ]
 }

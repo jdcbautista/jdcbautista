@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/21/php-security-release/"><img src="generated/feed-item-0.svg?v=d3ac16bf" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/webmcp-commerce/"><img src="generated/feed-item-1.svg?v=8e4cbad8" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/the-titanic-didnt-sink-for-just-one-reason"><img src="generated/feed-item-2.svg?v=fb2f81f7" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-10-21.html"><img src="generated/feed-item-3.svg?v=cc7587ee" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.spacebar.news/powershell-is-actually-good/"><img src="generated/feed-item-4.svg?v=40e39915" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"><img src="generated/feed-item-0.svg?v=ad96794d" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"><img src="generated/feed-item-1.svg?v=7216286a" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/grafana-ai-autonomous-operations/"><img src="generated/feed-item-2.svg?v=ecc7ef9a" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=24fe2d5d" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks"><img src="generated/feed-item-4.svg?v=4850f637" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
