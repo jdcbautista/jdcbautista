@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-07",
+      "date": "2026-10-21",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Introducing Playground: Create and play custom games",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+      "source": "Simon Willison",
+      "text": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-21",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
+      "source": "Cloudflare",
+      "text": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "link": "https://blog.cloudflare.com/webmcp-commerce/"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-21",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #539",
-      "link": "https://sreweekly.com/sre-weekly-issue-539/"
+      "source": "Rootly",
+      "text": "The Titanic didn't sink for just one reason",
+      "link": "https://rootly.com/blog/the-titanic-didnt-sink-for-just-one-reason"
     },
     {
       "date": "2026-10-21",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] Hash-based module integrity for reproducible distributions",
-      "link": "https://lwn.net/Articles/1100026/"
+      "source": "Martin Fowler",
+      "text": "Fragments: October 21",
+      "link": "https://martinfowler.com/fragments/2026-10-21.html"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "track": "News",
       "source": "Hacker News",
-      "text": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs"
+      "text": "I can't believe PowerShell is good",
+      "link": "https://www.spacebar.news/powershell-is-actually-good/"
     }
   ]
 }
