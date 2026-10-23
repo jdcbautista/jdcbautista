@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/21/php-security-release/"><img src="generated/feed-item-0.svg?v=d3ac16bf" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/webmcp-commerce/"><img src="generated/feed-item-1.svg?v=8e4cbad8" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/grafana-ai-autonomous-operations/"><img src="generated/feed-item-2.svg?v=ecc7ef9a" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1100612/"><img src="generated/feed-item-3.svg?v=018dfef8" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"><img src="generated/feed-item-4.svg?v=c52b1b62" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"><img src="generated/feed-item-0.svg?v=d7dc5191" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"><img src="generated/feed-item-1.svg?v=304bb726" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"><img src="generated/feed-item-2.svg?v=47eb97a4" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=a1fbce35" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/"><img src="generated/feed-item-4.svg?v=15582daa" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
