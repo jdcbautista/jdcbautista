@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-21",
+      "date": "2026-10-12",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/"
+      "source": "Import AI",
+      "text": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-09",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-      "link": "https://blog.cloudflare.com/webmcp-commerce/"
+      "source": "HashiCorp",
+      "text": "Banking at machine speed: Securing access across cloud, AI, and hybrid environments",
+      "link": "https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-08-20",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "From production problem to proposed fix: Implement autonomous operations with Grafana AI",
-      "link": "https://grafana.com/blog/grafana-ai-autonomous-operations/"
+      "source": "Gremlin",
+      "text": "Safer Kubernetes rollouts with minReadySeconds",
+      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] LWN.net Weekly Edition for October 22, 2026",
-      "link": "https://lwn.net/Articles/1100612/"
+      "source": "InfoQ",
+      "text": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
+      "link": "https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+      "source": "Ars Technica",
+      "text": "Crows can evaluate visual info twice as fast as mammals",
+      "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/"
     }
   ]
 }
