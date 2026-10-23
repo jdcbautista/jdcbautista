@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-09-21",
+      "date": "2026-10-21",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/"
+      "source": "Simon Willison",
+      "text": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-21",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Integrate AWS DevOps Agent with third-party tools using Amazon EventBridge",
-      "link": "https://aws.amazon.com/blogs/devops/integrate-aws-devops-agent-with-third-party-tools-using-amazon-eventbridge/"
+      "source": "Cloudflare",
+      "text": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "link": "https://blog.cloudflare.com/webmcp-commerce/"
     },
     {
       "date": "2026-10-20",
@@ -26,16 +26,16 @@
     {
       "date": "2026-10-22",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs",
-      "link": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "[$] LWN.net Weekly Edition for October 22, 2026",
+      "link": "https://lwn.net/Articles/1100612/"
     },
     {
       "date": "2026-10-22",
       "track": "News",
-      "source": "The Verge",
-      "text": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
-      "link": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks"
+      "source": "TechCrunch AI",
+      "text": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
     }
   ]
 }
