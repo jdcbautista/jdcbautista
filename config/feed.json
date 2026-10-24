@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-23",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"
+      "source": "Hugging Face",
+      "text": "Does Your Model Run on AWS Trainium? Look It Up",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-09-21",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Banking at machine speed: Securing access across cloud, AI, and hybrid environments",
-      "link": "https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"
+      "source": "Kubernetes",
+      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-10-20",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Safer Kubernetes rollouts with minReadySeconds",
-      "link": "https://www.gremlin.com/blog/safer-kubernetes-rollouts-with-minreadyseconds"
+      "source": "Grafana",
+      "text": "ObservabilityCON 2026: A guide to all the announcements from Grafana Labs",
+      "link": "https://grafana.com/blog/observabilitycon-2026-announcements/"
     },
     {
       "date": "2026-10-23",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
-      "link": "https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "[$] The first part of the 7.4 merge window",
+      "link": "https://lwn.net/Articles/1101211/"
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-22",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Crows can evaluate visual info twice as fast as mammals",
-      "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/"
+      "source": "MIT Tech Review",
+      "text": "The Download: computing's next leap and permafrost's climate threat",
+      "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
     }
   ]
 }
