@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/torch-neuronx-model-support"><img src="generated/feed-item-0.svg?v=dbfa0b6c" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"><img src="generated/feed-item-1.svg?v=05596555" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/observabilitycon-2026-announcements/"><img src="generated/feed-item-2.svg?v=2cd2d4a2" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1101211/"><img src="generated/feed-item-3.svg?v=502260b7" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"><img src="generated/feed-item-4.svg?v=b8c689f7" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/23/quick-study-painter/"><img src="generated/feed-item-0.svg?v=6f8d1f70" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/"><img src="generated/feed-item-1.svg?v=c4f9ee49" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-537/"><img src="generated/feed-item-2.svg?v=3f7e137c" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/software-meets-hardware.html"><img src="generated/feed-item-3.svg?v=7d917bdd" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale"><img src="generated/feed-item-4.svg?v=52f743cf" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
