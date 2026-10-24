@@ -5,37 +5,37 @@
     {
       "date": "2026-10-23",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Does Your Model Run on AWS Trainium? Look It Up",
-      "link": "https://huggingface.co/blog/torch-neuronx-model-support"
+      "source": "Simon Willison",
+      "text": "Quick Study",
+      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-10-19",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/"
+      "source": "AWS DevOps",
+      "text": "Automate Active Directory joins for Elastic Beanstalk Windows applications",
+      "link": "https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-05",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "ObservabilityCON 2026: A guide to all the announcements from Grafana Labs",
-      "link": "https://grafana.com/blog/observabilitycon-2026-announcements/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #537",
+      "link": "https://sreweekly.com/sre-weekly-issue-537/"
+    },
+    {
+      "date": "2026-10-15",
+      "track": "Systems",
+      "source": "Martin Fowler",
+      "text": "When Software Meets Hardware",
+      "link": "https://martinfowler.com/articles/software-meets-hardware.html"
     },
     {
       "date": "2026-10-23",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "[$] The first part of the 7.4 merge window",
-      "link": "https://lwn.net/Articles/1101211/"
-    },
-    {
-      "date": "2026-10-22",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: computing's next leap and permafrost's climate threat",
-      "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
+      "source": "The Verge",
+      "text": "LG's brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale"
     }
   ]
 }
