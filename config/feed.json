@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-23",
-      "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quick Study",
-      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
-    },
-    {
-      "date": "2026-10-19",
-      "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Automate Active Directory joins for Elastic Beanstalk Windows applications",
-      "link": "https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/"
-    },
-    {
       "date": "2026-10-05",
+      "track": "AI",
+      "source": "Import AI",
+      "text": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"
+    },
+    {
+      "date": "2026-10-21",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "Cloudflare deploys protections against php2shell vulnerability",
+      "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
+    },
+    {
+      "date": "2026-10-20",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #537",
-      "link": "https://sreweekly.com/sre-weekly-issue-537/"
+      "source": "Datadog",
+      "text": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
+      "link": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-14",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "When Software Meets Hardware",
-      "link": "https://martinfowler.com/articles/software-meets-hardware.html"
+      "source": "Netflix Tech",
+      "text": "Integrating Netflix's Foundation Model into Personalization applications",
+      "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "track": "News",
       "source": "The Verge",
-      "text": "LG's brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale"
+      "text": "Blue Planet III is keeping the rough edges in the age of AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
     }
   ]
 }
