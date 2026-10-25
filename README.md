@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"><img src="generated/feed-item-0.svg?v=4f9405e8" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"><img src="generated/feed-item-1.svg?v=f3c9c5e6" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/"><img src="generated/feed-item-2.svg?v=6226a9c3" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=16c77f99" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"><img src="generated/feed-item-4.svg?v=9806fa09" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/decisions-api"><img src="generated/feed-item-0.svg?v=f6ffed3f" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"><img src="generated/feed-item-1.svg?v=304bb726" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/the-most-common-mistakes-in-incident-management"><img src="generated/feed-item-2.svg?v=36b2123b" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/"><img src="generated/feed-item-3.svg?v=0bab07c2" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/column/1017983/google-ai-search-online-publishing"><img src="generated/feed-item-4.svg?v=003da0da" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

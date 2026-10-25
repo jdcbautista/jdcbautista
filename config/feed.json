@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-05",
+      "date": "2026-10-22",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"
+      "source": "OpenAI",
+      "text": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-09",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Cloudflare deploys protections against php2shell vulnerability",
-      "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"
+      "source": "HashiCorp",
+      "text": "Banking at machine speed: Securing access across cloud, AI, and hybrid environments",
+      "link": "https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-23",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Beyond container image signing: How we enforce software supply chain policies at Datadog",
-      "link": "https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/"
+      "source": "Rootly",
+      "text": "The most common mistakes in incident management",
+      "link": "https://rootly.com/blog/the-most-common-mistakes-in-incident-management"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-22",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Integrating Netflix's Foundation Model into Personalization applications",
-      "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
+      "link": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-23",
       "track": "News",
       "source": "The Verge",
-      "text": "Blue Planet III is keeping the rough edges in the age of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+      "text": "Google's AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
     }
   ]
 }
