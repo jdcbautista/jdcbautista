@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=3da3caed" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=bbf7b5c5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/23/quick-study-painter/"><img src="generated/feed-item-0.svg?v=6f8d1f70" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/"><img src="generated/feed-item-1.svg?v=c4f9ee49" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-537/"><img src="generated/feed-item-2.svg?v=3f7e137c" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/software-meets-hardware.html"><img src="generated/feed-item-3.svg?v=7d917bdd" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale"><img src="generated/feed-item-4.svg?v=52f743cf" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"><img src="generated/feed-item-0.svg?v=4f9405e8" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/"><img src="generated/feed-item-1.svg?v=f3c9c5e6" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/engineering/software-supply-chain-policy-enforcement/"><img src="generated/feed-item-2.svg?v=6226a9c3" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=16c77f99" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"><img src="generated/feed-item-4.svg?v=9806fa09" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
