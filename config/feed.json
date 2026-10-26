@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "track": "AI",
       "source": "OpenAI",
-      "text": "Build more responsive apps with the Decisions API",
-      "link": "https://openai.com/index/decisions-api"
-    },
-    {
-      "date": "2026-10-09",
-      "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Banking at machine speed: Securing access across cloud, AI, and hybrid environments",
-      "link": "https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"
+      "text": "OpenAI and Poland's NASK partner to advance AI safety and security",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     {
       "date": "2026-10-23",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "The most common mistakes in incident management",
-      "link": "https://rootly.com/blog/the-most-common-mistakes-in-incident-management"
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "Bringing post-quantum cryptography to geographically fenced key management",
+      "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
     },
     {
       "date": "2026-10-22",
-      "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
-      "link": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/"
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Optimize AI costs with Agent Observability",
+      "link": "https://www.datadoghq.com/blog/cost-agent-observability/"
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-16",
+      "track": "Systems",
+      "source": "Netflix Tech",
+      "text": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+      "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"
+    },
+    {
+      "date": "2026-10-26",
       "track": "News",
-      "source": "The Verge",
-      "text": "Google's AI search changes upended online publishing",
-      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+      "source": "Hacker News",
+      "text": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
     }
   ]
 }
