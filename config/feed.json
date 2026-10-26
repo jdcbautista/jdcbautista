@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-23",
-      "track": "AI",
-      "source": "OpenAI",
-      "text": "OpenAI and Poland's NASK partner to advance AI safety and security",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-    },
-    {
-      "date": "2026-10-23",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Bringing post-quantum cryptography to geographically fenced key management",
-      "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
-    },
-    {
       "date": "2026-10-22",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "Optimize AI costs with Agent Observability",
-      "link": "https://www.datadoghq.com/blog/cost-agent-observability/"
+      "track": "AI",
+      "source": "Hugging Face",
+      "text": "Ensemble forecasting with IBM Granite time-series models",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-09-22",
+      "track": "Cloud",
+      "source": "HashiCorp",
+      "text": "Secure AI agents with HashiCorp Boundary",
+      "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"
+    },
+    {
+      "date": "2026-09-04",
+      "track": "SRE",
+      "source": "Gremlin",
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
+    },
+    {
+      "date": "2026-10-26",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-      "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"
+      "source": "LWN",
+      "text": "Two stable kernels for Monday",
+      "link": "https://lwn.net/Articles/1102973/"
     },
     {
       "date": "2026-10-26",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism"
+      "source": "MIT Tech Review",
+      "text": "Will the real Anthropic please stand up",
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
     }
   ]
 }

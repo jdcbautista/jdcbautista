@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/openai-nask-ai-safety-security-partnership"><img src="generated/feed-item-0.svg?v=73001159" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/post-quantum-geo-key-manager/"><img src="generated/feed-item-1.svg?v=eebcdd66" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/cost-agent-observability/"><img src="generated/feed-item-2.svg?v=fa974ab0" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=443ae735" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism"><img src="generated/feed-item-4.svg?v=6b97e8b0" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"><img src="generated/feed-item-0.svg?v=df19a131" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"><img src="generated/feed-item-1.svg?v=9a295e64" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1102973/"><img src="generated/feed-item-3.svg?v=5b10a2bc" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"><img src="generated/feed-item-4.svg?v=a8b756f1" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
