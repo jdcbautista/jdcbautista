@@ -3,11 +3,11 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-22",
+      "date": "2026-10-19",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Ensemble forecasting with IBM Granite time-series models",
-      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+      "source": "Import AI",
+      "text": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "link": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/"
     },
     {
       "date": "2026-09-22",
@@ -17,25 +17,25 @@
       "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-28",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "How to verify your Azure Application Gateway is zone-redundant",
-      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #536",
+      "link": "https://sreweekly.com/sre-weekly-issue-536/"
     },
     {
       "date": "2026-10-26",
       "track": "Systems",
       "source": "LWN",
-      "text": "Two stable kernels for Monday",
-      "link": "https://lwn.net/Articles/1102973/"
+      "text": "[$] Python's experimental JIT to be removed",
+      "link": "https://lwn.net/Articles/1102102/"
     },
     {
       "date": "2026-10-26",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Will the real Anthropic please stand up",
-      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+      "source": "TechCrunch AI",
+      "text": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
     }
   ]
 }
