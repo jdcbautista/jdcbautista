@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-19",
+      "date": "2026-10-26",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 477: In which I tell the IMF the Singularity has begun",
-      "link": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/"
+      "source": "Simon Willison",
+      "text": "webframe: evaluated as a scraper and a sandbox",
+      "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-10-19",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Secure AI agents with HashiCorp Boundary",
-      "link": "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"
+      "source": "AWS DevOps",
+      "text": "HERE Technologies and AWS: Accelerating NDS.Live with agentic AI",
+      "link": "https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/"
     },
     {
-      "date": "2026-09-28",
+      "date": "2026-10-21",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #536",
-      "link": "https://sreweekly.com/sre-weekly-issue-536/"
+      "source": "Grafana",
+      "text": "Spend less time on operational busywork and resolve incidents faster with Grafana Workflows",
+      "link": "https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-13",
       "track": "Systems",
-      "source": "LWN",
-      "text": "[$] Python's experimental JIT to be removed",
-      "link": "https://lwn.net/Articles/1102102/"
+      "source": "Martin Fowler",
+      "text": "Are Harnesses Worth the Cost?",
+      "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "track": "News",
       "source": "TechCrunch AI",
-      "text": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+      "text": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
     }
   ]
 }

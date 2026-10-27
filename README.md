@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/"><img src="generated/feed-item-0.svg?v=f34516aa" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"><img src="generated/feed-item-1.svg?v=9a295e64" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-536/"><img src="generated/feed-item-2.svg?v=75936e4b" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1102102/"><img src="generated/feed-item-3.svg?v=ec566078" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"><img src="generated/feed-item-4.svg?v=a9419a4e" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/26/webframe-evaluation/"><img src="generated/feed-item-0.svg?v=99c42e1b" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/"><img src="generated/feed-item-1.svg?v=d5799bac" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"><img src="generated/feed-item-2.svg?v=c1863ead" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"><img src="generated/feed-item-3.svg?v=339f6ea8" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"><img src="generated/feed-item-4.svg?v=930f23b8" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
