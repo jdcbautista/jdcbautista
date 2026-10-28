@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/"><img src="generated/feed-item-0.svg?v=32d53f2d" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/oracle-apps-in-chatgpt"><img src="generated/feed-item-0.svg?v=010bb579" alt="AI — OpenAI" width="720" align="top" /></a><!--
 --><a href="https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/"><img src="generated/feed-item-1.svg?v=d5799bac" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"><img src="generated/feed-item-2.svg?v=c1863ead" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"><img src="generated/feed-item-3.svg?v=fbee8f0a" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service"><img src="generated/feed-item-4.svg?v=645fe0d6" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=3e9cc03e" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"><img src="generated/feed-item-4.svg?v=30bb4d09" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

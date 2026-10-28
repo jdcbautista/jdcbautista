@@ -3,11 +3,11 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
-      "link": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/"
+      "source": "OpenAI",
+      "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt"
     },
     {
       "date": "2026-10-19",
@@ -17,25 +17,25 @@
       "link": "https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-08-27",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Spend less time on operational busywork and resolve incidents faster with Grafana Workflows",
-      "link": "https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"
+      "source": "Gremlin",
+      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
+      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Elevators, toasters, and the birth of Java",
-      "link": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"
+      "source": "InfoQ",
+      "text": "Presentation: Wrangling Telemetry at Scale: A Guide to Self-Hosted Observability",
+      "link": "https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "track": "News",
-      "source": "The Verge",
-      "text": "Elon Musk says Ukraine's military violated Starlink's terms of service",
-      "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service"
+      "source": "TechCrunch AI",
+      "text": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
     }
   ]
 }
