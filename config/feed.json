@@ -6,36 +6,36 @@
       "date": "2026-10-27",
       "track": "AI",
       "source": "OpenAI",
-      "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "link": "https://openai.com/index/oracle-apps-in-chatgpt"
+      "text": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-23",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "HERE Technologies and AWS: Accelerating NDS.Live with agentic AI",
-      "link": "https://aws.amazon.com/blogs/devops/here-technologies-and-aws-accelerating-nds-live-with-agentic-ai/"
+      "source": "Cloudflare",
+      "text": "Bringing post-quantum cryptography to geographically fenced key management",
+      "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-10-02",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
-      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
+      "source": "Rootly",
+      "text": "Why our retrospective template doesn't ask for root cause",
+      "link": "https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"
     },
     {
       "date": "2026-10-28",
       "track": "Systems",
       "source": "InfoQ",
-      "text": "Presentation: Wrangling Telemetry at Scale: A Guide to Self-Hosted Observability",
-      "link": "https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "text": "Article: Building an Offline-First AI Coding Tutor for Low-End Android Phones",
+      "link": "https://www.infoq.com/articles/building-offline-first-android-app-low-end-devices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-10-28",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+      "source": "The Verge",
+      "text": "Adam Mosseri says negativity around AI is 'going to get worse'",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
     }
   ]
 }
