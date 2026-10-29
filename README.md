@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/retell-ai"><img src="generated/feed-item-0.svg?v=c0b026ce" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/post-quantum-geo-key-manager/"><img src="generated/feed-item-1.svg?v=eebcdd66" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"><img src="generated/feed-item-2.svg?v=107d3eae" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/articles/building-offline-first-android-app-low-end-devices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=6ff37126" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"><img src="generated/feed-item-4.svg?v=8fdb8637" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/ropes-gray-ai-diligence"><img src="generated/feed-item-0.svg?v=98082d0b" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/"><img src="generated/feed-item-1.svg?v=4da565e7" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1103426/"><img src="generated/feed-item-3.svg?v=b3bd7861" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"><img src="generated/feed-item-4.svg?v=99835993" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
