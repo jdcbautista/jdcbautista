@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-27",
+      "date": "2026-10-29",
       "track": "AI",
       "source": "OpenAI",
-      "text": "Retell uses OpenAI models to help power 100M monthly calls",
-      "link": "https://openai.com/index/retell-ai"
+      "text": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence"
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-10-29",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Bringing post-quantum cryptography to geographically fenced key management",
-      "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
+      "source": "CNCF",
+      "text": "The boundary problem in agentic AI is a platform problem",
+      "link": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-08-27",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Why our retrospective template doesn't ask for root cause",
-      "link": "https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"
+      "source": "Gremlin",
+      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
+      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
     },
     {
       "date": "2026-10-28",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Article: Building an Offline-First AI Coding Tutor for Low-End Android Phones",
-      "link": "https://www.infoq.com/articles/building-offline-first-android-app-low-end-devices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "A report from the LPC sched_ext microconference",
+      "link": "https://lwn.net/Articles/1103426/"
     },
     {
       "date": "2026-10-28",
       "track": "News",
-      "source": "The Verge",
-      "text": "Adam Mosseri says negativity around AI is 'going to get worse'",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+      "source": "MIT Tech Review",
+      "text": "The Download: dead startups fueling AI and interspecies communication",
+      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
     }
   ]
 }
