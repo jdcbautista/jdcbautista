@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/29/api-credits/"><img src="generated/feed-item-0.svg?v=d5b90e44" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"><img src="generated/feed-item-1.svg?v=0a7f85da" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/announcing-gremlin-foresight-ai"><img src="generated/feed-item-2.svg?v=13397721" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=443ae735" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://github.com/picocss/pico/discussions/754"><img src="generated/feed-item-4.svg?v=ba19345c" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/29/ben-hylak/"><img src="generated/feed-item-0.svg?v=c04dc762" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"><img src="generated/feed-item-1.svg?v=9e375e7d" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/detect-when-your-ai-agent-copies-a-self-replicating-prompt-injection/"><img src="generated/feed-item-2.svg?v=07429d84" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/"><img src="generated/feed-item-3.svg?v=ad4a6a61" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale"><img src="generated/feed-item-4.svg?v=b7964a7e" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
