@@ -6,36 +6,36 @@
       "date": "2026-10-29",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "API credits benefit for eligible ChatGPT subscriptions",
-      "link": "https://simonwillison.net/2026/Oct/29/api-credits/"
+      "text": "Quoting Ben Hylak",
+      "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/"
+    },
+    {
+      "date": "2026-10-30",
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
+      "link": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"
     },
     {
       "date": "2026-10-29",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
-      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
-    },
-    {
-      "date": "2026-10-07",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Announcing Gremlin Foresight AI",
-      "link": "https://www.gremlin.com/blog/announcing-gremlin-foresight-ai"
+      "source": "Datadog",
+      "text": "Detect when your AI agent copies a self-replicating prompt injection",
+      "link": "https://www.datadoghq.com/blog/detect-when-your-ai-agent-copies-a-self-replicating-prompt-injection/"
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-10-28",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-      "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "A JSON schema Is not an AI governance layer",
+      "link": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/"
     },
     {
       "date": "2026-10-30",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Pico CSS is no longer maintained",
-      "link": "https://github.com/picocss/pico/discussions/754"
+      "source": "The Verge",
+      "text": "Vizio's discounted Mini LED TV lets you skip the sign-ups and smarts",
+      "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale"
     }
   ]
 }
