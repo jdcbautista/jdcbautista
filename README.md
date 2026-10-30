@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=26b71864" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6e306e49" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/ropes-gray-ai-diligence"><img src="generated/feed-item-0.svg?v=98082d0b" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/"><img src="generated/feed-item-1.svg?v=4da565e7" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1103426/"><img src="generated/feed-item-3.svg?v=b3bd7861" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"><img src="generated/feed-item-4.svg?v=99835993" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/29/api-credits/"><img src="generated/feed-item-0.svg?v=d5b90e44" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"><img src="generated/feed-item-1.svg?v=0a7f85da" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/announcing-gremlin-foresight-ai"><img src="generated/feed-item-2.svg?v=13397721" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=443ae735" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://github.com/picocss/pico/discussions/754"><img src="generated/feed-item-4.svg?v=ba19345c" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

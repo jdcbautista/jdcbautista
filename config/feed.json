@@ -5,37 +5,37 @@
     {
       "date": "2026-10-29",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "How Ropes & Gray is developing AI for transactional diligence",
-      "link": "https://openai.com/index/ropes-gray-ai-diligence"
+      "source": "Simon Willison",
+      "text": "API credits benefit for eligible ChatGPT subscriptions",
+      "link": "https://simonwillison.net/2026/Oct/29/api-credits/"
     },
     {
       "date": "2026-10-29",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "The boundary problem in agentic AI is a platform problem",
-      "link": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/"
+      "source": "Kubernetes",
+      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-10-07",
       "track": "SRE",
       "source": "Gremlin",
-      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
-      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
+      "text": "Announcing Gremlin Foresight AI",
+      "link": "https://www.gremlin.com/blog/announcing-gremlin-foresight-ai"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-16",
       "track": "Systems",
-      "source": "LWN",
-      "text": "A report from the LPC sched_ext microconference",
-      "link": "https://lwn.net/Articles/1103426/"
+      "source": "Netflix Tech",
+      "text": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+      "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-30",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: dead startups fueling AI and interspecies communication",
-      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+      "source": "Hacker News",
+      "text": "Pico CSS is no longer maintained",
+      "link": "https://github.com/picocss/pico/discussions/754"
     }
   ]
 }
