@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/29/ben-hylak/"><img src="generated/feed-item-0.svg?v=c04dc762" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/emudhra-patching/"><img src="generated/feed-item-1.svg?v=d4403c9c" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/grafana-13-3-release-all-the-latest-features/"><img src="generated/feed-item-2.svg?v=32fabea7" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1102982/"><img src="generated/feed-item-3.svg?v=ca127e46" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive"><img src="generated/feed-item-4.svg?v=32a1b570" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/updated-model-spec"><img src="generated/feed-item-0.svg?v=ec3ae73e" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/private-origins-public-to-private/"><img src="generated/feed-item-1.svg?v=6605ea0d" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"><img src="generated/feed-item-2.svg?v=c1863ead" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1104210/"><img src="generated/feed-item-3.svg?v=48ab531c" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"><img src="generated/feed-item-4.svg?v=4c070a99" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

@@ -5,37 +5,37 @@
     {
       "date": "2026-10-29",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Quoting Ben Hylak",
-      "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/"
+      "source": "OpenAI",
+      "text": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec"
     },
     {
       "date": "2026-10-30",
       "track": "Cloud",
       "source": "Cloudflare",
-      "text": "4 real? Tracking exploitation and patching of eMudhra's weak keys",
-      "link": "https://blog.cloudflare.com/emudhra-patching/"
+      "text": "Cloudflare services for private origins is now generally available",
+      "link": "https://blog.cloudflare.com/private-origins-public-to-private/"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-21",
       "track": "SRE",
       "source": "Grafana",
-      "text": "Grafana 13.3 release: manage variables across dashboards, share findings with Notebooks, a UI refresh, and more",
-      "link": "https://grafana.com/blog/grafana-13-3-release-all-the-latest-features/"
+      "text": "Spend less time on operational busywork and resolve incidents faster with Grafana Workflows",
+      "link": "https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"
     },
     {
       "date": "2026-10-30",
       "track": "Systems",
       "source": "LWN",
-      "text": "[$] Removing binder.c",
-      "link": "https://lwn.net/Articles/1102982/"
+      "text": "Haas: Postgres 19 is late, and it's AI's fault",
+      "link": "https://lwn.net/Articles/1104210/"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-29",
       "track": "News",
-      "source": "The Verge",
-      "text": "Exclusive details about Akai's MPC Sample Key",
-      "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive"
+      "source": "MIT Tech Review",
+      "text": "The Download: AI agent tracking and climate feedback loops",
+      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
     }
   ]
 }
