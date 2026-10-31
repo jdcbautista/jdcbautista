@@ -12,30 +12,30 @@
     {
       "date": "2026-10-30",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
-      "link": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"
+      "source": "Cloudflare",
+      "text": "4 real? Tracking exploitation and patching of eMudhra's weak keys",
+      "link": "https://blog.cloudflare.com/emudhra-patching/"
     },
     {
       "date": "2026-10-29",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Detect when your AI agent copies a self-replicating prompt injection",
-      "link": "https://www.datadoghq.com/blog/detect-when-your-ai-agent-copies-a-self-replicating-prompt-injection/"
+      "source": "Grafana",
+      "text": "Grafana 13.3 release: manage variables across dashboards, share findings with Notebooks, a UI refresh, and more",
+      "link": "https://grafana.com/blog/grafana-13-3-release-all-the-latest-features/"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-30",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "A JSON schema Is not an AI governance layer",
-      "link": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/"
+      "source": "LWN",
+      "text": "[$] Removing binder.c",
+      "link": "https://lwn.net/Articles/1102982/"
     },
     {
       "date": "2026-10-30",
       "track": "News",
       "source": "The Verge",
-      "text": "Vizio's discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale"
+      "text": "Exclusive details about Akai's MPC Sample Key",
+      "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive"
     }
   ]
 }
