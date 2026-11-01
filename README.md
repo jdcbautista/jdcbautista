@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"><img src="generated/feed-item-0.svg?v=4f9405e8" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"><img src="generated/feed-item-1.svg?v=48787ceb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/nvidia/nemotron-halloween"><img src="generated/feed-item-0.svg?v=0ef2d66e" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"><img src="generated/feed-item-1.svg?v=304bb726" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
 --><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"><img src="generated/feed-item-3.svg?v=fbee8f0a" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"><img src="generated/feed-item-4.svg?v=7bd24dc6" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-10-21.html"><img src="generated/feed-item-3.svg?v=cc7587ee" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"><img src="generated/feed-item-4.svg?v=81038fde" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
