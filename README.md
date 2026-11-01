@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=2e95ed7c" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6491ad93" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/updated-model-spec"><img src="generated/feed-item-0.svg?v=ec3ae73e" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/private-origins-public-to-private/"><img src="generated/feed-item-1.svg?v=6605ea0d" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"><img src="generated/feed-item-2.svg?v=c1863ead" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1104210/"><img src="generated/feed-item-3.svg?v=48ab531c" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"><img src="generated/feed-item-4.svg?v=4c070a99" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"><img src="generated/feed-item-0.svg?v=4f9405e8" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"><img src="generated/feed-item-1.svg?v=48787ceb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"><img src="generated/feed-item-3.svg?v=fbee8f0a" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"><img src="generated/feed-item-4.svg?v=7bd24dc6" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

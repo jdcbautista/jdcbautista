@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-29",
+      "date": "2026-10-05",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec"
+      "source": "Import AI",
+      "text": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-27",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Cloudflare services for private origins is now generally available",
-      "link": "https://blog.cloudflare.com/private-origins-public-to-private/"
+      "source": "Kubernetes",
+      "text": "Announcing the Workload Conformance Working Group",
+      "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-08-27",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Spend less time on operational busywork and resolve incidents faster with Grafana Workflows",
-      "link": "https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"
+      "source": "Gremlin",
+      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
+      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
+    },
+    {
+      "date": "2026-10-27",
+      "track": "Systems",
+      "source": "Stack Overflow",
+      "text": "Elevators, toasters, and the birth of Java",
+      "link": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"
     },
     {
       "date": "2026-10-30",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "Haas: Postgres 19 is late, and it's AI's fault",
-      "link": "https://lwn.net/Articles/1104210/"
-    },
-    {
-      "date": "2026-10-29",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: AI agent tracking and climate feedback loops",
-      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
+      "source": "Ars Technica",
+      "text": "Flesh-eating screwworms spread to third state and are attacking pets",
+      "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
     }
   ]
 }
