@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-05",
+      "date": "2026-10-30",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"
+      "source": "Hugging Face",
+      "text": "nemotron-halloween",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-10-09",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Announcing the Workload Conformance Working Group",
-      "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"
+      "source": "HashiCorp",
+      "text": "Banking at machine speed: Securing access across cloud, AI, and hybrid environments",
+      "link": "https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"
     },
     {
       "date": "2026-08-27",
@@ -24,18 +24,18 @@
       "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-10-21",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Elevators, toasters, and the birth of Java",
-      "link": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"
+      "source": "Martin Fowler",
+      "text": "Fragments: October 21",
+      "link": "https://martinfowler.com/fragments/2026-10-21.html"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
+      "source": "TechCrunch AI",
+      "text": "Nvidia weighs playing the cosigner for Nscale's AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
     }
   ]
 }
