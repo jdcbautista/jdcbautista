@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-30",
+      "date": "2026-10-29",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "nemotron-halloween",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+      "source": "OpenAI",
+      "text": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-30",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Banking at machine speed: Securing access across cloud, AI, and hybrid environments",
-      "link": "https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"
+      "source": "Cloudflare",
+      "text": "4 real? Tracking exploitation and patching of eMudhra's weak keys",
+      "link": "https://blog.cloudflare.com/emudhra-patching/"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-10-02",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Managing Kubernetes node drains with Pod Disruption Budgets",
-      "link": "https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"
+      "source": "Rootly",
+      "text": "Why our retrospective template doesn't ask for root cause",
+      "link": "https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-29",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "Fragments: October 21",
-      "link": "https://martinfowler.com/fragments/2026-10-21.html"
+      "text": "Why are good developers so wary of agentic development?",
+      "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html"
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-11-02",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Nvidia weighs playing the cosigner for Nscale's AI data center in West Virginia",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+      "source": "Hacker News",
+      "text": "Bones may release proteins that slow aging and extend life span",
+      "link": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span"
     }
   ]
 }
