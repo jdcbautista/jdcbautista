@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-29",
+      "date": "2026-10-31",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+      "source": "Simon Willison",
+      "text": "datasette-llm 0.1a9",
+      "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-27",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "4 real? Tracking exploitation and patching of eMudhra's weak keys",
-      "link": "https://blog.cloudflare.com/emudhra-patching/"
+      "source": "CNCF",
+      "text": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
+      "link": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-11-02",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "Why our retrospective template doesn't ask for root cause",
-      "link": "https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"
+      "source": "Datadog",
+      "text": "Extend RUM to Electron's main process with the Datadog Electron SDK",
+      "link": "https://www.datadoghq.com/blog/datadog-electron-sdk/"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-28",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "Why are good developers so wary of agentic development?",
-      "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html"
+      "text": "Fragments: October 28",
+      "link": "https://martinfowler.com/fragments/2026-10-28.html"
     },
     {
       "date": "2026-11-02",
       "track": "News",
       "source": "Hacker News",
-      "text": "Bones may release proteins that slow aging and extend life span",
-      "link": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span"
+      "text": "Egoless Mathematics in the AI Era",
+      "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
     }
   ]
 }
