@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/how-we-detect-frontier-model-misalignment"><img src="generated/feed-item-0.svg?v=07ffd87c" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/emudhra-patching/"><img src="generated/feed-item-1.svg?v=d4403c9c" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"><img src="generated/feed-item-2.svg?v=107d3eae" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/rachels-ramblings/good-devs-wary.html"><img src="generated/feed-item-3.svg?v=e69ccf16" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span"><img src="generated/feed-item-4.svg?v=de3e8958" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Oct/31/datasette-llm/"><img src="generated/feed-item-0.svg?v=d3c2d62c" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"><img src="generated/feed-item-1.svg?v=4010137e" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/datadog-electron-sdk/"><img src="generated/feed-item-2.svg?v=dfb496d9" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/fragments/2026-10-28.html"><img src="generated/feed-item-3.svg?v=0027270a" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"><img src="generated/feed-item-4.svg?v=f8708d32" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
