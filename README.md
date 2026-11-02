@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6491ad93" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c2b7c4a0" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/nvidia/nemotron-halloween"><img src="generated/feed-item-0.svg?v=0ef2d66e" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/banking-at-machine-speed-securing-access-across-cloud-ai-and-hybrid-environments"><img src="generated/feed-item-1.svg?v=304bb726" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/managing-kubernetes-node-drains-with-pod-disruption-budgets"><img src="generated/feed-item-2.svg?v=0c0791e0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-10-21.html"><img src="generated/feed-item-3.svg?v=cc7587ee" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"><img src="generated/feed-item-4.svg?v=81038fde" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/how-we-detect-frontier-model-misalignment"><img src="generated/feed-item-0.svg?v=07ffd87c" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/emudhra-patching/"><img src="generated/feed-item-1.svg?v=d4403c9c" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/why-our-retrospective-template-doesnt-ask-for-root-cause"><img src="generated/feed-item-2.svg?v=107d3eae" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/rachels-ramblings/good-devs-wary.html"><img src="generated/feed-item-3.svg?v=e69ccf16" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span"><img src="generated/feed-item-4.svg?v=de3e8958" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
