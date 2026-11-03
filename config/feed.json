@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-31",
+      "date": "2026-10-29",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "datasette-llm 0.1a9",
-      "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/"
+      "source": "Hugging Face",
+      "text": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "link": "https://huggingface.co/blog/announcing-project-protostar"
     },
     {
       "date": "2026-10-27",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
-      "link": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"
+      "source": "Kubernetes",
+      "text": "Announcing the Workload Conformance Working Group",
+      "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-10-12",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Extend RUM to Electron's main process with the Datadog Electron SDK",
-      "link": "https://www.datadoghq.com/blog/datadog-electron-sdk/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #538",
+      "link": "https://sreweekly.com/sre-weekly-issue-538/"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "Fragments: October 28",
-      "link": "https://martinfowler.com/fragments/2026-10-28.html"
+      "text": "Why are good developers so wary of agentic development?",
+      "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html"
     },
     {
       "date": "2026-11-02",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Egoless Mathematics in the AI Era",
-      "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"
+      "source": "Ars Technica",
+      "text": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/"
     }
   ]
 }

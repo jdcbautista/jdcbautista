@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c2b7c4a0" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c4d5e1a7" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Oct/31/datasette-llm/"><img src="generated/feed-item-0.svg?v=d3c2d62c" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"><img src="generated/feed-item-1.svg?v=4010137e" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/datadog-electron-sdk/"><img src="generated/feed-item-2.svg?v=dfb496d9" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-10-28.html"><img src="generated/feed-item-3.svg?v=0027270a" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/"><img src="generated/feed-item-4.svg?v=f8708d32" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/announcing-project-protostar"><img src="generated/feed-item-0.svg?v=b013cc84" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"><img src="generated/feed-item-1.svg?v=48787ceb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-538/"><img src="generated/feed-item-2.svg?v=4d6c264a" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/rachels-ramblings/good-devs-wary.html"><img src="generated/feed-item-3.svg?v=e69ccf16" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/"><img src="generated/feed-item-4.svg?v=b2a0970c" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
