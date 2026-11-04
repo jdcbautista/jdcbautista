@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-19",
+      "date": "2026-11-03",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 477: In which I tell the IMF the Singularity has begun",
-      "link": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/"
-    },
-    {
-      "date": "2026-10-30",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
-      "link": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"
+      "source": "OpenAI",
+      "text": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
     },
     {
       "date": "2026-11-02",
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "How we halved DNS build delay and cut memory use by 85%",
+      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/"
+    },
+    {
+      "date": "2026-09-04",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Extend RUM to Electron's main process with the Datadog Electron SDK",
-      "link": "https://www.datadoghq.com/blog/datadog-electron-sdk/"
+      "source": "Gremlin",
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
-      "date": "2026-10-16",
+      "date": "2026-10-28",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-      "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "Delivering controlled and concentrated context",
+      "link": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/"
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-      "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+      "source": "Hacker News",
+      "text": "Jelly Sheet",
+      "link": "https://mrdoob.github.io/codevember-2026/01/"
     }
   ]
 }
