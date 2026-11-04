@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"><img src="generated/feed-item-0.svg?v=01113a09" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/dns-targeted-zone-builds/"><img src="generated/feed-item-1.svg?v=3f1955d5" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/"><img src="generated/feed-item-3.svg?v=2abefed3" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://mrdoob.github.io/codevember-2026/01/"><img src="generated/feed-item-4.svg?v=ac1ecf78" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"><img src="generated/feed-item-0.svg?v=4f9405e8" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/zero-wire/"><img src="generated/feed-item-1.svg?v=f28d9af3" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-539/"><img src="generated/feed-item-2.svg?v=0043d91f" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/11/docker-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=6541fe45" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3"><img src="generated/feed-item-4.svg?v=c11686f4" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

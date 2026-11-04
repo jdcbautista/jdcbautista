@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-03",
+      "date": "2026-10-05",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+      "source": "Import AI",
+      "text": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "track": "Cloud",
       "source": "Cloudflare",
-      "text": "How we halved DNS build delay and cut memory use by 85%",
-      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/"
+      "text": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "link": "https://blog.cloudflare.com/zero-wire/"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-10-19",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "How to verify your Azure Application Gateway is zone-redundant",
-      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #539",
+      "link": "https://sreweekly.com/sre-weekly-issue-539/"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-11-04",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Delivering controlled and concentrated context",
-      "link": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/"
+      "source": "InfoQ",
+      "text": "Docker Urges Isolation and Governance for AI Agent Security",
+      "link": "https://www.infoq.com/news/2026/11/docker-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-11-04",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Jelly Sheet",
-      "link": "https://mrdoob.github.io/codevember-2026/01/"
+      "source": "The Verge",
+      "text": "Apple will check shared iCloud links for 'harmful content'",
+      "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3"
     }
   ]
 }
