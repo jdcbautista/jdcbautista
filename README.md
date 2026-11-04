@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c4d5e1a7" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=a364ddba" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/"><img src="generated/feed-item-0.svg?v=f34516aa" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"><img src="generated/feed-item-1.svg?v=9e375e7d" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/datadog-electron-sdk/"><img src="generated/feed-item-2.svg?v=dfb496d9" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=443ae735" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"><img src="generated/feed-item-4.svg?v=17c6d070" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"><img src="generated/feed-item-0.svg?v=01113a09" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/dns-targeted-zone-builds/"><img src="generated/feed-item-1.svg?v=3f1955d5" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/"><img src="generated/feed-item-3.svg?v=2abefed3" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://mrdoob.github.io/codevember-2026/01/"><img src="generated/feed-item-4.svg?v=ac1ecf78" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
