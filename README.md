@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Nov/4/datasette-llm/"><img src="generated/feed-item-0.svg?v=12433a03" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/"><img src="generated/feed-item-0.svg?v=273ba4f8" alt="AI — Import AI" width="720" align="top" /></a><!--
 --><a href="https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated"><img src="generated/feed-item-1.svg?v=5dadad3f" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-540/"><img src="generated/feed-item-2.svg?v=03e55416" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/fragments/2026-10-21.html"><img src="generated/feed-item-3.svg?v=cc7587ee" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/"><img src="generated/feed-item-4.svg?v=faf37f53" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1105130/"><img src="generated/feed-item-3.svg?v=0c556a69" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/"><img src="generated/feed-item-4.svg?v=4a692132" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

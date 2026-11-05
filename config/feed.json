@@ -3,11 +3,11 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-04",
+      "date": "2026-11-02",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "datasette-llm 0.1a10",
-      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/"
+      "source": "Import AI",
+      "text": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "link": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/"
     },
     {
       "date": "2026-11-03",
@@ -17,25 +17,25 @@
       "link": "https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-09-04",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #540",
-      "link": "https://sreweekly.com/sre-weekly-issue-540/"
-    },
-    {
-      "date": "2026-10-21",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Fragments: October 21",
-      "link": "https://martinfowler.com/fragments/2026-10-21.html"
+      "source": "Gremlin",
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
       "date": "2026-11-04",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "[$] Plasma X11 session removal surprises some Fedora users",
+      "link": "https://lwn.net/Articles/1105130/"
+    },
+    {
+      "date": "2026-11-05",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: blended meat, restored sight, and the agentic web",
-      "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/"
+      "source": "Ars Technica",
+      "text": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+      "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/"
     }
   ]
 }
