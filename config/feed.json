@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-05",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-      "link": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/"
+      "source": "Hugging Face",
+      "text": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-10-19",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Introducing IBM Cloud Secrets Manager Vault Dedicated: HashiCorp Vault Enterprise, managed by IBM",
-      "link": "https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated"
+      "source": "AWS DevOps",
+      "text": "Automate Active Directory joins for Elastic Beanstalk Windows applications",
+      "link": "https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-10-12",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "How to verify your Azure Application Gateway is zone-redundant",
-      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
-    },
-    {
-      "date": "2026-11-04",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "[$] Plasma X11 session removal surprises some Fedora users",
-      "link": "https://lwn.net/Articles/1105130/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #538",
+      "link": "https://sreweekly.com/sre-weekly-issue-538/"
     },
     {
       "date": "2026-11-05",
+      "track": "Systems",
+      "source": "InfoQ",
+      "text": "Leapwork Play Reaches GA with Governance for Playwright Tests",
+      "link": "https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+    },
+    {
+      "date": "2026-11-06",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-      "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/"
+      "source": "Hacker News",
+      "text": "Britain to make salary disclosure in job ads mandatory",
+      "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"
     }
   ]
 }
