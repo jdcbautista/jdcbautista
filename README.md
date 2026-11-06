@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"><img src="generated/feed-item-0.svg?v=7443e8c6" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/"><img src="generated/feed-item-1.svg?v=c4f9ee49" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-538/"><img src="generated/feed-item-2.svg?v=4d6c264a" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=73240cff" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"><img src="generated/feed-item-4.svg?v=b29906ad" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"><img src="generated/feed-item-0.svg?v=c5ec16a9" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"><img src="generated/feed-item-1.svg?v=4bd5224b" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"><img src="generated/feed-item-2.svg?v=01c5fe2a" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"><img src="generated/feed-item-3.svg?v=37cf567b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"><img src="generated/feed-item-4.svg?v=0691f334" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

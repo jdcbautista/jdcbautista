@@ -5,37 +5,37 @@
     {
       "date": "2026-11-05",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+      "source": "Google AI",
+      "text": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-05",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Automate Active Directory joins for Elastic Beanstalk Windows applications",
-      "link": "https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/"
+      "source": "Kubernetes",
+      "text": "Scaling Kubernetes Workloads with Node Swap",
+      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
     },
     {
-      "date": "2026-10-12",
+      "date": "2026-10-30",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #538",
-      "link": "https://sreweekly.com/sre-weekly-issue-538/"
+      "source": "Rootly",
+      "text": "The unofficial SRE track for KubeCon NA '26",
+      "link": "https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Leapwork Play Reaches GA with Governance for Playwright Tests",
-      "link": "https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Stack Overflow",
+      "text": "Welcome to life in the chip age",
+      "link": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"
     },
     {
       "date": "2026-11-06",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Britain to make salary disclosure in job ads mandatory",
-      "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"
+      "source": "Ars Technica",
+      "text": "Wisconsin reports measles death of a baby, first death in over 35 years",
+      "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
     }
   ]
 }
