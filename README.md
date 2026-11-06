@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=2f47b238" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=9fe1b0fe" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/"><img src="generated/feed-item-0.svg?v=273ba4f8" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated"><img src="generated/feed-item-1.svg?v=5dadad3f" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"><img src="generated/feed-item-2.svg?v=fb885b74" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1105130/"><img src="generated/feed-item-3.svg?v=0c556a69" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/"><img src="generated/feed-item-4.svg?v=4a692132" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"><img src="generated/feed-item-0.svg?v=7443e8c6" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/automate-active-directory-joins-for-elastic-beanstalk-windows-applications/"><img src="generated/feed-item-1.svg?v=c4f9ee49" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-538/"><img src="generated/feed-item-2.svg?v=4d6c264a" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=73240cff" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/"><img src="generated/feed-item-4.svg?v=b29906ad" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
