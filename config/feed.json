@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-05",
+      "date": "2026-10-26",
       "track": "AI",
       "source": "Google AI",
-      "text": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+      "text": "Our newest AI Quest: Mapping the human brain",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-11-02",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Scaling Kubernetes Workloads with Node Swap",
-      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
+      "source": "Cloudflare",
+      "text": "How we halved DNS build delay and cut memory use by 85%",
+      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-07",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "The unofficial SRE track for KubeCon NA '26",
-      "link": "https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"
+      "source": "Gremlin",
+      "text": "Why AI development creates a reliability blind spot for humans, and what to do about it",
+      "link": "https://www.gremlin.com/blog/why-ai-development-creates-a-reliability-blind-spot-for-humans-and-what-to-do-about-it"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-10-22",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Welcome to life in the chip age",
-      "link": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"
+      "source": "Netflix Tech",
+      "text": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+      "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-11-06",
       "track": "News",
       "source": "Ars Technica",
-      "text": "Wisconsin reports measles death of a baby, first death in over 35 years",
-      "link": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
+      "text": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
     }
   ]
 }
