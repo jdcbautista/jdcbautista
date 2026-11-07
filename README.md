@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=9fe1b0fe" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"><img src="generated/feed-item-0.svg?v=c5ec16a9" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"><img src="generated/feed-item-1.svg?v=4bd5224b" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"><img src="generated/feed-item-2.svg?v=01c5fe2a" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"><img src="generated/feed-item-3.svg?v=37cf567b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"><img src="generated/feed-item-4.svg?v=0691f334" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"><img src="generated/feed-item-0.svg?v=09b992da" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/dns-targeted-zone-builds/"><img src="generated/feed-item-1.svg?v=3f1955d5" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/why-ai-development-creates-a-reliability-blind-spot-for-humans-and-what-to-do-about-it"><img src="generated/feed-item-2.svg?v=75f5299a" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=3b1d07a7" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"><img src="generated/feed-item-4.svg?v=d4dd09e2" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
