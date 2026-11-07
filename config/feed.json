@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-26",
+      "date": "2026-11-04",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Our newest AI Quest: Mapping the human brain",
-      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+      "source": "Hugging Face",
+      "text": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-06",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "How we halved DNS build delay and cut memory use by 85%",
-      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/"
+      "source": "CNCF",
+      "text": "Faster LLM inference startup: What you need to know",
+      "link": "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/"
     },
     {
-      "date": "2026-10-07",
+      "date": "2026-10-26",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Why AI development creates a reliability blind spot for humans, and what to do about it",
-      "link": "https://www.gremlin.com/blog/why-ai-development-creates-a-reliability-blind-spot-for-humans-and-what-to-do-about-it"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #540",
+      "link": "https://sreweekly.com/sre-weekly-issue-540/"
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-11-06",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-      "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
+      "link": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-11-06",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+      "source": "TechCrunch AI",
+      "text": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
     }
   ]
 }
