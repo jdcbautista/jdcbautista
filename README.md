@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=f839006d" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"><img src="generated/feed-item-0.svg?v=bd96526f" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/"><img src="generated/feed-item-1.svg?v=53b2decb" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-540/"><img src="generated/feed-item-2.svg?v=03e55416" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=79f63f24" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"><img src="generated/feed-item-4.svg?v=a0c996ad" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Nov/6/nilay-patel/"><img src="generated/feed-item-0.svg?v=94586702" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/"><img src="generated/feed-item-1.svg?v=54834a85" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/manage-kubernetes-observability-with-datadoginstrumentation/"><img src="generated/feed-item-2.svg?v=41f142a7" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/"><img src="generated/feed-item-3.svg?v=d5fd7886" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://github.com/crmne/zapfast"><img src="generated/feed-item-4.svg?v=a30a520e" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
