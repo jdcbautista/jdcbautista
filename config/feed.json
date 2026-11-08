@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+      "source": "Simon Willison",
+      "text": "Quoting Nilay Patel",
+      "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "track": "Cloud",
       "source": "CNCF",
-      "text": "Faster LLM inference startup: What you need to know",
-      "link": "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/"
+      "text": "We organized Sustainability Month. Here's what we learned. 🌱",
+      "link": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-11-05",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #540",
-      "link": "https://sreweekly.com/sre-weekly-issue-540/"
+      "source": "Datadog",
+      "text": "Manage Kubernetes observability with DatadogInstrumentation",
+      "link": "https://www.datadoghq.com/blog/manage-kubernetes-observability-with-datadoginstrumentation/"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-04",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
-      "link": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Stack Overflow",
+      "text": "Your .NET parallel loop can become serial in a one-CPU container",
+      "link": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-08",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+      "source": "Hacker News",
+      "text": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "link": "https://github.com/crmne/zapfast"
     }
   ]
 }
