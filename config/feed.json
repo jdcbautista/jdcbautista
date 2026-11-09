@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-05",
-      "track": "AI",
-      "source": "OpenAI",
-      "text": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex"
-    },
-    {
-      "date": "2026-11-03",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-      "link": "https://blog.cloudflare.com/zero-wire/"
-    },
-    {
-      "date": "2026-11-03",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "Trace linkage: connect the dots between your app traces and database queries",
-      "link": "https://grafana.com/blog/trace-linkage-connect-the-dots-between-your-app-traces-and-database-queries/"
-    },
-    {
       "date": "2026-11-06",
-      "track": "Systems",
-      "source": "LWN",
-      "text": "Videos from XDC 2026 are available",
-      "link": "https://lwn.net/Articles/1105913/"
+      "track": "AI",
+      "source": "Hugging Face",
+      "text": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-10-05",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Scaling Kubernetes Workloads with Node Swap",
+      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
+    },
+    {
+      "date": "2026-11-04",
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Compare AI agent changes with Online Experiments in Agent Observability",
+      "link": "https://www.datadoghq.com/blog/online-experiments-agent-observability/"
+    },
+    {
+      "date": "2026-11-03",
+      "track": "Systems",
+      "source": "Stack Overflow",
+      "text": "Oh, your agents need OAuth2, too",
+      "link": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/"
+    },
+    {
+      "date": "2026-11-04",
       "track": "News",
       "source": "MIT Tech Review",
-      "text": "The Download: Texas's fragile AI boom and energy policy shifts",
-      "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+      "text": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
     }
   ]
 }

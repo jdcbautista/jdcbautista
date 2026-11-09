@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=69bd5a61" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6a5d3ea5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/cultfit-builds-with-codex"><img src="generated/feed-item-0.svg?v=302812f4" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/zero-wire/"><img src="generated/feed-item-1.svg?v=f28d9af3" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/trace-linkage-connect-the-dots-between-your-app-traces-and-database-queries/"><img src="generated/feed-item-2.svg?v=08430088" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1105913/"><img src="generated/feed-item-3.svg?v=e8b69245" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"><img src="generated/feed-item-4.svg?v=3997c819" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/open-asr-leaderboard-liva"><img src="generated/feed-item-0.svg?v=d56ecddc" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"><img src="generated/feed-item-1.svg?v=4bd5224b" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/online-experiments-agent-observability/"><img src="generated/feed-item-2.svg?v=3667d5e9" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/"><img src="generated/feed-item-3.svg?v=525b63b8" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"><img src="generated/feed-item-4.svg?v=0c9f3ae3" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
