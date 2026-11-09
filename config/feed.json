@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-06",
+      "date": "2026-10-12",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva"
-    },
-    {
-      "date": "2026-10-05",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Scaling Kubernetes Workloads with Node Swap",
-      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
-    },
-    {
-      "date": "2026-11-04",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "Compare AI agent changes with Online Experiments in Agent Observability",
-      "link": "https://www.datadoghq.com/blog/online-experiments-agent-observability/"
+      "source": "Import AI",
+      "text": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"
     },
     {
       "date": "2026-11-03",
-      "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Oh, your agents need OAuth2, too",
-      "link": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/"
+      "track": "Cloud",
+      "source": "Cloudflare",
+      "text": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "link": "https://blog.cloudflare.com/zero-wire/"
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-02",
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #541",
+      "link": "https://sreweekly.com/sre-weekly-issue-541/"
+    },
+    {
+      "date": "2026-10-26",
+      "track": "Systems",
+      "source": "Netflix Tech",
+      "text": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"
+    },
+    {
+      "date": "2026-11-09",
       "track": "News",
       "source": "MIT Tech Review",
-      "text": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+      "text": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
     }
   ]
 }
