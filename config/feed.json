@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-12",
-      "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/"
-    },
-    {
-      "date": "2026-11-03",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-      "link": "https://blog.cloudflare.com/zero-wire/"
-    },
-    {
       "date": "2026-11-02",
-      "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #541",
-      "link": "https://sreweekly.com/sre-weekly-issue-541/"
+      "track": "AI",
+      "source": "Google AI",
+      "text": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-11-07",
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "We organized Sustainability Month. Here's what we learned. 🌱",
+      "link": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/"
+    },
+    {
+      "date": "2026-10-30",
+      "track": "SRE",
+      "source": "Rootly",
+      "text": "The unofficial SRE track for KubeCon NA '26",
+      "link": "https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"
+    },
+    {
+      "date": "2026-10-23",
       "track": "Systems",
       "source": "Netflix Tech",
-      "text": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
-      "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"
+      "text": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+      "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-11-09",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The backlash about data centers might really just be about electricity",
-      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+      "source": "TechCrunch AI",
+      "text": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
     }
   ]
 }
