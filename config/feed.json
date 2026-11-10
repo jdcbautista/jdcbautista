@@ -10,32 +10,32 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-06",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "We organized Sustainability Month. Here's what we learned. 🌱",
-      "link": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/"
+      "source": "Cloudflare",
+      "text": "The post-quantum future of web privacy",
+      "link": "https://blog.cloudflare.com/vole-mole/"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-12",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "The unofficial SRE track for KubeCon NA '26",
-      "link": "https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"
-    },
-    {
-      "date": "2026-10-23",
-      "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
-      "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #538",
+      "link": "https://sreweekly.com/sre-weekly-issue-538/"
     },
     {
       "date": "2026-11-09",
+      "track": "Systems",
+      "source": "Netflix Tech",
+      "text": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+      "link": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4"
+    },
+    {
+      "date": "2026-11-10",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal",
-      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+      "source": "The Verge",
+      "text": "The PlayStation Plus PC app is shutting down next month",
+      "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"
     }
   ]
 }
