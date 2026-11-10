@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"><img src="generated/feed-item-0.svg?v=e9e23e3b" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/"><img src="generated/feed-item-1.svg?v=54834a85" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"><img src="generated/feed-item-2.svg?v=01c5fe2a" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c91e57ce" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"><img src="generated/feed-item-4.svg?v=72aff21f" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/vole-mole/"><img src="generated/feed-item-1.svg?v=a722acb4" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-538/"><img src="generated/feed-item-2.svg?v=4d6c264a" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=95d7bb02" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"><img src="generated/feed-item-4.svg?v=054578fe" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
