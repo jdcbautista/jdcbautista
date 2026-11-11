@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-10",
       "track": "AI",
       "source": "Google AI",
-      "text": "The latest AI news we announced in October 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+      "text": "We're bringing Adobe's creative and productivity tools closer to your everyday Google apps.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+    },
+    {
+      "date": "2026-10-05",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Scaling Kubernetes Workloads with Node Swap",
+      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
     },
     {
       "date": "2026-11-06",
-      "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "The post-quantum future of web privacy",
-      "link": "https://blog.cloudflare.com/vole-mole/"
-    },
-    {
-      "date": "2026-10-12",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #538",
-      "link": "https://sreweekly.com/sre-weekly-issue-538/"
+      "source": "Gremlin",
+      "text": "Are your Kubernetes CPU limits actually being enforced?",
+      "link": "https://www.gremlin.com/blog/are-your-kubernetes-cpu-limits-actually-being-enforced"
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-06",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
-      "link": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "Welcome to life in the chip age",
+      "link": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"
     },
     {
       "date": "2026-11-10",
       "track": "News",
       "source": "The Verge",
-      "text": "The PlayStation Plus PC app is shutting down next month",
-      "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"
+      "text": "Sony cancels live-service shooter Fairgames",
+      "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"
     }
   ]
 }
