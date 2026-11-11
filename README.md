@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=7050c51f" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=e0fa4229" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"><img src="generated/feed-item-0.svg?v=e9e23e3b" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/vole-mole/"><img src="generated/feed-item-1.svg?v=a722acb4" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-538/"><img src="generated/feed-item-2.svg?v=4d6c264a" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=95d7bb02" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"><img src="generated/feed-item-4.svg?v=054578fe" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"><img src="generated/feed-item-0.svg?v=279aa819" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"><img src="generated/feed-item-1.svg?v=4bd5224b" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/are-your-kubernetes-cpu-limits-actually-being-enforced"><img src="generated/feed-item-2.svg?v=677d2ed0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"><img src="generated/feed-item-3.svg?v=37cf567b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"><img src="generated/feed-item-4.svg?v=1f0d4ffa" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
