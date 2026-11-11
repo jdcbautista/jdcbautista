@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "track": "AI",
-      "source": "Google AI",
-      "text": "We're bringing Adobe's creative and productivity tools closer to your everyday Google apps.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+      "source": "Simon Willison",
+      "text": "llm 0.37.2",
+      "link": "https://simonwillison.net/2026/Nov/11/llm/"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-11-09",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Scaling Kubernetes Workloads with Node Swap",
-      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"
+      "source": "Cloudflare",
+      "text": "Launching the Vite Ecosystem Fund",
+      "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-10-30",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Are your Kubernetes CPU limits actually being enforced?",
-      "link": "https://www.gremlin.com/blog/are-your-kubernetes-cpu-limits-actually-being-enforced"
+      "source": "Rootly",
+      "text": "The unofficial SRE track for KubeCon NA '26",
+      "link": "https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-10-29",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Welcome to life in the chip age",
-      "link": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"
+      "source": "Martin Fowler",
+      "text": "Bliki: LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html"
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "track": "News",
-      "source": "The Verge",
-      "text": "Sony cancels live-service shooter Fairgames",
-      "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"
+      "source": "TechCrunch AI",
+      "text": "Meta is losing its longtime head of infrastructure",
+      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
     }
   ]
 }

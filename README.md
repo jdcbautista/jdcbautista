@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"><img src="generated/feed-item-0.svg?v=279aa819" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/"><img src="generated/feed-item-1.svg?v=4bd5224b" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/are-your-kubernetes-cpu-limits-actually-being-enforced"><img src="generated/feed-item-2.svg?v=677d2ed0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/"><img src="generated/feed-item-3.svg?v=37cf567b" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"><img src="generated/feed-item-4.svg?v=1f0d4ffa" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Nov/11/llm/"><img src="generated/feed-item-0.svg?v=f20279e9" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/launching-vite-ecosystem-fund/"><img src="generated/feed-item-1.svg?v=5e517c8f" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"><img src="generated/feed-item-2.svg?v=01c5fe2a" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/bliki/LLM-Voice.html"><img src="generated/feed-item-3.svg?v=258399d2" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"><img src="generated/feed-item-4.svg?v=d2ce80be" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
