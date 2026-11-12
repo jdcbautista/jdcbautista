@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=e0fa4229" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=99d87fa4" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Nov/11/llm/"><img src="generated/feed-item-0.svg?v=f20279e9" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/launching-vite-ecosystem-fund/"><img src="generated/feed-item-1.svg?v=5e517c8f" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"><img src="generated/feed-item-0.svg?v=9e4285d3" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/trusted-agent-delegation/"><img src="generated/feed-item-1.svg?v=76833cf0" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
 --><a href="https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"><img src="generated/feed-item-2.svg?v=01c5fe2a" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/bliki/LLM-Voice.html"><img src="generated/feed-item-3.svg?v=258399d2" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"><img src="generated/feed-item-4.svg?v=d2ce80be" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=dfafe026" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/"><img src="generated/feed-item-4.svg?v=576c8751" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
