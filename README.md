@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"><img src="generated/feed-item-0.svg?v=9e4285d3" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/trusted-agent-delegation/"><img src="generated/feed-item-1.svg?v=76833cf0" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"><img src="generated/feed-item-2.svg?v=01c5fe2a" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=dfafe026" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/"><img src="generated/feed-item-4.svg?v=576c8751" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"><img src="generated/feed-item-0.svg?v=29e03742" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"><img src="generated/feed-item-1.svg?v=4c53e917" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/an-early-look-at-the-grafana-ui-refresh-building-a-clearer-more-consistent-user-experience/"><img src="generated/feed-item-2.svg?v=b93efda9" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1107152/"><img src="generated/feed-item-3.svg?v=10632f93" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"><img src="generated/feed-item-4.svg?v=aaf8f805" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

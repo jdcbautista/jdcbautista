@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-11",
+      "date": "2026-11-10",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "Anthropic's IPO roadshow video",
-      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
+      "source": "Google AI",
+      "text": "Gemini Intelligence: New features, on more devices",
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-10-14",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Agents aren't humans (but they kinda are)",
-      "link": "https://blog.cloudflare.com/trusted-agent-delegation/"
+      "source": "Kubernetes",
+      "text": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-11-12",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "The unofficial SRE track for KubeCon NA '26",
-      "link": "https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"
+      "source": "Grafana",
+      "text": "An early look at the Grafana UI refresh: Building a clearer, more consistent user experience",
+      "link": "https://grafana.com/blog/an-early-look-at-the-grafana-ui-refresh-building-a-clearer-more-consistent-user-experience/"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-11-12",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
-      "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"
+      "source": "LWN",
+      "text": "Introducing Polo: a Wayland MATE compositor",
+      "link": "https://lwn.net/Articles/1107152/"
     },
     {
       "date": "2026-11-12",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Darling Development Update – Q4 2026",
-      "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/"
+      "source": "TechCrunch AI",
+      "text": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
     }
   ]
 }
