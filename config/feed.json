@@ -6,15 +6,15 @@
       "date": "2026-11-11",
       "track": "AI",
       "source": "Simon Willison",
-      "text": "llm 0.37.2",
-      "link": "https://simonwillison.net/2026/Nov/11/llm/"
+      "text": "Anthropic's IPO roadshow video",
+      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-05",
       "track": "Cloud",
       "source": "Cloudflare",
-      "text": "Launching the Vite Ecosystem Fund",
-      "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/"
+      "text": "Agents aren't humans (but they kinda are)",
+      "link": "https://blog.cloudflare.com/trusted-agent-delegation/"
     },
     {
       "date": "2026-10-30",
@@ -24,18 +24,18 @@
       "link": "https://rootly.com/blog/the-unofficial-sre-track-for-kubecon-na-26"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-26",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Bliki: LLM Voice",
-      "link": "https://martinfowler.com/bliki/LLM-Voice.html"
+      "source": "Netflix Tech",
+      "text": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Meta is losing its longtime head of infrastructure",
-      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+      "source": "Hacker News",
+      "text": "Darling Development Update – Q4 2026",
+      "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/"
     }
   ]
 }
