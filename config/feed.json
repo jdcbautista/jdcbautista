@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "track": "AI",
       "source": "Google AI",
-      "text": "Gemini Intelligence: New features, on more devices",
-      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+      "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-11",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Consul 2.1.0: Advancing secure, resilient connectivity for modern and agentic applications",
-      "link": "https://www.hashicorp.com/blog/consul-210-advancing-secure-resilient-connectivity-for-modern-and-agentic-applica"
+      "source": "CNCF",
+      "text": "Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes",
+      "link": "https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/"
     },
     {
       "date": "2026-11-10",
       "track": "SRE",
       "source": "Datadog",
-      "text": "Monitor OpenAI Codex usage and impact with Datadog",
-      "link": "https://www.datadoghq.com/blog/monitor-openai-codex-with-datadog/"
+      "text": "Monitor OCI workloads in US government clouds with Datadog",
+      "link": "https://www.datadoghq.com/blog/monitor-oci-government-cloud-datadog/"
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-10-26",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Introducing Polo: a Wayland MATE compositor",
-      "link": "https://lwn.net/Articles/1107152/"
+      "source": "Netflix Tech",
+      "text": "Making Failure Diagnosis Reliable with Pensive AI",
+      "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4"
     },
     {
       "date": "2026-11-13",
       "track": "News",
-      "source": "The Verge",
-      "text": "Xbox announces Wolfenstein 3",
-      "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
+      "source": "Hacker News",
+      "text": "Someone's Impersonating This Blog",
+      "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/"
     }
   ]
 }
