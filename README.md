@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"><img src="generated/feed-item-0.svg?v=29e03742" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/consul-210-advancing-secure-resilient-connectivity-for-modern-and-agentic-applica"><img src="generated/feed-item-1.svg?v=99ef4b7c" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/monitor-openai-codex-with-datadog/"><img src="generated/feed-item-2.svg?v=e3003ccf" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1107152/"><img src="generated/feed-item-3.svg?v=10632f93" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"><img src="generated/feed-item-4.svg?v=f5ee9836" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"><img src="generated/feed-item-0.svg?v=f4a38ed1" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/"><img src="generated/feed-item-1.svg?v=a50dd550" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/monitor-oci-government-cloud-datadog/"><img src="generated/feed-item-2.svg?v=90782bb7" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=e8c39671" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/"><img src="generated/feed-item-4.svg?v=f17059a3" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
