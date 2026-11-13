@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=99d87fa4" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"><img src="generated/feed-item-0.svg?v=29e03742" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"><img src="generated/feed-item-1.svg?v=4c53e917" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/an-early-look-at-the-grafana-ui-refresh-building-a-clearer-more-consistent-user-experience/"><img src="generated/feed-item-2.svg?v=b93efda9" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/consul-210-advancing-secure-resilient-connectivity-for-modern-and-agentic-applica"><img src="generated/feed-item-1.svg?v=99ef4b7c" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/monitor-openai-codex-with-datadog/"><img src="generated/feed-item-2.svg?v=e3003ccf" alt="SRE — Datadog" width="720" align="top" /></a><!--
 --><a href="https://lwn.net/Articles/1107152/"><img src="generated/feed-item-3.svg?v=10632f93" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"><img src="generated/feed-item-4.svg?v=aaf8f805" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"><img src="generated/feed-item-4.svg?v=f5ee9836" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

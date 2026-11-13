@@ -10,18 +10,18 @@
       "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-11-06",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
+      "source": "HashiCorp",
+      "text": "Consul 2.1.0: Advancing secure, resilient connectivity for modern and agentic applications",
+      "link": "https://www.hashicorp.com/blog/consul-210-advancing-secure-resilient-connectivity-for-modern-and-agentic-applica"
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-10",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "An early look at the Grafana UI refresh: Building a clearer, more consistent user experience",
-      "link": "https://grafana.com/blog/an-early-look-at-the-grafana-ui-refresh-building-a-clearer-more-consistent-user-experience/"
+      "source": "Datadog",
+      "text": "Monitor OpenAI Codex usage and impact with Datadog",
+      "link": "https://www.datadoghq.com/blog/monitor-openai-codex-with-datadog/"
     },
     {
       "date": "2026-11-12",
@@ -31,11 +31,11 @@
       "link": "https://lwn.net/Articles/1107152/"
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+      "source": "The Verge",
+      "text": "Xbox announces Wolfenstein 3",
+      "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
     }
   ]
 }
