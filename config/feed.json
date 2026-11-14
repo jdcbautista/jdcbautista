@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-09",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
-    },
-    {
-      "date": "2026-11-06",
-      "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Run Maestro tests on real Android devices using AWS Device Farm",
-      "link": "https://aws.amazon.com/blogs/devops/run-maestro-tests-on-real-android-devices-using-aws-device-farm/"
-    },
-    {
-      "date": "2026-11-13",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "What's new in Pyroscope: profile more of your workflows, troubleshoot with AI agents, and more",
-      "link": "https://grafana.com/blog/whats-new-in-pyroscope-profile-more-of-your-workflows-troubleshoot-with-ai-agents-and-more/"
+      "source": "Import AI",
+      "text": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "link": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/"
     },
     {
       "date": "2026-11-12",
+      "track": "Cloud",
+      "source": "CNCF",
+      "text": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/"
+    },
+    {
+      "date": "2026-11-05",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "What's new with Grafana variables: less clutter, easier reuse across dashboards, and more",
+      "link": "https://grafana.com/blog/whats-new-with-grafana-variables-less-clutter-easier-reuse-across-dashboards-and-more/"
+    },
+    {
+      "date": "2026-11-13",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Glasswing overwhelms maintainers with underwhelming findings (VulnCheck)",
-      "link": "https://lwn.net/Articles/1107173/"
+      "source": "Stack Overflow",
+      "text": "Your coding agent shouldn't grade its own homework",
+      "link": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/"
     },
     {
       "date": "2026-11-13",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+      "source": "TechCrunch AI",
+      "text": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
     }
   ]
 }

@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"><img src="generated/feed-item-0.svg?v=66fe2538" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/run-maestro-tests-on-real-android-devices-using-aws-device-farm/"><img src="generated/feed-item-1.svg?v=32498718" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/whats-new-in-pyroscope-profile-more-of-your-workflows-troubleshoot-with-ai-agents-and-more/"><img src="generated/feed-item-2.svg?v=d0535d0d" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1107173/"><img src="generated/feed-item-3.svg?v=e7e485f5" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"><img src="generated/feed-item-4.svg?v=672661ed" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/"><img src="generated/feed-item-0.svg?v=f8fee2be" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/"><img src="generated/feed-item-1.svg?v=b719befb" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/whats-new-with-grafana-variables-less-clutter-easier-reuse-across-dashboards-and-more/"><img src="generated/feed-item-2.svg?v=d1200410" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/"><img src="generated/feed-item-3.svg?v=52a01783" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"><img src="generated/feed-item-4.svg?v=60d3ea0b" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
