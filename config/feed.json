@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+      "source": "Hugging Face",
+      "text": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-06",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes",
-      "link": "https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/"
+      "source": "AWS DevOps",
+      "text": "Run Maestro tests on real Android devices using AWS Device Farm",
+      "link": "https://aws.amazon.com/blogs/devops/run-maestro-tests-on-real-android-devices-using-aws-device-farm/"
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-13",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Monitor OCI workloads in US government clouds with Datadog",
-      "link": "https://www.datadoghq.com/blog/monitor-oci-government-cloud-datadog/"
+      "source": "Grafana",
+      "text": "What's new in Pyroscope: profile more of your workflows, troubleshoot with AI agents, and more",
+      "link": "https://grafana.com/blog/whats-new-in-pyroscope-profile-more-of-your-workflows-troubleshoot-with-ai-agents-and-more/"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-11-12",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Making Failure Diagnosis Reliable with Pensive AI",
-      "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4"
+      "source": "LWN",
+      "text": "Glasswing overwhelms maintainers with underwhelming findings (VulnCheck)",
+      "link": "https://lwn.net/Articles/1107173/"
     },
     {
       "date": "2026-11-13",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Someone's Impersonating This Blog",
-      "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/"
+      "source": "Ars Technica",
+      "text": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
     }
   ]
 }

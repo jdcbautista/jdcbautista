@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=4f909167" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=04fafec5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"><img src="generated/feed-item-0.svg?v=f4a38ed1" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/"><img src="generated/feed-item-1.svg?v=a50dd550" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/monitor-oci-government-cloud-datadog/"><img src="generated/feed-item-2.svg?v=90782bb7" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=e8c39671" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/"><img src="generated/feed-item-4.svg?v=f17059a3" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"><img src="generated/feed-item-0.svg?v=66fe2538" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/run-maestro-tests-on-real-android-devices-using-aws-device-farm/"><img src="generated/feed-item-1.svg?v=32498718" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/whats-new-in-pyroscope-profile-more-of-your-workflows-troubleshoot-with-ai-agents-and-more/"><img src="generated/feed-item-2.svg?v=d0535d0d" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1107173/"><img src="generated/feed-item-3.svg?v=e7e485f5" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"><img src="generated/feed-item-4.svg?v=672661ed" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
