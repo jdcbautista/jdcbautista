@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"><img src="generated/feed-item-0.svg?v=66fe2538" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"><img src="generated/feed-item-1.svg?v=d89a3645" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/aws-account-management/"><img src="generated/feed-item-2.svg?v=e8df8dc4" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=e8c39671" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://netbsd.org/~nia/disk-encrypt/"><img src="generated/feed-item-4.svg?v=bfcca8f1" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/"><img src="generated/feed-item-0.svg?v=f8fee2be" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/choosing-quepaxa/"><img src="generated/feed-item-1.svg?v=f5197c8e" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/monitor-oci-government-cloud-datadog/"><img src="generated/feed-item-2.svg?v=90782bb7" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1107187/"><img src="generated/feed-item-3.svg?v=de7983ee" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"><img src="generated/feed-item-4.svg?v=daab9a25" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
