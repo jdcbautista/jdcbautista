@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-15",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "link": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/"
+      "source": "Simon Willison",
+      "text": "datasette 0.65.6",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/"
     },
     {
       "date": "2026-11-11",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "Choosing QuePaxa, an unusual consensus algorithm",
-      "link": "https://blog.cloudflare.com/choosing-quepaxa/"
+      "source": "CNCF",
+      "text": "Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes",
+      "link": "https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/"
     },
     {
       "date": "2026-11-10",
       "track": "SRE",
       "source": "Datadog",
-      "text": "Monitor OCI workloads in US government clouds with Datadog",
-      "link": "https://www.datadoghq.com/blog/monitor-oci-government-cloud-datadog/"
+      "text": "Troubleshoot Kubernetes inference workloads with Datadog",
+      "link": "https://www.datadoghq.com/blog/kubernetes-inference-workload-monitoring/"
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-10",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Rust 1.100.0 released",
-      "link": "https://lwn.net/Articles/1107187/"
+      "source": "Stack Overflow",
+      "text": "Customer support is the gnarliest AI problem",
+      "link": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/"
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "track": "News",
       "source": "TechCrunch AI",
-      "text": "The AI graveyard: a running list of projects and startups that didn't make it",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      "text": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
     }
   ]
 }
