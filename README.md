@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=c6205161" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=35bf3be0" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/"><img src="generated/feed-item-0.svg?v=f8fee2be" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/choosing-quepaxa/"><img src="generated/feed-item-1.svg?v=f5197c8e" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/monitor-oci-government-cloud-datadog/"><img src="generated/feed-item-2.svg?v=90782bb7" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1107187/"><img src="generated/feed-item-3.svg?v=de7983ee" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"><img src="generated/feed-item-4.svg?v=daab9a25" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Nov/15/datasette-2/"><img src="generated/feed-item-0.svg?v=9443239c" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/"><img src="generated/feed-item-1.svg?v=a50dd550" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/kubernetes-inference-workload-monitoring/"><img src="generated/feed-item-2.svg?v=e677a40c" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/"><img src="generated/feed-item-3.svg?v=a77c1899" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"><img src="generated/feed-item-4.svg?v=07679412" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
