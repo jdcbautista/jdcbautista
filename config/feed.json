@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-15",
+      "date": "2026-11-11",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "datasette 0.65.6",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/"
+      "source": "Google AI",
+      "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+    },
+    {
+      "date": "2026-10-29",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
+    },
+    {
+      "date": "2026-10-07",
+      "track": "SRE",
+      "source": "Gremlin",
+      "text": "Why AI development creates a reliability blind spot for humans, and what to do about it",
+      "link": "https://www.gremlin.com/blog/why-ai-development-creates-a-reliability-blind-spot-for-humans-and-what-to-do-about-it"
     },
     {
       "date": "2026-11-11",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes",
-      "link": "https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/"
-    },
-    {
-      "date": "2026-11-10",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "Troubleshoot Kubernetes inference workloads with Datadog",
-      "link": "https://www.datadoghq.com/blog/kubernetes-inference-workload-monitoring/"
-    },
-    {
-      "date": "2026-11-10",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Customer support is the gnarliest AI problem",
-      "link": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/"
+      "source": "Martin Fowler",
+      "text": "Tests as data: ensuring AI-generated code does what we want",
+      "link": "https://martinfowler.com/articles/tests-as-data.html"
     },
     {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
+      "source": "Hacker News",
+      "text": "Spamhaus new email sender requirements in November",
+      "link": "https://www.spamhaus.org/sender-guidelines/"
     }
   ]
 }
