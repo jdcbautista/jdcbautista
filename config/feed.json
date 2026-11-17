@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-11",
+      "date": "2026-11-16",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+      "source": "Simon Willison",
+      "text": "llm 0.37.3",
+      "link": "https://simonwillison.net/2026/Nov/16/llm/"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-11-11",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
-      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
+      "source": "CNCF",
+      "text": "Introducing CNCF User Groups: Long-lived homes for End User collaboration",
+      "link": "https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration/"
     },
     {
-      "date": "2026-10-07",
+      "date": "2026-09-04",
       "track": "SRE",
       "source": "Gremlin",
-      "text": "Why AI development creates a reliability blind spot for humans, and what to do about it",
-      "link": "https://www.gremlin.com/blog/why-ai-development-creates-a-reliability-blind-spot-for-humans-and-what-to-do-about-it"
+      "text": "How to verify your Azure Application Gateway is zone-redundant",
+      "link": "https://www.gremlin.com/blog/how-to-verify-your-azure-application-gateway-is-zone-redundant"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-10",
       "track": "Systems",
       "source": "Martin Fowler",
-      "text": "Tests as data: ensuring AI-generated code does what we want",
-      "link": "https://martinfowler.com/articles/tests-as-data.html"
+      "text": "Fragments: November 10",
+      "link": "https://martinfowler.com/fragments/2026-11-10.html"
     },
     {
       "date": "2026-11-16",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Spamhaus new email sender requirements in November",
-      "link": "https://www.spamhaus.org/sender-guidelines/"
+      "source": "The Verge",
+      "text": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death"
     }
   ]
 }
