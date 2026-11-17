@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-11",
+      "date": "2026-11-17",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
-    },
-    {
-      "date": "2026-10-29",
-      "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
-      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
-    },
-    {
-      "date": "2026-10-07",
-      "track": "SRE",
-      "source": "Gremlin",
-      "text": "Why AI development creates a reliability blind spot for humans, and what to do about it",
-      "link": "https://www.gremlin.com/blog/why-ai-development-creates-a-reliability-blind-spot-for-humans-and-what-to-do-about-it"
-    },
-    {
-      "date": "2026-11-11",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Tests as data: ensuring AI-generated code does what we want",
-      "link": "https://martinfowler.com/articles/tests-as-data.html"
+      "source": "OpenAI",
+      "text": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2"
     },
     {
       "date": "2026-11-16",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "Scheduling the removal of the kube-proxy IPVS backend",
+      "link": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/"
+    },
+    {
+      "date": "2026-11-09",
+      "track": "SRE",
+      "source": "Grafana",
+      "text": "Run cost-effective, always-on agents to monitor your environment: the engineering behind Watchers",
+      "link": "https://grafana.com/blog/run-cost-effective-always-on-agents-to-monitor-your-environment-the-engineering-behind-watchers/"
+    },
+    {
+      "date": "2026-11-17",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "Three stable kernels for Tuesday",
+      "link": "https://lwn.net/Articles/1108142/"
+    },
+    {
+      "date": "2026-11-17",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Spamhaus new email sender requirements in November",
-      "link": "https://www.spamhaus.org/sender-guidelines/"
+      "source": "MIT Tech Review",
+      "text": "Hydropower hit record lows in the US Southwest this summer",
+      "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
     }
   ]
 }
