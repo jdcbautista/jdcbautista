@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=967da203" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=3da3caed" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/astra-law-6-2"><img src="generated/feed-item-0.svg?v=fe873dfe" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/11/16/ipvs-removal/"><img src="generated/feed-item-1.svg?v=b1a68e5d" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/run-cost-effective-always-on-agents-to-monitor-your-environment-the-engineering-behind-watchers/"><img src="generated/feed-item-2.svg?v=d03392a6" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1108142/"><img src="generated/feed-item-3.svg?v=cdcd573b" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"><img src="generated/feed-item-4.svg?v=14c11de6" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/ggml-org/llama-cpp-v1"><img src="generated/feed-item-0.svg?v=6feffd54" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/secure-mcp-integrations-for-aws-devops-agent-with-amazon-bedrock-agentcore/"><img src="generated/feed-item-1.svg?v=54a872cc" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-540/"><img src="generated/feed-item-2.svg?v=03e55416" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1108140/"><img src="generated/feed-item-3.svg?v=0907540d" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"><img src="generated/feed-item-4.svg?v=600a2d46" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>

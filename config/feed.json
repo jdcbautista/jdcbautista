@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-17",
+      "date": "2026-11-13",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "Astra for Law leads in legal intelligence",
-      "link": "https://openai.com/index/astra-law-6-2"
+      "source": "Hugging Face",
+      "text": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Scheduling the removal of the kube-proxy IPVS backend",
-      "link": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/"
+      "source": "AWS DevOps",
+      "text": "Secure MCP integrations for AWS DevOps Agent with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/devops/secure-mcp-integrations-for-aws-devops-agent-with-amazon-bedrock-agentcore/"
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-10-26",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Run cost-effective, always-on agents to monitor your environment: the engineering behind Watchers",
-      "link": "https://grafana.com/blog/run-cost-effective-always-on-agents-to-monitor-your-environment-the-engineering-behind-watchers/"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #540",
+      "link": "https://sreweekly.com/sre-weekly-issue-540/"
     },
     {
       "date": "2026-11-17",
       "track": "Systems",
       "source": "LWN",
-      "text": "Three stable kernels for Tuesday",
-      "link": "https://lwn.net/Articles/1108142/"
+      "text": "Security updates for Tuesday",
+      "link": "https://lwn.net/Articles/1108140/"
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Hydropower hit record lows in the US Southwest this summer",
-      "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
+      "source": "Hacker News",
+      "text": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "link": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"
     }
   ]
 }
