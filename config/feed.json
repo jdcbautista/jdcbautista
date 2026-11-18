@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-18",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+      "source": "OpenAI",
+      "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     },
     {
       "date": "2026-11-17",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Secure MCP integrations for AWS DevOps Agent with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/devops/secure-mcp-integrations-for-aws-devops-agent-with-amazon-bedrock-agentcore/"
+      "source": "HashiCorp",
+      "text": "From exposed secrets to managed credentials: Reducing credential risk across the application lifecycle",
+      "link": "https://www.hashicorp.com/blog/from-exposed-secrets-to-managed-credentials"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-11-17",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #540",
-      "link": "https://sreweekly.com/sre-weekly-issue-540/"
+      "source": "Rootly",
+      "text": "When should AI be allowed to approve a pull request?",
+      "link": "https://rootly.com/blog/when-should-ai-be-allowed-to-approve-a-pull-request"
     },
     {
       "date": "2026-11-17",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Tuesday",
-      "link": "https://lwn.net/Articles/1108140/"
+      "source": "Martin Fowler",
+      "text": "Deterministic Simulation Testing",
+      "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html"
     },
     {
       "date": "2026-11-18",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-      "link": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"
+      "source": "The Verge",
+      "text": "Trump's latest land grab is an AI hub in the Philippines",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
     }
   ]
 }

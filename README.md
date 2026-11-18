@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/ggml-org/llama-cpp-v1"><img src="generated/feed-item-0.svg?v=6feffd54" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/secure-mcp-integrations-for-aws-devops-agent-with-amazon-bedrock-agentcore/"><img src="generated/feed-item-1.svg?v=54a872cc" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-540/"><img src="generated/feed-item-2.svg?v=03e55416" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1108140/"><img src="generated/feed-item-3.svg?v=0907540d" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"><img src="generated/feed-item-4.svg?v=600a2d46" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"><img src="generated/feed-item-0.svg?v=784bf040" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/from-exposed-secrets-to-managed-credentials"><img src="generated/feed-item-1.svg?v=2de206f6" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/when-should-ai-be-allowed-to-approve-a-pull-request"><img src="generated/feed-item-2.svg?v=90a58903" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/deterministic-simulation-testing.html"><img src="generated/feed-item-3.svg?v=35bce8da" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"><img src="generated/feed-item-4.svg?v=c7e249f2" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
