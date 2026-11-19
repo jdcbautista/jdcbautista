@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=3da3caed" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=bbf7b5c5" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,10 +38,10 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"><img src="generated/feed-item-0.svg?v=784bf040" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/from-exposed-secrets-to-managed-credentials"><img src="generated/feed-item-1.svg?v=2de206f6" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/when-should-ai-be-allowed-to-approve-a-pull-request"><img src="generated/feed-item-2.svg?v=90a58903" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/deterministic-simulation-testing.html"><img src="generated/feed-item-3.svg?v=35bce8da" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"><img src="generated/feed-item-0.svg?v=4b6ba942" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/enforcing-zero-trust-dependency-policies-in-aws-codebuild-with-jfrog-curation/"><img src="generated/feed-item-1.svg?v=24724934" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/human-in-the-loop-is-the-new-pay-attention"><img src="generated/feed-item-2.svg?v=3650c222" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c91e57ce" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
 --><a href="https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"><img src="generated/feed-item-4.svg?v=c7e249f2" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
