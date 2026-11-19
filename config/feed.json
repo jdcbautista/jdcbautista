@@ -5,37 +5,37 @@
     {
       "date": "2026-11-18",
       "track": "AI",
-      "source": "Google AI",
-      "text": "The Gemini app is now available on lower-memory Android devices.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+      "source": "Hugging Face",
+      "text": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "link": "https://huggingface.co/blog/rumble-2-flash"
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-10-06",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Enforcing zero-trust dependency policies in AWS CodeBuild with JFrog Curation",
-      "link": "https://aws.amazon.com/blogs/devops/enforcing-zero-trust-dependency-policies-in-aws-codebuild-with-jfrog-curation/"
+      "source": "Kubernetes",
+      "text": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-19",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "\"Human in the Loop\" is the new \"Pay Attention\" for AI Ops",
-      "link": "https://rootly.com/blog/human-in-the-loop-is-the-new-pay-attention"
+      "source": "Datadog",
+      "text": "How Datadog resolves evolving OpenTelemetry semantics at query time",
+      "link": "https://www.datadoghq.com/blog/engineering/semantic-translation-otel/"
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-11-19",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
-      "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"
+      "source": "InfoQ",
+      "text": "Presentation: AI-Assisted Software Delivery: From Code to Production",
+      "link": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "track": "News",
-      "source": "The Verge",
-      "text": "Trump's latest land grab is an AI hub in the Philippines",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+      "source": "Ars Technica",
+      "text": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
     }
   ]
 }

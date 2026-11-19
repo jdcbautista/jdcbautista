@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"><img src="generated/feed-item-0.svg?v=4b6ba942" alt="AI — Google AI" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/enforcing-zero-trust-dependency-policies-in-aws-codebuild-with-jfrog-curation/"><img src="generated/feed-item-1.svg?v=24724934" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/human-in-the-loop-is-the-new-pay-attention"><img src="generated/feed-item-2.svg?v=3650c222" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c91e57ce" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"><img src="generated/feed-item-4.svg?v=c7e249f2" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/rumble-2-flash"><img src="generated/feed-item-0.svg?v=985951d7" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"><img src="generated/feed-item-1.svg?v=d89a3645" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/engineering/semantic-translation-otel/"><img src="generated/feed-item-2.svg?v=6796d86b" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=c5c3801f" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"><img src="generated/feed-item-4.svg?v=60db0054" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
