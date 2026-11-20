@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-18",
+      "date": "2026-10-19",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "link": "https://huggingface.co/blog/rumble-2-flash"
+      "source": "Import AI",
+      "text": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "link": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-11-12",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
+      "source": "CNCF",
+      "text": "CNCF Recognizes Cloud Native Champions in 2026 Community Awards",
+      "link": "https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/"
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-17",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "How Datadog resolves evolving OpenTelemetry semantics at query time",
-      "link": "https://www.datadoghq.com/blog/engineering/semantic-translation-otel/"
+      "source": "Rootly",
+      "text": "If you don't tell your outage story, someone else will",
+      "link": "https://rootly.com/blog/if-you-dont-tell-your-outage-story-someone-else-will"
     },
     {
       "date": "2026-11-19",
       "track": "Systems",
       "source": "InfoQ",
-      "text": "Presentation: AI-Assisted Software Delivery: From Code to Production",
-      "link": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "text": "Producing Healthy Code with Artificial Intelligence Costs Fewer Tokens",
+      "link": "https://www.infoq.com/news/2026/11/healthy-code-AI-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-11-19",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
+      "source": "TechCrunch AI",
+      "text": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
     }
   ]
 }
