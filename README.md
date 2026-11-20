@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/"><img src="generated/feed-item-0.svg?v=f34516aa" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/"><img src="generated/feed-item-1.svg?v=417d6394" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/if-you-dont-tell-your-outage-story-someone-else-will"><img src="generated/feed-item-2.svg?v=b0d4bd94" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/11/healthy-code-AI-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=1fcf5d64" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"><img src="generated/feed-item-4.svg?v=eabcb6be" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Nov/18/llm-gemini/"><img src="generated/feed-item-0.svg?v=6575d555" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/reducing-database-incident-mttr-by-73-with-a-custom-aws-devops-agent-skill/"><img src="generated/feed-item-1.svg?v=eb5b495d" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
+--><a href="https://grafana.com/blog/bring-charts-queries-and-context-into-one-shareable-document-introducing-grafana-notebooks/"><img src="generated/feed-item-2.svg?v=35ba7c33" alt="SRE — Grafana" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/data-contracts.html"><img src="generated/feed-item-3.svg?v=6283189e" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"><img src="generated/feed-item-4.svg?v=4cdb5fa3" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
