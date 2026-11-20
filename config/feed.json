@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-19",
+      "date": "2026-11-18",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 477: In which I tell the IMF the Singularity has begun",
-      "link": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/"
-    },
-    {
-      "date": "2026-11-12",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "CNCF Recognizes Cloud Native Champions in 2026 Community Awards",
-      "link": "https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/"
+      "source": "Simon Willison",
+      "text": "llm-gemini 0.38",
+      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
     },
     {
       "date": "2026-11-17",
+      "track": "Cloud",
+      "source": "AWS DevOps",
+      "text": "Reducing database incident MTTR by 73% with a custom AWS DevOps Agent Skill",
+      "link": "https://aws.amazon.com/blogs/devops/reducing-database-incident-mttr-by-73-with-a-custom-aws-devops-agent-skill/"
+    },
+    {
+      "date": "2026-11-19",
       "track": "SRE",
-      "source": "Rootly",
-      "text": "If you don't tell your outage story, someone else will",
-      "link": "https://rootly.com/blog/if-you-dont-tell-your-outage-story-someone-else-will"
+      "source": "Grafana",
+      "text": "Bring charts, queries, and context into one shareable document: Introducing Grafana Notebooks",
+      "link": "https://grafana.com/blog/bring-charts-queries-and-context-into-one-shareable-document-introducing-grafana-notebooks/"
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-18",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "Producing Healthy Code with Artificial Intelligence Costs Fewer Tokens",
-      "link": "https://www.infoq.com/news/2026/11/healthy-code-AI-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Martin Fowler",
+      "text": "Data Contracts",
+      "link": "https://martinfowler.com/articles/data-contracts.html"
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "These tech outages are giving Y2K, AI agent style",
-      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+      "source": "Ars Technica",
+      "text": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
     }
   ]
 }
