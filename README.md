@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/harness-adapters-at-scale"><img src="generated/feed-item-0.svg?v=c5934d0c" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"><img src="generated/feed-item-1.svg?v=d89a3645" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"><img src="generated/feed-item-2.svg?v=0d3306a6" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=8bfe318c" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/games/1036279/gta-vi-sales"><img src="generated/feed-item-4.svg?v=3fe0cf24" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/"><img src="generated/feed-item-0.svg?v=32d53f2d" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://blog.cloudflare.com/phpaftershell-waf-protection/"><img src="generated/feed-item-1.svg?v=ec36bb63" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-543/"><img src="generated/feed-item-2.svg?v=c4aac0f5" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c91e57ce" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://github.com/ShinMegamiBoson/lookatmyquant"><img src="generated/feed-item-4.svg?v=c10109de" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
