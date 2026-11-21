@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-20",
+      "date": "2026-10-26",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "link": "https://huggingface.co/blog/harness-adapters-at-scale"
+      "source": "Import AI",
+      "text": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "link": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-11-20",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
+      "source": "Cloudflare",
+      "text": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-16",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Scaling Azure Application Gateway for traffic spikes",
-      "link": "https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #543",
+      "link": "https://sreweekly.com/sre-weekly-issue-543/"
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-10-23",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "QCon San Francisco 2026: The Future of Apache Iceberg",
-      "link": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "Netflix Tech",
+      "text": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+      "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "track": "News",
-      "source": "The Verge",
-      "text": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "link": "https://www.theverge.com/games/1036279/gta-vi-sales"
+      "source": "Hacker News",
+      "text": "Inkling-2-Mini in 5.4 GB Memory",
+      "link": "https://github.com/ShinMegamiBoson/lookatmyquant"
     }
   ]
 }
