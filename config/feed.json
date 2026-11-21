@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "llm-gemini 0.38",
-      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/"
+      "source": "Hugging Face",
+      "text": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale"
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-10-06",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Reducing database incident MTTR by 73% with a custom AWS DevOps Agent Skill",
-      "link": "https://aws.amazon.com/blogs/devops/reducing-database-incident-mttr-by-73-with-a-custom-aws-devops-agent-skill/"
-    },
-    {
-      "date": "2026-11-19",
-      "track": "SRE",
-      "source": "Grafana",
-      "text": "Bring charts, queries, and context into one shareable document: Introducing Grafana Notebooks",
-      "link": "https://grafana.com/blog/bring-charts-queries-and-context-into-one-shareable-document-introducing-grafana-notebooks/"
+      "source": "Kubernetes",
+      "text": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
     },
     {
       "date": "2026-11-18",
+      "track": "SRE",
+      "source": "Gremlin",
+      "text": "Scaling Azure Application Gateway for traffic spikes",
+      "link": "https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"
+    },
+    {
+      "date": "2026-11-20",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Data Contracts",
-      "link": "https://martinfowler.com/articles/data-contracts.html"
+      "source": "InfoQ",
+      "text": "QCon San Francisco 2026: The Future of Apache Iceberg",
+      "link": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-11-20",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
+      "source": "The Verge",
+      "text": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "link": "https://www.theverge.com/games/1036279/gta-vi-sales"
     }
   ]
 }
