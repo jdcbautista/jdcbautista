@@ -10,32 +10,32 @@
       "link": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/"
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-17",
       "track": "Cloud",
-      "source": "Cloudflare",
-      "text": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
-      "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/"
+      "source": "CNCF",
+      "text": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
+      "link": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-20",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #543",
-      "link": "https://sreweekly.com/sre-weekly-issue-543/"
+      "source": "Datadog",
+      "text": "Map sensitive data with Datadog Data Security Posture Management",
+      "link": "https://www.datadoghq.com/blog/data-security-posture-management/"
     },
     {
-      "date": "2026-10-23",
+      "date": "2026-11-20",
       "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
-      "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"
+      "source": "Stack Overflow",
+      "text": "Dispatches from O'Reilly: Inside a software factory",
+      "link": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-20",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Inkling-2-Mini in 5.4 GB Memory",
-      "link": "https://github.com/ShinMegamiBoson/lookatmyquant"
+      "source": "MIT Tech Review",
+      "text": "The Download: inside the quest to make our minds immortal",
+      "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
     }
   ]
 }
