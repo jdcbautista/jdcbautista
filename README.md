@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=e83379fc" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=83b24237" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -39,10 +39,10 @@
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
 --><a href="https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/"><img src="generated/feed-item-0.svg?v=32d53f2d" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://blog.cloudflare.com/phpaftershell-waf-protection/"><img src="generated/feed-item-1.svg?v=ec36bb63" alt="Cloud — Cloudflare" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-543/"><img src="generated/feed-item-2.svg?v=c4aac0f5" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=c91e57ce" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
---><a href="https://github.com/ShinMegamiBoson/lookatmyquant"><img src="generated/feed-item-4.svg?v=c10109de" alt="News — Hacker News" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"><img src="generated/feed-item-1.svg?v=6ebebbda" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/data-security-posture-management/"><img src="generated/feed-item-2.svg?v=2b90815f" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"><img src="generated/feed-item-3.svg?v=c1835a93" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"><img src="generated/feed-item-4.svg?v=14741cda" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
