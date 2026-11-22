@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-10-26",
-      "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
-      "link": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/"
-    },
-    {
       "date": "2026-11-17",
+      "track": "AI",
+      "source": "Google AI",
+      "text": "Put Gemini to work for you",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    },
+    {
+      "date": "2026-11-16",
       "track": "Cloud",
-      "source": "CNCF",
-      "text": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
-      "link": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"
+      "source": "HashiCorp",
+      "text": "HCP introduces IBMid support and new enterprise governance capabilities",
+      "link": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-18",
       "track": "SRE",
-      "source": "Datadog",
-      "text": "Map sensitive data with Datadog Data Security Posture Management",
-      "link": "https://www.datadoghq.com/blog/data-security-posture-management/"
+      "source": "Gremlin",
+      "text": "Scaling Azure Application Gateway for traffic spikes",
+      "link": "https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-12",
       "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Dispatches from O'Reilly: Inside a software factory",
-      "link": "https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"
+      "source": "Martin Fowler",
+      "text": "Bliki: Generated Glossary",
+      "link": "https://martinfowler.com/bliki/GeneratedGlossary.html"
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-22",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "The Download: inside the quest to make our minds immortal",
-      "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+      "source": "Hacker News",
+      "text": "Canada recommits to federal funding for news",
+      "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/"
     }
   ]
 }

@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/"><img src="generated/feed-item-0.svg?v=32d53f2d" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"><img src="generated/feed-item-1.svg?v=6ebebbda" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.datadoghq.com/blog/data-security-posture-management/"><img src="generated/feed-item-2.svg?v=2b90815f" alt="SRE — Datadog" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"><img src="generated/feed-item-3.svg?v=c1835a93" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"><img src="generated/feed-item-4.svg?v=14741cda" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"><img src="generated/feed-item-0.svg?v=0de62d2a" alt="AI — Google AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"><img src="generated/feed-item-1.svg?v=b7073596" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"><img src="generated/feed-item-2.svg?v=0d3306a6" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/bliki/GeneratedGlossary.html"><img src="generated/feed-item-3.svg?v=bc3988a3" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/"><img src="generated/feed-item-4.svg?v=1b76a7ac" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
