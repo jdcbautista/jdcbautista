@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-17",
+      "date": "2026-11-20",
       "track": "AI",
-      "source": "Google AI",
-      "text": "Put Gemini to work for you",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+      "source": "Hugging Face",
+      "text": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "link": "https://huggingface.co/blog/inkling2mini"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-10-29",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "HCP introduces IBMid support and new enterprise governance capabilities",
-      "link": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"
+      "source": "Kubernetes",
+      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
     },
     {
       "date": "2026-11-18",
@@ -24,18 +24,18 @@
       "link": "https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-22",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Bliki: Generated Glossary",
-      "link": "https://martinfowler.com/bliki/GeneratedGlossary.html"
+      "source": "InfoQ",
+      "text": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
+      "link": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
-      "date": "2026-11-22",
+      "date": "2026-11-21",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Canada recommits to federal funding for news",
-      "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/"
+      "source": "TechCrunch AI",
+      "text": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
     }
   ]
 }
