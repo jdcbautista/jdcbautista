@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/introducing-shirudo"><img src="generated/feed-item-0.svg?v=64a46867" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"><img src="generated/feed-item-1.svg?v=48787ceb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/"><img src="generated/feed-item-0.svg?v=a117e5ac" alt="AI — Import AI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"><img src="generated/feed-item-1.svg?v=b7073596" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
 --><a href="https://sreweekly.com/sre-weekly-issue-543/"><img src="generated/feed-item-2.svg?v=c4aac0f5" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1108900/"><img src="generated/feed-item-3.svg?v=f663b1cc" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"><img src="generated/feed-item-4.svg?v=52834b42" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1109268/"><img src="generated/feed-item-3.svg?v=c1ad428f" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"><img src="generated/feed-item-4.svg?v=f6146fde" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
