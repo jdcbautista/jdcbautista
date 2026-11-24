@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-18",
+      "date": "2026-11-23",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+      "source": "OpenAI",
+      "text": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-10-27",
       "track": "Cloud",
-      "source": "AWS DevOps",
-      "text": "Get more from your Kiro investment with credit pooling: A guide for admins",
-      "link": "https://aws.amazon.com/blogs/devops/get-more-from-your-kiro-investment-with-credit-pooling-a-guide-for-admins/"
+      "source": "Kubernetes",
+      "text": "Announcing the Workload Conformance Working Group",
+      "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-16",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Scaling Azure Application Gateway for traffic spikes",
-      "link": "https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #543",
+      "link": "https://sreweekly.com/sre-weekly-issue-543/"
     },
     {
       "date": "2026-11-23",
       "track": "Systems",
       "source": "LWN",
-      "text": "Security updates for Monday",
-      "link": "https://lwn.net/Articles/1109268/"
+      "text": "Kernel prepatch 7.4-rc4",
+      "link": "https://lwn.net/Articles/1108900/"
     },
     {
       "date": "2026-11-23",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
+      "source": "MIT Tech Review",
+      "text": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
     }
   ]
 }

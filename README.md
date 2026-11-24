@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"><img src="generated/feed-item-0.svg?v=53265e68" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://aws.amazon.com/blogs/devops/get-more-from-your-kiro-investment-with-credit-pooling-a-guide-for-admins/"><img src="generated/feed-item-1.svg?v=51373b34" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"><img src="generated/feed-item-2.svg?v=0d3306a6" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1109268/"><img src="generated/feed-item-3.svg?v=c1ad428f" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"><img src="generated/feed-item-4.svg?v=04a6c8d0" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/introducing-shirudo"><img src="generated/feed-item-0.svg?v=64a46867" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"><img src="generated/feed-item-1.svg?v=48787ceb" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://sreweekly.com/sre-weekly-issue-543/"><img src="generated/feed-item-2.svg?v=c4aac0f5" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1108900/"><img src="generated/feed-item-3.svg?v=f663b1cc" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"><img src="generated/feed-item-4.svg?v=52834b42" alt="News — MIT Tech Review" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
