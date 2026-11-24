@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-23",
+      "date": "2026-11-16",
       "track": "AI",
-      "source": "OpenAI",
-      "text": "OpenAI and Cisco introduce Shirudo",
-      "link": "https://openai.com/index/introducing-shirudo"
+      "source": "Import AI",
+      "text": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "link": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-11-16",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Announcing the Workload Conformance Working Group",
-      "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"
+      "source": "HashiCorp",
+      "text": "HCP introduces IBMid support and new enterprise governance capabilities",
+      "link": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"
     },
     {
       "date": "2026-11-16",
@@ -27,15 +27,15 @@
       "date": "2026-11-23",
       "track": "Systems",
       "source": "LWN",
-      "text": "Kernel prepatch 7.4-rc4",
-      "link": "https://lwn.net/Articles/1108900/"
+      "text": "Security updates for Monday",
+      "link": "https://lwn.net/Articles/1109268/"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "track": "News",
-      "source": "MIT Tech Review",
-      "text": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+      "source": "Ars Technica",
+      "text": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
     }
   ]
 }
