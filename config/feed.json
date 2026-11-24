@@ -3,18 +3,18 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-20",
+      "date": "2026-11-18",
       "track": "AI",
       "source": "Hugging Face",
-      "text": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "link": "https://huggingface.co/blog/inkling2mini"
+      "text": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-11-18",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
-      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
+      "source": "AWS DevOps",
+      "text": "Get more from your Kiro investment with credit pooling: A guide for admins",
+      "link": "https://aws.amazon.com/blogs/devops/get-more-from-your-kiro-investment-with-credit-pooling-a-guide-for-admins/"
     },
     {
       "date": "2026-11-18",
@@ -24,18 +24,18 @@
       "link": "https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"
     },
     {
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "track": "Systems",
-      "source": "InfoQ",
-      "text": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
-      "link": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+      "source": "LWN",
+      "text": "Security updates for Monday",
+      "link": "https://lwn.net/Articles/1109268/"
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-23",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "A tale of two Nvidias",
-      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+      "source": "Ars Technica",
+      "text": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
     }
   ]
 }

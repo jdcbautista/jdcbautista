@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=26b71864" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=6e306e49" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/inkling2mini"><img src="generated/feed-item-0.svg?v=42dca67b" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"><img src="generated/feed-item-1.svg?v=0a7f85da" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"><img src="generated/feed-item-0.svg?v=53265e68" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://aws.amazon.com/blogs/devops/get-more-from-your-kiro-investment-with-credit-pooling-a-guide-for-admins/"><img src="generated/feed-item-1.svg?v=51373b34" alt="Cloud — AWS DevOps" width="720" align="top" /></a><!--
 --><a href="https://www.gremlin.com/blog/scaling-azure-application-gateway-for-traffic-spikes"><img src="generated/feed-item-2.svg?v=0d3306a6" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=e8e6f40d" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"><img src="generated/feed-item-4.svg?v=93cbe734" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1109268/"><img src="generated/feed-item-3.svg?v=c1ad428f" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"><img src="generated/feed-item-4.svg?v=04a6c8d0" alt="News — Ars Technica" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
