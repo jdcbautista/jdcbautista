@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://huggingface.co/blog/inkling2mini"><img src="generated/feed-item-0.svg?v=42dca67b" alt="AI — Hugging Face" width="720" align="top" /></a><!--
---><a href="https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"><img src="generated/feed-item-1.svg?v=6ebebbda" alt="Cloud — CNCF" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/announcing-gremlin-foresight-ai"><img src="generated/feed-item-2.svg?v=13397721" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=ebc60e36" alt="Systems — InfoQ" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"><img src="generated/feed-item-4.svg?v=2b46f58f" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"><img src="generated/feed-item-0.svg?v=db622c66" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"><img src="generated/feed-item-1.svg?v=0a7f85da" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/are-your-kubernetes-cpu-limits-actually-being-enforced"><img src="generated/feed-item-2.svg?v=677d2ed0" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/deterministic-simulation-testing.html"><img src="generated/feed-item-3.svg?v=35bce8da" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://defang.io/blog/post/security-incident-november-2026/"><img src="generated/feed-item-4.svg?v=f74ff331" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
