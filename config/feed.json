@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-20",
+      "date": "2026-11-24",
       "track": "AI",
-      "source": "Hugging Face",
-      "text": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "link": "https://huggingface.co/blog/inkling2mini"
+      "source": "Simon Willison",
+      "text": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
+    },
+    {
+      "date": "2026-10-29",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
+    },
+    {
+      "date": "2026-11-06",
+      "track": "SRE",
+      "source": "Gremlin",
+      "text": "Are your Kubernetes CPU limits actually being enforced?",
+      "link": "https://www.gremlin.com/blog/are-your-kubernetes-cpu-limits-actually-being-enforced"
     },
     {
       "date": "2026-11-17",
-      "track": "Cloud",
-      "source": "CNCF",
-      "text": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
-      "link": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"
-    },
-    {
-      "date": "2026-10-07",
-      "track": "SRE",
-      "source": "Gremlin",
-      "text": "Announcing Gremlin Foresight AI",
-      "link": "https://www.gremlin.com/blog/announcing-gremlin-foresight-ai"
+      "track": "Systems",
+      "source": "Martin Fowler",
+      "text": "Deterministic Simulation Testing",
+      "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html"
     },
     {
       "date": "2026-11-25",
-      "track": "Systems",
-      "source": "InfoQ",
-      "text": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI",
-      "link": "https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
-    },
-    {
-      "date": "2026-11-24",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+      "source": "Hacker News",
+      "text": "Defang Security Incident",
+      "link": "https://defang.io/blog/post/security-incident-november-2026/"
     }
   ]
 }
