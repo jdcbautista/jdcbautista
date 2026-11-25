@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-16",
+      "date": "2026-11-20",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "link": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/"
+      "source": "Hugging Face",
+      "text": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "link": "https://huggingface.co/blog/inkling2mini"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "HCP introduces IBMid support and new enterprise governance capabilities",
-      "link": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"
+      "source": "CNCF",
+      "text": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
+      "link": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-10-07",
       "track": "SRE",
-      "source": "SRE Weekly",
-      "text": "SRE Weekly Issue #543",
-      "link": "https://sreweekly.com/sre-weekly-issue-543/"
+      "source": "Gremlin",
+      "text": "Announcing Gremlin Foresight AI",
+      "link": "https://www.gremlin.com/blog/announcing-gremlin-foresight-ai"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-25",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Monday",
-      "link": "https://lwn.net/Articles/1109268/"
+      "source": "InfoQ",
+      "text": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI",
+      "link": "https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
     },
     {
       "date": "2026-11-24",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-      "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+      "source": "TechCrunch AI",
+      "text": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
     }
   ]
 }
