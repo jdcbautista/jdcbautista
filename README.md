@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6e306e49" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=2e95ed7c" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/"><img src="generated/feed-item-0.svg?v=a117e5ac" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"><img src="generated/feed-item-1.svg?v=b7073596" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://sreweekly.com/sre-weekly-issue-543/"><img src="generated/feed-item-2.svg?v=c4aac0f5" alt="SRE — SRE Weekly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1109268/"><img src="generated/feed-item-3.svg?v=c1ad428f" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"><img src="generated/feed-item-4.svg?v=f6146fde" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://huggingface.co/blog/inkling2mini"><img src="generated/feed-item-0.svg?v=42dca67b" alt="AI — Hugging Face" width="720" align="top" /></a><!--
+--><a href="https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"><img src="generated/feed-item-1.svg?v=6ebebbda" alt="Cloud — CNCF" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/announcing-gremlin-foresight-ai"><img src="generated/feed-item-2.svg?v=13397721" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"><img src="generated/feed-item-3.svg?v=ebc60e36" alt="Systems — InfoQ" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"><img src="generated/feed-item-4.svg?v=2b46f58f" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
