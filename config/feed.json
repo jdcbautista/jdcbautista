@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-24",
+      "date": "2026-11-23",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "GPT 6.2 Astra Solves a Historical Mystery",
-      "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
+      "source": "Import AI",
+      "text": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "link": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-11-16",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
-      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
+      "source": "HashiCorp",
+      "text": "HCP introduces IBMid support and new enterprise governance capabilities",
+      "link": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-19",
       "track": "SRE",
-      "source": "Gremlin",
-      "text": "Are your Kubernetes CPU limits actually being enforced?",
-      "link": "https://www.gremlin.com/blog/are-your-kubernetes-cpu-limits-actually-being-enforced"
+      "source": "Grafana",
+      "text": "Bring charts, queries, and context into one shareable document: Introducing Grafana Notebooks",
+      "link": "https://grafana.com/blog/bring-charts-queries-and-context-into-one-shareable-document-introducing-grafana-notebooks/"
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-24",
       "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Deterministic Simulation Testing",
-      "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html"
+      "source": "Stack Overflow",
+      "text": "Agent swarms need more than a message board",
+      "link": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/"
     },
     {
       "date": "2026-11-25",
       "track": "News",
-      "source": "Hacker News",
-      "text": "Defang Security Incident",
-      "link": "https://defang.io/blog/post/security-incident-november-2026/"
+      "source": "Ars Technica",
+      "text": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
     }
   ]
 }
