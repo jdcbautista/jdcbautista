@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-23",
+      "date": "2026-11-25",
       "track": "AI",
-      "source": "Import AI",
-      "text": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-      "link": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/"
+      "source": "Simon Willison",
+      "text": "datasette-charts 0.3a0",
+      "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/"
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-10-14",
       "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "HCP introduces IBMid support and new enterprise governance capabilities",
-      "link": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"
+      "source": "Kubernetes",
+      "text": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-10",
       "track": "SRE",
-      "source": "Grafana",
-      "text": "Bring charts, queries, and context into one shareable document: Introducing Grafana Notebooks",
-      "link": "https://grafana.com/blog/bring-charts-queries-and-context-into-one-shareable-document-introducing-grafana-notebooks/"
-    },
-    {
-      "date": "2026-11-24",
-      "track": "Systems",
-      "source": "Stack Overflow",
-      "text": "Agent swarms need more than a message board",
-      "link": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/"
+      "source": "Rootly",
+      "text": "How to build on-call rotations that don't burn people out",
+      "link": "https://rootly.com/blog/how-to-build-on-call-rotations-that-dont-burn-people-out"
     },
     {
       "date": "2026-11-25",
+      "track": "Systems",
+      "source": "LWN",
+      "text": "Security updates for Wednesday",
+      "link": "https://lwn.net/Articles/1109650/"
+    },
+    {
+      "date": "2026-11-26",
       "track": "News",
-      "source": "Ars Technica",
-      "text": "European spacecraft finds chaotic scene after asteroid deflection experiment",
-      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+      "source": "TechCrunch AI",
+      "text": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
     }
   ]
 }
