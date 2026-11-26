@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/"><img src="generated/feed-item-0.svg?v=df19784b" alt="AI — Import AI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities"><img src="generated/feed-item-1.svg?v=b7073596" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://grafana.com/blog/bring-charts-queries-and-context-into-one-shareable-document-introducing-grafana-notebooks/"><img src="generated/feed-item-2.svg?v=35ba7c33" alt="SRE — Grafana" width="720" align="top" /></a><!--
---><a href="https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/"><img src="generated/feed-item-3.svg?v=076131e8" alt="Systems — Stack Overflow" width="720" align="top" /></a><!--
---><a href="https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"><img src="generated/feed-item-4.svg?v=be0b8e85" alt="News — Ars Technica" width="720" align="top" /></a><!--
+--><a href="https://simonwillison.net/2026/Nov/25/datasette-charts/"><img src="generated/feed-item-0.svg?v=e5557e19" alt="AI — Simon Willison" width="720" align="top" /></a><!--
+--><a href="https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"><img src="generated/feed-item-1.svg?v=4c53e917" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
+--><a href="https://rootly.com/blog/how-to-build-on-call-rotations-that-dont-burn-people-out"><img src="generated/feed-item-2.svg?v=591d2eb2" alt="SRE — Rootly" width="720" align="top" /></a><!--
+--><a href="https://lwn.net/Articles/1109650/"><img src="generated/feed-item-3.svg?v=a777f54e" alt="Systems — LWN" width="720" align="top" /></a><!--
+--><a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"><img src="generated/feed-item-4.svg?v=5721aa41" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
