@@ -6,36 +6,36 @@
       "date": "2026-11-24",
       "track": "AI",
       "source": "OpenAI",
-      "text": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
-    },
-    {
-      "date": "2026-11-23",
-      "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Terraform introduces tfpolicy support for Stacks, SCIM support, and more",
-      "link": "https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more"
-    },
-    {
-      "date": "2026-11-25",
-      "track": "SRE",
-      "source": "Gremlin",
-      "text": "How to catch expiring TLS certificates on Azure Application Gateway",
-      "link": "https://www.gremlin.com/blog/how-to-catch-expiring-tls-certificates-on-azure-application-gateway"
+      "text": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai"
     },
     {
       "date": "2026-11-18",
-      "track": "Systems",
-      "source": "Martin Fowler",
-      "text": "Data Contracts",
-      "link": "https://martinfowler.com/articles/data-contracts.html"
+      "track": "Cloud",
+      "source": "HashiCorp",
+      "text": "Building a secure foundation for AI on Kubernetes with HashiCorp Vault",
+      "link": "https://www.hashicorp.com/blog/building-a-secure-foundation-for-ai-on-kubernetes-with-hashicorp-vault"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
+      "track": "SRE",
+      "source": "Datadog",
+      "text": "Prioritize security findings with Datadog Crown Jewels",
+      "link": "https://www.datadoghq.com/blog/prioritize-security-findings-crown-jewels/"
+    },
+    {
+      "date": "2026-10-26",
+      "track": "Systems",
+      "source": "Netflix Tech",
+      "text": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+      "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"
+    },
+    {
+      "date": "2026-11-27",
       "track": "News",
-      "source": "The Verge",
-      "text": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-      "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday"
+      "source": "Hacker News",
+      "text": "The AT&T Unix PC (3B1) VM",
+      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"
     }
   ]
 }
