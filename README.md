@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"><img src="generated/feed-item-0.svg?v=4eec922d" alt="AI — OpenAI" width="720" align="top" /></a><!--
---><a href="https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more"><img src="generated/feed-item-1.svg?v=2dcf3f70" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
---><a href="https://www.gremlin.com/blog/how-to-catch-expiring-tls-certificates-on-azure-application-gateway"><img src="generated/feed-item-2.svg?v=d422c9b3" alt="SRE — Gremlin" width="720" align="top" /></a><!--
---><a href="https://martinfowler.com/articles/data-contracts.html"><img src="generated/feed-item-3.svg?v=6283189e" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
---><a href="https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday"><img src="generated/feed-item-4.svg?v=69fcf905" alt="News — The Verge" width="720" align="top" /></a><!--
+--><a href="https://openai.com/business/customer-stories/clay-plugins-openai"><img src="generated/feed-item-0.svg?v=e4b86a59" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/building-a-secure-foundation-for-ai-on-kubernetes-with-hashicorp-vault"><img src="generated/feed-item-1.svg?v=885a8d08" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.datadoghq.com/blog/prioritize-security-findings-crown-jewels/"><img src="generated/feed-item-2.svg?v=4420f796" alt="SRE — Datadog" width="720" align="top" /></a><!--
+--><a href="https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"><img src="generated/feed-item-3.svg?v=dfafe026" alt="Systems — Netflix Tech" width="720" align="top" /></a><!--
+--><a href="https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"><img src="generated/feed-item-4.svg?v=c37990bc" alt="News — Hacker News" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
