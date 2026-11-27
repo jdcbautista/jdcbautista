@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-25",
+      "date": "2026-11-24",
       "track": "AI",
-      "source": "Simon Willison",
-      "text": "datasette-charts 0.3a0",
-      "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/"
+      "source": "OpenAI",
+      "text": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-11-23",
       "track": "Cloud",
-      "source": "Kubernetes",
-      "text": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
-      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"
-    },
-    {
-      "date": "2026-11-10",
-      "track": "SRE",
-      "source": "Rootly",
-      "text": "How to build on-call rotations that don't burn people out",
-      "link": "https://rootly.com/blog/how-to-build-on-call-rotations-that-dont-burn-people-out"
+      "source": "HashiCorp",
+      "text": "Terraform introduces tfpolicy support for Stacks, SCIM support, and more",
+      "link": "https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more"
     },
     {
       "date": "2026-11-25",
+      "track": "SRE",
+      "source": "Gremlin",
+      "text": "How to catch expiring TLS certificates on Azure Application Gateway",
+      "link": "https://www.gremlin.com/blog/how-to-catch-expiring-tls-certificates-on-azure-application-gateway"
+    },
+    {
+      "date": "2026-11-18",
       "track": "Systems",
-      "source": "LWN",
-      "text": "Security updates for Wednesday",
-      "link": "https://lwn.net/Articles/1109650/"
+      "source": "Martin Fowler",
+      "text": "Data Contracts",
+      "link": "https://martinfowler.com/articles/data-contracts.html"
     },
     {
       "date": "2026-11-26",
       "track": "News",
-      "source": "TechCrunch AI",
-      "text": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      "source": "The Verge",
+      "text": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday"
     }
   ]
 }

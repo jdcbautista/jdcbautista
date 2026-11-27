@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="generated/quote.svg?v=6491ad93" alt="Quote of the day" width="82%" />
+  <img src="generated/quote.svg?v=c2b7c4a0" alt="Quote of the day" width="82%" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@
 <br>
 
 <div align="center"><img src="generated/feed-header.svg?v=74197df9" alt="Feed" width="720" align="top" /><!--
---><a href="https://simonwillison.net/2026/Nov/25/datasette-charts/"><img src="generated/feed-item-0.svg?v=e5557e19" alt="AI — Simon Willison" width="720" align="top" /></a><!--
---><a href="https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"><img src="generated/feed-item-1.svg?v=4c53e917" alt="Cloud — Kubernetes" width="720" align="top" /></a><!--
---><a href="https://rootly.com/blog/how-to-build-on-call-rotations-that-dont-burn-people-out"><img src="generated/feed-item-2.svg?v=591d2eb2" alt="SRE — Rootly" width="720" align="top" /></a><!--
---><a href="https://lwn.net/Articles/1109650/"><img src="generated/feed-item-3.svg?v=a777f54e" alt="Systems — LWN" width="720" align="top" /></a><!--
---><a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"><img src="generated/feed-item-4.svg?v=5721aa41" alt="News — TechCrunch AI" width="720" align="top" /></a><!--
+--><a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"><img src="generated/feed-item-0.svg?v=4eec922d" alt="AI — OpenAI" width="720" align="top" /></a><!--
+--><a href="https://www.hashicorp.com/blog/terraform-introduces-tfpolicy-support-for-stacks-scim-support-and-more"><img src="generated/feed-item-1.svg?v=2dcf3f70" alt="Cloud — HashiCorp" width="720" align="top" /></a><!--
+--><a href="https://www.gremlin.com/blog/how-to-catch-expiring-tls-certificates-on-azure-application-gateway"><img src="generated/feed-item-2.svg?v=d422c9b3" alt="SRE — Gremlin" width="720" align="top" /></a><!--
+--><a href="https://martinfowler.com/articles/data-contracts.html"><img src="generated/feed-item-3.svg?v=6283189e" alt="Systems — Martin Fowler" width="720" align="top" /></a><!--
+--><a href="https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday"><img src="generated/feed-item-4.svg?v=69fcf905" alt="News — The Verge" width="720" align="top" /></a><!--
 --><img src="generated/feed-footer.svg?v=4aa5f6f2" alt="Feed" width="720" align="top" /></div>
 
 <p align="center"><sub>◷ Quote rotates daily · feed refreshes twice daily · auto-updated by GitHub Actions</sub></p>
