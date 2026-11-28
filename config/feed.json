@@ -3,39 +3,39 @@
   "note": "One random recent article per track, from config/feeds.csv. Regenerated each run.",
   "items": [
     {
-      "date": "2026-11-24",
-      "track": "AI",
-      "source": "OpenAI",
-      "text": "Clay helps sales teams win with Codex and ChatGPT",
-      "link": "https://openai.com/business/customer-stories/clay-plugins-openai"
-    },
-    {
-      "date": "2026-11-18",
-      "track": "Cloud",
-      "source": "HashiCorp",
-      "text": "Building a secure foundation for AI on Kubernetes with HashiCorp Vault",
-      "link": "https://www.hashicorp.com/blog/building-a-secure-foundation-for-ai-on-kubernetes-with-hashicorp-vault"
-    },
-    {
       "date": "2026-11-27",
-      "track": "SRE",
-      "source": "Datadog",
-      "text": "Prioritize security findings with Datadog Crown Jewels",
-      "link": "https://www.datadoghq.com/blog/prioritize-security-findings-crown-jewels/"
+      "track": "AI",
+      "source": "Simon Willison",
+      "text": "datasette-charts 0.4a0",
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/"
+    },
+    {
+      "date": "2026-10-29",
+      "track": "Cloud",
+      "source": "Kubernetes",
+      "text": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
     },
     {
       "date": "2026-10-26",
-      "track": "Systems",
-      "source": "Netflix Tech",
-      "text": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
-      "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4"
+      "track": "SRE",
+      "source": "SRE Weekly",
+      "text": "SRE Weekly Issue #540",
+      "link": "https://sreweekly.com/sre-weekly-issue-540/"
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-18",
+      "track": "Systems",
+      "source": "Martin Fowler",
+      "text": "Data Contracts",
+      "link": "https://martinfowler.com/articles/data-contracts.html"
+    },
+    {
+      "date": "2026-11-26",
       "track": "News",
-      "source": "Hacker News",
-      "text": "The AT&T Unix PC (3B1) VM",
-      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/"
+      "source": "TechCrunch AI",
+      "text": "Grand Theft Auto VI proves why efficiency isn't a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
     }
   ]
 }
